@@ -47,7 +47,8 @@ export class Forms implements IComponent {
             itemTemplate.formSettings.forms.forEach(f => {
                 forms.push({
                     id: f.form,
-                    name: Util.SnakeCase2HumanReadable(f.form)
+                    name: Util.SnakeCase2HumanReadable(f.form),
+                    assetBundleValue: f.assetBundleValue
                 });
             });
         }

@@ -13,5 +13,11 @@ export interface PokemonForm {
    * @example
    * Arceus Water
    */
-  name: string;
+   name: string;
+  /*
+   * Asset bundle identifier
+   * @example
+   * 61
+   */
+   assetBundleValue: int;
 }

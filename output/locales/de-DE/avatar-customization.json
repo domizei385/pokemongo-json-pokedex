@@ -20,7 +20,6 @@
     "f_backpack_frlg_0": {
         "name": "Blattgrüne Tasche"
     },
-    "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "Johto-\\nTasche"
     },
@@ -155,7 +154,6 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
-    "f_hat_drifloon_0": {},
     "f_hat_empty": {
         "name": "Kein Hut"
     },
@@ -169,7 +167,6 @@
     "f_hat_frlg_0": {
         "name": "Blattgrüner Hut"
     },
-    "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "Johto-\\nHut"
     },
@@ -183,7 +180,6 @@
         "name": "Karpador- Mütze"
     },
     "f_hat_mimikyu_0": {},
-    "f_hat_mismagius_0": {},
     "f_hat_pikachufan_0": {
         "name": "Pikachu-Fan-Kopfschmuck"
     },
@@ -354,7 +350,6 @@
     "f_shirt_default_8": {
         "name": "Jäckchen"
     },
-    "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "Blue Surfer-Shirt"
     },
@@ -362,7 +357,6 @@
     "f_shirt_frlg_0": {
         "name": "Blattgrünes Oberteil"
     },
-    "f_shirt_gengar_0": {},
     "f_shirt_gymleader_0": {
         "name": "Arenaleiter-\\nOberteil"
     },
@@ -384,7 +378,6 @@
     "f_shirt_pikachufan_0": {
         "name": "Pikachu-Fan-Shirt"
     },
-    "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "The Thirty"
     },
@@ -567,7 +560,6 @@
     "m_backpack_frlg_0": {
         "name": "Feuerroter Rucksack"
     },
-    "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "Johto-\\nTasche"
     },
@@ -665,7 +657,6 @@
     "m_hat_default_5": {
         "name": "Trainer-Kappe"
     },
-    "m_hat_drifloon_0": {},
     "m_hat_empty": {
         "name": "Kein Hut"
     },
@@ -682,7 +673,6 @@
     "m_hat_frlg_0": {
         "name": "Feuerrote Kappe"
     },
-    "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "Johto-\\nKappe"
     },
@@ -693,7 +683,6 @@
         "name": "Karpador- Mütze"
     },
     "m_hat_mimikyu_0": {},
-    "m_hat_mismagius_0": {},
     "m_hat_pikachufan_0": {
         "name": "Pikachu-Fan-Kopfschmuck"
     },
@@ -798,7 +787,6 @@
     "m_shirt_default_7": {
         "name": "Einfarbiges Hoodie"
     },
-    "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "Blue Surfer-Shirt"
     },
@@ -809,7 +797,6 @@
     "m_shirt_frlg_0": {
         "name": "Feuerrotes Oberteil"
     },
-    "m_shirt_gengar_0": {},
     "m_shirt_gymleader_0": {
         "name": "Arenaleiter-\\nOberteil"
     },
@@ -852,7 +839,6 @@
     "m_shirt_pikachufan_0": {
         "name": "Pikachu-Fan-Shirt"
     },
-    "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Sport-Hoodie"
     },

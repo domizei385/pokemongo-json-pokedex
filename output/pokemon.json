@@ -2074,7 +2074,8 @@
             },
             {
                 "id": "RATTATA_ALOLA",
-                "name": "Rattata Alola"
+                "name": "Rattata Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -2189,7 +2190,8 @@
             },
             {
                 "id": "RATTATA_ALOLA",
-                "name": "Rattata Alola"
+                "name": "Rattata Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -2298,7 +2300,8 @@
             },
             {
                 "id": "RATICATE_ALOLA",
-                "name": "Raticate Alola"
+                "name": "Raticate Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -2411,7 +2414,8 @@
             },
             {
                 "id": "RATICATE_ALOLA",
-                "name": "Raticate Alola"
+                "name": "Raticate Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -3049,7 +3053,8 @@
             },
             {
                 "id": "RAICHU_ALOLA",
-                "name": "Raichu Alola"
+                "name": "Raichu Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -3154,7 +3159,8 @@
             },
             {
                 "id": "RAICHU_ALOLA",
-                "name": "Raichu Alola"
+                "name": "Raichu Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -3265,7 +3271,8 @@
             },
             {
                 "id": "SANDSHREW_ALOLA",
-                "name": "Sandshrew Alola"
+                "name": "Sandshrew Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -3380,7 +3387,8 @@
             },
             {
                 "id": "SANDSHREW_ALOLA",
-                "name": "Sandshrew Alola"
+                "name": "Sandshrew Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -3489,7 +3497,8 @@
             },
             {
                 "id": "SANDSLASH_ALOLA",
-                "name": "Sandslash Alola"
+                "name": "Sandslash Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -3602,7 +3611,8 @@
             },
             {
                 "id": "SANDSLASH_ALOLA",
-                "name": "Sandslash Alola"
+                "name": "Sandslash Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -4591,7 +4601,8 @@
             },
             {
                 "id": "VULPIX_ALOLA",
-                "name": "Vulpix Alola"
+                "name": "Vulpix Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -4702,7 +4713,8 @@
             },
             {
                 "id": "VULPIX_ALOLA",
-                "name": "Vulpix Alola"
+                "name": "Vulpix Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -4811,7 +4823,8 @@
             },
             {
                 "id": "NINETALES_ALOLA",
-                "name": "Ninetales Alola"
+                "name": "Ninetales Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -4924,7 +4937,8 @@
             },
             {
                 "id": "NINETALES_ALOLA",
-                "name": "Ninetales Alola"
+                "name": "Ninetales Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -6266,7 +6280,8 @@
             },
             {
                 "id": "DIGLETT_ALOLA",
-                "name": "Diglett Alola"
+                "name": "Diglett Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -6376,7 +6391,8 @@
             },
             {
                 "id": "DIGLETT_ALOLA",
-                "name": "Diglett Alola"
+                "name": "Diglett Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -6480,7 +6496,8 @@
             },
             {
                 "id": "DUGTRIO_ALOLA",
-                "name": "Dugtrio Alola"
+                "name": "Dugtrio Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -6588,7 +6605,8 @@
             },
             {
                 "id": "DUGTRIO_ALOLA",
-                "name": "Dugtrio Alola"
+                "name": "Dugtrio Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -6699,7 +6717,8 @@
             },
             {
                 "id": "MEOWTH_ALOLA",
-                "name": "Meowth Alola"
+                "name": "Meowth Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -6810,7 +6829,8 @@
             },
             {
                 "id": "MEOWTH_ALOLA",
-                "name": "Meowth Alola"
+                "name": "Meowth Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -6919,7 +6939,8 @@
             },
             {
                 "id": "PERSIAN_ALOLA",
-                "name": "Persian Alola"
+                "name": "Persian Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -7028,7 +7049,8 @@
             },
             {
                 "id": "PERSIAN_ALOLA",
-                "name": "Persian Alola"
+                "name": "Persian Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -9320,7 +9342,8 @@
             },
             {
                 "id": "GEODUDE_ALOLA",
-                "name": "Geodude Alola"
+                "name": "Geodude Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -9445,7 +9468,8 @@
             },
             {
                 "id": "GEODUDE_ALOLA",
-                "name": "Geodude Alola"
+                "name": "Geodude Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -9567,7 +9591,8 @@
             },
             {
                 "id": "GRAVELER_ALOLA",
-                "name": "Graveler Alola"
+                "name": "Graveler Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -9689,7 +9714,8 @@
             },
             {
                 "id": "GRAVELER_ALOLA",
-                "name": "Graveler Alola"
+                "name": "Graveler Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -9809,7 +9835,8 @@
             },
             {
                 "id": "GOLEM_ALOLA",
-                "name": "Golem Alola"
+                "name": "Golem Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -9929,7 +9956,8 @@
             },
             {
                 "id": "GOLEM_ALOLA",
-                "name": "Golem Alola"
+                "name": "Golem Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -11180,7 +11208,8 @@
             },
             {
                 "id": "GRIMER_ALOLA",
-                "name": "Grimer Alola"
+                "name": "Grimer Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -11295,7 +11324,8 @@
             },
             {
                 "id": "GRIMER_ALOLA",
-                "name": "Grimer Alola"
+                "name": "Grimer Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -11404,7 +11434,8 @@
             },
             {
                 "id": "MUK_ALOLA",
-                "name": "Muk Alola"
+                "name": "Muk Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -11517,7 +11548,8 @@
             },
             {
                 "id": "MUK_ALOLA",
-                "name": "Muk Alola"
+                "name": "Muk Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -12988,7 +13020,8 @@
             },
             {
                 "id": "EXEGGUTOR_ALOLA",
-                "name": "Exeggutor Alola"
+                "name": "Exeggutor Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -13093,7 +13126,8 @@
             },
             {
                 "id": "EXEGGUTOR_ALOLA",
-                "name": "Exeggutor Alola"
+                "name": "Exeggutor Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -13304,7 +13338,8 @@
             },
             {
                 "id": "MAROWAK_ALOLA",
-                "name": "Marowak Alola"
+                "name": "Marowak Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -13409,7 +13444,8 @@
             },
             {
                 "id": "MAROWAK_ALOLA",
-                "name": "Marowak Alola"
+                "name": "Marowak Alola",
+                "assetBundleValue": 61
             }
         ]
     },
@@ -23469,115 +23505,143 @@
         "forms": [
             {
                 "id": "UNOWN_F",
-                "name": "Unown F"
+                "name": "Unown F",
+                "assetBundleValue": 16
             },
             {
                 "id": "UNOWN_A",
-                "name": "Unown A"
+                "name": "Unown A",
+                "assetBundleValue": 11
             },
             {
                 "id": "UNOWN_B",
-                "name": "Unown B"
+                "name": "Unown B",
+                "assetBundleValue": 12
             },
             {
                 "id": "UNOWN_C",
-                "name": "Unown C"
+                "name": "Unown C",
+                "assetBundleValue": 13
             },
             {
                 "id": "UNOWN_D",
-                "name": "Unown D"
+                "name": "Unown D",
+                "assetBundleValue": 14
             },
             {
                 "id": "UNOWN_E",
-                "name": "Unown E"
+                "name": "Unown E",
+                "assetBundleValue": 15
             },
             {
                 "id": "UNOWN_G",
-                "name": "Unown G"
+                "name": "Unown G",
+                "assetBundleValue": 17
             },
             {
                 "id": "UNOWN_H",
-                "name": "Unown H"
+                "name": "Unown H",
+                "assetBundleValue": 18
             },
             {
                 "id": "UNOWN_I",
-                "name": "Unown I"
+                "name": "Unown I",
+                "assetBundleValue": 19
             },
             {
                 "id": "UNOWN_J",
-                "name": "Unown J"
+                "name": "Unown J",
+                "assetBundleValue": 20
             },
             {
                 "id": "UNOWN_K",
-                "name": "Unown K"
+                "name": "Unown K",
+                "assetBundleValue": 21
             },
             {
                 "id": "UNOWN_L",
-                "name": "Unown L"
+                "name": "Unown L",
+                "assetBundleValue": 22
             },
             {
                 "id": "UNOWN_M",
-                "name": "Unown M"
+                "name": "Unown M",
+                "assetBundleValue": 23
             },
             {
                 "id": "UNOWN_N",
-                "name": "Unown N"
+                "name": "Unown N",
+                "assetBundleValue": 24
             },
             {
                 "id": "UNOWN_O",
-                "name": "Unown O"
+                "name": "Unown O",
+                "assetBundleValue": 25
             },
             {
                 "id": "UNOWN_P",
-                "name": "Unown P"
+                "name": "Unown P",
+                "assetBundleValue": 26
             },
             {
                 "id": "UNOWN_Q",
-                "name": "Unown Q"
+                "name": "Unown Q",
+                "assetBundleValue": 27
             },
             {
                 "id": "UNOWN_R",
-                "name": "Unown R"
+                "name": "Unown R",
+                "assetBundleValue": 28
             },
             {
                 "id": "UNOWN_S",
-                "name": "Unown S"
+                "name": "Unown S",
+                "assetBundleValue": 29
             },
             {
                 "id": "UNOWN_T",
-                "name": "Unown T"
+                "name": "Unown T",
+                "assetBundleValue": 30
             },
             {
                 "id": "UNOWN_U",
-                "name": "Unown U"
+                "name": "Unown U",
+                "assetBundleValue": 31
             },
             {
                 "id": "UNOWN_V",
-                "name": "Unown V"
+                "name": "Unown V",
+                "assetBundleValue": 32
             },
             {
                 "id": "UNOWN_W",
-                "name": "Unown W"
+                "name": "Unown W",
+                "assetBundleValue": 33
             },
             {
                 "id": "UNOWN_X",
-                "name": "Unown X"
+                "name": "Unown X",
+                "assetBundleValue": 34
             },
             {
                 "id": "UNOWN_Y",
-                "name": "Unown Y"
+                "name": "Unown Y",
+                "assetBundleValue": 35
             },
             {
                 "id": "UNOWN_Z",
-                "name": "Unown Z"
+                "name": "Unown Z",
+                "assetBundleValue": 36
             },
             {
                 "id": "UNOWN_EXCLAMATION_POINT",
-                "name": "Unown Exclamation Point"
+                "name": "Unown Exclamation Point",
+                "assetBundleValue": 37
             },
             {
                 "id": "UNOWN_QUESTION_MARK",
-                "name": "Unown Question Mark"
+                "name": "Unown Question Mark",
+                "assetBundleValue": 38
             }
         ]
     },
@@ -36576,35 +36640,43 @@
         "forms": [
             {
                 "id": "SPINDA_00",
-                "name": "Spinda 00"
+                "name": "Spinda 00",
+                "assetBundleValue": 11
             },
             {
                 "id": "SPINDA_01",
-                "name": "Spinda 01"
+                "name": "Spinda 01",
+                "assetBundleValue": 12
             },
             {
                 "id": "SPINDA_02",
-                "name": "Spinda 02"
+                "name": "Spinda 02",
+                "assetBundleValue": 13
             },
             {
                 "id": "SPINDA_03",
-                "name": "Spinda 03"
+                "name": "Spinda 03",
+                "assetBundleValue": 14
             },
             {
                 "id": "SPINDA_04",
-                "name": "Spinda 04"
+                "name": "Spinda 04",
+                "assetBundleValue": 15
             },
             {
                 "id": "SPINDA_05",
-                "name": "Spinda 05"
+                "name": "Spinda 05",
+                "assetBundleValue": 16
             },
             {
                 "id": "SPINDA_06",
-                "name": "Spinda 06"
+                "name": "Spinda 06",
+                "assetBundleValue": 17
             },
             {
                 "id": "SPINDA_07",
-                "name": "Spinda 07"
+                "name": "Spinda 07",
+                "assetBundleValue": 18
             }
         ]
     },
@@ -39055,19 +39127,23 @@
         "forms": [
             {
                 "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "name": "Castform Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "CASTFORM_SUNNY",
-                "name": "Castform Sunny"
+                "name": "Castform Sunny",
+                "assetBundleValue": 12
             },
             {
                 "id": "CASTFORM_RAINY",
-                "name": "Castform Rainy"
+                "name": "Castform Rainy",
+                "assetBundleValue": 13
             },
             {
                 "id": "CASTFORM_SNOWY",
-                "name": "Castform Snowy"
+                "name": "Castform Snowy",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -39161,19 +39237,23 @@
         "forms": [
             {
                 "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "name": "Castform Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "CASTFORM_SUNNY",
-                "name": "Castform Sunny"
+                "name": "Castform Sunny",
+                "assetBundleValue": 12
             },
             {
                 "id": "CASTFORM_RAINY",
-                "name": "Castform Rainy"
+                "name": "Castform Rainy",
+                "assetBundleValue": 13
             },
             {
                 "id": "CASTFORM_SNOWY",
-                "name": "Castform Snowy"
+                "name": "Castform Snowy",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -39267,19 +39347,23 @@
         "forms": [
             {
                 "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "name": "Castform Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "CASTFORM_SUNNY",
-                "name": "Castform Sunny"
+                "name": "Castform Sunny",
+                "assetBundleValue": 12
             },
             {
                 "id": "CASTFORM_RAINY",
-                "name": "Castform Rainy"
+                "name": "Castform Rainy",
+                "assetBundleValue": 13
             },
             {
                 "id": "CASTFORM_SNOWY",
-                "name": "Castform Snowy"
+                "name": "Castform Snowy",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -39373,19 +39457,23 @@
         "forms": [
             {
                 "id": "CASTFORM_NORMAL",
-                "name": "Castform Normal"
+                "name": "Castform Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "CASTFORM_SUNNY",
-                "name": "Castform Sunny"
+                "name": "Castform Sunny",
+                "assetBundleValue": 12
             },
             {
                 "id": "CASTFORM_RAINY",
-                "name": "Castform Rainy"
+                "name": "Castform Rainy",
+                "assetBundleValue": 13
             },
             {
                 "id": "CASTFORM_SNOWY",
-                "name": "Castform Snowy"
+                "name": "Castform Snowy",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -42907,19 +42995,23 @@
         "forms": [
             {
                 "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "name": "Deoxys Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "DEOXYS_ATTACK",
-                "name": "Deoxys Attack"
+                "name": "Deoxys Attack",
+                "assetBundleValue": 12
             },
             {
                 "id": "DEOXYS_DEFENSE",
-                "name": "Deoxys Defense"
+                "name": "Deoxys Defense",
+                "assetBundleValue": 13
             },
             {
                 "id": "DEOXYS_SPEED",
-                "name": "Deoxys Speed"
+                "name": "Deoxys Speed",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -43016,19 +43108,23 @@
         "forms": [
             {
                 "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "name": "Deoxys Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "DEOXYS_ATTACK",
-                "name": "Deoxys Attack"
+                "name": "Deoxys Attack",
+                "assetBundleValue": 12
             },
             {
                 "id": "DEOXYS_DEFENSE",
-                "name": "Deoxys Defense"
+                "name": "Deoxys Defense",
+                "assetBundleValue": 13
             },
             {
                 "id": "DEOXYS_SPEED",
-                "name": "Deoxys Speed"
+                "name": "Deoxys Speed",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -43125,19 +43221,23 @@
         "forms": [
             {
                 "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "name": "Deoxys Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "DEOXYS_ATTACK",
-                "name": "Deoxys Attack"
+                "name": "Deoxys Attack",
+                "assetBundleValue": 12
             },
             {
                 "id": "DEOXYS_DEFENSE",
-                "name": "Deoxys Defense"
+                "name": "Deoxys Defense",
+                "assetBundleValue": 13
             },
             {
                 "id": "DEOXYS_SPEED",
-                "name": "Deoxys Speed"
+                "name": "Deoxys Speed",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -43234,19 +43334,23 @@
         "forms": [
             {
                 "id": "DEOXYS_NORMAL",
-                "name": "Deoxys Normal"
+                "name": "Deoxys Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "DEOXYS_ATTACK",
-                "name": "Deoxys Attack"
+                "name": "Deoxys Attack",
+                "assetBundleValue": 12
             },
             {
                 "id": "DEOXYS_DEFENSE",
-                "name": "Deoxys Defense"
+                "name": "Deoxys Defense",
+                "assetBundleValue": 13
             },
             {
                 "id": "DEOXYS_SPEED",
-                "name": "Deoxys Speed"
+                "name": "Deoxys Speed",
+                "assetBundleValue": 14
             }
         ]
     },
@@ -46125,15 +46229,18 @@
         "forms": [
             {
                 "id": "WORMADAM_PLANT",
-                "name": "Wormadam Plant"
+                "name": "Wormadam Plant",
+                "assetBundleValue": 11
             },
             {
                 "id": "WORMADAM_SANDY",
-                "name": "Wormadam Sandy"
+                "name": "Wormadam Sandy",
+                "assetBundleValue": 12
             },
             {
                 "id": "WORMADAM_TRASH",
-                "name": "Wormadam Trash"
+                "name": "Wormadam Trash",
+                "assetBundleValue": 13
             }
         ]
     },
@@ -46243,15 +46350,18 @@
         "forms": [
             {
                 "id": "WORMADAM_PLANT",
-                "name": "Wormadam Plant"
+                "name": "Wormadam Plant",
+                "assetBundleValue": 11
             },
             {
                 "id": "WORMADAM_SANDY",
-                "name": "Wormadam Sandy"
+                "name": "Wormadam Sandy",
+                "assetBundleValue": 12
             },
             {
                 "id": "WORMADAM_TRASH",
-                "name": "Wormadam Trash"
+                "name": "Wormadam Trash",
+                "assetBundleValue": 13
             }
         ]
     },
@@ -46273,7 +46383,7 @@
         "kmBuddyDistance": 1,
         "weight": 6.5,
         "modelScale": 1.26,
-        "maxCP": 1773,
+        "maxCP": 1593,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -46307,8 +46417,8 @@
             "name": "Burmy"
         },
         "stats": {
-            "baseAttack": 141,
-            "baseDefense": 180,
+            "baseAttack": 127,
+            "baseDefense": 175,
             "baseStamina": 155
         },
         "types": [
@@ -46360,15 +46470,18 @@
         "forms": [
             {
                 "id": "WORMADAM_PLANT",
-                "name": "Wormadam Plant"
+                "name": "Wormadam Plant",
+                "assetBundleValue": 11
             },
             {
                 "id": "WORMADAM_SANDY",
-                "name": "Wormadam Sandy"
+                "name": "Wormadam Sandy",
+                "assetBundleValue": 12
             },
             {
                 "id": "WORMADAM_TRASH",
-                "name": "Wormadam Trash"
+                "name": "Wormadam Trash",
+                "assetBundleValue": 13
             }
         ]
     },
@@ -46390,7 +46503,7 @@
         "kmBuddyDistance": 1,
         "weight": 6.5,
         "modelScale": 1.26,
-        "maxCP": 1593,
+        "maxCP": 1773,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -46424,8 +46537,8 @@
             "name": "Burmy"
         },
         "stats": {
-            "baseAttack": 127,
-            "baseDefense": 175,
+            "baseAttack": 141,
+            "baseDefense": 180,
             "baseStamina": 155
         },
         "types": [
@@ -46477,15 +46590,18 @@
         "forms": [
             {
                 "id": "WORMADAM_PLANT",
-                "name": "Wormadam Plant"
+                "name": "Wormadam Plant",
+                "assetBundleValue": 11
             },
             {
                 "id": "WORMADAM_SANDY",
-                "name": "Wormadam Sandy"
+                "name": "Wormadam Sandy",
+                "assetBundleValue": 12
             },
             {
                 "id": "WORMADAM_TRASH",
-                "name": "Wormadam Trash"
+                "name": "Wormadam Trash",
+                "assetBundleValue": 13
             }
         ]
     },
@@ -46772,8 +46888,8 @@
                 "id": "MOVEMENT_PSYCHIC"
             },
             "gender": {
-                "malePercent": 0,
-                "femalePercent": 1
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -47290,11 +47406,13 @@
         "forms": [
             {
                 "id": "CHERRIM_OVERCAST",
-                "name": "Cherrim Overcast"
+                "name": "Cherrim Overcast",
+                "assetBundleValue": 11
             },
             {
                 "id": "CHERRIM_SUNNY",
-                "name": "Cherrim Sunny"
+                "name": "Cherrim Sunny",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -47399,11 +47517,13 @@
         "forms": [
             {
                 "id": "CHERRIM_OVERCAST",
-                "name": "Cherrim Overcast"
+                "name": "Cherrim Overcast",
+                "assetBundleValue": 11
             },
             {
                 "id": "CHERRIM_SUNNY",
-                "name": "Cherrim Sunny"
+                "name": "Cherrim Sunny",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -47508,11 +47628,13 @@
         "forms": [
             {
                 "id": "CHERRIM_OVERCAST",
-                "name": "Cherrim Overcast"
+                "name": "Cherrim Overcast",
+                "assetBundleValue": 11
             },
             {
                 "id": "CHERRIM_SUNNY",
-                "name": "Cherrim Sunny"
+                "name": "Cherrim Sunny",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -47619,11 +47741,13 @@
         "forms": [
             {
                 "id": "SHELLOS_WEST_SEA",
-                "name": "Shellos West Sea"
+                "name": "Shellos West Sea",
+                "assetBundleValue": 11
             },
             {
                 "id": "SHELLOS_EAST_SEA",
-                "name": "Shellos East Sea"
+                "name": "Shellos East Sea",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -47730,11 +47854,13 @@
         "forms": [
             {
                 "id": "SHELLOS_WEST_SEA",
-                "name": "Shellos West Sea"
+                "name": "Shellos West Sea",
+                "assetBundleValue": 11
             },
             {
                 "id": "SHELLOS_EAST_SEA",
-                "name": "Shellos East Sea"
+                "name": "Shellos East Sea",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -47841,11 +47967,13 @@
         "forms": [
             {
                 "id": "SHELLOS_WEST_SEA",
-                "name": "Shellos West Sea"
+                "name": "Shellos West Sea",
+                "assetBundleValue": 11
             },
             {
                 "id": "SHELLOS_EAST_SEA",
-                "name": "Shellos East Sea"
+                "name": "Shellos East Sea",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -47954,11 +48082,13 @@
         "forms": [
             {
                 "id": "GASTRODON_WEST_SEA",
-                "name": "Gastrodon West Sea"
+                "name": "Gastrodon West Sea",
+                "assetBundleValue": 11
             },
             {
                 "id": "GASTRODON_EAST_SEA",
-                "name": "Gastrodon East Sea"
+                "name": "Gastrodon East Sea",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -48059,11 +48189,13 @@
         "forms": [
             {
                 "id": "GASTRODON_WEST_SEA",
-                "name": "Gastrodon West Sea"
+                "name": "Gastrodon West Sea",
+                "assetBundleValue": 11
             },
             {
                 "id": "GASTRODON_EAST_SEA",
-                "name": "Gastrodon East Sea"
+                "name": "Gastrodon East Sea",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -48172,11 +48304,13 @@
         "forms": [
             {
                 "id": "GASTRODON_WEST_SEA",
-                "name": "Gastrodon West Sea"
+                "name": "Gastrodon West Sea",
+                "assetBundleValue": 11
             },
             {
                 "id": "GASTRODON_EAST_SEA",
-                "name": "Gastrodon East Sea"
+                "name": "Gastrodon East Sea",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -53671,7 +53805,7 @@
         "kmBuddyDistance": 5,
         "weight": 0.3,
         "modelScale": 1.26,
-        "maxCP": 2031,
+        "maxCP": 2579,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -53705,8 +53839,8 @@
             "name": "Rotom"
         },
         "stats": {
-            "baseAttack": 185,
-            "baseDefense": 159,
+            "baseAttack": 204,
+            "baseDefense": 219,
             "baseStamina": 137
         },
         "types": [
@@ -53746,27 +53880,33 @@
         "forms": [
             {
                 "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "name": "Rotom Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ROTOM_FROST",
-                "name": "Rotom Frost"
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
             },
             {
                 "id": "ROTOM_FAN",
-                "name": "Rotom Fan"
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
             },
             {
                 "id": "ROTOM_MOW",
-                "name": "Rotom Mow"
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
             },
             {
                 "id": "ROTOM_WASH",
-                "name": "Rotom Wash"
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
             },
             {
                 "id": "ROTOM_HEAT",
-                "name": "Rotom Heat"
+                "name": "Rotom Heat",
+                "assetBundleValue": 16
             }
         ]
     },
@@ -53863,27 +54003,33 @@
         "forms": [
             {
                 "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "name": "Rotom Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ROTOM_FROST",
-                "name": "Rotom Frost"
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
             },
             {
                 "id": "ROTOM_FAN",
-                "name": "Rotom Fan"
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
             },
             {
                 "id": "ROTOM_MOW",
-                "name": "Rotom Mow"
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
             },
             {
                 "id": "ROTOM_WASH",
-                "name": "Rotom Wash"
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
             },
             {
                 "id": "ROTOM_HEAT",
-                "name": "Rotom Heat"
+                "name": "Rotom Heat",
+                "assetBundleValue": 16
             }
         ]
     },
@@ -53980,27 +54126,33 @@
         "forms": [
             {
                 "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "name": "Rotom Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ROTOM_FROST",
-                "name": "Rotom Frost"
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
             },
             {
                 "id": "ROTOM_FAN",
-                "name": "Rotom Fan"
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
             },
             {
                 "id": "ROTOM_MOW",
-                "name": "Rotom Mow"
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
             },
             {
                 "id": "ROTOM_WASH",
-                "name": "Rotom Wash"
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
             },
             {
                 "id": "ROTOM_HEAT",
-                "name": "Rotom Heat"
+                "name": "Rotom Heat",
+                "assetBundleValue": 16
             }
         ]
     },
@@ -54097,27 +54249,33 @@
         "forms": [
             {
                 "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "name": "Rotom Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ROTOM_FROST",
-                "name": "Rotom Frost"
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
             },
             {
                 "id": "ROTOM_FAN",
-                "name": "Rotom Fan"
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
             },
             {
                 "id": "ROTOM_MOW",
-                "name": "Rotom Mow"
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
             },
             {
                 "id": "ROTOM_WASH",
-                "name": "Rotom Wash"
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
             },
             {
                 "id": "ROTOM_HEAT",
-                "name": "Rotom Heat"
+                "name": "Rotom Heat",
+                "assetBundleValue": 16
             }
         ]
     },
@@ -54214,27 +54372,33 @@
         "forms": [
             {
                 "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "name": "Rotom Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ROTOM_FROST",
-                "name": "Rotom Frost"
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
             },
             {
                 "id": "ROTOM_FAN",
-                "name": "Rotom Fan"
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
             },
             {
                 "id": "ROTOM_MOW",
-                "name": "Rotom Mow"
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
             },
             {
                 "id": "ROTOM_WASH",
-                "name": "Rotom Wash"
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
             },
             {
                 "id": "ROTOM_HEAT",
-                "name": "Rotom Heat"
+                "name": "Rotom Heat",
+                "assetBundleValue": 16
             }
         ]
     },
@@ -54256,7 +54420,7 @@
         "kmBuddyDistance": 5,
         "weight": 0.3,
         "modelScale": 1.26,
-        "maxCP": 2579,
+        "maxCP": 2031,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -54290,8 +54454,8 @@
             "name": "Rotom"
         },
         "stats": {
-            "baseAttack": 204,
-            "baseDefense": 219,
+            "baseAttack": 185,
+            "baseDefense": 159,
             "baseStamina": 137
         },
         "types": [
@@ -54331,27 +54495,33 @@
         "forms": [
             {
                 "id": "ROTOM_NORMAL",
-                "name": "Rotom Normal"
+                "name": "Rotom Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ROTOM_FROST",
-                "name": "Rotom Frost"
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
             },
             {
                 "id": "ROTOM_FAN",
-                "name": "Rotom Fan"
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
             },
             {
                 "id": "ROTOM_MOW",
-                "name": "Rotom Mow"
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
             },
             {
                 "id": "ROTOM_WASH",
-                "name": "Rotom Wash"
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
             },
             {
                 "id": "ROTOM_HEAT",
-                "name": "Rotom Heat"
+                "name": "Rotom Heat",
+                "assetBundleValue": 16
             }
         ]
     },
@@ -55112,11 +55282,13 @@
         "forms": [
             {
                 "id": "GIRATINA_ALTERED",
-                "name": "Giratina Altered"
+                "name": "Giratina Altered",
+                "assetBundleValue": 11
             },
             {
                 "id": "GIRATINA_ORIGIN",
-                "name": "Giratina Origin"
+                "name": "Giratina Origin",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -55217,11 +55389,13 @@
         "forms": [
             {
                 "id": "GIRATINA_ALTERED",
-                "name": "Giratina Altered"
+                "name": "Giratina Altered",
+                "assetBundleValue": 11
             },
             {
                 "id": "GIRATINA_ORIGIN",
-                "name": "Giratina Origin"
+                "name": "Giratina Origin",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -55322,11 +55496,13 @@
         "forms": [
             {
                 "id": "GIRATINA_ALTERED",
-                "name": "Giratina Altered"
+                "name": "Giratina Altered",
+                "assetBundleValue": 11
             },
             {
                 "id": "GIRATINA_ORIGIN",
-                "name": "Giratina Origin"
+                "name": "Giratina Origin",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -55515,7 +55691,17 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Manaphy",
+                    "id": "MANAPHY",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
         "id": "PHIONE",
         "forms": []
     },
@@ -55606,7 +55792,15 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Phione",
+                "id": "PHIONE"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
         "id": "MANAPHY",
         "forms": []
     },
@@ -55720,7 +55914,7 @@
         "kmBuddyDistance": 20,
         "weight": 2.1,
         "modelScale": 1.26,
-        "maxCP": 3265,
+        "maxCP": 3592,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -55754,8 +55948,8 @@
             "name": "Shaymin"
         },
         "stats": {
-            "baseAttack": 210,
-            "baseDefense": 210,
+            "baseAttack": 261,
+            "baseDefense": 166,
             "baseStamina": 225
         },
         "types": [
@@ -55794,11 +55988,13 @@
         "forms": [
             {
                 "id": "SHAYMIN_LAND",
-                "name": "Shaymin Land"
+                "name": "Shaymin Land",
+                "assetBundleValue": 11
             },
             {
                 "id": "SHAYMIN_SKY",
-                "name": "Shaymin Sky"
+                "name": "Shaymin Sky",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -55817,106 +56013,6 @@
         ],
         "height": 0.2,
         "modelHeight": 0.3,
-        "kmBuddyDistance": 20,
-        "weight": 2.1,
-        "modelScale": 1.26,
-        "maxCP": 3265,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Hidden Power Fast",
-                "id": "HIDDEN_POWER_FAST"
-            },
-            {
-                "name": "Zen Headbutt Fast",
-                "id": "ZEN_HEADBUTT_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_SHAYMIN",
-            "name": "Shaymin"
-        },
-        "stats": {
-            "baseAttack": 210,
-            "baseDefense": 210,
-            "baseStamina": 225
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_GRASS",
-                "name": "Grass"
-            }
-        ],
-        "rarity": {
-            "id": "POKEMON_RARITY_MYTHIC",
-            "name": "Mythic"
-        },
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseCaptureRate": 0.02,
-            "cameraDistance": 2.25,
-            "collisionRadius": 0.189,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.252,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "SHAYMIN_LAND",
-        "forms": [
-            {
-                "id": "SHAYMIN_LAND",
-                "name": "Shaymin Land"
-            },
-            {
-                "id": "SHAYMIN_SKY",
-                "name": "Shaymin Sky"
-            }
-        ]
-    },
-    {
-        "dex": 492,
-        "name": "Shaymin Sky",
-        "animationTime": [
-            1.9,
-            0.6667,
-            1.8,
-            1.7667,
-            0,
-            2.4,
-            0.8667,
-            0
-        ],
-        "height": 0.2,
-        "modelHeight": 0.39,
         "kmBuddyDistance": 20,
         "weight": 2.1,
         "modelScale": 1.26,
@@ -55962,6 +56058,108 @@
             {
                 "id": "POKEMON_TYPE_GRASS",
                 "name": "Grass"
+            }
+        ],
+        "rarity": {
+            "id": "POKEMON_RARITY_MYTHIC",
+            "name": "Mythic"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.189,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.252,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "SHAYMIN_LAND",
+        "forms": [
+            {
+                "id": "SHAYMIN_LAND",
+                "name": "Shaymin Land",
+                "assetBundleValue": 11
+            },
+            {
+                "id": "SHAYMIN_SKY",
+                "name": "Shaymin Sky",
+                "assetBundleValue": 12
+            }
+        ]
+    },
+    {
+        "dex": 492,
+        "name": "Shaymin Sky",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.39,
+        "kmBuddyDistance": 20,
+        "weight": 2.1,
+        "modelScale": 1.26,
+        "maxCP": 3265,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Hidden Power Fast",
+                "id": "HIDDEN_POWER_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_SHAYMIN",
+            "name": "Shaymin"
+        },
+        "stats": {
+            "baseAttack": 210,
+            "baseDefense": 210,
+            "baseStamina": 225
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GRASS",
+                "name": "Grass"
             },
             {
                 "id": "POKEMON_TYPE_FLYING",
@@ -55998,11 +56196,13 @@
         "forms": [
             {
                 "id": "SHAYMIN_LAND",
-                "name": "Shaymin Land"
+                "name": "Shaymin Land",
+                "assetBundleValue": 11
             },
             {
                 "id": "SHAYMIN_SKY",
-                "name": "Shaymin Sky"
+                "name": "Shaymin Sky",
+                "assetBundleValue": 12
             }
         ]
     },
@@ -56098,75 +56298,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -56262,75 +56480,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -56426,75 +56662,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -56590,75 +56844,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -56754,75 +57026,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -56918,75 +57208,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -57082,75 +57390,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -57246,75 +57572,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -57410,75 +57754,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -57574,75 +57936,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -57738,75 +58118,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -57902,75 +58300,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -58066,75 +58482,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -58230,75 +58664,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -58394,75 +58846,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -58558,75 +59028,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -58722,75 +59210,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     },
@@ -58886,75 +59392,93 @@
         "forms": [
             {
                 "id": "ARCEUS_NORMAL",
-                "name": "Arceus Normal"
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
             },
             {
                 "id": "ARCEUS_FIGHTING",
-                "name": "Arceus Fighting"
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
             },
             {
                 "id": "ARCEUS_FLYING",
-                "name": "Arceus Flying"
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
             },
             {
                 "id": "ARCEUS_POISON",
-                "name": "Arceus Poison"
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
             },
             {
                 "id": "ARCEUS_GROUND",
-                "name": "Arceus Ground"
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
             },
             {
                 "id": "ARCEUS_ROCK",
-                "name": "Arceus Rock"
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
             },
             {
                 "id": "ARCEUS_BUG",
-                "name": "Arceus Bug"
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
             },
             {
                 "id": "ARCEUS_GHOST",
-                "name": "Arceus Ghost"
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
             },
             {
                 "id": "ARCEUS_STEEL",
-                "name": "Arceus Steel"
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
             },
             {
                 "id": "ARCEUS_FIRE",
-                "name": "Arceus Fire"
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
             },
             {
                 "id": "ARCEUS_WATER",
-                "name": "Arceus Water"
+                "name": "Arceus Water",
+                "assetBundleValue": 21
             },
             {
                 "id": "ARCEUS_GRASS",
-                "name": "Arceus Grass"
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
             },
             {
                 "id": "ARCEUS_ELECTRIC",
-                "name": "Arceus Electric"
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
             },
             {
                 "id": "ARCEUS_PSYCHIC",
-                "name": "Arceus Psychic"
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
             },
             {
                 "id": "ARCEUS_ICE",
-                "name": "Arceus Ice"
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
             },
             {
                 "id": "ARCEUS_DRAGON",
-                "name": "Arceus Dragon"
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
             },
             {
                 "id": "ARCEUS_DARK",
-                "name": "Arceus Dark"
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
             },
             {
                 "id": "ARCEUS_FAIRY",
-                "name": "Arceus Fairy"
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         ]
     }

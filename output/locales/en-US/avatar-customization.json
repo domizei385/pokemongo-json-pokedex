@@ -20,7 +20,6 @@
     "f_backpack_frlg_0": {
         "name": "LeafGreen Bag"
     },
-    "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "Johto Bag"
     },
@@ -155,7 +154,6 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
-    "f_hat_drifloon_0": {},
     "f_hat_empty": {
         "name": "No Hat"
     },
@@ -169,7 +167,6 @@
     "f_hat_frlg_0": {
         "name": "LeafGreen Hat"
     },
-    "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "Johto Cap"
     },
@@ -183,7 +180,6 @@
         "name": "Magikarp Hat"
     },
     "f_hat_mimikyu_0": {},
-    "f_hat_mismagius_0": {},
     "f_hat_pikachufan_0": {
         "name": "Pikachu Fan Headband"
     },
@@ -354,7 +350,6 @@
     "f_shirt_default_8": {
         "name": "Classic Longsleeve"
     },
-    "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "Surf Blue Shirt"
     },
@@ -362,7 +357,6 @@
     "f_shirt_frlg_0": {
         "name": "LeafGreen Top"
     },
-    "f_shirt_gengar_0": {},
     "f_shirt_gymleader_0": {
         "name": "Gym Leader Top"
     },
@@ -384,7 +378,6 @@
     "f_shirt_pikachufan_0": {
         "name": "Pikachu Fan Shirt"
     },
-    "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "The Thirty"
     },
@@ -567,7 +560,6 @@
     "m_backpack_frlg_0": {
         "name": "FireRed Backpack"
     },
-    "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "Johto Bag"
     },
@@ -665,7 +657,6 @@
     "m_hat_default_5": {
         "name": "Trainer Visor"
     },
-    "m_hat_drifloon_0": {},
     "m_hat_empty": {
         "name": "No Hat"
     },
@@ -682,7 +673,6 @@
     "m_hat_frlg_0": {
         "name": "FireRed Cap"
     },
-    "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "Johto Cap"
     },
@@ -693,7 +683,6 @@
         "name": "Magikarp Hat"
     },
     "m_hat_mimikyu_0": {},
-    "m_hat_mismagius_0": {},
     "m_hat_pikachufan_0": {
         "name": "Pikachu Fan Headband"
     },
@@ -798,7 +787,6 @@
     "m_shirt_default_7": {
         "name": "Classic Hoodie"
     },
-    "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "Surf Blue Shirt"
     },
@@ -809,7 +797,6 @@
     "m_shirt_frlg_0": {
         "name": "FireRed Top"
     },
-    "m_shirt_gengar_0": {},
     "m_shirt_gymleader_0": {
         "name": "Gym Leader Top"
     },
@@ -852,7 +839,6 @@
     "m_shirt_pikachufan_0": {
         "name": "Pikachu Fan Shirt"
     },
-    "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Sports Hoodie"
     },
