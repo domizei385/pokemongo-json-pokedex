@@ -51,6 +51,7 @@ export class Forms implements IComponent {
                 forms.push({
                     id: formName,
                     name: Util.SnakeCase2HumanReadable(formName)
+                    assetBundleValue: f.assetBundleValue
                 });
             });
         }

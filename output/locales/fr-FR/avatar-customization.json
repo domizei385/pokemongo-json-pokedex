@@ -20,7 +20,6 @@
     "f_backpack_frlg_0": {
         "name": "Sac Vert Feuille"
     },
-    "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "Sac Johto"
     },
@@ -155,7 +154,6 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
-    "f_hat_drifloon_0": {},
     "f_hat_empty": {
         "name": "Aucun chapeau"
     },
@@ -169,7 +167,6 @@
     "f_hat_frlg_0": {
         "name": "Chapeau Vert Feuille"
     },
-    "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "Casquette Johto"
     },
@@ -183,7 +180,6 @@
         "name": "Bonnet Magicarpe"
     },
     "f_hat_mimikyu_0": {},
-    "f_hat_mismagius_0": {},
     "f_hat_pikachufan_0": {
         "name": "Serre-tête Fan de Pikachu"
     },
@@ -354,7 +350,6 @@
     "f_shirt_default_8": {
         "name": "Boléro manches longues"
     },
-    "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "T-shirt surf Blue"
     },
@@ -362,7 +357,6 @@
     "f_shirt_frlg_0": {
         "name": "Haut Vert Feuille"
     },
-    "f_shirt_gengar_0": {},
     "f_shirt_gymleader_0": {
         "name": "Haut de Championne d’Arène"
     },
@@ -387,7 +381,6 @@
     "f_shirt_pikachufan_0": {
         "name": "T-shirt Fan de Pikachu"
     },
-    "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "Col roulé 30"
     },
@@ -570,7 +563,6 @@
     "m_backpack_frlg_0": {
         "name": "Sac Rouge Feu"
     },
-    "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "Sac Johto"
     },
@@ -668,7 +660,6 @@
     "m_hat_default_5": {
         "name": "Visière de Dresseur"
     },
-    "m_hat_drifloon_0": {},
     "m_hat_empty": {
         "name": "Aucun chapeau"
     },
@@ -685,7 +676,6 @@
     "m_hat_frlg_0": {
         "name": "Casquette Rouge Feu"
     },
-    "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "Casquette Johto"
     },
@@ -696,7 +686,6 @@
         "name": "Bonnet Magicarpe"
     },
     "m_hat_mimikyu_0": {},
-    "m_hat_mismagius_0": {},
     "m_hat_pikachufan_0": {
         "name": "Serre-tête Fan de Pikachu"
     },
@@ -801,7 +790,6 @@
     "m_shirt_default_7": {
         "name": "Sweat classique"
     },
-    "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "T-shirt surf Blue"
     },
@@ -812,7 +800,6 @@
     "m_shirt_frlg_0": {
         "name": "Haut Rouge Feu"
     },
-    "m_shirt_gengar_0": {},
     "m_shirt_gymleader_0": {
         "name": "Haut de Champion d’Arène"
     },
@@ -858,7 +845,6 @@
     "m_shirt_pikachufan_0": {
         "name": "T-shirt Fan de Pikachu"
     },
-    "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Sweat de sport"
     },
