@@ -262,6 +262,11 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Frenzy Plant",
+                "id": "FRENZY_PLANT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -593,6 +598,11 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Blast Burn",
+                "id": "BLAST_BURN",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -925,6 +935,11 @@
             {
                 "name": "Hydro Pump",
                 "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Hydro Cannon",
+                "id": "HYDRO_CANNON",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -2867,6 +2882,11 @@
             {
                 "name": "Wild Charge",
                 "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -6303,7 +6323,7 @@
         "kmBuddyDistance": 3,
         "weight": 1,
         "modelScale": 2,
-        "maxCP": 690,
+        "maxCP": 681,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -6337,8 +6357,8 @@
             "name": "Diglett"
         },
         "stats": {
-            "baseAttack": 109,
-            "baseDefense": 82,
+            "baseAttack": 108,
+            "baseDefense": 81,
             "baseStamina": 67
         },
         "types": [
@@ -6519,7 +6539,7 @@
         "kmBuddyDistance": 3,
         "weight": 66.6,
         "modelScale": 1.12,
-        "maxCP": 1915,
+        "maxCP": 1897,
         "buddySize": {
             "id": "BUDDY_BIG",
             "name": "Big"
@@ -6554,7 +6574,7 @@
         },
         "stats": {
             "baseAttack": 201,
-            "baseDefense": 145,
+            "baseDefense": 142,
             "baseStamina": 111
         },
         "types": [
@@ -16234,6 +16254,11 @@
             {
                 "name": "Swift",
                 "id": "SWIFT"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -16364,6 +16389,11 @@
             {
                 "name": "Aqua Tail",
                 "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -16460,6 +16490,11 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -16560,6 +16595,11 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -17393,6 +17433,11 @@
             {
                 "name": "Blizzard",
                 "id": "BLIZZARD"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -17492,6 +17537,11 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST",
+                "legacy": true
             }
         ],
         "family": {
@@ -17579,6 +17629,11 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -17892,6 +17947,11 @@
             {
                 "name": "Outrage",
                 "id": "OUTRAGE"
+            },
+            {
+                "name": "Draco Meteor",
+                "id": "DRACO_METEOR",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -18551,6 +18611,11 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Frenzy Plant",
+                "id": "FRENZY_PLANT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -18878,6 +18943,11 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Blast Burn",
+                "id": "BLAST_BURN",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -21465,6 +21535,11 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -23065,6 +23140,11 @@
             {
                 "name": "Futuresight",
                 "id": "FUTURESIGHT"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -23160,6 +23240,11 @@
             {
                 "name": "Foul Play",
                 "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Last Resort",
+                "id": "LAST_RESORT",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -28491,6 +28576,11 @@
             {
                 "name": "Iron Tail Fast",
                 "id": "IRON_TAIL_FAST"
+            },
+            {
+                "name": "Smack Down Fast",
+                "id": "SMACK_DOWN_FAST",
+                "legacy": true
             }
         ],
         "family": {
@@ -33073,7 +33163,7 @@
         "kmBuddyDistance": 5,
         "weight": 12,
         "modelScale": 1.3,
-        "maxCP": 1942,
+        "maxCP": 1969,
         "buddySize": {
             "id": "BUDDY_FLYING",
             "name": "Flying"
@@ -33107,7 +33197,7 @@
             "name": "Nincada"
         },
         "stats": {
-            "baseAttack": 196,
+            "baseAttack": 199,
             "baseDefense": 112,
             "baseStamina": 156
         },
@@ -42190,6 +42280,11 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Meteor Mash",
+                "id": "METEOR_MASH",
+                "legacy": true
             }
         ],
         "quickMoves": [
@@ -45867,7 +45962,7 @@
         ],
         "height": 0.9,
         "modelHeight": 0.8,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 5,
         "weight": 31.5,
         "modelScale": 1.26,
         "maxCP": 1820,
@@ -46379,7 +46474,404 @@
             ]
         },
         "id": "BURMY",
-        "forms": []
+        "forms": [
+            {
+                "id": "BURMY_PLANT",
+                "name": "Burmy Plant"
+            },
+            {
+                "id": "BURMY_SANDY",
+                "name": "Burmy Sandy"
+            },
+            {
+                "id": "BURMY_TRASH",
+                "name": "Burmy Trash"
+            }
+        ]
+    },
+    {
+        "dex": 412,
+        "name": "Burmy Plant",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.34,
+        "kmBuddyDistance": 5,
+        "weight": 3.4,
+        "modelScale": 1.26,
+        "maxCP": 488,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Struggle",
+                "id": "STRUGGLE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_BURMY",
+            "name": "Burmy"
+        },
+        "stats": {
+            "baseAttack": 53,
+            "baseDefense": 83,
+            "baseStamina": 120
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_BUG",
+                "name": "Bug"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 29,
+            "baseFleeRate": 0.2,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.189,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.3,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.252,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Wormadam Plant",
+                    "id": "WORMADAM_PLANT",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Wormadam Sandy",
+                    "id": "WORMADAM_SANDY",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Wormadam Trash",
+                    "id": "WORMADAM_TRASH",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Mothim",
+                    "id": "MOTHIM",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "BURMY_PLANT",
+        "forms": [
+            {
+                "id": "BURMY_PLANT",
+                "name": "Burmy Plant"
+            },
+            {
+                "id": "BURMY_SANDY",
+                "name": "Burmy Sandy"
+            },
+            {
+                "id": "BURMY_TRASH",
+                "name": "Burmy Trash"
+            }
+        ]
+    },
+    {
+        "dex": 412,
+        "name": "Burmy Sandy",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.34,
+        "kmBuddyDistance": 5,
+        "weight": 3.4,
+        "modelScale": 1.26,
+        "maxCP": 488,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Struggle",
+                "id": "STRUGGLE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_BURMY",
+            "name": "Burmy"
+        },
+        "stats": {
+            "baseAttack": 53,
+            "baseDefense": 83,
+            "baseStamina": 120
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_BUG",
+                "name": "Bug"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 29,
+            "baseFleeRate": 0.2,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.189,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.3,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.252,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Wormadam Plant",
+                    "id": "WORMADAM_PLANT",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Wormadam Sandy",
+                    "id": "WORMADAM_SANDY",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Wormadam Trash",
+                    "id": "WORMADAM_TRASH",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Mothim",
+                    "id": "MOTHIM",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "BURMY_SANDY",
+        "forms": [
+            {
+                "id": "BURMY_PLANT",
+                "name": "Burmy Plant"
+            },
+            {
+                "id": "BURMY_SANDY",
+                "name": "Burmy Sandy"
+            },
+            {
+                "id": "BURMY_TRASH",
+                "name": "Burmy Trash"
+            }
+        ]
+    },
+    {
+        "dex": 412,
+        "name": "Burmy Trash",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.34,
+        "kmBuddyDistance": 5,
+        "weight": 3.4,
+        "modelScale": 1.26,
+        "maxCP": 488,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Struggle",
+                "id": "STRUGGLE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_BURMY",
+            "name": "Burmy"
+        },
+        "stats": {
+            "baseAttack": 53,
+            "baseDefense": 83,
+            "baseStamina": 120
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_BUG",
+                "name": "Bug"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 29,
+            "baseFleeRate": 0.2,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.189,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.3,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.252,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Wormadam Plant",
+                    "id": "WORMADAM_PLANT",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Wormadam Sandy",
+                    "id": "WORMADAM_SANDY",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Wormadam Trash",
+                    "id": "WORMADAM_TRASH",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                },
+                {
+                    "name": "Mothim",
+                    "id": "MOTHIM",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "BURMY_TRASH",
+        "forms": [
+            {
+                "id": "BURMY_PLANT",
+                "name": "Burmy Plant"
+            },
+            {
+                "id": "BURMY_SANDY",
+                "name": "Burmy Sandy"
+            },
+            {
+                "id": "BURMY_TRASH",
+                "name": "Burmy Trash"
+            }
+        ]
     },
     {
         "dex": 413,
@@ -48569,7 +49061,7 @@
         ],
         "height": 1.2,
         "modelHeight": 1.27,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 3,
         "weight": 20.3,
         "modelScale": 1.26,
         "maxCP": 2418,
@@ -49071,7 +49563,7 @@
         ],
         "height": 0.9,
         "modelHeight": 0.9,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 3,
         "weight": 4.4,
         "modelScale": 1.26,
         "maxCP": 2615,
@@ -49486,7 +49978,7 @@
         ],
         "height": 0.2,
         "modelHeight": 0.3,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 5,
         "weight": 0.6,
         "modelScale": 1.26,
         "maxCP": 1005,
@@ -50003,7 +50495,7 @@
         ],
         "height": 0.5,
         "modelHeight": 0.5,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 5,
         "weight": 15,
         "modelScale": 1.26,
         "maxCP": 1302,
@@ -50105,7 +50597,7 @@
         ],
         "height": 0.6,
         "modelHeight": 0.88,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 5,
         "weight": 13,
         "modelScale": 1.26,
         "maxCP": 1095,
@@ -52737,7 +53229,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 1.6,
+            "cylinderRadius": 1.8,
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
@@ -53489,7 +53981,7 @@
         ],
         "height": 2,
         "modelHeight": 1.57,
-        "kmBuddyDistance": 3,
+        "kmBuddyDistance": 5,
         "weight": 42.5,
         "modelScale": 1.26,
         "maxCP": 2692,
@@ -53598,7 +54090,7 @@
         ],
         "height": 2.5,
         "modelHeight": 3.82,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 3,
         "weight": 291,
         "modelScale": 1.26,
         "maxCP": 3328,
@@ -59884,7 +60376,7 @@
         "kmBuddyDistance": 20,
         "weight": 8,
         "modelScale": 1.02,
-        "maxCP": 1080,
+        "maxCP": 1068,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -59910,8 +60402,8 @@
             "name": "Meltan"
         },
         "stats": {
-            "baseAttack": 112,
-            "baseDefense": 113,
+            "baseAttack": 118,
+            "baseDefense": 99,
             "baseStamina": 130
         },
         "types": [
@@ -59977,7 +60469,7 @@
         "kmBuddyDistance": 20,
         "weight": 800,
         "modelScale": 1.26,
-        "maxCP": 3875,
+        "maxCP": 3599,
         "buddySize": {
             "id": "BUDDY_BIG",
             "name": "Big"
@@ -60011,8 +60503,8 @@
             "name": "Meltan"
         },
         "stats": {
-            "baseAttack": 231,
-            "baseDefense": 213,
+            "baseAttack": 226,
+            "baseDefense": 190,
             "baseStamina": 264
         },
         "types": [
