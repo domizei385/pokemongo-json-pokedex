@@ -109,10 +109,14 @@
         "name": "Superpozione",
         "description": "Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon."
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "Modulo esca",
         "description": "Attira i Pokémon per 30 minuti verso un Pokéstop. Ha effetto anche su tutti i giocatori nei dintorni."
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "Ultra Ball",
         "description": "Poké Ball dalle prestazioni eccellenti: fornisce maggiori probabilità di cattura rispetto alla Mega Ball."

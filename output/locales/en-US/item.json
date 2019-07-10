@@ -109,10 +109,14 @@
         "name": "Super Potion",
         "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "Lure Module",
         "description": "A module that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby."
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "Ultra Ball",
         "description": "An ultra-performance ball with a higher catch rate than a Great Ball."

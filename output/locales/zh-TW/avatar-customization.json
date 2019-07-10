@@ -1,4 +1,5 @@
 {
+    "f_backpack_backpacker_0": {},
     "f_backpack_cute_0": {
         "name": "蝴蝶結背包"
     },
@@ -14,6 +15,9 @@
     "f_backpack_default_3": {
         "name": "都會風背包"
     },
+    "f_backpack_eggbackpack_0": {},
+    "f_backpack_eggbackpack_1": {},
+    "f_backpack_eggbackpack_2": {},
     "f_backpack_empty": {
         "name": "不背包包"
     },
@@ -24,7 +28,9 @@
     "f_backpack_hgss_0": {
         "name": "城都包包"
     },
+    "f_backpack_ruinmaniac_0": {},
     "f_backpack_ultra": {},
+    "f_belt_acetrainerbw_0": {},
     "f_belt_default_0": {
         "name": "圓形皮帶扣"
     },
@@ -108,6 +114,7 @@
     "f_glasses_thick_4": {
         "name": "黑粗框眼鏡"
     },
+    "f_gloves_acetrainersm_0": {},
     "f_gloves_battlegirl_0": {
         "name": "對戰少女半指手套"
     },
@@ -123,6 +130,7 @@
     "f_gloves_default_3": {
         "name": "半指手套"
     },
+    "f_gloves_delibird_0": {},
     "f_gloves_empty": {
         "name": "不戴手套"
     },
@@ -132,9 +140,12 @@
     "f_gloves_gymleader_0": {
         "name": "道館館主手套"
     },
+    "f_gloves_teamaqua_0": {},
+    "f_gloves_teammagma_0": {},
     "f_gloves_teamrocket_0": {
         "name": "火箭隊手套"
     },
+    "f_gloves_teamspark_0": {},
     "f_hair_default_0": {},
     "f_hair_default_1": {},
     "f_hair_default_10": {},
@@ -153,6 +164,7 @@
     "f_hair_default_7": {},
     "f_hair_default_8": {},
     "f_hair_default_9": {},
+    "f_hat_acetrainersm_0": {},
     "f_hat_adventure_0": {
         "name": "探險家的帽子"
     },
@@ -167,6 +179,8 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
+    "f_hat_delibird_0": {},
+    "f_hat_detectivepikachu_0": {},
     "f_hat_drifloon_0": {},
     "f_hat_eeveecap_0": {},
     "f_hat_empty": {
@@ -195,6 +209,8 @@
     "f_hat_magikarp": {
         "name": "鯉魚王帽"
     },
+    "f_hat_meltan_0": {},
+    "f_hat_meltanearrings_0": {},
     "f_hat_mimikyu_0": {},
     "f_hat_mismagius_0": {},
     "f_hat_pikachucap_0": {},
@@ -204,6 +220,8 @@
     "f_hat_pkmncap_0": {},
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
+    "f_hat_ruinmaniac_0": {},
+    "f_hat_teamaqua_0": {},
     "f_hat_teamleadercap_0": {},
     "f_hat_teamleadercap_1": {},
     "f_hat_teamleadercap_2": {},
@@ -229,9 +247,13 @@
     "f_necklace_star_0": {
         "name": "星型短項鍊"
     },
+    "f_pants_acetrainerbw_0": {},
+    "f_pants_backpacker_0": {},
     "f_pants_battlegirl_0": {
         "name": "對戰少女短褲"
     },
+    "f_pants_casual_0": {},
+    "f_pants_casual_1": {},
     "f_pants_default_0": {
         "name": "連身褲"
     },
@@ -320,9 +342,14 @@
     "f_pants_skinnyjeans_0": {
         "name": "窄管牛仔褲"
     },
+    "f_pants_teamaqua_0": {},
+    "f_pants_teamblanche_0": {},
+    "f_pants_teamcandela_0": {},
+    "f_pants_teammagma_0": {},
     "f_pants_teamrocket_0": {
         "name": "火箭隊短裙"
     },
+    "f_pants_teamspark_0": {},
     "f_pants_miniskirt_turbine_0": {
         "name": "多片短裙"
     },
@@ -333,12 +360,41 @@
         "name": "多片短裙"
     },
     "f_pants_ultra_0": {},
+    "f_pants_veterantrainerxy_0": {},
+    "pose_01": {},
+    "pose_02": {},
+    "pose_03": {},
+    "pose_04": {},
+    "pose_05": {},
+    "pose_06": {},
+    "pose_07": {},
+    "pose_08": {},
+    "pose_09": {},
+    "pose_10": {},
+    "pose_11": {},
+    "pose_12": {},
+    "pose_13": {},
+    "pose_14": {},
+    "pose_15": {},
+    "pose_16": {},
+    "pose_17": {},
+    "pose_18": {},
+    "pose_19": {},
+    "pose_20": {},
+    "pose_empty": {},
+    "f_shirt_acetrainerbw_0": {},
+    "f_shirt_acetrainersm_0": {},
+    "f_shirt_backpacker_0": {},
     "f_shirt_battlegirl_0": {
         "name": "對戰少女運動背心"
     },
     "f_shirt_buttondown_0": {
         "name": "貼身上衣"
     },
+    "f_shirt_casual_0": {},
+    "f_shirt_casual_1": {},
+    "f_shirt_casual_2": {},
+    "f_shirt_casual_3": {},
     "f_shirt_celebi_0": {
         "name": "時拉比T恤"
     },
@@ -369,6 +425,8 @@
     "f_shirt_default_8": {
         "name": "經典長袖上衣"
     },
+    "f_shirt_delibird_0": {},
+    "f_shirt_detectivepikachu_0": {},
     "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "藍海衝浪T"
@@ -378,6 +436,7 @@
         "name": "葉子背心"
     },
     "f_shirt_gengar_0": {},
+    "f_shirt_gofest_2019": {},
     "f_shirt_gymleader_0": {
         "name": "道館館主上衣"
     },
@@ -396,6 +455,7 @@
     "f_shirt_latias_latios_0": {
         "name": "拉帝亞斯＆拉帝歐斯T恤"
     },
+    "f_shirt_meltan_0": {},
     "f_shirt_mew_0": {
         "name": "夢幻T恤"
     },
@@ -403,6 +463,7 @@
     "f_shirt_pikachufan_0": {
         "name": "皮卡丘發燒友上衣"
     },
+    "f_shirt_ruinmaniac_0": {},
     "f_shirt_spiritomb_0": {},
     "f_shirt_sweater_30_0": {
         "name": "30紀念款"
@@ -449,12 +510,17 @@
     "f_shirt_tanktop_pikachu_2": {
         "name": "皮卡丘坦克背心"
     },
+    "f_shirt_teamaqua_0": {},
+    "f_shirt_teamblanche_0": {},
+    "f_shirt_teamcandela_0": {},
+    "f_shirt_teammagma_0": {},
     "f_shirt_teamrocket_0": {
         "name": "火箭隊上衣"
     },
     "f_shirt_teamrocket_1": {
         "name": "彩虹火箭隊上衣"
     },
+    "f_shirt_teamspark_0": {},
     "f_shirt_tshirt_cycling_0": {
         "name": "休閒短袖T恤"
     },
@@ -492,6 +558,10 @@
         "name": "皮卡丘短袖T恤"
     },
     "f_shirt_ultra_0": {},
+    "f_shirt_veterantrainerxy_0": {},
+    "f_shoes_acetrainerbw_0": {},
+    "f_shoes_acetrainersm_0": {},
+    "f_shoes_backpacker_0": {},
     "f_shoes_battlegirl_0": {
         "name": "對戰少女鞋"
     },
@@ -516,6 +586,7 @@
     "f_shoes_default_6": {
         "name": "慢跑鞋"
     },
+    "f_shoes_delibird_0": {},
     "f_shoes_empty": {
         "name": "不穿鞋子"
     },
@@ -538,13 +609,32 @@
     "f_shoes_pikachufan_0": {
         "name": "皮卡丘發燒友運動鞋"
     },
+    "f_shoes_ruinmaniac_0": {},
+    "f_shoes_teamaqua_0": {},
+    "f_shoes_teamblanche_0": {},
+    "f_shoes_teamcandela_0": {},
+    "f_shoes_teammagma_0": {},
     "f_shoes_teamrocket_0": {
         "name": "火箭隊長靴"
     },
     "f_shoes_teamrocket_1": {
         "name": "彩虹火箭隊長靴"
     },
+    "f_shoes_teamspark_0": {},
     "f_shoes_ultra_0": {},
+    "f_shoes_veterantrainerxy_0": {},
+    "f_skin_0": {},
+    "f_skin_1": {},
+    "f_skin_10": {},
+    "f_skin_11": {},
+    "f_skin_2": {},
+    "f_skin_3": {},
+    "f_skin_4": {},
+    "f_skin_5": {},
+    "f_skin_6": {},
+    "f_skin_7": {},
+    "f_skin_8": {},
+    "f_skin_9": {},
     "f_socks_default_0": {
         "name": "內搭褲"
     },
@@ -560,9 +650,11 @@
     "f_socks_hgss_0": {
         "name": "城都過膝長襪"
     },
+    "f_socks_teamaqua_0": {},
     "f_socks_thighhighs_0": {
         "name": "膝上襪"
     },
+    "m_backpack_backpacker_0": {},
     "m_backpack_default_0": {
         "name": "訓練家背包"
     },
@@ -581,6 +673,9 @@
     "m_backpack_default_5": {
         "name": "訓練家背包"
     },
+    "m_backpack_eggbackpack_0": {},
+    "m_backpack_eggbackpack_1": {},
+    "m_backpack_eggbackpack_2": {},
     "m_backpack_empty": {
         "name": "不背包包"
     },
@@ -591,6 +686,7 @@
     "m_backpack_hgss_0": {
         "name": "城都郵差包"
     },
+    "m_backpack_ruinmaniac_0": {},
     "m_backpack_ultra": {},
     "m_eyes_0": {},
     "m_eyes_1": {},
@@ -628,6 +724,7 @@
     "m_glasses_thick_4": {
         "name": "黑粗框眼鏡"
     },
+    "m_gloves_acetrainersm_0": {},
     "m_gloves_default_0": {
         "name": "半指手套"
     },
@@ -640,6 +737,7 @@
     "m_gloves_default_3": {
         "name": "半指手套"
     },
+    "m_gloves_delibird_0": {},
     "m_gloves_empty": {
         "name": "不戴手套"
     },
@@ -652,9 +750,12 @@
     "m_gloves_jogger": {
         "name": "慢跑者手錶"
     },
+    "m_gloves_teamaqua_0": {},
+    "m_gloves_teammagma_0": {},
     "m_gloves_teamrocket_0": {
         "name": "火箭隊手套"
     },
+    "m_gloves_teamspark_0": {},
     "m_hair_default_0": {},
     "m_hair_default_1": {},
     "m_hair_default_10": {},
@@ -673,6 +774,7 @@
     "m_hair_default_7": {},
     "m_hair_default_8": {},
     "m_hair_default_9": {},
+    "m_hat_acetrainersm_0": {},
     "m_hat_adventure_0": {
         "name": "探險家的帽子"
     },
@@ -697,6 +799,8 @@
     "m_hat_default_5": {
         "name": "訓練家遮陽帽"
     },
+    "m_hat_delibird_0": {},
+    "m_hat_detectivepikachu_0": {},
     "m_hat_drifloon_0": {},
     "m_hat_eeveecap_0": {},
     "m_hat_empty": {
@@ -725,6 +829,7 @@
     "m_hat_magikarp": {
         "name": "鯉魚王帽"
     },
+    "m_hat_meltan_0": {},
     "m_hat_mimikyu_0": {},
     "m_hat_mismagius_0": {},
     "m_hat_pikachucap_0": {},
@@ -734,6 +839,8 @@
     "m_hat_pkmncap_0": {},
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
+    "m_hat_ruinmaniac_0": {},
+    "m_hat_teamaqua_0": {},
     "m_hat_teamleadercap_0": {},
     "m_hat_teamleadercap_1": {},
     "m_hat_teamleadercap_2": {},
@@ -744,7 +851,12 @@
         "name": "禮帽"
     },
     "m_hat_ultra_0": {},
+    "m_pants_acetrainerbw_0": {},
+    "m_pants_acetrainersm_0": {},
+    "m_pants_backpacker_0": {},
     "m_pants_brock_0": {},
+    "m_pants_casual_0": {},
+    "m_pants_casual_1": {},
     "m_pants_default_0": {
         "name": "訓練家短褲"
     },
@@ -796,14 +908,27 @@
     "m_pants_sweats_4": {
         "name": "休閒運動褲"
     },
+    "m_pants_teamaqua_0": {},
+    "m_pants_teamblanche_0": {},
+    "m_pants_teamcandela_0": {},
+    "m_pants_teammagma_0": {},
     "m_pants_teamrocket_0": {
         "name": "火箭隊長褲"
     },
+    "m_pants_teamspark_0": {},
     "m_pants_ultra_0": {},
+    "m_pants_veterantrainerxy_0": {},
+    "m_shirt_acetrainerbw_0": {},
+    "m_shirt_acetrainersm_0": {},
+    "m_shirt_backpacker_0": {},
     "m_shirt_blazer_0": {
         "name": "黑西裝外套"
     },
     "m_shirt_brock_0": {},
+    "m_shirt_casual_0": {},
+    "m_shirt_casual_1": {},
+    "m_shirt_casual_2": {},
+    "m_shirt_casual_3": {},
     "m_shirt_celebi_0": {
         "name": "時拉比T恤"
     },
@@ -834,6 +959,8 @@
     "m_shirt_default_7": {
         "name": "經典連帽上衣"
     },
+    "m_shirt_delibird_0": {},
+    "m_shirt_detectivepikachu_0": {},
     "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "藍海衝浪T"
@@ -846,6 +973,7 @@
         "name": "火焰上衣"
     },
     "m_shirt_gengar_0": {},
+    "m_shirt_gofest_2019": {},
     "m_shirt_gymleader_0": {
         "name": "道館館主上衣"
     },
@@ -885,12 +1013,14 @@
     "m_shirt_longsleeves_pikachu_2": {
         "name": "皮卡丘長袖上衣"
     },
+    "m_shirt_meltan_0": {},
     "m_shirt_mew_0": {
         "name": "夢幻T恤"
     },
     "m_shirt_pikachufan_0": {
         "name": "皮卡丘發燒友T恤"
     },
+    "m_shirt_ruinmaniac_0": {},
     "m_shirt_spiritomb_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "運動連帽上衣"
@@ -919,12 +1049,17 @@
     "m_shirt_sweatshirt_streak_4": {
         "name": "閃電連帽上衣"
     },
+    "m_shirt_teamaqua_0": {},
+    "m_shirt_teamblanche_0": {},
+    "m_shirt_teamcandela_0": {},
+    "m_shirt_teammagma_0": {},
     "m_shirt_teamrocket_0": {
         "name": "火箭隊上衣"
     },
     "m_shirt_teamrocket_1": {
         "name": "彩虹火箭隊上衣"
     },
+    "m_shirt_teamspark_0": {},
     "m_shirt_tshirt_fest_chicago_2017": {},
     "m_shirt_tshirt_fest_chicago_2018": {},
     "m_shirt_tshirt_geometric_0": {
@@ -959,6 +1094,10 @@
         "name": "30紀念款"
     },
     "m_shirt_ultra_0": {},
+    "m_shirt_veterantrainerxy_0": {},
+    "m_shoes_acetrainerbw_0": {},
+    "m_shoes_acetrainersm_0": {},
+    "m_shoes_backpacker_0": {},
     "m_shoes_brock_0": {},
     "m_shoes_default_0": {
         "name": "慢跑鞋"
@@ -981,6 +1120,7 @@
     "m_shoes_default_6": {
         "name": "慢跑鞋"
     },
+    "m_shoes_delibird_0": {},
     "m_shoes_empty": {
         "name": "不穿鞋子"
     },
@@ -1008,13 +1148,32 @@
     "m_shoes_pikachufan_0": {
         "name": "皮卡丘發燒友運動鞋"
     },
+    "m_shoes_ruinmaniac_0": {},
+    "m_shoes_teamaqua_0": {},
+    "m_shoes_teamblanche_0": {},
+    "m_shoes_teamcandela_0": {},
+    "m_shoes_teammagma_0": {},
     "m_shoes_teamrocket_0": {
         "name": "火箭隊長靴"
     },
     "m_shoes_teamrocket_1": {
         "name": "彩虹火箭隊長靴"
     },
+    "m_shoes_teamspark_0": {},
     "m_shoes_ultra_0": {},
+    "m_shoes_veterantrainerxy_0": {},
+    "m_skin_0": {},
+    "m_skin_1": {},
+    "m_skin_10": {},
+    "m_skin_11": {},
+    "m_skin_2": {},
+    "m_skin_3": {},
+    "m_skin_4": {},
+    "m_skin_5": {},
+    "m_skin_6": {},
+    "m_skin_7": {},
+    "m_skin_8": {},
+    "m_skin_9": {},
     "m_socks_default_0": {
         "name": "內搭褲"
     },

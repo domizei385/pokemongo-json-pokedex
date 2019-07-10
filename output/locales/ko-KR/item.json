@@ -109,10 +109,14 @@
         "name": "좋은상처약",
         "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다."
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "루어모듈",
         "description": "포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 줍니다."
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "하이퍼볼",
         "description": "수퍼볼보다도 더욱 포켓몬을 잡기 쉬워진 매우 성능이 좋은 볼."

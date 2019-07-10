@@ -109,10 +109,14 @@
         "name": "いいキズぐすり",
         "description": "スプレー式のキズぐすり。ポケモン1匹のHPを{1}だけ回復する。"
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "ルアーモジュール",
         "description": "ポケストップへ使うと、30分間ポケモンを引き寄せる。周りの人たちも効果を受けられる。"
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "ハイパーボール",
         "description": "スーパーボールよりもさらにポケモンを捕まえやすくなったすごく性能のいいボール。"

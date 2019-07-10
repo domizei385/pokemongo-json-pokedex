@@ -40,6 +40,7 @@ export interface ItemTemplate {
   iapItemDisplay?: IapItemDisplay;
   camera?: Camera2;
   moveSequenceSettings?: MoveSequenceSettings;
+  smeargleMovesSettings?: SmeargleMovesSettings;
 }
 export interface MoveSequenceSettings {
   sequence: string[];
@@ -106,8 +107,8 @@ export interface PokemonSettings {
   camera: Camera;
   encounter: Encounter;
   stats: Stats;
-  quickMoves: string[];
-  cinematicMoves: string[];
+  quickMoves?: string[];
+  cinematicMoves?: string[];
   animationTime: number[];
   evolutionIds?: string[];
   evolutionPips: number;
@@ -359,6 +360,14 @@ export interface CombatMove {
   vfxName: string;
   energyDelta?: number;
   durationTurns?: number;
+  buffs?: Buffs;
+  }
+export interface Buffs {
+  attackerAttackStatStageChange?: number;
+  targetAttackStatStageChange?: number;
+  targetDefenseStatStageChange?: number;
+  targetDefenseStatStageChange?: number;
+  buffActivationChance: number;
 }
 export interface CombatStatStageSettings {
   minimumStatStage: number;
@@ -459,3 +468,8 @@ export interface AvatarCustomization {
   unlockBadgeLevel?: number;
   unlockPlayerLevel?: number;
 }
+export interface SmeargleMovesSettings {
+    quickMoves string[];
+    cinematicMoves string[];
+}
+

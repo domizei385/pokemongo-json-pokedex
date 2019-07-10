@@ -109,10 +109,14 @@
         "name": "好傷藥",
         "description": "噴霧式傷藥。能讓1隻寶可夢回復 {1} HP。"
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "誘餌模組",
         "description": "誘餌模組會將野生寶可夢吸引至寶可補給站，效果可持續30分鐘。附近的玩家也可獲得相同效果。"
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "高級球",
         "description": "超高性能的優良精靈球，捉到寶可夢的機率比超級球高。"

@@ -109,10 +109,14 @@
         "name": "Super Potion",
         "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "Module Leurre",
         "description": "Attire les Pokémon dans un PokéStop pendant 30 minutes. D’autres joueurs peuvent en profiter."
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "Hyper Ball",
         "description": "Une balle ultra-performante dont le taux de réussite est supérieur à celui de la Super Ball."

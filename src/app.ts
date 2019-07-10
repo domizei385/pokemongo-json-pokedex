@@ -30,7 +30,7 @@ const LOCALES = ['de-DE', 'en-US', 'zh-TW', 'fr-FR', 'es-ES', 'ja-JP', 'it-IT', 
 
 const done = (err, name) =>
     err ?
-        console.log(`${chalk.red('✘')} Error while writing ${name}:`) :
+    console.log(`${chalk.red('✘')} Error while writing ${name}:${err}`) :
         console.log(`${chalk.green('✔')} Successfully written ${name}`);
 
 const write = async (file: string, pipeline: Pipeline, name: string) => {
@@ -67,7 +67,7 @@ const writeTranslations = async (file: string, pipeline: LocalesPipeline<any, an
 };
 
 console.log(`${chalk.blue('i')} ${packageJson.name} ${chalk.cyan(packageJson.version)} `);
-console.log(`${chalk.blue('i')} Using GAME_MASTER version ${chalk.cyan(gameMaster.version)}`);
+console.log(`${chalk.blue('i')} Using GAME_MASTER version ${chalk.cyan(gameMaster.timestampMs)}`);
 
 
 const writePokemon = async () => {

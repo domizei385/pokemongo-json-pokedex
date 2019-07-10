@@ -3733,7 +3733,7 @@
     {
         "accuracyChange": 1,
         "animationId": 5,
-        "power": 80,
+        "power": 70,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -3741,7 +3741,7 @@
         "durationMs": 1700,
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 1600,
-        "energyDelta": -50,
+        "energyDelta": -33,
         "id": "DOOM_DESIRE",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
@@ -3903,8 +3903,8 @@
         "energyDelta": -33,
         "id": "WEATHER_BALL_ROCK",
         "pokemonType": {
-            "id": "POKEMON_TYPE_ROCK",
-            "name": "Rock"
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
         },
         "name": "Weather Ball Rock",
         "internalId": 294
@@ -4051,5 +4051,145 @@
         },
         "name": "Meteor Mash",
         "internalId": 301
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 130,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "skull_bash",
+        "durationMs": 3100,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2300,
+        "energyDelta": -100,
+        "id": "SKULL_BASH",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Skull Bash",
+        "internalId": 302
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 20,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "acid_spray",
+        "durationMs": 3000,
+        "damageWindowStartMs": 2100,
+        "damageWindowEndMs": 2800,
+        "energyDelta": -50,
+        "id": "ACID_SPRAY",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_POISON",
+            "name": "Poison"
+        },
+        "name": "Acid Spray",
+        "internalId": 303
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 100,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "earth_power",
+        "durationMs": 3600,
+        "damageWindowStartMs": 2700,
+        "damageWindowEndMs": 3400,
+        "energyDelta": -50,
+        "id": "EARTH_POWER",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GROUND",
+            "name": "Ground"
+        },
+        "name": "Earth Power",
+        "internalId": 304
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 45,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "leaf_tornado",
+        "durationMs": 3100,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -33,
+        "id": "LEAF_TORNADO",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "name": "Leaf Tornado",
+        "internalId": 312
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 45,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "blaze_kick",
+        "durationMs": 1200,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 800,
+        "energyDelta": -33,
+        "id": "BLAZE_KICK",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Blaze Kick",
+        "internalId": 317
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 50,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "power_up_punch",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -33,
+        "id": "POWER_UP_PUNCH",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIGHTING",
+            "name": "Fighting"
+        },
+        "name": "Power Up Punch",
+        "internalId": 319
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 4,
+        "power": 20,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "charm_fast",
+        "durationMs": 1500,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1200,
+        "energyDelta": 11,
+        "id": "CHARM_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FAIRY",
+            "name": "Fairy"
+        },
+        "name": "Charm Fast",
+        "internalId": 320
     }
 ]

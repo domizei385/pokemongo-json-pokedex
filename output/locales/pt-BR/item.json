@@ -109,10 +109,14 @@
         "name": "Superpoção",
         "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "Módulo Atrair",
         "description": "Atrai Pokémon a uma Poképarada por 30 minutos. Pode beneficiar outras pessoas por perto."
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "Ultra Bola",
         "description": "Poké Bola com desempenho superior. Tem um índice de êxito superior ao da Grande Bola."

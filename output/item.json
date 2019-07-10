@@ -631,8 +631,60 @@
         }
     },
     {
+        "id": "TEAM_CHANGE",
+        "name": "Team Change",
+        "category": {
+            "name": "Team Change",
+            "id": "TEAM_CHANGE"
+        },
+        "type": {
+            "name": "Team Change",
+            "id": "TEAM_CHANGE"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
         "id": "TROY_DISK",
         "name": "Troy Disk",
+        "category": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "type": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
+        "id": "TROY_DISK_GLACIAL",
+        "name": "Troy Disk Glacial",
+        "category": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "type": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
+        "id": "TROY_DISK_MAGNETIC",
+        "name": "Troy Disk Magnetic",
+        "category": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "type": {
+            "name": "Disk",
+            "id": "DISK"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
+        "id": "TROY_DISK_MOSSY",
+        "name": "Troy Disk Mossy",
         "category": {
             "name": "Disk",
             "id": "DISK"

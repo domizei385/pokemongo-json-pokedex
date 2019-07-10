@@ -109,10 +109,14 @@
         "name": "Superpoción",
         "description": "Medicina en espray que cura heridas y restaura {1} de los PS de un Pokémon."
     },
+    "TEAM_CHANGE": {},
     "TROY_DISK": {
         "name": "Módulo Cebo",
         "description": "Atrae Pokémon a una Poképarada durante 30 min. Otra gente que esté cerca puede beneficiarse."
     },
+    "TROY_DISK_GLACIAL": {},
+    "TROY_DISK_MAGNETIC": {},
+    "TROY_DISK_MOSSY": {},
     "ULTRA_BALL": {
         "name": "Ultra Ball",
         "description": "Poké Ball de rendimiento superior. Tiene un índice de éxito mayor al de la Super Ball."
