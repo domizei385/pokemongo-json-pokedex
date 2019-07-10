@@ -14,9 +14,18 @@ export interface PokemonForm {
    * Arceus Water
    */
    name: string;
+<<<<<<< HEAD
    /* Asset bundle identifier
     * @example
     * 61
     */
     assetBundleValue: number;
+=======
+  /*
+   * Asset bundle identifier
+   * @example
+   * 61
+   */
+   assetBundleValue: int;
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
 }

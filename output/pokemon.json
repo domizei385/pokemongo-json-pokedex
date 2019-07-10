@@ -37510,11 +37510,14 @@
                 "id": "SPINDA_07",
                 "name": "Spinda 07",
                 "assetBundleValue": 18
+<<<<<<< HEAD
             },
             {
                 "id": "SPINDA_08",
                 "name": "Spinda 08",
                 "assetBundleValue": 19
+=======
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
             }
         ]
     },
@@ -39973,7 +39976,11 @@
         "forms": [
             {
                 "id": "CASTFORM",
+<<<<<<< HEAD
                 "name": "Castform",
+=======
+                "name": "Castform"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -40087,7 +40094,11 @@
         "forms": [
             {
                 "id": "CASTFORM",
+<<<<<<< HEAD
                 "name": "Castform",
+=======
+                "name": "Castform"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -40201,7 +40212,11 @@
         "forms": [
             {
                 "id": "CASTFORM",
+<<<<<<< HEAD
                 "name": "Castform",
+=======
+                "name": "Castform"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -40315,7 +40330,11 @@
         "forms": [
             {
                 "id": "CASTFORM",
+<<<<<<< HEAD
                 "name": "Castform",
+=======
+                "name": "Castform"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -43902,7 +43921,11 @@
         "forms": [
             {
                 "id": "DEOXYS",
+<<<<<<< HEAD
                 "name": "Deoxys",
+=======
+                "name": "Deoxys"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -44015,7 +44038,11 @@
         "forms": [
             {
                 "id": "DEOXYS",
+<<<<<<< HEAD
                 "name": "Deoxys",
+=======
+                "name": "Deoxys"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -44128,7 +44155,11 @@
         "forms": [
             {
                 "id": "DEOXYS",
+<<<<<<< HEAD
                 "name": "Deoxys",
+=======
+                "name": "Deoxys"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -44241,7 +44272,11 @@
         "forms": [
             {
                 "id": "DEOXYS",
+<<<<<<< HEAD
                 "name": "Deoxys",
+=======
+                "name": "Deoxys"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -47675,7 +47710,7 @@
         "kmBuddyDistance": 1,
         "weight": 6.5,
         "modelScale": 1.26,
-        "maxCP": 1773,
+        "maxCP": 1593,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -47709,8 +47744,8 @@
             "name": "Burmy"
         },
         "stats": {
-            "baseAttack": 141,
-            "baseDefense": 180,
+            "baseAttack": 127,
+            "baseDefense": 175,
             "baseStamina": 155
         },
         "types": [
@@ -47795,7 +47830,7 @@
         "kmBuddyDistance": 1,
         "weight": 6.5,
         "modelScale": 1.26,
-        "maxCP": 1593,
+        "maxCP": 1773,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -47829,8 +47864,8 @@
             "name": "Burmy"
         },
         "stats": {
-            "baseAttack": 127,
-            "baseDefense": 175,
+            "baseAttack": 141,
+            "baseDefense": 180,
             "baseStamina": 155
         },
         "types": [
@@ -48180,8 +48215,8 @@
                 "id": "MOVEMENT_PSYCHIC"
             },
             "gender": {
-                "malePercent": 0,
-                "femalePercent": 1
+                "malePercent": 0.5,
+                "femalePercent": 0.5
             }
         },
         "camera": {
@@ -55448,7 +55483,7 @@
         "kmBuddyDistance": 5,
         "weight": 0.3,
         "modelScale": 1.26,
-        "maxCP": 2031,
+        "maxCP": 2579,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -55482,8 +55517,8 @@
             "name": "Rotom"
         },
         "stats": {
-            "baseAttack": 185,
-            "baseDefense": 159,
+            "baseAttack": 204,
+            "baseDefense": 219,
             "baseStamina": 137
         },
         "types": [
@@ -55523,6 +55558,7 @@
         "forms": [
             {
                 "id": "ROTOM",
+<<<<<<< HEAD
                 "name": "Rotom",
                 "assetBundleValue": 11
             },
@@ -55549,6 +55585,34 @@
             {
                 "id": "ROTOM_MOW",
                 "name": "Rotom Mow",
+=======
+                "name": "Rotom"
+                "assetBundleValue": 11
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat",
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 16
             }
         ]
@@ -55646,6 +55710,7 @@
         "forms": [
             {
                 "id": "ROTOM",
+<<<<<<< HEAD
                 "name": "Rotom",
                 "assetBundleValue": 11
             },
@@ -55672,6 +55737,34 @@
             {
                 "id": "ROTOM_MOW",
                 "name": "Rotom Mow",
+=======
+                "name": "Rotom"
+                "assetBundleValue": 11
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat",
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 16
             }
         ]
@@ -55769,6 +55862,7 @@
         "forms": [
             {
                 "id": "ROTOM",
+<<<<<<< HEAD
                 "name": "Rotom",
                 "assetBundleValue": 11
             },
@@ -55795,6 +55889,34 @@
             {
                 "id": "ROTOM_MOW",
                 "name": "Rotom Mow",
+=======
+                "name": "Rotom"
+                "assetBundleValue": 11
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat",
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 16
             }
         ]
@@ -55892,6 +56014,7 @@
         "forms": [
             {
                 "id": "ROTOM",
+<<<<<<< HEAD
                 "name": "Rotom",
                 "assetBundleValue": 11
             },
@@ -55918,6 +56041,34 @@
             {
                 "id": "ROTOM_MOW",
                 "name": "Rotom Mow",
+=======
+                "name": "Rotom"
+                "assetBundleValue": 11
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat",
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 16
             }
         ]
@@ -56015,6 +56166,7 @@
         "forms": [
             {
                 "id": "ROTOM",
+<<<<<<< HEAD
                 "name": "Rotom",
                 "assetBundleValue": 11
             },
@@ -56041,6 +56193,34 @@
             {
                 "id": "ROTOM_MOW",
                 "name": "Rotom Mow",
+=======
+                "name": "Rotom"
+                "assetBundleValue": 11
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat",
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 16
             }
         ]
@@ -56063,7 +56243,7 @@
         "kmBuddyDistance": 5,
         "weight": 0.3,
         "modelScale": 1.26,
-        "maxCP": 2579,
+        "maxCP": 2031,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -56097,8 +56277,8 @@
             "name": "Rotom"
         },
         "stats": {
-            "baseAttack": 204,
-            "baseDefense": 219,
+            "baseAttack": 185,
+            "baseDefense": 159,
             "baseStamina": 137
         },
         "types": [
@@ -56138,6 +56318,7 @@
         "forms": [
             {
                 "id": "ROTOM",
+<<<<<<< HEAD
                 "name": "Rotom",
                 "assetBundleValue": 11
             },
@@ -56164,6 +56345,34 @@
             {
                 "id": "ROTOM_MOW",
                 "name": "Rotom Mow",
+=======
+                "name": "Rotom"
+                "assetBundleValue": 11
+            },
+            {
+                "id": "ROTOM_FROST",
+                "name": "Rotom Frost",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "ROTOM_FAN",
+                "name": "Rotom Fan",
+                "assetBundleValue": 13
+            },
+            {
+                "id": "ROTOM_MOW",
+                "name": "Rotom Mow",
+                "assetBundleValue": 14
+            },
+            {
+                "id": "ROTOM_WASH",
+                "name": "Rotom Wash",
+                "assetBundleValue": 15
+            },
+            {
+                "id": "ROTOM_HEAT",
+                "name": "Rotom Heat",
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 16
             }
         ]
@@ -57331,7 +57540,17 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Manaphy",
+                    "id": "MANAPHY",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
         "id": "PHIONE",
         "forms": []
     },
@@ -57422,7 +57641,15 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Phione",
+                "id": "PHIONE"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
         "id": "MANAPHY",
         "forms": []
     },
@@ -57536,7 +57763,7 @@
         "kmBuddyDistance": 20,
         "weight": 2.1,
         "modelScale": 1.26,
-        "maxCP": 3265,
+        "maxCP": 3592,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -57570,8 +57797,8 @@
             "name": "Shaymin"
         },
         "stats": {
-            "baseAttack": 210,
-            "baseDefense": 210,
+            "baseAttack": 261,
+            "baseDefense": 166,
             "baseStamina": 225
         },
         "types": [
@@ -57638,7 +57865,7 @@
         "kmBuddyDistance": 20,
         "weight": 2.1,
         "modelScale": 1.26,
-        "maxCP": 3265,
+        "maxCP": 3592,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -57672,8 +57899,8 @@
             "name": "Shaymin"
         },
         "stats": {
-            "baseAttack": 210,
-            "baseDefense": 210,
+            "baseAttack": 261,
+            "baseDefense": 166,
             "baseStamina": 225
         },
         "types": [
@@ -57740,7 +57967,7 @@
         "kmBuddyDistance": 20,
         "weight": 5.2,
         "modelScale": 1.26,
-        "maxCP": 3592,
+        "maxCP": 3265,
         "buddySize": {
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
@@ -57774,8 +58001,8 @@
             "name": "Shaymin"
         },
         "stats": {
-            "baseAttack": 261,
-            "baseDefense": 166,
+            "baseAttack": 210,
+            "baseDefense": 210,
             "baseStamina": 225
         },
         "types": [
@@ -57920,7 +58147,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -58102,7 +58333,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -58284,7 +58519,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -58466,7 +58705,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -58648,7 +58891,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -58830,7 +59077,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -59012,7 +59263,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -59194,7 +59449,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -59376,7 +59635,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -59558,7 +59821,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -59922,7 +60189,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -60104,7 +60375,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -60286,7 +60561,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -60468,7 +60747,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -60650,7 +60933,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -60832,7 +61119,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -61014,7 +61305,11 @@
         "forms": [
             {
                 "id": "ARCEUS",
+<<<<<<< HEAD
                 "name": "Arceus",
+=======
+                "name": "Arceus"
+>>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
                 "assetBundleValue": 11
             },
             {
@@ -61291,6 +61586,98 @@
             },
             "costToEvolve": {
                 "candyCost": 400
+        "evolution": {},
+        "id": "ARCEUS_WATER",
+        "forms": [
+            {
+                "id": "ARCEUS_NORMAL",
+                "name": "Arceus Normal",
+                "assetBundleValue": 11
+            },
+            {
+                "id": "ARCEUS_FIGHTING",
+                "name": "Arceus Fighting",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "ARCEUS_FLYING",
+                "name": "Arceus Flying",
+                "assetBundleValue": 13
+            },
+            {
+                "id": "ARCEUS_POISON",
+                "name": "Arceus Poison",
+                "assetBundleValue": 14
+            },
+            {
+                "id": "ARCEUS_GROUND",
+                "name": "Arceus Ground",
+                "assetBundleValue": 15
+            },
+            {
+                "id": "ARCEUS_ROCK",
+                "name": "Arceus Rock",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "ARCEUS_BUG",
+                "name": "Arceus Bug",
+                "assetBundleValue": 17
+            },
+            {
+                "id": "ARCEUS_GHOST",
+                "name": "Arceus Ghost",
+                "assetBundleValue": 18
+            },
+            {
+                "id": "ARCEUS_STEEL",
+                "name": "Arceus Steel",
+                "assetBundleValue": 19
+            },
+            {
+                "id": "ARCEUS_FIRE",
+                "name": "Arceus Fire",
+                "assetBundleValue": 20
+            },
+            {
+                "id": "ARCEUS_WATER",
+                "name": "Arceus Water",
+                "assetBundleValue": 21
+            },
+            {
+                "id": "ARCEUS_GRASS",
+                "name": "Arceus Grass",
+                "assetBundleValue": 22
+            },
+            {
+                "id": "ARCEUS_ELECTRIC",
+                "name": "Arceus Electric",
+                "assetBundleValue": 23
+            },
+            {
+                "id": "ARCEUS_PSYCHIC",
+                "name": "Arceus Psychic",
+                "assetBundleValue": 24
+            },
+            {
+                "id": "ARCEUS_ICE",
+                "name": "Arceus Ice",
+                "assetBundleValue": 25
+            },
+            {
+                "id": "ARCEUS_DRAGON",
+                "name": "Arceus Dragon",
+                "assetBundleValue": 26
+            },
+            {
+                "id": "ARCEUS_DARK",
+                "name": "Arceus Dark",
+                "assetBundleValue": 27
+            },
+            {
+                "id": "ARCEUS_FAIRY",
+                "name": "Arceus Fairy",
+                "assetBundleValue": 28
             }
         },
         "id": "MELMETAL",
