@@ -9,7 +9,7 @@ export class Util {
     }
 
     public static SnakeCase2HumanReadable(snakeCase: string): string {
-        return _(snakeCase
+    return _(snakeCase
             .toLowerCase()
             .split('_'))
             .map(Util.FirstCharacter2Uppercase)

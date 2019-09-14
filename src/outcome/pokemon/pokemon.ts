@@ -32,7 +32,8 @@ interface Pokemon {
      * @example
      * 1.09
      */
-    modelScale: number;
+     modelScaleV2: number;
+     modelScale: number;
     /**
      * Array of types it has of the Pokemon.
      * @example

@@ -1,7 +1,6 @@
 export interface RootObject {
   itemTemplates: ItemTemplate[];
   timestampMs: string;
-  version: string;
 }
 export interface ItemTemplate {
   templateId: string;
@@ -25,11 +24,15 @@ export interface ItemTemplate {
   iapSettings?: IapSettings;
   itemSettings?: ItemSettings;
   luckyPokemonSettings?: LuckyPokemonSettings;
+  onboardingV2Settings?: OnboardingV2Settings;
+  partyRecommendationSettings?: PartyRecommendationSettings;
   playerLevel?: PlayerLevel;
+  pokecoinPurchaseDisplayGmt?: PokecoinPurchaseDisplayGmt;
   pokemonScaleSettings?: PokemonScaleSettings;
   typeEffective?: TypeEffective;
   pokemonUpgrades?: PokemonUpgrades;
   questSettings?: QuestSettings;
+  smeargleMovesSettings?: SmeargleMovesSettings;
   genderSettings?: GenderSettings;
   combatNpcTrainer?: CombatNpcTrainer;
   combatNpcPersonality?: CombatNpcPersonality;
@@ -40,7 +43,6 @@ export interface ItemTemplate {
   iapItemDisplay?: IapItemDisplay;
   camera?: Camera2;
   moveSequenceSettings?: MoveSequenceSettings;
-  smeargleMovesSettings?: SmeargleMovesSettings;
 }
 export interface MoveSequenceSettings {
   sequence: string[];
@@ -125,7 +127,6 @@ export interface PokemonSettings {
   buddyOffsetMale: number[];
   buddyOffsetFemale: number[];
   buddyScale: number;
-  buddyPortraitOffset: number[];
   thirdMove: ThirdMove;
   isTransferable?: boolean;
   isDeployable?: boolean;
@@ -134,20 +135,28 @@ export interface PokemonSettings {
   combatShoulderCameraAngle?: number[];
   combatDefaultCameraAngle?: number[];
   combatPlayerFocusCameraAngle?: number[];
+  buddyPortraitOffset?: number[];
   form?: string;
+  combatPlayerPokemonPositionOffset?: number[];
   rarity?: string;
   combatOpponentFocusCameraAngle?: number[];
 }
 export interface ThirdMove {
-  stardustToUnlock: number;
+  stardustToUnlock?: number;
   candyToUnlock: number;
 }
 export interface EvolutionBranch {
   evolution: string;
-  candyCost?: number;
+  candyCost: number;
   form?: string;
   evolutionItemRequirement?: string;
+  lureItemRequirement?: string;
   kmBuddyDistanceRequirement?: number;
+  mustBeBuddy?: boolean;
+  onlyDaytime?: boolean;
+  priority?: number;
+  onlyNighttime?: boolean;
+  genderRequirement?: string;
 }
 export interface Stats {
   baseStamina: number;
@@ -216,6 +225,10 @@ export interface Gender {
   femalePercent?: number;
   genderlessPercent?: number;
 }
+export interface SmeargleMovesSettings {
+  quickMoves: string[];
+  cinematicMoves: string[];
+}
 export interface QuestSettings {
   questType: string;
   dailyQuest: DailyQuest;
@@ -241,6 +254,9 @@ export interface PokemonScaleSettings {
   minHeight: number;
   maxHeight: number;
 }
+export interface PokecoinPurchaseDisplayGmt {
+  featureEnabled: boolean;
+}
 export interface PlayerLevel {
   rankNum: number[];
   requiredExperience: number[];
@@ -248,6 +264,15 @@ export interface PlayerLevel {
   maxEggPlayerLevel: number;
   maxEncounterPlayerLevel: number;
   maxQuestEncounterPlayerLevel: number;
+}
+export interface PartyRecommendationSettings {
+  mode: string;
+  variance: number;
+  thirdMoveWeight: number;
+}
+export interface OnboardingV2Settings {
+  pokedexId: string[];
+  eggKmUntilHatch: number;
 }
 export interface LuckyPokemonSettings {
   powerUpStardustDiscountPercent: number;
@@ -359,15 +384,15 @@ export interface CombatMove {
   power?: number;
   vfxName: string;
   energyDelta?: number;
-  durationTurns?: number;
   buffs?: Buffs;
-  }
+  durationTurns?: number;
+}
 export interface Buffs {
   attackerAttackStatStageChange?: number;
-  targetAttackStatStageChange?: number;
-  targetDefenseStatStageChange?: number;
-  targetDefenseStatStageChange?: number;
+  attackerDefenseStatStageChange?: number;
   buffActivationChance: number;
+  targetDefenseStatStageChange?: number;
+  targetAttackStatStageChange?: number;
 }
 export interface CombatStatStageSettings {
   minimumStatStage: number;
@@ -457,19 +482,14 @@ export interface AvatarCustomization {
   enabled?: boolean;
   avatarType?: string;
   slot: string[];
-  bundleName: string;
+  bundleName?: string;
   assetName: string;
   groupName: string;
   sortOrder: number;
   unlockType: string;
   iapSku?: string;
-  iconName: string;
+  iconName?: string;
   unlockBadgeType?: string;
   unlockBadgeLevel?: number;
   unlockPlayerLevel?: number;
 }
-export interface SmeargleMovesSettings {
-    quickMoves string[];
-    cinematicMoves string[];
-}
-

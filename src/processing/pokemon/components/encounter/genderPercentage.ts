@@ -27,7 +27,14 @@ export class GenderPercentage implements IComponent {
       .filter(itemTemplate => this.isItemTemplateSpawn(itemTemplate))
       .find(itemTemplate =>
         itemTemplate.genderSettings.pokemon === pokemonId);
-    let malePercent = itemTemplate.genderSettings.gender.malePercent;
+        //No idea the correct way to fix this but this works for now
+        if (!itemTemplate) {
+            return {
+                malePercent: 50,
+                femalePercent: 50
+            }
+        } 
+        let malePercent = itemTemplate.genderSettings.gender.malePercent;
     let femalePercent = itemTemplate.genderSettings.gender.femalePercent;
 
     // For NIDORAN_MALE

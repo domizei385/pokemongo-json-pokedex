@@ -75,6 +75,19 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "GEN5_EVOLUTION_STONE",
+        "name": "Gen5 Evolution Stone",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
+    },
+    {
         "id": "GOLDEN_PINAP_BERRY",
         "name": "Golden Pinap Berry",
         "category": {

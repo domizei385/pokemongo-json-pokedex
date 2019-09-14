@@ -39,7 +39,8 @@ const write = async (file: string, pipeline: Pipeline, name: string) => {
         data = await pipeline.Run();
     }
     catch (err) {
-        done(err, name);
+    console.error(err)
+    done(err, name);
     }
     fs.writeFile(file, JSON.stringify(data, null, 4), err => done(err, name));
     return data;

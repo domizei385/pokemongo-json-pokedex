@@ -1176,6 +1176,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Mewtwo",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_mewtwo_0",
+        "iconName": "f_hat_mewtwo_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Mimikyu 0",
         "gender": "Female",
         "enabled": true,
@@ -1259,6 +1270,17 @@
         "enabled": true,
         "id": "f_hat_ruinmaniac_0",
         "iconName": "f_hat_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Strawhat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_strawhat_0",
+        "iconName": "f_hat_strawhat_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1574,6 +1596,17 @@
         "id": "f_pants_hgss_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_pants_hgss_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Mewtwo",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_mewtwo_0",
+        "iconName": "f_pants_mewtwo_0_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2463,6 +2496,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Happi",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_happi_0",
+        "iconName": "f_shirt_happi_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Happi 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_happi_1",
+        "iconName": "f_shirt_happi_1_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Happi 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_happi_2",
+        "iconName": "f_shirt_happi_2_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Hgss 0",
         "gender": "Female",
         "enabled": true,
@@ -2508,6 +2574,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Jirachi",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_jirachi_0",
+        "iconName": "f_shirt_jirachi_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Latias Latios 0",
         "gender": "Female",
         "enabled": true,
@@ -2535,6 +2612,17 @@
         "enabled": true,
         "id": "f_shirt_mew_0",
         "iconName": "f_shirt_mew_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Mewtwo",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_mewtwo_0",
+        "iconName": "f_shirt_mewtwo_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3214,6 +3302,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Mewtwo",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_mewtwo_0",
+        "iconName": "f_shoes_mewtwo_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Misty",
         "gender": "Female",
         "enabled": true,
@@ -3242,6 +3341,39 @@
         "enabled": true,
         "id": "f_shoes_ruinmaniac_0",
         "iconName": "f_shoes_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sandals",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_sandals_0",
+        "iconName": "f_shoes_sandals_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sandals 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_sandals_1",
+        "iconName": "f_shoes_sandals_1_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sandals 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_sandals_2",
+        "iconName": "f_shoes_sandals_2_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -4526,6 +4658,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Mewtwo",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_mewtwo_0",
+        "iconName": "m_hat_mewtwo_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Mimikyu 0",
         "gender": "Male",
         "enabled": true,
@@ -4609,6 +4752,17 @@
         "enabled": true,
         "id": "m_hat_ruinmaniac_0",
         "iconName": "m_hat_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Strawhat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_strawhat_0",
+        "iconName": "m_hat_strawhat_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -4849,6 +5003,17 @@
         "id": "m_pants_jogger_0",
         "unlockBadgeLevel": 100,
         "iconName": "m_pants_jogger_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Mewtwo",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_mewtwo_0",
+        "iconName": "m_pants_mewtwo_0_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -5607,6 +5772,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Happi",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_happi_0",
+        "iconName": "m_shirt_happi_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Happi 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_happi_1",
+        "iconName": "m_shirt_happi_1_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Happi 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_happi_2",
+        "iconName": "m_shirt_happi_2_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Hgss 0",
         "gender": "Male",
         "enabled": true,
@@ -5646,6 +5844,17 @@
         "enabled": true,
         "id": "m_shirt_ingress_r_0",
         "iconName": "m_shirt_ingress_r_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Jirachi",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_jirachi_0",
+        "iconName": "m_shirt_jirachi_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -5757,6 +5966,17 @@
         "enabled": true,
         "id": "m_shirt_mew_0",
         "iconName": "m_shirt_mew_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Mewtwo",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_mewtwo_0",
+        "iconName": "m_shirt_mewtwo_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6372,6 +6592,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Mewtwo",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_mewtwo_0",
+        "iconName": "m_shoes_mewtwo_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Pikachufan 0",
         "gender": "Male",
         "enabled": true,
@@ -6389,6 +6620,39 @@
         "enabled": true,
         "id": "m_shoes_ruinmaniac_0",
         "iconName": "m_shoes_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sandals",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_sandals_0",
+        "iconName": "m_shoes_sandals_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sandals 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_sandals_1",
+        "iconName": "m_shoes_sandals_1_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sandals 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_sandals_2",
+        "iconName": "m_shoes_sandals_2_bundle_icon",
         "slot": [
             "Shoes"
         ],

@@ -14,4 +14,10 @@ export interface EvolutionCostToEvolve {
      * evolve it
      */
     kmBuddyDistance?: number;
+    kmBuddyDistanceRequirement?: number;
+    lureItemRequirement?: Identifyable;
+    mustBeBuddy?: boolean;
+    onlyNighttime?: boolean;
+    onlyDaytime?: boolean;
+    priority?: number;
 }

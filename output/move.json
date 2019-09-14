@@ -4030,7 +4030,6 @@
         },
         "name": "Last Resort",
         "internalId": 300
-<<<<<<< HEAD
     },
     {
         "accuracyChange": 1,
@@ -4116,6 +4115,26 @@
     {
         "accuracyChange": 1,
         "animationId": 5,
+        "power": 85,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "crabhammer",
+        "durationMs": 1900,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1750,
+        "energyDelta": -50,
+        "id": "CRABHAMMER",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Crabhammer",
+        "internalId": 305
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
         "power": 45,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4132,6 +4151,26 @@
         },
         "name": "Leaf Tornado",
         "internalId": 312
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 50,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "muddy_water",
+        "durationMs": 2200,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -33,
+        "id": "MUDDY_WATER",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Muddy Water",
+        "internalId": 316
     },
     {
         "accuracyChange": 1,
@@ -4192,7 +4231,65 @@
         },
         "name": "Charm Fast",
         "internalId": 320
-=======
->>>>>>> a136b8c0c49cc06ef298da121d7a7cad786cae84
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 10,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "frustration",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1800,
+        "energyDelta": -33,
+        "id": "FRUSTRATION",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Frustration",
+        "internalId": 322
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 35,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "return",
+        "durationMs": 700,
+        "damageWindowStartMs": 100,
+        "damageWindowEndMs": 350,
+        "energyDelta": -33,
+        "id": "RETURN",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Return",
+        "internalId": 323
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 80,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "synchronoise",
+        "durationMs": 2600,
+        "damageWindowStartMs": 850,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50,
+        "id": "SYNCHRONOISE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_PSYCHIC",
+            "name": "Psychic"
+        },
+        "name": "Synchronoise",
+        "internalId": 324
     }
 ]
