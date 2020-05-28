@@ -1,8 +1,6 @@
-
 import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
-import { Util } from '@util';
 
 @Component({
   pipeline: 'pokemon'

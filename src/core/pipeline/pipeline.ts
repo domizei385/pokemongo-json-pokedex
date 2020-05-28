@@ -1,140 +1,140 @@
-import {ComponentRegister, ComponentRegistry, ComponentType} from '@core/pipeline';
-import {ItemTemplate, RootObject} from '../../income';
-import {forEachSeries, mapSeries} from 'p-iteration';
+import { ComponentRegister, ComponentRegistry, ComponentType } from '@core/pipeline';
+import { ItemTemplate, RootObject } from '../../income';
+import { forEachSeries, mapSeries } from 'p-iteration';
 
 export interface IPipeline {
-    Run(): Promise<any>;
+  Run(): Promise<any>;
 }
 
 /**
  * Represents a Pipeline which runs multiple components
  */
 export abstract class Pipeline implements IPipeline {
-    protected name: string;
-    protected input: RootObject;
-    protected _components: ComponentRegister[];
-    protected parsedInput: ItemTemplate[];
-    private sortedComponents: ComponentRegister[];
-    private visitedComponents: Object;
+  protected name: string;
+  protected input: RootObject;
+  protected _components: ComponentRegister[];
+  protected parsedInput: ItemTemplate[];
+  private sortedComponents: ComponentRegister[];
+  private visitedComponents: Object;
 
-    /**
-     * Creates a new pipeline and parses the input by calling
-     * `isItemTemplate`
-     * @param input The GAME_MASTER data
-     * @param name The name of the pipeline
-     */
-    constructor(input: RootObject, name: string) {
-        this.input = input;
-        this.name = name;
-        this.parsedInput = this.Parse();
-        console.log("Items for ", name, this.parsedInput.length);
+  /**
+   * Creates a new pipeline and parses the input by calling
+   * `isItemTemplate`
+   * @param input The GAME_MASTER data
+   * @param name The name of the pipeline
+   */
+  constructor(input: RootObject, name: string) {
+    this.input = input;
+    this.name = name;
+    this.parsedInput = this.Parse();
+    console.log('Items for ', name, this.parsedInput.length);
+  }
+
+  public get Components() {
+    if (!this._components) {
+      this._components = ComponentRegistry.Instance.Components.filter(component => component.settings.pipeline === this.name);
     }
+    return this._components;
+  }
 
-    public get Components() {
-        if (!this._components) {
-            this._components = ComponentRegistry.Instance.Components.filter(component => component.settings.pipeline === this.name);
-        }
-        return this._components;
+  abstract isItemTemplate(item: ItemTemplate): boolean;
+
+  Parse(): ItemTemplate[] {
+    return this.input.itemTemplate
+        .filter(p => this.isItemTemplate(p));
+  }
+
+  /**
+   * Checks the dependencies of the given component-register
+   * @param component The component-register to check the dependencies
+   * @param ancestors (optional) Its parent ids
+   */
+  private visitComponent(component: ComponentRegister, ancestors?: string[]) {
+    if (ancestors === undefined) {
+      ancestors = [];
     }
+    ancestors.push(component.id);
+    this.visitedComponents[component.id] = true;
 
-    abstract isItemTemplate(item: ItemTemplate): boolean;
+    component.dependencies.forEach(dependency => {
+      // @ts-ignore
+      const dependencyId = dependency.constructor.name;
+      if (ancestors.indexOf(dependencyId) >= 0)  // if already in ancestors, a closed chain exists.
+        throw new Error(`Circular dependency "${dependencyId}'" is required by "${component.id}": ${ancestors.join(' -> ')}`);
 
-    Parse(): ItemTemplate[] {
-        return this.input.itemTemplate
-            .filter(p => this.isItemTemplate(p));
-    }
+      // if already exists, do nothing
+      if (this.visitedComponents[component.id]) return;
+      this.visitComponent(dependency, ancestors.slice(0)); // recursive call
+    });
 
-    /**
-     * Checks the dependencies of the given component-register
-     * @param component The component-register to check the dependencies
-     * @param ancestors (optional) Its parent ids
-     */
-    private visitComponent(component: ComponentRegister, ancestors?: string[]) {
-        if (ancestors === undefined) {
-            ancestors = [];
-        }
-        ancestors.push(component.id);
-        this.visitedComponents[component.id] = true;
+    this.sortedComponents.push(component);
+  }
 
-        component.dependencies.forEach(dependency => {
-            // @ts-ignore
-            const dependencyId = dependency.constructor.name;
-            if (ancestors.indexOf(dependencyId) >= 0)  // if already in ancestors, a closed chain exists.
-                throw new Error(`Circular dependency "${dependencyId}'" is required by "${component.id}": ${ancestors.join(' -> ')}`);
+  /**
+   * Sorts the components so it is executed with correct dependency relation.
+   * Will be stored inside `this.sortedComponents`
+   */
+  private resolveDependencyResolution() {
+    this.sortedComponents = [];
+    this.visitedComponents = {};
 
-            // if already exists, do nothing
-            if (this.visitedComponents[component.id]) return;
-            this.visitComponent(dependency, ancestors.slice(0)); // recursive call
-        });
+    this.Components.forEach(component => this.visitComponent(component));
+  }
 
-        this.sortedComponents.push(component);
-    }
+  private async process(component: ComponentRegister, output: any, input: any, additionalInput?: Map<String, any>): Promise<any> {
+    return new Promise((resolve, reject) => {
+      let callback;
 
-    /**
-     * Sorts the components so it is executed with correct dependency relation.
-     * Will be stored inside `this.sortedComponents`
-     */
-    private resolveDependencyResolution() {
-        this.sortedComponents = [];
-        this.visitedComponents = {};
+      try {
+        // Synchronous
+        callback = component.component.Process(output, input, additionalInput);
+      } catch (error) {
+        reject(error);
+      }
 
-        this.Components.forEach(component => this.visitComponent(component));
-    }
+      if (callback && callback.then) {
+        // Is async
+        callback.then(resolve).catch(reject)
+      } else {
+        resolve(callback);
+      }
 
-    private async process(component: ComponentRegister, output: any, input: any, additionalInput?: Map<String, any>): Promise<any> {
-        return new Promise((resolve, reject) => {
-            let callback;
+    });
+  }
 
-            try {
-                // Synchronous
-                callback = component.component.Process(output, input, additionalInput);
-            } catch (error) {
-                reject(error);
-            }
+  private shouldComponentBeProcessed(component: ComponentRegister, input: ItemTemplate) {
+    // No templateId settings was set (= allow every item template)
+    return !component.settings.templateId ||
+        // or is actually correct template id
+        input.templateId === component.settings.templateId;
+  }
 
-            if (callback && callback.then) {
-                // Is async
-                callback.then(resolve).catch(reject)
-            } else {
-                resolve(callback);
-            }
+  private async processSimpleMapComponent(component: ComponentRegister, output: any[], additionalInput?: Map<String, any>) {
+    return await mapSeries(this.parsedInput, async (input, index) => {
+      const processedItem = output[index] || {};
+      if (this.shouldComponentBeProcessed(component, input)) {
+        return await this.process(component, processedItem, input, additionalInput);
+      } else {
+        // Skip component processing
+        return processedItem;
+      }
+    });
+  }
 
-        });
-    }
-
-    private shouldComponentBeProcessed(component: ComponentRegister, input: ItemTemplate) {
-        // No templateId settings was set (= allow every item template)
-        return !component.settings.templateId ||
-            // or is actually correct template id
-            input.templateId === component.settings.templateId;
-    }
-
-    private async processSimpleMapComponent(component: ComponentRegister, output: any[], additionalInput?: Map<String, any>) {
-        return await mapSeries(this.parsedInput, async (input, index) => {
-            const processedItem = output[index] || {};
-            if (this.shouldComponentBeProcessed(component, input)) {
-                return await this.process(component, processedItem, input, additionalInput);
-            } else {
-                // Skip component processing
-                return processedItem;
-            }
-        });
-    }
-
-    /**
-     * Runs the components of its Pipeline
-     */
-    public async Run(): Promise<Object[]> {
-        this.resolveDependencyResolution();
-        let output = [];
-        await forEachSeries(this.sortedComponents, async component => {
-            let additionalInput = (component.settings.requiresGameMaster ? {'gameMaster': this.input} : {}) as Map<String, any>
-            if (component.settings.type === ComponentType.SIMPLE_MAP) {
-                output = await this.processSimpleMapComponent(component, output, additionalInput);
-            } else if (component.settings.type === ComponentType.ADVANCED_MAP) {
-                output = await this.process(component, output, this.parsedInput, additionalInput);
-            }
-        });
-        return output;
-    }
+  /**
+   * Runs the components of its Pipeline
+   */
+  public async Run(): Promise<Object[]> {
+    this.resolveDependencyResolution();
+    let output = [];
+    await forEachSeries(this.sortedComponents, async component => {
+      let additionalInput = (component.settings.requiresGameMaster ? {'gameMaster': this.input} : {}) as Map<String, any>
+      if (component.settings.type === ComponentType.SIMPLE_MAP) {
+        output = await this.processSimpleMapComponent(component, output, additionalInput);
+      } else if (component.settings.type === ComponentType.ADVANCED_MAP) {
+        output = await this.process(component, output, this.parsedInput, additionalInput);
+      }
+    });
+    return output;
+  }
 }

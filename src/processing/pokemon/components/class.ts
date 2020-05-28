@@ -1,4 +1,3 @@
-
 import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
@@ -13,7 +12,7 @@ export class PokemonClass implements IComponent {
       pokemon.pokemonClass = {
         id: rawPokemon.pokemon.pokemonClass,
         name: Util.SnakeCase2HumanReadable(rawPokemon.pokemon.pokemonClass
-          .replace('POKEMON_RARITY_', ''))
+            .replace('POKEMON_RARITY_', ''))
       };
     }
     return pokemon;

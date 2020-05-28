@@ -5,13 +5,13 @@ import { ItemTemplate } from '@income/index';
  * @param templateId The template id of the item
  */
 export const TemplateIdToId = (rawPokemon: ItemTemplate) => {
-    let newId = rawPokemon.templateId.substring(14);
-    const pokemonId = rawPokemon.pokemon.uniqueId;
-    if (pokemonId.endsWith('_MALE')) {
-        newId += '_MALE'
-    }
-    if (pokemonId.endsWith('_FEMALE')) {
-        newId += '_FEMALE';
-    }
-    return newId;
+  let newId = rawPokemon.templateId.substring(14);
+  const pokemonId = rawPokemon.pokemon.uniqueId;
+  if (pokemonId.endsWith('_MALE')) {
+    newId += '_MALE'
+  }
+  if (pokemonId.endsWith('_FEMALE')) {
+    newId += '_FEMALE';
+  }
+  return newId;
 };

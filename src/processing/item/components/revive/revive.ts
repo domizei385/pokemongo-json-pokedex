@@ -4,20 +4,20 @@ import { Item, ItemRevive } from '@outcome/item/index';
 import { ItemTemplate } from '@income/index';
 
 @Component({
-    pipeline: 'item'
+  pipeline: 'item'
 })
 export class Revive implements IComponent {
-    /**
-     * Sets the revive object and maps generic properties
-     */
-    Process(item: Item, rawItem: ItemTemplate): Item {
-        // Is a revie
-        if (!rawItem.item.revive) {
-            return item;
-        }
-
-        item.revive = item.revive || {} as ItemRevive;
-        item.revive.staminaPercent = rawItem.item.revive.staPercent;
-        return item;
+  /**
+   * Sets the revive object and maps generic properties
+   */
+  Process(item: Item, rawItem: ItemTemplate): Item {
+    // Is a revie
+    if (!rawItem.item.revive) {
+      return item;
     }
+
+    item.revive = item.revive || {} as ItemRevive;
+    item.revive.staminaPercent = rawItem.item.revive.staPercent;
+    return item;
+  }
 }

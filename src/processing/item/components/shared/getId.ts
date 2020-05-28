@@ -5,6 +5,6 @@ import { ItemTemplate } from '../../../../income/index';
  * @param templateId The template id of the item
  */
 export const GetId = (rawPokemon: ItemTemplate) => {
-    let newId = rawPokemon.templateId.replace('ITEM_', '');
-    return newId;
+  let newId = rawPokemon.templateId.replace('ITEM_', '');
+  return newId;
 };

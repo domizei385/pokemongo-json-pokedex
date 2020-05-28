@@ -1,20 +1,20 @@
 import { Identifyable } from '@core/identifyable';
 
 export interface Move extends Identifyable {
-    name: string;
-    id: string;
-    internalId: number;
-    animationId: string;
-    pokemonType: Identifyable;
-    power: number;
-    accuracyChange: number;
-    criticalChance: number;
-    staminaLossScalar: number;
-    trainerLevelMin: number;
-    trainerLevelMax: number;
-    vfxName: string;
-    durationMs: number;
-    damageWindowStartMs: number;
-    damageWindowEndMs: number;
-    energyDelta: number;
+  name: string;
+  id: string;
+  internalId: number;
+  animationId: string;
+  pokemonType: Identifyable;
+  power: number;
+  accuracyChange: number;
+  criticalChance: number;
+  staminaLossScalar: number;
+  trainerLevelMin: number;
+  trainerLevelMax: number;
+  vfxName: string;
+  durationMs: number;
+  damageWindowStartMs: number;
+  damageWindowEndMs: number;
+  energyDelta: number;
 }

@@ -15,7 +15,7 @@ export class Category implements IComponent {
     const groupName = rawAvatarCustomization.avatarCustomization.groupName;
     const match: RegExpExecArray = new RegExp('group_(.*)', 'g').exec(groupName);
     if (!match.length) {
-        throw `Could not parse Category from ${groupName}`
+      throw `Could not parse Category from ${groupName}`
     }
 
     avatarCustomization.category = Util.SnakeCase2HumanReadable(match[1]);

@@ -5,23 +5,23 @@ import { ItemTemplate } from '@income/index';
 import { Food } from './food';
 
 @Component({
-    pipeline: 'item',
-    dependencies: [
-        new Food()
-    ]
+  pipeline: 'item',
+  dependencies: [
+    new Food()
+  ]
 })
 export class GrowthPercent implements IComponent {
-    /**
-     * Parses the growth percent
-     */
-    Process(item: Item, rawItem: ItemTemplate): Item {
-        // Is a food
-        if (!rawItem.item.food) {
-            return item;
-        }
-
-        item.food.growthPercent = rawItem.item.food.growthPercent;
-
-        return item;
+  /**
+   * Parses the growth percent
+   */
+  Process(item: Item, rawItem: ItemTemplate): Item {
+    // Is a food
+    if (!rawItem.item.food) {
+      return item;
     }
+
+    item.food.growthPercent = rawItem.item.food.growthPercent;
+
+    return item;
+  }
 }

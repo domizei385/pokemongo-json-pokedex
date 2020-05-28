@@ -13,9 +13,9 @@ export class Slot implements IComponent {
    */
   Process(avatarCustomization: AvatarCustomization, rawAvatarCustomization: ItemTemplate): AvatarCustomization {
     avatarCustomization.slot = rawAvatarCustomization
-            .avatarCustomization
-            .slot
-            .map(slot => Util.FirstCharacter2Uppercase(slot.toLowerCase()));
+        .avatarCustomization
+        .slot
+        .map(slot => Util.FirstCharacter2Uppercase(slot.toLowerCase()));
     return avatarCustomization;
   }
 }

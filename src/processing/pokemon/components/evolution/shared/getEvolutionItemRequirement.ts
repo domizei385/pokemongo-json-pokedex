@@ -16,16 +16,16 @@ export const GetEvolutionItemRequirement = (gameMaster: RootObject, evolutionIte
 
   // If is number then it is an item id..
   if (typeof evolutionItemRequirement === 'number') {
-      // Find item with the given id
-      const foundItem = (gameMaster.itemTemplate || [])
+    // Find item with the given id
+    const foundItem = (gameMaster.itemTemplate || [])
         .find(item => item.item && item.item.itemId.toString() === evolutionItemRequirement.toString());
-      id = foundItem.templateId
+    id = foundItem.templateId
   } else {
-      // If is string, it already is the id
-      id = evolutionItemRequirement;
+    // If is string, it already is the id
+    id = evolutionItemRequirement;
   }
 
   const name = Util.SnakeCase2HumanReadable(id.replace('ITEM_', ''))
 
-  return { id, name };
+  return {id, name};
 }

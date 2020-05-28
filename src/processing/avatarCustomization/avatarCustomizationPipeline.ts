@@ -1,6 +1,4 @@
 import { ItemTemplate, RootObject } from '@income';
-
-import { AvatarCustomization } from '@outcome/avatarCustomization';
 import { Pipeline } from '@core/pipeline';
 
 /**

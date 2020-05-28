@@ -1,7 +1,7 @@
 import { Locale } from '../../locales/locale.interface';
 
 export class AvatarCustomizationTranslations {
-    name: string;
+  name: string;
 }
 
 

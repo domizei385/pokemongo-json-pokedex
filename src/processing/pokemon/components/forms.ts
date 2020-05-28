@@ -1,4 +1,4 @@
-import {Component, IComponent} from '@core/pipeline';
+import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { Util } from '@util';
@@ -9,61 +9,61 @@ import { PokemonForm } from '@outcome/pokemon/pokemonForm';
  * Parses the pokemon forms from the item templates for each pokemon
  */
 @Component({
-    pipeline: 'pokemon',
-    requiresGameMaster: true
+  pipeline: 'pokemon',
+  requiresGameMaster: true
 })
 export class Forms implements IComponent {
 
-    /**
-     * Sets any additional forms the pokemon may have
-     */
-    Process(pokemon: Pokemon, rawPokemon: ItemTemplate, input: Map<String, any>): Pokemon {
-        const forms = this.getForms(input['gameMaster'], rawPokemon);
+  /**
+   * Sets any additional forms the pokemon may have
+   */
+  Process(pokemon: Pokemon, rawPokemon: ItemTemplate, input: Map<String, any>): Pokemon {
+    const forms = this.getForms(input['gameMaster'], rawPokemon);
 
-        pokemon.forms = forms;
+    pokemon.forms = forms;
 
-        return pokemon;
+    return pokemon;
+  }
+
+  private getForms(gameMaster, rawPokemon: ItemTemplate) {
+
+    const dex = parseInt(rawPokemon.templateId.split('_')[0].slice(1), 10);
+    const dexString = leftPad(dex, 4, '0');
+
+    const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemon.uniqueId}`;
+
+    const itemTemplate = (gameMaster.itemTemplate || [])
+        .find(itemTemplate => {
+          return itemTemplate.templateId === formKey;
+        });
+
+    const forms: PokemonForm[] = [];
+
+    if (itemTemplate && itemTemplate.formSettings && itemTemplate.formSettings.forms) {
+
+      itemTemplate.formSettings.forms.forEach(f => {
+
+        const formName = this.removeSuffixIfNeeded(f.form);
+
+        forms.push({
+          id: formName,
+          name: Util.SnakeCase2HumanReadable(formName),
+          assetBundleValue: f.assetBundleValue
+        });
+      });
     }
 
-    private getForms(gameMaster, rawPokemon: ItemTemplate) {
+    return forms;
+  }
 
-        const dex = parseInt(rawPokemon.templateId.split('_')[0].slice(1), 10);
-        const dexString = leftPad(dex, 4, '0');
+  private removeSuffixIfNeeded(name: string): string {
+    const normalSuffix: string = '_NORMAL';
+    const normalIndex = name.indexOf(normalSuffix);
 
-        const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemon.uniqueId}`;
-
-        const itemTemplate = (gameMaster.itemTemplate || [])
-            .find(itemTemplate => {
-                return itemTemplate.templateId === formKey;
-            });
-
-        const forms: PokemonForm[] = [];
-
-        if (itemTemplate && itemTemplate.formSettings && itemTemplate.formSettings.forms) {
-
-            itemTemplate.formSettings.forms.forEach(f => {
-
-                const formName = this.removeSuffixIfNeeded(f.form);
-
-                forms.push({
-                    id: formName,
-                    name: Util.SnakeCase2HumanReadable(formName),
-                    assetBundleValue: f.assetBundleValue
-                });
-            });
-        }
-
-        return forms;
+    if (normalIndex >= 0) {
+      name = name.substring(0, normalIndex);
     }
 
-    private removeSuffixIfNeeded(name: string): string {
-        const normalSuffix: string = '_NORMAL';
-        const normalIndex = name.indexOf(normalSuffix);
-
-        if (normalIndex >= 0) {
-            name = name.substring(0, normalIndex);
-        }
-
-        return name;
-    }
+    return name;
+  }
 }

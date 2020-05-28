@@ -1,5 +1,5 @@
 import { IComponent, Pipeline } from '@core/pipeline';
-import { RootObject, ItemTemplate } from '@income';
+import { ItemTemplate, RootObject } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { forEachSeries, map } from 'p-iteration';
 import * as _ from 'lodash';
@@ -32,8 +32,8 @@ export class PokemonPipeline extends Pipeline {
   }
 
   public async Run(): Promise<Object[]> {
-    const pokemonData = <Pokemon[]> await super.Run();
-    console.log("Pokemon count: ", pokemonData.length);
+    const pokemonData = <Pokemon[]>await super.Run();
+    console.log('Pokemon count: ', pokemonData.length);
     // Handle special game master files
     const specialInputs = await map(this.specialMasterFiles, input => (input.itemTemplate || []).filter(p => this.isItemTemplate(p)));
     const legacyMoveComponents = [new LegacyQuickMoves(), new LegacyCinematicMoves()];

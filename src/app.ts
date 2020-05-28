@@ -30,41 +30,39 @@ const LOCALES = ['de-DE', 'en-US', 'zh-TW', 'fr-FR', 'es-ES', 'ja-JP', 'it-IT', 
 
 const done = (err, name) =>
     err ?
-    console.log(`${chalk.red('✘')} Error while writing ${name}:${err}`) :
+        console.log(`${chalk.red('✘')} Error while writing ${name}:${err}`) :
         console.log(`${chalk.green('✔')} Successfully written ${name}`);
 
 const write = async (file: string, pipeline: Pipeline, name: string) => {
-    let data;
-    try {
-        data = await pipeline.Run();
-    }
-    catch (err) {
+  let data;
+  try {
+    data = await pipeline.Run();
+  } catch (err) {
     console.error(err)
     done(err, name);
-    }
-    fs.writeFile(file, JSON.stringify(data, null, 4), err => done(err, name));
-    return data;
+  }
+  fs.writeFile(file, JSON.stringify(data, null, 4), err => done(err, name));
+  return data;
 }
 
 const writeTranslations = async (file: string, pipeline: LocalesPipeline<any, any>, name: string) => {
-    let translations: Locale<PokemonLocalTranslations>[];
-    try {
-        translations = await pipeline.Run();
-    }
-    catch (err) {
-        done(err, name);
-    }
+  let translations: Locale<PokemonLocalTranslations>[];
+  try {
+    translations = await pipeline.Run();
+  } catch (err) {
+    done(err, name);
+  }
 
-    forEachSeries(translations, async translation => {
-        const folder = `./output/locales/${translation.name}`;
-        // @ts-ignore
-        const folderExists = await fs.exists(folder);
-        if (!folderExists) {
-            mkdirp.sync(folder);
-        }
-        await fs.writeFile(path.join(folder, file), JSON.stringify(translation.data, null, 4));
-        done(null, `${name} ${translation.name}`)
-    });
+  forEachSeries(translations, async translation => {
+    const folder = `./output/locales/${translation.name}`;
+    // @ts-ignore
+    const folderExists = await fs.exists(folder);
+    if (!folderExists) {
+      mkdirp.sync(folder);
+    }
+    await fs.writeFile(path.join(folder, file), JSON.stringify(translation.data, null, 4));
+    done(null, `${name} ${translation.name}`)
+  });
 };
 
 console.log(`${chalk.blue('i')} ${packageJson.name} ${chalk.cyan(packageJson.version)} `);
@@ -72,23 +70,23 @@ console.log(`${chalk.blue('i')} Using GAME_MASTER version ${chalk.cyan(gameMaste
 
 
 const writePokemon = async () => {
-    const pokemons = await write('./output/pokemon.json', new PokemonPipeline(gameMaster, specialGameMasters), 'Pokemons');
-    writeTranslations('pokemon.json', await new PokemonLocalesPipeline(POKEMON_TRANSLATIONS, pokemons, LOCALES), 'Pokemon Translations');
+  const pokemons = await write('./output/pokemon.json', new PokemonPipeline(gameMaster, specialGameMasters), 'Pokemons');
+  writeTranslations('pokemon.json', await new PokemonLocalesPipeline(POKEMON_TRANSLATIONS, pokemons, LOCALES), 'Pokemon Translations');
 }
 
 const writeMoves = async () => {
-    const moves = await write('./output/move.json', new MovePipeline(gameMaster), 'Moves');
-    writeTranslations('move.json', new MoveLocalesPipeline(MOVES_TRANSLATIONS, moves, LOCALES), 'Moves Translations');
+  const moves = await write('./output/move.json', new MovePipeline(gameMaster), 'Moves');
+  writeTranslations('move.json', new MoveLocalesPipeline(MOVES_TRANSLATIONS, moves, LOCALES), 'Moves Translations');
 }
 
 const writeItems = async () => {
-    const items = await write('./output/item.json', new ItemPipeline(gameMaster), 'Items');
-    writeTranslations('item.json', new ItemLocalesPipeline(ITEMS_TRANSLATIONS, items, LOCALES), 'Items Translations');
+  const items = await write('./output/item.json', new ItemPipeline(gameMaster), 'Items');
+  writeTranslations('item.json', new ItemLocalesPipeline(ITEMS_TRANSLATIONS, items, LOCALES), 'Items Translations');
 }
 
 const writeAvatarCusomization = async () => {
-    const avatarCustomization = await write('./output/avatar-customization.json', new AvatarCustomizationPipeline(gameMaster), 'Avatar Customizations');
-    writeTranslations('avatar-customization.json', new AvatarCustomizationLocalesPipeline(ITEMS_TRANSLATIONS, avatarCustomization, LOCALES), 'Avatar Customizations Translations');
+  const avatarCustomization = await write('./output/avatar-customization.json', new AvatarCustomizationPipeline(gameMaster), 'Avatar Customizations');
+  writeTranslations('avatar-customization.json', new AvatarCustomizationLocalesPipeline(ITEMS_TRANSLATIONS, avatarCustomization, LOCALES), 'Avatar Customizations Translations');
 };
 
 writePokemon();

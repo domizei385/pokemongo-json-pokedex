@@ -27,11 +27,12 @@ export class ComponentRegistry {
     if (this.areDependenciesAlreadyMapped) return;
     this.areDependenciesAlreadyMapped = true;
     (this.components || []).forEach(component =>
-      component.dependencies = (component.settings.dependencies || []).map(dependency =>
-        this.GetComponentById(
-          // @ts-ignore
-          dependency.constructor.name)));
+        component.dependencies = (component.settings.dependencies || []).map(dependency =>
+            this.GetComponentById(
+                // @ts-ignore
+                dependency.constructor.name)));
   }
+
   /**
    * Registers the given component with the given settings
    * @param component The component class to register
@@ -49,6 +50,7 @@ export class ComponentRegistry {
   public GetComponentById(componentId) {
     return this.components.find(component => component.id === componentId)
   }
+
   /**
    * Returns all registered components
    */

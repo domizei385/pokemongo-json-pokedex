@@ -1,7 +1,7 @@
 import { Locale } from '../../locales/locale.interface';
 
 export class MoveLocalTranslations {
-    name: string;
+  name: string;
 }
 
 

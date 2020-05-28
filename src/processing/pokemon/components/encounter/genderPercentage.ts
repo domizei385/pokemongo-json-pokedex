@@ -1,7 +1,6 @@
 import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon, PokemonGender } from '@outcome/pokemon';
-import { Util } from '@util';
 import { Encounter } from './enounter';
 
 @Component({
@@ -23,17 +22,17 @@ export class GenderPercentage implements IComponent {
    */
   private getGenderPercent(gameMaster, pokemonId: string): PokemonGender {
     const itemTemplate = (gameMaster.itemTemplate || [])
-      .filter(itemTemplate => this.isItemTemplateSpawn(itemTemplate))
-      .find(itemTemplate =>
-        itemTemplate.genderSettings.pokemon === pokemonId);
-        //No idea the correct way to fix this but this works for now
-        if (!itemTemplate) {
-            return {
-                malePercent: 50,
-                femalePercent: 50
-            }
-        } 
-        let malePercent = itemTemplate.genderSettings.gender.malePercent;
+        .filter(itemTemplate => this.isItemTemplateSpawn(itemTemplate))
+        .find(itemTemplate =>
+            itemTemplate.genderSettings.pokemon === pokemonId);
+    //No idea the correct way to fix this but this works for now
+    if (!itemTemplate) {
+      return {
+        malePercent: 50,
+        femalePercent: 50
+      }
+    }
+    let malePercent = itemTemplate.genderSettings.gender.malePercent;
     let femalePercent = itemTemplate.genderSettings.gender.femalePercent;
 
     // For NIDORAN_MALE

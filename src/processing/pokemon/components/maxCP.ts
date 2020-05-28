@@ -1,7 +1,6 @@
 import { Component, IComponent } from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
-import { Util } from '@util';
 import AppSettings from '@settings/app';
 
 @Component({
@@ -29,9 +28,9 @@ export class MaxCP implements IComponent {
 
     // CP = MAX(10, FLOOR(Stamina^0.5 * Attack * Def^0.5 / 10))
     return Math.max(10,
-      Math.floor(
-        Math.pow(stamina, 0.5) * attack * Math.pow(defense, 0.5) / 10
-      )
+        Math.floor(
+            Math.pow(stamina, 0.5) * attack * Math.pow(defense, 0.5) / 10
+        )
     );
   }
 

@@ -5,14 +5,14 @@ import { Move } from '@outcome/move';
 import { Util } from '@util';
 
 @Component({
-    pipeline: 'move'
+  pipeline: 'move'
 })
 export class Name implements IComponent {
-    /**
-     * Maps generic properties which do not need to be processed.
-     */
-    Process(move: Move, rawMove: ItemTemplate): Move {
-        move.name = Util.SnakeCase2HumanReadable(rawMove.move.movementId);
-        return move;
-    }
+  /**
+   * Maps generic properties which do not need to be processed.
+   */
+  Process(move: Move, rawMove: ItemTemplate): Move {
+    move.name = Util.SnakeCase2HumanReadable(rawMove.move.movementId);
+    return move;
+  }
 }

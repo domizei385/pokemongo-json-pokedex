@@ -4,16 +4,16 @@ import { LocalesPipeline } from '@core/pipeline/localePipeline';
 import { Move, MoveLocalTranslations } from '@outcome/move';
 
 export class MoveLocalesPipeline extends LocalesPipeline<Move, MoveLocalTranslations> {
-    constructor(
-        translations: Translation[],
-        entities: Move[],
-        locales: string[]) {
-        super(translations, entities, locales, move => move.id);
-    }
+  constructor(
+      translations: Translation[],
+      entities: Move[],
+      locales: string[]) {
+    super(translations, entities, locales, move => move.id);
+  }
 
-    async mapData(translation: MoveLocalTranslations, move: Move, localeName: string) {
-        const leftPaddedDex = leftPad(move.internalId, 4, '0');
-        translation.name = this.generateLocaleByKey(`move_name_${leftPaddedDex}`, localeName)
-        return translation;
-    }
+  async mapData(translation: MoveLocalTranslations, move: Move, localeName: string) {
+    const leftPaddedDex = leftPad(move.internalId, 4, '0');
+    translation.name = this.generateLocaleByKey(`move_name_${leftPaddedDex}`, localeName)
+    return translation;
+  }
 }

@@ -1,8 +1,8 @@
 import { Locale } from '../../locales/locale.interface';
 
 export class ItemLocalTranslations {
-    name: string;
-    description: string;
+  name: string;
+  description: string;
 }
 
 

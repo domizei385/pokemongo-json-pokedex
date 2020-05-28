@@ -21,7 +21,7 @@ export class Encounter implements IComponent {
       maxPokemonActionFrequency: rawPokemon.pokemon.encounter.maxPokemonActionFrequencyS,
       minPokemonActionFrequency: rawPokemon.pokemon.encounter.minPokemonActionFrequencyS,
       movementType:
-        rawPokemon.pokemon.encounter.movementType ? Util.SnakeCase2Identifyable(rawPokemon.pokemon.encounter.movementType) : null,
+          rawPokemon.pokemon.encounter.movementType ? Util.SnakeCase2Identifyable(rawPokemon.pokemon.encounter.movementType) : null,
     };
 
     return pokemon;

@@ -1,9 +1,9 @@
 import { Locale } from '../../locales/locale.interface';
 
 export class PokemonLocalTranslations {
-    name: string;
-    description: string;
-    category: string;
+  name: string;
+  description: string;
+  category: string;
 }
 
 

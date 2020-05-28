@@ -1,7 +1,6 @@
 import { ItemTemplate, RootObject } from '@income';
 
 import { Pipeline } from '@core/pipeline';
-import { Pokemon } from '@outcome/pokemon';
 
 /**
  * Represents the Pipeline which converts Game Master Pokemon-Type related
