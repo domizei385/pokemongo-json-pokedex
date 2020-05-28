@@ -8,7 +8,7 @@ import './quickMoves';
 import './family';
 import './stats';
 import './types';
-import './rarity';
+import './class';
 import './encounter/enounter';
 import './encounter/genderPercentage';
 import './camera';

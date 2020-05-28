@@ -11,7 +11,7 @@ import { Identifyable } from '@core';
  * input data to Pokemon models
  */
 export class PokemonPipeline extends Pipeline {
-  private readonly pokemonRegex: string = '^(V[0-9]+_POKEMON_?.*)';
+  private static pokemonPattern: string = '^(V[0-9]+_POKEMON_?.*)(?<!NORMAL)$';
   private readonly specialMasterFiles: RootObject[];
 
   constructor(input: RootObject, special: RootObject[]) {
@@ -19,12 +19,8 @@ export class PokemonPipeline extends Pipeline {
     this.specialMasterFiles = special;
   }
 
-  private isPokemon(templateId: string) {
-    return new RegExp('^(V[0-9]+_POKEMON_?.*)', 'g').test(templateId);
-  }
-
-  private isNormalPokemon(templateId: string) {
-    return new RegExp('^(V[0-9]+_POKEMON_?.*_NORMAL)', 'g').test(templateId)
+  private static isPokemon(templateId: string) {
+    return new RegExp(PokemonPipeline.pokemonPattern, 'g').test(templateId);
   }
 
   /**
@@ -32,19 +28,18 @@ export class PokemonPipeline extends Pipeline {
    */
   isItemTemplate(item: ItemTemplate): boolean {
     const id = item.templateId;
-    return this.isPokemon(id) && !this.isNormalPokemon(id);
+    return PokemonPipeline.isPokemon(id);
   }
-
 
   public async Run(): Promise<Object[]> {
     const pokemonData = <Pokemon[]> await super.Run();
-
+    console.log("Pokemon count: ", pokemonData.length);
     // Handle special game master files
-    const specialInputs = await map(this.specialMasterFiles, input => input.itemTemplates.filter(p => this.isItemTemplate(p)));
+    const specialInputs = await map(this.specialMasterFiles, input => (input.itemTemplate || []).filter(p => this.isItemTemplate(p)));
     const legacyMoveComponents = [new LegacyQuickMoves(), new LegacyCinematicMoves()];
     await forEachSeries(specialInputs, async specialInput => {
       await forEachSeries(specialInput, async itemTemplate => {
-        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.pokemonSettings.pokemonId);
+        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.pokemon.uniqueId);
         await forEachSeries(legacyMoveComponents, component => component.Process(currentPokemon, itemTemplate));
       });
     });
@@ -62,7 +57,7 @@ abstract class LegacyMove implements IComponent {
 
   Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
     const specialMoves = _
-        .chain(rawPokemon.pokemonSettings[this.moveType])
+        .chain(rawPokemon.pokemon[this.moveType])
         .uniq()
         .map(Util.SnakeCase2Identifyable)
         .filter(maybeSpecialMove => pokemon[this.moveType].find(move => move.id === maybeSpecialMove.id) === undefined)

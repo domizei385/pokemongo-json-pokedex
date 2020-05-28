@@ -12,7 +12,7 @@ export class Catgeory implements IComponent {
      * Parses the category of the item
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
-        item.category = Util.SnakeCase2Identifyable(rawItem.itemSettings.category.replace('ITEM_CATEGORY_', ''));
+        item.category = Util.SnakeCase2Identifyable(rawItem.item.category.replace('ITEM_CATEGORY_', ''));
         return item;
     }
 }

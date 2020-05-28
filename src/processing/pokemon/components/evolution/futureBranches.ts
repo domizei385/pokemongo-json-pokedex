@@ -2,7 +2,7 @@ import { Component, ComponentType, IComponent } from '@core/pipeline/component';
 import { EvolutionCostToEvolve, FutureEvolutionBranch, Pokemon, PokemonEvolution } from '@outcome/pokemon';
 
 import { GenericPropertyMapper } from '../genericPropertyMapper';
-import { ItemTemplate } from '@income';
+import {ItemTemplate, RootObject} from '@income';
 import { PokemonEvolutionParser } from './pokemonEvolution';
 import { Util } from '@util';
 import { Identifyable } from '@core';
@@ -18,7 +18,8 @@ import { GetEvolutionItemRequirement } from './shared/getEvolutionItemRequiremen
         new Id(),
         new GenericPropertyMapper(),
         new PokemonEvolutionParser(),
-    ]
+    ],
+    requiresGameMaster: true
 })
 
 /**
@@ -26,12 +27,13 @@ import { GetEvolutionItemRequirement } from './shared/getEvolutionItemRequiremen
  */
 export class FutureBranches implements IComponent {
     rawPokemons: ItemTemplate[];
+    gameMaster: RootObject;
     /**
      * Returns the future evolutions from the given GAME_MASTER data.
      * @param pokemonId The id of the pokemon
      */
     private GetFutureRawEvolutions(pokemon: ItemTemplate): ItemTemplate[] {
-        return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => {
+        return (pokemon.pokemon.evolutionBranch || []).map(branch => {
             const pokemonId = getPokemonIdByEvolutionBranch(branch);
             const rawPokemon = this.GetRawPokemonById(pokemonId)
             return rawPokemon;
@@ -44,7 +46,7 @@ export class FutureBranches implements IComponent {
      * @param rawPokemon The GAME_MASTER provided raw pokemon of the lower evolution branch
      */
     private GetEvolutionCost(futurePokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
-        const evolutionBranch = (rawPokemon.pokemonSettings.evolutionBranch || [])
+        const evolutionBranch = (rawPokemon.pokemon.evolutionBranch || [])
             .find(branch => getPokemonIdByEvolutionBranch(branch) === futurePokemonId);
 
         // If no evolution is found, just return nothing
@@ -55,7 +57,7 @@ export class FutureBranches implements IComponent {
         // Make evolutionItemRequirement to Identifyable
         let evolutionItem: Identifyable;
         if (evolutionBranch.evolutionItemRequirement) {
-            evolutionItem = GetEvolutionItemRequirement(evolutionBranch.evolutionItemRequirement)
+            evolutionItem = GetEvolutionItemRequirement(this.gameMaster, evolutionBranch.evolutionItemRequirement)
         }
 
         // Return evolutionCost Object
@@ -92,8 +94,9 @@ export class FutureBranches implements IComponent {
             } as FutureEvolutionBranch))
     }
 
-    Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[]): Pokemon[] {
+    Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[], input: Map<String, any>): Pokemon[] {
         this.rawPokemons = rawPokemons;
+        this.gameMaster = input['gameMaster'];
         return pokemons.map(pokemon => {
             const rawPokemon = this.GetRawPokemonById(pokemon.id);
             pokemon.evolution.futureBranches = this.GetFutureBranches(rawPokemon);

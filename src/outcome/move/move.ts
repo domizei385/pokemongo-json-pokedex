@@ -4,7 +4,7 @@ export interface Move extends Identifyable {
     name: string;
     id: string;
     internalId: number;
-    animationId: number;
+    animationId: string;
     pokemonType: Identifyable;
     power: number;
     accuracyChange: number;

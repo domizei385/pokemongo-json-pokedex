@@ -24,12 +24,20 @@
     "f_backpack_frlg_0": {
         "name": "リーフバッグ"
     },
+    "f_backpack_genesecteventitem_0": {},
     "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "ジョウトバッグ"
     },
+    "f_backpack_mimikyubp_0": {},
+    "f_backpack_pkmnhoodie001": {},
+    "f_backpack_pkmnhoodie004": {},
+    "f_backpack_pkmnhoodie007": {},
     "f_backpack_ruinmaniac_0": {},
+    "f_backpack_ss_0": {},
+    "f_backpack_togepibackpack_0": {},
     "f_backpack_ultra": {},
+    "f_backpack_zubatbp_0": {},
     "f_belt_acetrainerbw_0": {},
     "f_belt_default_0": {
         "name": "丸バックル"
@@ -96,6 +104,7 @@
     "f_glasses_mask_1": {
         "name": "なぞのマスク"
     },
+    "f_glasses_newyearglasses2020_0": {},
     "f_glasses_teardrop_0": {
         "name": "ティアドロップ"
     },
@@ -137,6 +146,7 @@
     "f_gloves_frlg_0": {
         "name": "リーフリストバンド"
     },
+    "f_gloves_giovanni_0": {},
     "f_gloves_gymleader_0": {
         "name": "ジムリーダーグローブ"
     },
@@ -171,6 +181,7 @@
     "f_hat_casket_0": {
         "name": "ハンチング"
     },
+    "f_hat_cubonehat_0": {},
     "f_hat_default_A_0": {},
     "f_hat_default_A_1": {},
     "f_hat_default_A_2": {},
@@ -196,16 +207,20 @@
     "f_hat_frlg_0": {
         "name": "リーフハット"
     },
+    "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "ジョウトキャップ"
     },
+    "f_hat_holidaybeanie_0": {},
     "f_hat_knitted_0": {
         "name": "ニットキャップ"
     },
     "f_hat_knitted_1": {
         "name": "ニットキャップ"
     },
+    "f_hat_litwickhat_0": {},
+    "f_hat_loneearrings_0": {},
     "f_hat_magikarp": {
         "name": "コイキング帽子"
     },
@@ -218,10 +233,13 @@
     "f_hat_pikachufan_0": {
         "name": "ピカチュウカチューシャ"
     },
+    "f_hat_pikachulibre_0": {},
     "f_hat_pkmncap_0": {},
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
     "f_hat_ruinmaniac_0": {},
+    "f_hat_ss_0": {},
+    "f_hat_stantlerheadband_0": {},
     "f_hat_strawhat_0": {},
     "f_hat_teamaqua_0": {},
     "f_hat_teamleadercap_0": {},
@@ -234,6 +252,7 @@
         "name": "トップハット"
     },
     "f_hat_ultra_0": {},
+    "f_hat_woobatearrings_0": {},
     "f_necklace_default_0": {
         "name": "リボンチョーカー"
     },
@@ -277,6 +296,7 @@
     "f_pants_frlg_0": {
         "name": "リーフスカート"
     },
+    "f_pants_giovanni_0": {},
     "f_pants_gymleader_0": {
         "name": "ジムリーダースカート"
     },
@@ -289,6 +309,8 @@
     "f_pants_hgss_0": {
         "name": "ジョウトパンツ"
     },
+    "f_pants_loosepants_0": {},
+    "f_pants_luvdiscpack_0": {},
     "f_pants_mewtwo_0": {},
     "f_pants_miniskirt_0": {
         "name": "アクセントスカート"
@@ -330,6 +352,7 @@
     "f_pants_pikachufan_0": {
         "name": "ピカチュウだいすきパンツ"
     },
+    "f_pants_pikachulibre_0": {},
     "f_pants_shorts_0": {
         "name": "短パン"
     },
@@ -345,6 +368,7 @@
     "f_pants_skinnyjeans_0": {
         "name": "スキニーデニム"
     },
+    "f_pants_steven_0": {},
     "f_pants_teamaqua_0": {},
     "f_pants_teamblanche_0": {},
     "f_pants_teamcandela_0": {},
@@ -384,6 +408,7 @@
     "pose_18": {},
     "pose_19": {},
     "pose_20": {},
+    "pose_21": {},
     "pose_empty": {},
     "f_shirt_acetrainerbw_0": {},
     "f_shirt_acetrainersm_0": {},
@@ -401,6 +426,7 @@
     "f_shirt_celebi_0": {
         "name": "セレビィＴシャツ"
     },
+    "f_shirt_cowichansweater_0": {},
     "f_shirt_default_0": {
         "name": "ショートトップ"
     },
@@ -429,6 +455,7 @@
         "name": "ショートトップ"
     },
     "f_shirt_delibird_0": {},
+    "f_shirt_denimjacket_0": {},
     "f_shirt_detectivepikachu_0": {},
     "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
@@ -439,6 +466,7 @@
         "name": "リーフトップス"
     },
     "f_shirt_gengar_0": {},
+    "f_shirt_giovanni_0": {},
     "f_shirt_gofest_2019": {},
     "f_shirt_gymleader_0": {
         "name": "ジムリーダートップス"
@@ -462,17 +490,37 @@
     "f_shirt_latias_latios_0": {
         "name": "ラティアス＆ラティオスＴシャツ"
     },
+    "f_shirt_luvdiscpack_0": {},
     "f_shirt_meltan_0": {},
     "f_shirt_mew_0": {
         "name": "ミュウTシャツ"
     },
     "f_shirt_mewtwo_0": {},
     "f_shirt_misty_0": {},
+    "f_shirt_ocshirt_045": {},
+    "f_shirt_ocshirt_108": {},
+    "f_shirt_ocshirt_129": {},
+    "f_shirt_ocshirt_143": {},
     "f_shirt_pikachufan_0": {
         "name": "ピカチュウだいすきTシャツ"
     },
+    "f_shirt_pikachulibre_0": {},
+    "f_shirt_pikachuonesie_0": {},
+    "f_shirt_pkmnhoodie001": {},
+    "f_shirt_pkmnhoodie004": {},
+    "f_shirt_pkmnhoodie007": {},
+    "f_shirt_pkmnshirts_165": {},
+    "f_shirt_pkmnshirts_188": {},
+    "f_shirt_pkmnshirts_201": {},
+    "f_shirt_pkmnshirts_238": {},
+    "f_shirt_poloshirt_0": {},
+    "f_shirt_poloshirt_1": {},
+    "f_shirt_poloshirt_2": {},
     "f_shirt_ruinmaniac_0": {},
+    "f_shirt_safarizone2020_0": {},
     "f_shirt_spiritomb_0": {},
+    "f_shirt_ss_0": {},
+    "f_shirt_steven_0": {},
     "f_shirt_sweater_30_0": {
         "name": "ザ・サーティ"
     },
@@ -529,6 +577,7 @@
         "name": "Rロケット団トップス"
     },
     "f_shirt_teamspark_0": {},
+    "f_shirt_togepihoodie_0": {},
     "f_shirt_tshirt_cycling_0": {
         "name": "アクティブTシャツ"
     },
@@ -566,6 +615,7 @@
         "name": "ピカチュウTシャツ"
     },
     "f_shirt_ultra_0": {},
+    "f_shirt_unwto_0": {},
     "f_shirt_veterantrainerxy_0": {},
     "f_shoes_acetrainerbw_0": {},
     "f_shoes_acetrainersm_0": {},
@@ -601,6 +651,7 @@
     "f_shoes_frlg_0": {
         "name": "リーフシューズ​"
     },
+    "f_shoes_giovanni_0": {},
     "f_shoes_gymleader_0": {
         "name": "ジムリーダーシューズ"
     },
@@ -613,15 +664,20 @@
     "f_shoes_hgss_0": {
         "name": "ジョウトシューズ"
     },
+    "f_shoes_loosepants_0": {},
+    "f_shoes_luvdiscpack_0": {},
     "f_shoes_mewtwo_0": {},
     "f_shoes_misty_0": {},
     "f_shoes_pikachufan_0": {
         "name": "ピカチュウだいすきシューズ"
     },
+    "f_shoes_pikachulibre_0": {},
     "f_shoes_ruinmaniac_0": {},
     "f_shoes_sandals_0": {},
     "f_shoes_sandals_1": {},
     "f_shoes_sandals_2": {},
+    "f_shoes_ss_0": {},
+    "f_shoes_steven_0": {},
     "f_shoes_teamaqua_0": {},
     "f_shoes_teamblanche_0": {},
     "f_shoes_teamcandela_0": {},
@@ -694,12 +750,20 @@
     "m_backpack_frlg_0": {
         "name": "ファイアバックパック"
     },
+    "m_backpack_genesecteventitem_0": {},
     "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "ジョウトバッグ"
     },
+    "m_backpack_mimikyubp_0": {},
+    "m_backpack_pkmnhoodie001": {},
+    "m_backpack_pkmnhoodie004": {},
+    "m_backpack_pkmnhoodie007": {},
     "m_backpack_ruinmaniac_0": {},
+    "m_backpack_ss_0": {},
+    "m_backpack_togepibackpack_0": {},
     "m_backpack_ultra": {},
+    "m_backpack_zubatbp_0": {},
     "m_eyes_0": {},
     "m_eyes_1": {},
     "m_eyes_2": {},
@@ -720,6 +784,7 @@
     "m_glasses_mask_1": {
         "name": "なぞのマスク"
     },
+    "m_glasses_newyearglasses2020_0": {},
     "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
         "name": "太ふちメガネ"
@@ -756,6 +821,7 @@
     "m_gloves_frlg_0": {
         "name": "ファイアリストバンド"
     },
+    "m_gloves_giovanni_0": {},
     "m_gloves_gymleader_0": {
         "name": "ジムリーダーグローブ"
     },
@@ -793,6 +859,7 @@
     "m_hat_casket_0": {
         "name": "ハンチング"
     },
+    "m_hat_cubonehat_0": {},
     "m_hat_default_0": {
         "name": "サンバイザー"
     },
@@ -831,13 +898,17 @@
     "m_hat_frlg_0": {
         "name": "ファイアキャップ"
     },
+    "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "ジョウトキャップ"
     },
+    "m_hat_holidaybeanie_0": {},
     "m_hat_jogger_0": {
         "name": "ジョギングバイザー"
     },
+    "m_hat_litwickhat_0": {},
+    "m_hat_loneearrings_0": {},
     "m_hat_magikarp": {
         "name": "コイキング帽子"
     },
@@ -849,10 +920,13 @@
     "m_hat_pikachufan_0": {
         "name": "ピカチュウカチューシャ"
     },
+    "m_hat_pikachulibre_0": {},
     "m_hat_pkmncap_0": {},
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
     "m_hat_ruinmaniac_0": {},
+    "m_hat_ss_0": {},
+    "m_hat_stantlerheadband_0": {},
     "m_hat_strawhat_0": {},
     "m_hat_teamaqua_0": {},
     "m_hat_teamleadercap_0": {},
@@ -865,6 +939,7 @@
         "name": "トップハット"
     },
     "m_hat_ultra_0": {},
+    "m_hat_woobatearrings_0": {},
     "m_pants_acetrainerbw_0": {},
     "m_pants_acetrainersm_0": {},
     "m_pants_backpacker_0": {},
@@ -880,6 +955,7 @@
     "m_pants_frlg_0": {
         "name": "ファイアパンツ"
     },
+    "m_pants_giovanni_0": {},
     "m_pants_gymleader_0": {
         "name": "ジムリーダーパンツ"
     },
@@ -895,10 +971,13 @@
     "m_pants_jogger_0": {
         "name": "ジョギングパンツ"
     },
+    "m_pants_loosepants_0": {},
+    "m_pants_luvdiscpack_0": {},
     "m_pants_mewtwo_0": {},
     "m_pants_pikachufan_0": {
         "name": "ピカチュウだいすきパンツ"
     },
+    "m_pants_pikachulibre_0": {},
     "m_pants_skinnyjeans_0": {
         "name": "スキニーデニム"
     },
@@ -908,6 +987,8 @@
     "m_pants_skinnyjeans_2": {
         "name": "スキニーデニム"
     },
+    "m_pants_ss_0": {},
+    "m_pants_steven_0": {},
     "m_pants_sweats_0": {
         "name": "アクティブパンツ"
     },
@@ -947,6 +1028,7 @@
     "m_shirt_celebi_0": {
         "name": "セレビィＴシャツ"
     },
+    "m_shirt_cowichansweater_0": {},
     "m_shirt_default_0": {
         "name": "肩ラインパーカー"
     },
@@ -975,6 +1057,7 @@
         "name": "べーシックパーカー"
     },
     "m_shirt_delibird_0": {},
+    "m_shirt_denimjacket_0": {},
     "m_shirt_detectivepikachu_0": {},
     "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
@@ -988,6 +1071,7 @@
         "name": "ファイアトップス"
     },
     "m_shirt_gengar_0": {},
+    "m_shirt_giovanni_0": {},
     "m_shirt_gofest_2019": {},
     "m_shirt_gymleader_0": {
         "name": "ジムリーダートップス"
@@ -1032,16 +1116,36 @@
     "m_shirt_longsleeves_pikachu_2": {
         "name": "ピカチュウプルオーバー"
     },
+    "m_shirt_luvdiscpack_0": {},
     "m_shirt_meltan_0": {},
     "m_shirt_mew_0": {
         "name": "ミュウTシャツ"
     },
     "m_shirt_mewtwo_0": {},
+    "m_shirt_ocshirt_045": {},
+    "m_shirt_ocshirt_108": {},
+    "m_shirt_ocshirt_129": {},
+    "m_shirt_ocshirt_143": {},
     "m_shirt_pikachufan_0": {
         "name": "ピカチュウだいすきTシャツ"
     },
+    "m_shirt_pikachulibre_0": {},
+    "m_shirt_pikachuonesie_0": {},
+    "m_shirt_pkmnhoodie001": {},
+    "m_shirt_pkmnhoodie004": {},
+    "m_shirt_pkmnhoodie007": {},
+    "m_shirt_pkmnshirts_165": {},
+    "m_shirt_pkmnshirts_188": {},
+    "m_shirt_pkmnshirts_201": {},
+    "m_shirt_pkmnshirts_238": {},
+    "m_shirt_poloshirt_0": {},
+    "m_shirt_poloshirt_1": {},
+    "m_shirt_poloshirt_2": {},
     "m_shirt_ruinmaniac_0": {},
+    "m_shirt_safarizone2020_0": {},
     "m_shirt_spiritomb_0": {},
+    "m_shirt_ss_0": {},
+    "m_shirt_steven_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "スポーツパーカー"
     },
@@ -1080,6 +1184,7 @@
         "name": "Rロケット団トップス"
     },
     "m_shirt_teamspark_0": {},
+    "m_shirt_togepihoodie_0": {},
     "m_shirt_tshirt_fest_chicago_2017": {},
     "m_shirt_tshirt_fest_chicago_2018": {},
     "m_shirt_tshirt_geometric_0": {
@@ -1114,6 +1219,7 @@
         "name": "ザ・サーティ"
     },
     "m_shirt_ultra_0": {},
+    "m_shirt_unwto_0": {},
     "m_shirt_veterantrainerxy_0": {},
     "m_shoes_acetrainerbw_0": {},
     "m_shoes_acetrainersm_0": {},
@@ -1150,6 +1256,7 @@
     "m_shoes_frlg_0": {
         "name": "ファイアシューズ"
     },
+    "m_shoes_giovanni_0": {},
     "m_shoes_gymleader_0": {
         "name": "ジムリーダーシューズ"
     },
@@ -1165,14 +1272,19 @@
     "m_shoes_jogger_0": {
         "name": "ジョギングシューズ"
     },
+    "m_shoes_loosepants_0": {},
+    "m_shoes_luvdiscpack_0": {},
     "m_shoes_mewtwo_0": {},
     "m_shoes_pikachufan_0": {
         "name": "ピカチュウだいすきシューズ"
     },
+    "m_shoes_pikachulibre_0": {},
     "m_shoes_ruinmaniac_0": {},
     "m_shoes_sandals_0": {},
     "m_shoes_sandals_1": {},
     "m_shoes_sandals_2": {},
+    "m_shoes_ss_0": {},
+    "m_shoes_steven_0": {},
     "m_shoes_teamaqua_0": {},
     "m_shoes_teamblanche_0": {},
     "m_shoes_teamcandela_0": {},
@@ -1212,5 +1324,11 @@
     },
     "m_socks_empty": {
         "name": "素足"
-    }
+    },
+    "f_shirt_uniqlotshirts_0": {},
+    "f_shirt_uniqlotshirts_1": {},
+    "f_shirt_uniqlotshirts_2": {},
+    "m_shirt_uniqlotshirts_0": {},
+    "m_shirt_uniqlotshirts_1": {},
+    "m_shirt_uniqlotshirts_2": {}
 }

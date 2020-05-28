@@ -12,12 +12,12 @@ export class Revive implements IComponent {
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
         // Is a revie
-        if (!rawItem.itemSettings.revive) {
+        if (!rawItem.item.revive) {
             return item;
         }
 
         item.revive = item.revive || {} as ItemRevive;
-        item.revive.staminaPercent = rawItem.itemSettings.revive.staPercent;
+        item.revive.staminaPercent = rawItem.item.revive.staPercent;
         return item;
     }
 }

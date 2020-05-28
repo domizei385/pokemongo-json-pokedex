@@ -12,13 +12,13 @@ export class Revive implements IComponent {
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
         // Is a xpBoost
-        if (!rawItem.itemSettings.xpBoost) {
+        if (!rawItem.item.xpBoost) {
             return item;
         }
 
         item.xpBoost = item.xpBoost || {} as ItemXpBoost;
-        item.xpBoost.boostDurationMs = rawItem.itemSettings.xpBoost.boostDurationMs;
-        item.xpBoost.xpMultiplier = rawItem.itemSettings.xpBoost.xpMultiplier;
+        item.xpBoost.boostDurationMs = rawItem.item.xpBoost.boostDurationMs;
+        item.xpBoost.xpMultiplier = rawItem.item.xpBoost.xpMultiplier;
         return item;
     }
 }

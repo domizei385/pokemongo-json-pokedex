@@ -11,6 +11,8 @@
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
+    "GIOVANNI_MAP": {},
+    "GLOBAL_EVENT_TICKET": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Fruta Caxí prateada",
         "description": "Dê esta fruta a um Pokémon para receber mais doces ao pegá-lo. Será mais fácil pegar Pokémon com ela."
@@ -43,6 +45,8 @@
         "name": "Pedra do Rei",
         "description": "Pedra que faz com que certas espécies de Pokémon evoluam. Lembra uma coroa."
     },
+    "LEADER_MAP": {},
+    "LEADER_MAP_FRAGMENT": {},
     "LEGENDARY_RAID_TICKET": {},
     "LUCKY_EGG": {
         "name": "Ovo da Sorte",
@@ -64,6 +68,8 @@
         "name": "Revestimento Metálico",
         "description": "Revestimento que faz com que certas espécies de Pokémon evoluam. É uma película de metal especial."
     },
+    "MOVE_REROLL_ELITE_FAST_ATTACK": {},
+    "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
@@ -75,6 +81,7 @@
         "name": "Fruta Caxí",
         "description": "Dê esta fruta a um Pokémon para receber mais doces ao pegá-lo."
     },
+    "POFFIN": {},
     "POKEMON_STORAGE_UPGRADE": {},
     "POKE_BALL": {
         "name": "Poké Bola",
@@ -90,6 +97,7 @@
         "name": "Fruta Frambo",
         "description": "Dê esta Fruta a um Pokémon para pegá-lo com mais facilidade."
     },
+    "REMOTE_RAID_TICKET": {},
     "REVIVE": {
         "name": "Reviver",
         "description": "Remédio para reanimar Pokémon desmaiados e que também restaura metade de seus PS."

@@ -8,8 +8,9 @@ export interface IComponent {
    * Alters any data from the input and saves it in the output.
    * @param {any} output The object which will be the output. Must be returned
    * @param {any} input The raw data
+   * @param {any} additionalInput
    */
-  Process(output: any, input: any): any | Promise<any>
+  Process(output: any, input: any, additionalInput?: any): any | Promise<any>
 }
 
 /**
@@ -46,7 +47,8 @@ export interface ComponentSettings {
   /**
    * List of components which need to be executed in advance
    */
-  dependencies?: IComponent[]
+  dependencies?: IComponent[],
+  requiresGameMaster?: boolean
 }
 
 /**

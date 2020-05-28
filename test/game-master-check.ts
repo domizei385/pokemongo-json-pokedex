@@ -7,7 +7,7 @@ describe('GAME_MASTER.json check', () => {
         gameMaster = require('../src/data/GAME_MASTER.json');
     });
 
-    const findById = id => gameMaster.itemTemplates.find(item => item.templateId === id);
+    const findById = id => gameMaster.itemTemplate.find(item => item.templateId === id);
 
     // it('_NORMAL pokemons should not differ from its default form', () => {
     //     // Check issue #8 https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex/issues/8

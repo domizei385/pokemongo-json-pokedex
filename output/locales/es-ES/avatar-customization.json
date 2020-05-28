@@ -24,12 +24,20 @@
     "f_backpack_frlg_0": {
         "name": "Bolso\\nVerde Hoja"
     },
+    "f_backpack_genesecteventitem_0": {},
     "f_backpack_gengar_0": {},
     "f_backpack_hgss_0": {
         "name": "Bolso\\nde Johto"
     },
+    "f_backpack_mimikyubp_0": {},
+    "f_backpack_pkmnhoodie001": {},
+    "f_backpack_pkmnhoodie004": {},
+    "f_backpack_pkmnhoodie007": {},
     "f_backpack_ruinmaniac_0": {},
+    "f_backpack_ss_0": {},
+    "f_backpack_togepibackpack_0": {},
     "f_backpack_ultra": {},
+    "f_backpack_zubatbp_0": {},
     "f_belt_acetrainerbw_0": {},
     "f_belt_default_0": {
         "name": "Cinturón hebilla Ball"
@@ -96,6 +104,7 @@
     "f_glasses_mask_1": {
         "name": "Antifaz misterioso"
     },
+    "f_glasses_newyearglasses2020_0": {},
     "f_glasses_teardrop_0": {
         "name": "Gafas de sol\\nde Aviador"
     },
@@ -137,6 +146,7 @@
     "f_gloves_frlg_0": {
         "name": "Muñequeras\\nVerde Hoja"
     },
+    "f_gloves_giovanni_0": {},
     "f_gloves_gymleader_0": {
         "name": "Guantes\\nde Líder de Gimnasio"
     },
@@ -171,6 +181,7 @@
     "f_hat_casket_0": {
         "name": "Gorro de repartidor"
     },
+    "f_hat_cubonehat_0": {},
     "f_hat_default_A_0": {},
     "f_hat_default_A_1": {},
     "f_hat_default_A_2": {},
@@ -196,16 +207,20 @@
     "f_hat_frlg_0": {
         "name": "Sombrero\\nVerde Hoja"
     },
+    "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
         "name": "Gorro\\nde Johto"
     },
+    "f_hat_holidaybeanie_0": {},
     "f_hat_knitted_0": {
         "name": "Gorro de lana"
     },
     "f_hat_knitted_1": {
         "name": "Gorro de lana"
     },
+    "f_hat_litwickhat_0": {},
+    "f_hat_loneearrings_0": {},
     "f_hat_magikarp": {
         "name": "Gorro Magikarp"
     },
@@ -218,10 +233,13 @@
     "f_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
     },
+    "f_hat_pikachulibre_0": {},
     "f_hat_pkmncap_0": {},
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
     "f_hat_ruinmaniac_0": {},
+    "f_hat_ss_0": {},
+    "f_hat_stantlerheadband_0": {},
     "f_hat_strawhat_0": {},
     "f_hat_teamaqua_0": {},
     "f_hat_teamleadercap_0": {},
@@ -234,6 +252,7 @@
         "name": "Sombrero de copa"
     },
     "f_hat_ultra_0": {},
+    "f_hat_woobatearrings_0": {},
     "f_necklace_default_0": {
         "name": "Gargantilla lazo"
     },
@@ -277,6 +296,7 @@
     "f_pants_frlg_0": {
         "name": "Falda\\nVerde Hoja"
     },
+    "f_pants_giovanni_0": {},
     "f_pants_gymleader_0": {
         "name": "Falda\\nde Líder de Gimnasio"
     },
@@ -289,6 +309,8 @@
     "f_pants_hgss_0": {
         "name": "Pantalones de peto\\nde Johto"
     },
+    "f_pants_loosepants_0": {},
+    "f_pants_luvdiscpack_0": {},
     "f_pants_mewtwo_0": {},
     "f_pants_miniskirt_0": {
         "name": "Minifalda con rayas"
@@ -330,6 +352,7 @@
     "f_pants_pikachufan_0": {
         "name": "Pantalones Fan de Pikachu"
     },
+    "f_pants_pikachulibre_0": {},
     "f_pants_shorts_0": {
         "name": "Pantalones cortos"
     },
@@ -345,6 +368,7 @@
     "f_pants_skinnyjeans_0": {
         "name": "Vaqueros ajustados"
     },
+    "f_pants_steven_0": {},
     "f_pants_teamaqua_0": {},
     "f_pants_teamblanche_0": {},
     "f_pants_teamcandela_0": {},
@@ -384,6 +408,7 @@
     "pose_18": {},
     "pose_19": {},
     "pose_20": {},
+    "pose_21": {},
     "pose_empty": {},
     "f_shirt_acetrainerbw_0": {},
     "f_shirt_acetrainersm_0": {},
@@ -401,6 +426,7 @@
     "f_shirt_celebi_0": {
         "name": "Camiseta\\nde Celebi"
     },
+    "f_shirt_cowichansweater_0": {},
     "f_shirt_default_0": {
         "name": "Chaqueta corta"
     },
@@ -429,6 +455,7 @@
         "name": "Chaqueta corta"
     },
     "f_shirt_delibird_0": {},
+    "f_shirt_denimjacket_0": {},
     "f_shirt_detectivepikachu_0": {},
     "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
@@ -439,6 +466,7 @@
         "name": "Camiseta\\nVerde Hoja"
     },
     "f_shirt_gengar_0": {},
+    "f_shirt_giovanni_0": {},
     "f_shirt_gofest_2019": {},
     "f_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
@@ -462,17 +490,37 @@
     "f_shirt_latias_latios_0": {
         "name": "Camisa de Latios e Latias"
     },
+    "f_shirt_luvdiscpack_0": {},
     "f_shirt_meltan_0": {},
     "f_shirt_mew_0": {
         "name": "Camiseta\\nde Mew"
     },
     "f_shirt_mewtwo_0": {},
     "f_shirt_misty_0": {},
+    "f_shirt_ocshirt_045": {},
+    "f_shirt_ocshirt_108": {},
+    "f_shirt_ocshirt_129": {},
+    "f_shirt_ocshirt_143": {},
     "f_shirt_pikachufan_0": {
         "name": "Camiseta Fan de Pikachu"
     },
+    "f_shirt_pikachulibre_0": {},
+    "f_shirt_pikachuonesie_0": {},
+    "f_shirt_pkmnhoodie001": {},
+    "f_shirt_pkmnhoodie004": {},
+    "f_shirt_pkmnhoodie007": {},
+    "f_shirt_pkmnshirts_165": {},
+    "f_shirt_pkmnshirts_188": {},
+    "f_shirt_pkmnshirts_201": {},
+    "f_shirt_pkmnshirts_238": {},
+    "f_shirt_poloshirt_0": {},
+    "f_shirt_poloshirt_1": {},
+    "f_shirt_poloshirt_2": {},
     "f_shirt_ruinmaniac_0": {},
+    "f_shirt_safarizone2020_0": {},
     "f_shirt_spiritomb_0": {},
+    "f_shirt_ss_0": {},
+    "f_shirt_steven_0": {},
     "f_shirt_sweater_30_0": {
         "name": "Cuello vuelto 30"
     },
@@ -529,6 +577,7 @@
         "name": "Camiseta\\nTeam Rainbow Rocket"
     },
     "f_shirt_teamspark_0": {},
+    "f_shirt_togepihoodie_0": {},
     "f_shirt_tshirt_cycling_0": {
         "name": "Camiseta Ball"
     },
@@ -566,6 +615,7 @@
         "name": "Camiseta Pikachu"
     },
     "f_shirt_ultra_0": {},
+    "f_shirt_unwto_0": {},
     "f_shirt_veterantrainerxy_0": {},
     "f_shoes_acetrainerbw_0": {},
     "f_shoes_acetrainersm_0": {},
@@ -601,6 +651,7 @@
     "f_shoes_frlg_0": {
         "name": "Zapatos\\nVerde Hoja"
     },
+    "f_shoes_giovanni_0": {},
     "f_shoes_gymleader_0": {
         "name": "Zapatos\\nde Líder de Gimnasio"
     },
@@ -613,15 +664,20 @@
     "f_shoes_hgss_0": {
         "name": "Zapatos\\nde Johto"
     },
+    "f_shoes_loosepants_0": {},
+    "f_shoes_luvdiscpack_0": {},
     "f_shoes_mewtwo_0": {},
     "f_shoes_misty_0": {},
     "f_shoes_pikachufan_0": {
         "name": "Zapatillas Fan de Pikachu"
     },
+    "f_shoes_pikachulibre_0": {},
     "f_shoes_ruinmaniac_0": {},
     "f_shoes_sandals_0": {},
     "f_shoes_sandals_1": {},
     "f_shoes_sandals_2": {},
+    "f_shoes_ss_0": {},
+    "f_shoes_steven_0": {},
     "f_shoes_teamaqua_0": {},
     "f_shoes_teamblanche_0": {},
     "f_shoes_teamcandela_0": {},
@@ -694,12 +750,20 @@
     "m_backpack_frlg_0": {
         "name": "Mochila\\nRojo Fuego"
     },
+    "m_backpack_genesecteventitem_0": {},
     "m_backpack_gengar_0": {},
     "m_backpack_hgss_0": {
         "name": "Bolsa\\nde Johto"
     },
+    "m_backpack_mimikyubp_0": {},
+    "m_backpack_pkmnhoodie001": {},
+    "m_backpack_pkmnhoodie004": {},
+    "m_backpack_pkmnhoodie007": {},
     "m_backpack_ruinmaniac_0": {},
+    "m_backpack_ss_0": {},
+    "m_backpack_togepibackpack_0": {},
     "m_backpack_ultra": {},
+    "m_backpack_zubatbp_0": {},
     "m_eyes_0": {},
     "m_eyes_1": {},
     "m_eyes_2": {},
@@ -720,6 +784,7 @@
     "m_glasses_mask_1": {
         "name": "Antifaz misterioso"
     },
+    "m_glasses_newyearglasses2020_0": {},
     "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
         "name": "Gafas de leer"
@@ -756,6 +821,7 @@
     "m_gloves_frlg_0": {
         "name": "Muñequeras\\nRojo Fuego"
     },
+    "m_gloves_giovanni_0": {},
     "m_gloves_gymleader_0": {
         "name": "Guantes\\nde Líder de Gimnasio"
     },
@@ -793,6 +859,7 @@
     "m_hat_casket_0": {
         "name": "Gorro de repartidor"
     },
+    "m_hat_cubonehat_0": {},
     "m_hat_default_0": {
         "name": "Visera"
     },
@@ -831,13 +898,17 @@
     "m_hat_frlg_0": {
         "name": "Gorra\\nRojo Fuego"
     },
+    "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
         "name": "Gorra\\nde Johto"
     },
+    "m_hat_holidaybeanie_0": {},
     "m_hat_jogger_0": {
         "name": "Visera de corredor"
     },
+    "m_hat_litwickhat_0": {},
+    "m_hat_loneearrings_0": {},
     "m_hat_magikarp": {
         "name": "Gorro Magikarp"
     },
@@ -849,10 +920,13 @@
     "m_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
     },
+    "m_hat_pikachulibre_0": {},
     "m_hat_pkmncap_0": {},
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
     "m_hat_ruinmaniac_0": {},
+    "m_hat_ss_0": {},
+    "m_hat_stantlerheadband_0": {},
     "m_hat_strawhat_0": {},
     "m_hat_teamaqua_0": {},
     "m_hat_teamleadercap_0": {},
@@ -865,6 +939,7 @@
         "name": "Sombrero de copa"
     },
     "m_hat_ultra_0": {},
+    "m_hat_woobatearrings_0": {},
     "m_pants_acetrainerbw_0": {},
     "m_pants_acetrainersm_0": {},
     "m_pants_backpacker_0": {},
@@ -880,6 +955,7 @@
     "m_pants_frlg_0": {
         "name": "Pantalones\\nRojo Fuego"
     },
+    "m_pants_giovanni_0": {},
     "m_pants_gymleader_0": {
         "name": "Pantalones\\nde Líder de Gimnasio"
     },
@@ -895,10 +971,13 @@
     "m_pants_jogger_0": {
         "name": "Pantalón corto de corredor"
     },
+    "m_pants_loosepants_0": {},
+    "m_pants_luvdiscpack_0": {},
     "m_pants_mewtwo_0": {},
     "m_pants_pikachufan_0": {
         "name": "Pantalones Fan de Pikachu"
     },
+    "m_pants_pikachulibre_0": {},
     "m_pants_skinnyjeans_0": {
         "name": "Vaqueros ajustados"
     },
@@ -908,6 +987,8 @@
     "m_pants_skinnyjeans_2": {
         "name": "Vaqueros ajustados"
     },
+    "m_pants_ss_0": {},
+    "m_pants_steven_0": {},
     "m_pants_sweats_0": {
         "name": "Pantalón de chándal"
     },
@@ -947,6 +1028,7 @@
     "m_shirt_celebi_0": {
         "name": "Camiseta\\nde Celebi"
     },
+    "m_shirt_cowichansweater_0": {},
     "m_shirt_default_0": {
         "name": "Sudadera diagonal"
     },
@@ -975,6 +1057,7 @@
         "name": "Sudadera clásica"
     },
     "m_shirt_delibird_0": {},
+    "m_shirt_denimjacket_0": {},
     "m_shirt_detectivepikachu_0": {},
     "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
@@ -988,6 +1071,7 @@
         "name": "Camiseta\\nRojo Fuego"
     },
     "m_shirt_gengar_0": {},
+    "m_shirt_giovanni_0": {},
     "m_shirt_gofest_2019": {},
     "m_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
@@ -1032,16 +1116,36 @@
     "m_shirt_longsleeves_pikachu_2": {
         "name": "Jersey Pikachu"
     },
+    "m_shirt_luvdiscpack_0": {},
     "m_shirt_meltan_0": {},
     "m_shirt_mew_0": {
         "name": "Camiseta\\nde Mew"
     },
     "m_shirt_mewtwo_0": {},
+    "m_shirt_ocshirt_045": {},
+    "m_shirt_ocshirt_108": {},
+    "m_shirt_ocshirt_129": {},
+    "m_shirt_ocshirt_143": {},
     "m_shirt_pikachufan_0": {
         "name": "Camiseta Fan de Pikachu"
     },
+    "m_shirt_pikachulibre_0": {},
+    "m_shirt_pikachuonesie_0": {},
+    "m_shirt_pkmnhoodie001": {},
+    "m_shirt_pkmnhoodie004": {},
+    "m_shirt_pkmnhoodie007": {},
+    "m_shirt_pkmnshirts_165": {},
+    "m_shirt_pkmnshirts_188": {},
+    "m_shirt_pkmnshirts_201": {},
+    "m_shirt_pkmnshirts_238": {},
+    "m_shirt_poloshirt_0": {},
+    "m_shirt_poloshirt_1": {},
+    "m_shirt_poloshirt_2": {},
     "m_shirt_ruinmaniac_0": {},
+    "m_shirt_safarizone2020_0": {},
     "m_shirt_spiritomb_0": {},
+    "m_shirt_ss_0": {},
+    "m_shirt_steven_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Sudadera deportiva"
     },
@@ -1080,6 +1184,7 @@
         "name": "Camiseta\\nTeam Rainbow Rocket"
     },
     "m_shirt_teamspark_0": {},
+    "m_shirt_togepihoodie_0": {},
     "m_shirt_tshirt_fest_chicago_2017": {},
     "m_shirt_tshirt_fest_chicago_2018": {},
     "m_shirt_tshirt_geometric_0": {
@@ -1114,6 +1219,7 @@
         "name": "Cuello vuelto 30"
     },
     "m_shirt_ultra_0": {},
+    "m_shirt_unwto_0": {},
     "m_shirt_veterantrainerxy_0": {},
     "m_shoes_acetrainerbw_0": {},
     "m_shoes_acetrainersm_0": {},
@@ -1150,6 +1256,7 @@
     "m_shoes_frlg_0": {
         "name": "Zapatos\\nRojo Fuego"
     },
+    "m_shoes_giovanni_0": {},
     "m_shoes_gymleader_0": {
         "name": "Zapatos\\nde Líder de Gimnasio"
     },
@@ -1165,14 +1272,19 @@
     "m_shoes_jogger_0": {
         "name": "Zapatos de corredor"
     },
+    "m_shoes_loosepants_0": {},
+    "m_shoes_luvdiscpack_0": {},
     "m_shoes_mewtwo_0": {},
     "m_shoes_pikachufan_0": {
         "name": "Zapatillas Fan de Pikachu"
     },
+    "m_shoes_pikachulibre_0": {},
     "m_shoes_ruinmaniac_0": {},
     "m_shoes_sandals_0": {},
     "m_shoes_sandals_1": {},
     "m_shoes_sandals_2": {},
+    "m_shoes_ss_0": {},
+    "m_shoes_steven_0": {},
     "m_shoes_teamaqua_0": {},
     "m_shoes_teamblanche_0": {},
     "m_shoes_teamcandela_0": {},
@@ -1212,5 +1324,11 @@
     },
     "m_socks_empty": {
         "name": "Sin medias"
-    }
+    },
+    "f_shirt_uniqlotshirts_0": {},
+    "f_shirt_uniqlotshirts_1": {},
+    "f_shirt_uniqlotshirts_2": {},
+    "m_shirt_uniqlotshirts_0": {},
+    "m_shirt_uniqlotshirts_1": {},
+    "m_shirt_uniqlotshirts_2": {}
 }

@@ -12,7 +12,7 @@ export class Potion implements IComponent {
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
         // Is a potion
-        if (!rawItem.itemSettings.potion) {
+        if (!rawItem.item.potion) {
             return item;
         }
 

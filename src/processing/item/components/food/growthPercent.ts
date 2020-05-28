@@ -16,11 +16,11 @@ export class GrowthPercent implements IComponent {
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
         // Is a food
-        if (!rawItem.itemSettings.food) {
+        if (!rawItem.item.food) {
             return item;
         }
 
-        item.food.growthPercent = rawItem.itemSettings.food.growthPercent;
+        item.food.growthPercent = rawItem.item.food.growthPercent;
 
         return item;
     }

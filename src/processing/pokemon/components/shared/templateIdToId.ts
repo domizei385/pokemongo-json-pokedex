@@ -6,7 +6,7 @@ import { ItemTemplate } from '@income/index';
  */
 export const TemplateIdToId = (rawPokemon: ItemTemplate) => {
     let newId = rawPokemon.templateId.substring(14);
-    const pokemonId = rawPokemon.pokemonSettings.pokemonId;
+    const pokemonId = rawPokemon.pokemon.uniqueId;
     if (pokemonId.endsWith('_MALE')) {
         newId += '_MALE'
     }

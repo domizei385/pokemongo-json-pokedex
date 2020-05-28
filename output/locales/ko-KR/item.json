@@ -11,6 +11,8 @@
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
+    "GIOVANNI_MAP": {},
+    "GLOBAL_EVENT_TICKET": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "은 파인열매",
         "description": "포켓몬에게 주면 잡기 쉬워지고 잡았을 때 사탕을 많게 손에 넣을 수 있는 나무열매."
@@ -43,6 +45,8 @@
         "name": "왕의징표석",
         "description": "어느 특정 포켓몬을 진화시키는 이상한 돌. 왕관 모양이다."
     },
+    "LEADER_MAP": {},
+    "LEADER_MAP_FRAGMENT": {},
     "LEGENDARY_RAID_TICKET": {},
     "LUCKY_EGG": {
         "name": "행복의알",
@@ -64,6 +68,8 @@
         "name": "금속코트",
         "description": "어느 특정 포켓몬을 진화시키는 장막. 특수한 금속으로 만들어져 있다."
     },
+    "MOVE_REROLL_ELITE_FAST_ATTACK": {},
+    "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
@@ -75,6 +81,7 @@
         "name": "파인열매",
         "description": "포켓몬에게 주면 잡은 뒤 사탕이 많게 손에 넣을수 있는 나무열매."
     },
+    "POFFIN": {},
     "POKEMON_STORAGE_UPGRADE": {},
     "POKE_BALL": {
         "name": "몬스터볼",
@@ -90,6 +97,7 @@
         "name": "라즈열매",
         "description": "포켓몬에게 주면 잡기 쉬워지는 나무열매."
     },
+    "REMOTE_RAID_TICKET": {},
     "REVIVE": {
         "name": "기력의조각",
         "description": "기절해 버린 포켓몬 1마리의 HP를 절반 회복한다."

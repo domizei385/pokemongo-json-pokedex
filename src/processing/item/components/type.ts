@@ -12,7 +12,7 @@ export class Type implements IComponent {
      * Parses the item type of the item
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
-        item.type = Util.SnakeCase2Identifyable(rawItem.itemSettings.itemType.replace('ITEM_TYPE_', ''));
+        item.type = Util.SnakeCase2Identifyable(rawItem.item.itemType.replace('ITEM_TYPE_', ''));
         return item;
     }
 }

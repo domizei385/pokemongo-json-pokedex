@@ -11,6 +11,8 @@
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
+    "GIOVANNI_MAP": {},
+    "GLOBAL_EVENT_TICKET": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Baya Pinia plateada",
         "description": "Al usarla con un Pokémon, recibirás más Caramelos si lo capturas y se captura con más facilidad en tu próximo lanzamiento."
@@ -43,6 +45,8 @@
         "name": "Roca del Rey",
         "description": "Roca que hace evolucionar a determinadas especies de Pokémon. Parece una corona."
     },
+    "LEADER_MAP": {},
+    "LEADER_MAP_FRAGMENT": {},
     "LEGENDARY_RAID_TICKET": {},
     "LUCKY_EGG": {
         "name": "Huevo Suerte",
@@ -64,6 +68,8 @@
         "name": "Revestimiento Metálico",
         "description": "Revestimiento que hace evolucionar a determinadas especies de Pokémon. Es una película metálica especial."
     },
+    "MOVE_REROLL_ELITE_FAST_ATTACK": {},
+    "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
@@ -75,6 +81,7 @@
         "name": "Baya Pinia",
         "description": "Al usarla con un Pokémon, recibirás más Caramelos si lo capturas."
     },
+    "POFFIN": {},
     "POKEMON_STORAGE_UPGRADE": {},
     "POKE_BALL": {
         "name": "Poké Ball",
@@ -90,6 +97,7 @@
         "name": "Baya Frambu",
         "description": "Al usarla con un Pokémon, se captura con más facilidad en tu próximo lanzamiento."
     },
+    "REMOTE_RAID_TICKET": {},
     "REVIVE": {
         "name": "Revivir",
         "description": "Medicina que revive a un Pokémon debilitado y le devuelve la mitad de sus PS."

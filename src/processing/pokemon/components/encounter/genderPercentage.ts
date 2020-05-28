@@ -3,13 +3,13 @@ import { ItemTemplate } from '@income';
 import { Pokemon, PokemonGender } from '@outcome/pokemon';
 import { Util } from '@util';
 import { Encounter } from './enounter';
-const gameMaster = require('@data/GAME_MASTER.json');
 
 @Component({
   pipeline: 'pokemon',
   dependencies: [
     new Encounter()
-  ]
+  ],
+  requiresGameMaster: true
 })
 export class GenderPercentage implements IComponent {
   private isItemTemplateSpawn(item: ItemTemplate): boolean {
@@ -22,8 +22,7 @@ export class GenderPercentage implements IComponent {
    * @returns {PokemonGender} Object with the Pokémon Gender Percent values
    */
   private getGenderPercent(gameMaster, pokemonId: string): PokemonGender {
-    const itemTemplate = gameMaster
-      .itemTemplates
+    const itemTemplate = (gameMaster.itemTemplate || [])
       .filter(itemTemplate => this.isItemTemplateSpawn(itemTemplate))
       .find(itemTemplate =>
         itemTemplate.genderSettings.pokemon === pokemonId);
@@ -58,8 +57,8 @@ export class GenderPercentage implements IComponent {
     };
   }
 
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
-    const gender = this.getGenderPercent(gameMaster, rawPokemon.pokemonSettings.pokemonId);
+  Process(pokemon: Pokemon, rawPokemon: ItemTemplate, input: Map<String, any>): Pokemon {
+    const gender = this.getGenderPercent(input['gameMaster'], rawPokemon.pokemon.uniqueId);
     if (gender) {
       pokemon.encounter.gender = gender;
     }

@@ -107,7 +107,7 @@ interface Pokemon {
      *      "name": "Legendary"
      *  }
      */
-    rarity: Identifyable;
+    pokemonClass: Identifyable;
     /**
      * A floating number which represent the height of the Pokemon.
      * @example

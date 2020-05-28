@@ -1,26 +1,24 @@
-import { Component, IComponent } from '@core/pipeline';
+import {Component, IComponent} from '@core/pipeline';
 import { ItemTemplate } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { Util } from '@util';
 import * as leftPad from 'left-pad';
 import { PokemonForm } from '@outcome/pokemon/pokemonForm';
 
-const gameMaster = require('@data/GAME_MASTER.json');
-
 /**
  * Parses the pokemon forms from the item templates for each pokemon
  */
 @Component({
-    pipeline: 'pokemon'
+    pipeline: 'pokemon',
+    requiresGameMaster: true
 })
 export class Forms implements IComponent {
 
     /**
      * Sets any additional forms the pokemon may have
      */
-    Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
-
-        const forms = this.getForms(gameMaster, rawPokemon);
+    Process(pokemon: Pokemon, rawPokemon: ItemTemplate, input: Map<String, any>): Pokemon {
+        const forms = this.getForms(input['gameMaster'], rawPokemon);
 
         pokemon.forms = forms;
 
@@ -32,10 +30,9 @@ export class Forms implements IComponent {
         const dex = parseInt(rawPokemon.templateId.split('_')[0].slice(1), 10);
         const dexString = leftPad(dex, 4, '0');
 
-        const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemonSettings.pokemonId}`;
+        const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemon.uniqueId}`;
 
-        const itemTemplate = gameMaster
-            .itemTemplates
+        const itemTemplate = (gameMaster.itemTemplate || [])
             .find(itemTemplate => {
                 return itemTemplate.templateId === formKey;
             });
@@ -60,9 +57,7 @@ export class Forms implements IComponent {
     }
 
     private removeSuffixIfNeeded(name: string): string {
-
         const normalSuffix: string = '_NORMAL';
-
         const normalIndex = name.indexOf(normalSuffix);
 
         if (normalIndex >= 0) {

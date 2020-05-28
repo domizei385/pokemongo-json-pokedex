@@ -12,13 +12,13 @@ export class StardustBoost implements IComponent {
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
         // Is a stardustBoost
-        if (!rawItem.itemSettings.stardustBoost) {
+        if (!rawItem.item.stardustBoost) {
             return item;
         }
 
         item.stardustBoost = item.stardustBoost || {} as ItemStardustBoost;
-        item.stardustBoost.stardustMultiplier = rawItem.itemSettings.stardustBoost.stardustMultiplier;
-        item.stardustBoost.boostDurationMs = rawItem.itemSettings.stardustBoost.boostDurationMs;
+        item.stardustBoost.stardustMultiplier = rawItem.item.stardustBoost.stardustMultiplier;
+        item.stardustBoost.boostDurationMs = rawItem.item.stardustBoost.boostDurationMs;
 
         return item;
     }

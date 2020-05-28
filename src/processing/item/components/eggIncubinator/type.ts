@@ -16,11 +16,11 @@ export class Type implements IComponent {
      * The type of an egg incubinator
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
-        if (!rawItem.itemSettings.eggIncubator) {
+        if (!rawItem.item.eggIncubator) {
             return item;
         }
 
-        const eggIncubinator = rawItem.itemSettings.eggIncubator;
+        const eggIncubinator = rawItem.item.eggIncubator;
         item.eggIncubinator.type = Util.SnakeCase2Identifyable(eggIncubinator.incubatorType.replace('INCUBATOR_', ''));
         return item;
     }

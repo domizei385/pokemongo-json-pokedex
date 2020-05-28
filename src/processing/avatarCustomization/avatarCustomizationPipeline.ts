@@ -16,6 +16,6 @@ export class AvatarCustomizationPipeline extends Pipeline {
    * Checks if the given ItemTemplate is indeed an avatar customization
    */
   isItemTemplate(item: ItemTemplate): boolean {
-    return new RegExp('^(AVATAR_?.*)', 'g').test(item.templateId);
+    return new RegExp('^(AVATAR_[mf]_?.*)', 'g').test(item.templateId);
   }
 }

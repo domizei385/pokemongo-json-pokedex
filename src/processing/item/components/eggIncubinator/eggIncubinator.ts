@@ -12,13 +12,13 @@ export class EggIncubinator implements IComponent {
      */
     Process(item: Item, rawItem: ItemTemplate): Item {
         // Is an egg incubator
-        if (!rawItem.itemSettings.eggIncubator) {
+        if (!rawItem.item.eggIncubator) {
             return item;
         }
 
         item.eggIncubinator = item.eggIncubinator || {} as ItemEggIncubinator;
-        item.eggIncubinator.uses = rawItem.itemSettings.eggIncubator.uses;
-        item.eggIncubinator.distanceMultiplier = rawItem.itemSettings.eggIncubator.distanceMultiplier;
+        item.eggIncubinator.uses = rawItem.item.eggIncubator.uses;
+        item.eggIncubinator.distanceMultiplier = rawItem.item.eggIncubator.distanceMultiplier;
 
         return item;
     }

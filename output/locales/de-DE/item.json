@@ -11,6 +11,8 @@
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
+    "GIOVANNI_MAP": {},
+    "GLOBAL_EVENT_TICKET": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Silberne Sananabeere",
         "description": "Wenn du sie einem Pokémon zum Essen gibst, erhältst du mehr Bonbons, wenn du es fängst, und es lässt es sich leichter fangen."
@@ -43,6 +45,8 @@
         "name": "King-Stein",
         "description": "Dieser Stein löst bei bestimmten Pokémon die Entwicklung aus. Er sieht wie eine Krone aus."
     },
+    "LEADER_MAP": {},
+    "LEADER_MAP_FRAGMENT": {},
     "LEGENDARY_RAID_TICKET": {},
     "LUCKY_EGG": {
         "name": "Glücks-Ei",
@@ -64,6 +68,8 @@
         "name": "Metallmantel",
         "description": "Diese Beschichtung löst bei bestimmten Pokémon-Arten die Entwicklung aus. Es handelt sich um einen besonderen metallenen Belag."
     },
+    "MOVE_REROLL_ELITE_FAST_ATTACK": {},
+    "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
@@ -75,6 +81,7 @@
         "name": "Sananabeere",
         "description": "Wenn du sie einem Pokémon zum Essen gibst, bekommst du mehr Bonbons, wenn du es fängst."
     },
+    "POFFIN": {},
     "POKEMON_STORAGE_UPGRADE": {},
     "POKE_BALL": {
         "name": "Pokéball",
@@ -90,6 +97,7 @@
         "name": "Himmihbeere",
         "description": "Wenn du sie einem Pokémon zum Essen gibst, lässt es sich leichter fangen."
     },
+    "REMOTE_RAID_TICKET": {},
     "REVIVE": {
         "name": "Beleber",
         "description": "Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die Hälfte der maximalen KP wird wiederhergestellt. "

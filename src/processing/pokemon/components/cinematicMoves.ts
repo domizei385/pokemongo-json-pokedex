@@ -10,7 +10,7 @@ import * as _ from 'lodash';
 export class CinematicMoves implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
     const cinematicMoves = _
-      .chain(rawPokemon.pokemonSettings.cinematicMoves)
+      .chain(rawPokemon.pokemon.cinematicMoves)
       .uniq()
       .map(Util.SnakeCase2Identifyable)
       .value();

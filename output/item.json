@@ -88,6 +88,31 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "GIOVANNI_MAP",
+        "name": "Giovanni Map",
+        "category": {
+            "name": "Incident Ticket",
+            "id": "INCIDENT_TICKET"
+        },
+        "type": {
+            "name": "Incident Ticket",
+            "id": "INCIDENT_TICKET"
+        },
+        "dropTrainerLevel": 8
+    },
+    {
+        "id": "GLOBAL_EVENT_TICKET",
+        "name": "Global Event Ticket",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "GOLDEN_PINAP_BERRY",
         "name": "Golden Pinap Berry",
         "category": {
@@ -185,7 +210,7 @@
             "name": "Incense",
             "id": "INCENSE"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "INCENSE_ORDINARY",
@@ -198,7 +223,7 @@
             "name": "Incense",
             "id": "INCENSE"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "INCUBATOR_BASIC",
@@ -211,10 +236,10 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "dropTrainerLevel": 100,
+        "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 1,
+            "distanceMultiplier": 0.5,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -234,7 +259,7 @@
         },
         "dropTrainerLevel": 100,
         "eggIncubinator": {
-            "distanceMultiplier": 1,
+            "distanceMultiplier": 0.5,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -252,10 +277,10 @@
             "name": "Incubator",
             "id": "INCUBATOR"
         },
-        "dropTrainerLevel": 100,
+        "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.6666667,
+            "distanceMultiplier": 0.33333334,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -296,6 +321,32 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "LEADER_MAP",
+        "name": "Leader Map",
+        "category": {
+            "name": "Incident Ticket",
+            "id": "INCIDENT_TICKET"
+        },
+        "type": {
+            "name": "Incident Ticket",
+            "id": "INCIDENT_TICKET"
+        },
+        "dropTrainerLevel": 8
+    },
+    {
+        "id": "LEADER_MAP_FRAGMENT",
+        "name": "Leader Map Fragment",
+        "category": {
+            "name": "Incident Ticket",
+            "id": "INCIDENT_TICKET"
+        },
+        "type": {
+            "name": "Incident Ticket",
+            "id": "INCIDENT_TICKET"
+        },
+        "dropTrainerLevel": 8
+    },
+    {
         "id": "LEGENDARY_RAID_TICKET",
         "name": "Legendary Raid Ticket",
         "category": {
@@ -319,7 +370,7 @@
             "name": "Xp Boost",
             "id": "XP_BOOST"
         },
-        "dropTrainerLevel": 100,
+        "dropTrainerLevel": 1,
         "xpBoost": {
             "boostDurationMs": 1800000,
             "xpMultiplier": 2
@@ -384,6 +435,32 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "MOVE_REROLL_ELITE_FAST_ATTACK",
+        "name": "Move Reroll Elite Fast Attack",
+        "category": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "type": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "dropTrainerLevel": 1
+    },
+    {
+        "id": "MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+        "name": "Move Reroll Elite Special Attack",
+        "category": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "type": {
+            "name": "Move Reroll",
+            "id": "MOVE_REROLL"
+        },
+        "dropTrainerLevel": 1
+    },
+    {
         "id": "MOVE_REROLL_FAST_ATTACK",
         "name": "Move Reroll Fast Attack",
         "category": {
@@ -445,7 +522,7 @@
             "name": "Raid Ticket",
             "id": "RAID_TICKET"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "PINAP_BERRY",
@@ -470,6 +547,21 @@
                 }
             ],
             "growthPercent": 0.1
+        }
+    },
+    {
+        "id": "POFFIN",
+        "name": "Poffin",
+        "category": {
+            "name": "Buddy Exclusive Food",
+            "id": "BUDDY_EXCLUSIVE_FOOD"
+        },
+        "type": {
+            "name": "Food",
+            "id": "FOOD"
+        },
+        "food": {
+            "effect": []
         }
     },
     {
@@ -573,6 +665,19 @@
         }
     },
     {
+        "id": "REMOTE_RAID_TICKET",
+        "name": "Remote Raid Ticket",
+        "category": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "type": {
+            "name": "Raid Ticket",
+            "id": "RAID_TICKET"
+        },
+        "dropTrainerLevel": 5
+    },
+    {
         "id": "REVIVE",
         "name": "Revive",
         "category": {
@@ -612,7 +717,7 @@
             "name": "Stardust Boost",
             "id": "STARDUST_BOOST"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "SUN_STONE",
@@ -667,7 +772,7 @@
             "name": "Disk",
             "id": "DISK"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "TROY_DISK_GLACIAL",
@@ -680,7 +785,7 @@
             "name": "Disk",
             "id": "DISK"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "TROY_DISK_MAGNETIC",
@@ -693,7 +798,7 @@
             "name": "Disk",
             "id": "DISK"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "TROY_DISK_MOSSY",
@@ -706,7 +811,7 @@
             "name": "Disk",
             "id": "DISK"
         },
-        "dropTrainerLevel": 100
+        "dropTrainerLevel": 1
     },
     {
         "id": "ULTRA_BALL",

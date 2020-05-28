@@ -11,6 +11,8 @@
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
+    "GIOVANNI_MAP": {},
+    "GLOBAL_EVENT_TICKET": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Silver Pinap Berry",
         "description": "Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch."
@@ -43,6 +45,8 @@
         "name": "King's Rock",
         "description": "A rock that can make certain species of Pokémon evolve. It looks like a crown."
     },
+    "LEADER_MAP": {},
+    "LEADER_MAP_FRAGMENT": {},
     "LEGENDARY_RAID_TICKET": {},
     "LUCKY_EGG": {
         "name": "Lucky Egg",
@@ -64,6 +68,8 @@
         "name": "Metal Coat",
         "description": "A coating that can make certain species of Pokémon evolve. It is a special metallic film."
     },
+    "MOVE_REROLL_ELITE_FAST_ATTACK": {},
+    "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
@@ -75,6 +81,7 @@
         "name": "Pinap Berry",
         "description": "Feed this to a Pokémon to receive more Candy when you catch it."
     },
+    "POFFIN": {},
     "POKEMON_STORAGE_UPGRADE": {},
     "POKE_BALL": {
         "name": "Poké Ball",
@@ -90,6 +97,7 @@
         "name": "Razz Berry",
         "description": "Feed this to a Pokémon to make it easier to catch."
     },
+    "REMOTE_RAID_TICKET": {},
     "REVIVE": {
         "name": "Revive",
         "description": "A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP."

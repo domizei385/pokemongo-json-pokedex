@@ -11,7 +11,7 @@ export class GenericPropertyMapper implements IComponent {
    * Maps generic properties with the item
    */
   Process(item: Item, rawItem: ItemTemplate): Item {
-    item.dropTrainerLevel = rawItem.itemSettings.dropTrainerLevel;
+    item.dropTrainerLevel = rawItem.item.dropTrainerLevel;
     return item;
   }
 }

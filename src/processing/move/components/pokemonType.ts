@@ -12,7 +12,7 @@ export class PokemonType implements IComponent {
      * Maps generic properties which do not need to be processed.
      */
     Process(move: Move, rawMove: ItemTemplate): Move {
-        const moveStgs = rawMove.moveSettings;
+        const moveStgs = rawMove.move;
         move.pokemonType = {
             id: moveStgs.pokemonType,
             name: Util.SnakeCase2HumanReadable(moveStgs.pokemonType

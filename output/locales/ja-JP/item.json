@@ -11,6 +11,8 @@
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
+    "GIOVANNI_MAP": {},
+    "GLOBAL_EVENT_TICKET": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "ぎんのパイルのみ",
         "description": "ポケモンに与えると捕まえやすくなり、捕まえたときにアメがかなり多めに手に入るきのみ。"
@@ -43,6 +45,8 @@
         "name": "おうじゃのしるし",
         "description": "ある特定のポケモンを進化させる不思議ないし。王冠の形。"
     },
+    "LEADER_MAP": {},
+    "LEADER_MAP_FRAGMENT": {},
     "LEGENDARY_RAID_TICKET": {},
     "LUCKY_EGG": {
         "name": "しあわせタマゴ",
@@ -64,6 +68,8 @@
         "name": "メタルコート",
         "description": "ある特定のポケモンを進化させる膜。特殊な金属でできている。"
     },
+    "MOVE_REROLL_ELITE_FAST_ATTACK": {},
+    "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
@@ -75,6 +81,7 @@
         "name": "パイルのみ",
         "description": "ポケモンに与えると捕まえたときにアメが多めに手に入るきのみ。"
     },
+    "POFFIN": {},
     "POKEMON_STORAGE_UPGRADE": {},
     "POKE_BALL": {
         "name": "モンスターボール",
@@ -90,6 +97,7 @@
         "name": "ズリのみ",
         "description": "ポケモンに与えると捕まえやすくなるきのみ。"
     },
+    "REMOTE_RAID_TICKET": {},
     "REVIVE": {
         "name": "げんきのかけら",
         "description": "ひんしになってしまったポケモン1匹のHPを半分回復する。"

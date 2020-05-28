@@ -12,7 +12,7 @@ export class Name implements IComponent {
      * Maps generic properties which do not need to be processed.
      */
     Process(move: Move, rawMove: ItemTemplate): Move {
-        move.name = Util.SnakeCase2HumanReadable(rawMove.moveSettings.movementId);
+        move.name = Util.SnakeCase2HumanReadable(rawMove.move.movementId);
         return move;
     }
 }

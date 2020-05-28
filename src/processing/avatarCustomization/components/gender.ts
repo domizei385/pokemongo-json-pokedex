@@ -28,7 +28,7 @@ export class Gender implements IComponent {
                 genderOutput = 'Male';
                 break;
             default:
-                throw 'Gender could not get identified';
+                throw 'Gender could not get identified from input ' + rawAvatarCustomzation.templateId;
         }
         avatarCustomization.gender = genderOutput;
         return avatarCustomization;

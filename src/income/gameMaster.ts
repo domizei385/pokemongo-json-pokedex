@@ -1,16 +1,31 @@
 export interface RootObject {
-  itemTemplates: ItemTemplate[];
+  itemTemplate: ItemTemplate[];
   timestampMs: string;
 }
 export interface ItemTemplate {
   templateId: string;
   avatarCustomization?: AvatarCustomization;
   backgroundModeSettings?: BackgroundModeSettings;
-  badgeSettings?: BadgeSettings;
+  badge?: Badge;
+  battleHubBadgeSettings?: BattleHubBadgeSettings;
+  battleHubOrderSettings?: BattleHubOrderSettings;
   battleSettings?: BattleSettings;
   belugaPokemonWhitelist?: BelugaPokemonWhitelist;
+  buddyActivitySettings?: BuddyActivitySettings;
+  buddyActivityCategorySettings?: BuddyActivityCategorySettings;
+  buddyEmotionLevelSettings?: BuddyEmotionLevelSettings;
+  buddyEncounterCameoSettings?: BuddyEncounterCameoSettings;
+  buddyHungerSettings?: BuddyHungerSettings;
+  buddyInteractionSettings?: BuddyInteractionSettings;
+  buddyLevelSettings?: BuddyLevelSettings;
+  buddySwapSettings?: BuddySwapSettings;
+  buddyWalkSettings?: BuddyWalkSettings;
+  invasionNpcDisplaySettings?: InvasionNpcDisplaySettings;
+  combatCompetitiveSeasonSettings?: CombatCompetitiveSeasonSettings;
   combatLeague?: CombatLeague;
   combatLeagueSettings?: CombatLeagueSettings;
+  combatType?: CombatType;
+  combatRankingProtoSettings?: CombatRankingProtoSettings;
   combatSettings?: CombatSettings;
   combatStatStageSettings?: CombatStatStageSettings;
   combatMove?: CombatMove;
@@ -22,29 +37,45 @@ export interface ItemTemplate {
   gymLevel?: GymLevel;
   iapCategoryDisplay?: IapCategoryDisplay;
   iapSettings?: IapSettings;
-  itemSettings?: ItemSettings;
+  pokestopInvasionAvailabilitySettings?: PokestopInvasionAvailabilitySettings;
+  item?: Item;
+  limitedPurchaseSkuSettings?: LimitedPurchaseSkuSettings;
   luckyPokemonSettings?: LuckyPokemonSettings;
   onboardingV2Settings?: OnboardingV2Settings;
   partyRecommendationSettings?: PartyRecommendationSettings;
+  platypusRolloutSettings?: PlatypusRolloutSettings;
   playerLevel?: PlayerLevel;
   pokecoinPurchaseDisplayGmt?: PokecoinPurchaseDisplayGmt;
   pokemonScaleSettings?: PokemonScaleSettings;
   typeEffective?: TypeEffective;
   pokemonUpgrades?: PokemonUpgrades;
   questSettings?: QuestSettings;
+  raidSettingsProto?: RaidSettingsProto;
   smeargleMovesSettings?: SmeargleMovesSettings;
   genderSettings?: GenderSettings;
   combatNpcTrainer?: CombatNpcTrainer;
   combatNpcPersonality?: CombatNpcPersonality;
-  pokemonSettings?: PokemonSettings;
-  moveSettings?: MoveSettings;
+  pokemon?: Pokemon;
+  move?: Move;
+  vsSeekerClientSettings?: VsSeekerClientSettings;
+  vsSeekerLootProto?: VsSeekerLootProto;
+  vsSeekerPokemonRewards?: VsSeekerPokemonRewards;
   weatherAffinities?: WeatherAffinities;
   weatherBonusSettings?: WeatherBonusSettings;
+  adventureSyncV2Gmt?: PokecoinPurchaseDisplayGmt;
   iapItemDisplay?: IapItemDisplay;
   camera?: Camera2;
-  moveSequenceSettings?: MoveSequenceSettings;
+  moveSequence?: MoveSequence;
+  avatarGroupOrderSettings?: AvatarGroupOrderSettings;
 }
-export interface MoveSequenceSettings {
+export interface AvatarGroupOrderSettings {
+  group: Group[];
+}
+export interface Group {
+  name: string;
+  order: number;
+}
+export interface MoveSequence {
   sequence: string[];
 }
 export interface Camera2 {
@@ -68,9 +99,15 @@ export interface Camera2 {
 export interface IapItemDisplay {
   sku: string;
   category: string;
-  sortOrder: number;
-  sale: boolean;
+  sortOrder?: number;
   hidden?: boolean;
+  sale?: boolean;
+  spriteId?: string;
+  title?: string;
+  skuEnableTime?: string;
+  skuDisableTime?: string;
+  skuEnableTimeUtcMs?: string;
+  skuDisableTimeUtcMs?: string;
 }
 export interface WeatherBonusSettings {
   cpBaseLevelBonus: number;
@@ -84,9 +121,56 @@ export interface WeatherAffinities {
   weatherCondition: string;
   pokemonType: string[];
 }
-export interface MoveSettings {
+export interface VsSeekerPokemonRewards {
+  availablePokemon: AvailablePokemon2[];
+  rewardTrack?: string;
+}
+export interface AvailablePokemon2 {
+  guaranteedLimitedPokemonReward?: GuaranteedLimitedPokemonReward;
+  unlockedAtRank: number;
+  attackIvOverride: AttackIvOverride;
+  defenseIvOverride: AttackIvOverride;
+  staminaIvOverride: AttackIvOverride;
+  pokemon?: Pokemon2;
+}
+export interface AttackIvOverride {
+  range: Range;
+}
+export interface Range {
+  min: string;
+  max: string;
+}
+export interface GuaranteedLimitedPokemonReward {
+  pokemon: Pokemon2;
+  identifier: string;
+  lifetimeMaxCount?: number;
+  perCompetitiveCombatSeasonMaxCount?: number;
+}
+export interface Pokemon2 {
+  pokemonId: string;
+  pokemonDisplay?: PokemonDisplay;
+}
+export interface VsSeekerLootProto {
+  rankLevel: number;
+  reward: Reward[];
+  rewardTrack?: string;
+}
+export interface Reward {
+  item?: Item2;
+  itemLootTable?: boolean;
+  pokemonReward?: boolean;
+}
+export interface Item2 {
+  stardust?: boolean;
+  count: number;
+  item?: string;
+}
+export interface VsSeekerClientSettings {
+  allowedVsSeekerLeagueTemplateId: string[];
+}
+export interface Move {
   movementId: string;
-  animationId: number;
+  animationId: string;
   pokemonType: string;
   power?: number;
   accuracyChance: number;
@@ -100,19 +184,20 @@ export interface MoveSettings {
   damageWindowEndMs: number;
   energyDelta?: number;
   healScalar?: number;
+  isLocked?: boolean;
 }
-export interface PokemonSettings {
-  pokemonId: string;
+export interface Pokemon {
+  uniqueId: string;
   modelScale: number;
-  type: string;
+  type1: string;
   type2?: string;
   camera: Camera;
   encounter: Encounter;
   stats: Stats;
   quickMoves?: string[];
   cinematicMoves?: string[];
-  animationTime: number[];
-  evolutionIds?: string[];
+  animTime: number[];
+  evolution?: string[];
   evolutionPips: number;
   pokedexHeightM: number;
   pokedexWeightKg: number;
@@ -130,26 +215,37 @@ export interface PokemonSettings {
   thirdMove: ThirdMove;
   isTransferable?: boolean;
   isDeployable?: boolean;
-  parentPokemonId?: string;
+  buddyGroupNumber: number;
+  form?: string;
+  shadow?: Shadow;
+  parentId?: string;
   buddySize?: string;
   combatShoulderCameraAngle?: number[];
   combatDefaultCameraAngle?: number[];
   combatPlayerFocusCameraAngle?: number[];
+  eliteCinematicMove?: string[];
+  eliteQuickMove?: string[];
   buddyPortraitOffset?: number[];
-  form?: string;
   combatPlayerPokemonPositionOffset?: number[];
-  rarity?: string;
+  pokemonClass?: string;
   combatOpponentFocusCameraAngle?: number[];
+}
+export interface Shadow {
+  purificationStardustNeeded: number;
+  purificationCandyNeeded: number;
+  purifiedChargeMove: string;
+  shadowChargeMove: string;
 }
 export interface ThirdMove {
   stardustToUnlock?: number;
   candyToUnlock: number;
 }
 export interface EvolutionBranch {
-  evolution: string;
+  evolution?: string;
   candyCost: number;
   form?: string;
   evolutionItemRequirement?: string;
+  noCandyCostViaTrade?: boolean;
   lureItemRequirement?: string;
   kmBuddyDistanceRequirement?: number;
   mustBeBuddy?: boolean;
@@ -196,6 +292,8 @@ export interface CombatNpcPersonality {
   specialChance: number;
   offensiveMinimumScore: number;
   offensiveMaximumScore: number;
+  defensiveMinimumScore?: number;
+  defensiveMaximumScore?: number;
 }
 export interface CombatNpcTrainer {
   trainerName: string;
@@ -205,6 +303,8 @@ export interface CombatNpcTrainer {
   availablePokemon: AvailablePokemon[];
   trainerTitle: string;
   trainerQuote: string;
+  iconUrl: string;
+  backdropImageBundle: string;
 }
 export interface AvailablePokemon {
   pokemonType: string;
@@ -212,9 +312,6 @@ export interface AvailablePokemon {
 }
 export interface PokemonDisplay {
   form: string;
-}
-export interface Avatar {
-  avatar: number;
 }
 export interface GenderSettings {
   pokemon: string;
@@ -228,6 +325,12 @@ export interface Gender {
 export interface SmeargleMovesSettings {
   quickMoves: string[];
   cinematicMoves: string[];
+}
+export interface RaidSettingsProto {
+  remoteRaidEnabled: boolean;
+  maxRemoteRaidPasses: number;
+  remoteDamageModifier: number;
+  remoteRaidsMinPlayerLevel: number;
 }
 export interface QuestSettings {
   questType: string;
@@ -244,6 +347,12 @@ export interface PokemonUpgrades {
   allowedLevelsAbovePlayer: number;
   candyCost: number[];
   stardustCost: number[];
+  shadowStardustMultiplier: number;
+  shadowCandyMultiplier: number;
+  purifiedStardustMultiplier: number;
+  purifiedCandyMultiplier: number;
+  maxNormalUpgradeLevel: number;
+  defaultCpBoostAdditionalLevel: number;
 }
 export interface TypeEffective {
   attackScalar: number[];
@@ -265,6 +374,13 @@ export interface PlayerLevel {
   maxEncounterPlayerLevel: number;
   maxQuestEncounterPlayerLevel: number;
 }
+export interface PlatypusRolloutSettings {
+  buddyV2MinPlayerLevel: number;
+  buddyMultiplayerMinPlayerLevel: number;
+  wallabySettings: WallabySettings;
+}
+export interface WallabySettings {
+}
 export interface PartyRecommendationSettings {
   mode: string;
   variance: number;
@@ -277,13 +393,23 @@ export interface OnboardingV2Settings {
 export interface LuckyPokemonSettings {
   powerUpStardustDiscountPercent: number;
 }
-export interface ItemSettings {
+export interface LimitedPurchaseSkuSettings {
+  purchaseLimit: number;
+  chronoUnit?: string;
+  lootTableId?: string;
+  resetInterval?: number;
+  version?: number;
+}
+export interface Item {
   itemId: string;
   itemType: string;
   category: string;
-  dropTrainerLevel: number;
+  dropTrainerLevel?: number;
   food?: Food;
+  incidentTicket?: IncidentTicket;
+  globalEventTicket?: GlobalEventTicket;
   potion?: Potion;
+  incense?: Incense;
   eggIncubator?: EggIncubator;
   inventoryUpgrade?: InventoryUpgrade;
   xpBoost?: XpBoost;
@@ -310,16 +436,39 @@ export interface EggIncubator {
   uses?: number;
   distanceMultiplier: number;
 }
+export interface Incense {
+  incenseLifetimeSeconds: number;
+  spawnTableProbability?: number;
+}
 export interface Potion {
   staAmount?: number;
   staPercent?: number;
 }
+export interface GlobalEventTicket {
+  eventStartTime: string;
+  eventEndTime: string;
+  clientEventStartTimeUtcMs: string;
+  clientEventEndTimeUtcMs: string;
+}
+export interface IncidentTicket {
+  ignoreFullInventory?: boolean;
+  upgradeRequirementCount?: number;
+  upgradedItem?: string;
+}
 export interface Food {
-  itemEffect: string[];
-  itemEffectPercent: number[];
+  itemEffect?: string[];
+  itemEffectPercent?: number[];
   growthPercent?: number;
   berryMultiplier?: number;
   remoteBerryMultiplier?: number;
+  numBuddyAffectionPoints?: number;
+  mapDurationMs?: string;
+  activeDurationMs?: string;
+  numBuddyHungerPoints?: number;
+}
+export interface PokestopInvasionAvailabilitySettings {
+  availabilityStartMinute: string;
+  availabilityEndMinute: string;
 }
 export interface IapSettings {
   dailyDefenderBonusPerPokemon: number[];
@@ -363,6 +512,7 @@ export interface FormSettings {
 }
 export interface Form {
   form: string;
+  assetBundleSuffix?: string;
   assetBundleValue?: number;
 }
 export interface ExRaidSettings {
@@ -389,10 +539,10 @@ export interface CombatMove {
 }
 export interface Buffs {
   attackerAttackStatStageChange?: number;
-  attackerDefenseStatStageChange?: number;
   buffActivationChance: number;
-  targetDefenseStatStageChange?: number;
   targetAttackStatStageChange?: number;
+  attackerDefenseStatStageChange?: number;
+  targetDefenseStatStageChange?: number;
 }
 export interface CombatStatStageSettings {
   minimumStatStage: number;
@@ -415,6 +565,34 @@ export interface CombatSettings {
   changePokemonDurationSeconds: number;
   minigameSubmitScoreDurationSeconds: number;
   quickSwapCooldownDurationSeconds: number;
+  chargeScoreBase: number;
+  chargeScoreNice: number;
+  chargeScoreGreat: number;
+  chargeScoreExcellent: number;
+  shadowPokemonAttackBonusMultiplier: number;
+  shadowPokemonDefenseBonusMultiplier: number;
+  purifiedPokemonAttackMultiplierVsShadow: number;
+}
+export interface CombatRankingProtoSettings {
+  rankLevel: RankLevel[];
+  requiredForRewards: RequiredForRewards;
+  minRankToDisplayRating: number;
+}
+export interface RequiredForRewards {
+  rankLevel: number;
+  additionalTotalBattlesRequired: number;
+}
+export interface RankLevel {
+  rankLevel: number;
+  additionalTotalBattlesRequired?: number;
+  additionalWinsRequired?: number;
+  minRatingRequired?: number;
+}
+export interface CombatType {
+  type: string;
+  niceLevelThreshold: number;
+  greatLevelThreshold: number;
+  excellentLevelThreshold: number;
 }
 export interface CombatLeagueSettings {
   combatLeagueTemplateId: string[];
@@ -428,11 +606,12 @@ export interface CombatLeague {
   bannedPokemon: string[];
   badgeType: string;
   unlockCondition?: UnlockCondition[];
+  battlePartyCombatLeagueTemplateId?: string;
 }
 export interface UnlockCondition {
   type: string;
   minPokemonCount: number;
-  withPokemonCpLimit: WithPokemonCpLimit2;
+  withPokemonCpLimit?: WithPokemonCpLimit2;
 }
 export interface WithPokemonCpLimit2 {
   minCp: number;
@@ -440,15 +619,77 @@ export interface WithPokemonCpLimit2 {
 }
 export interface PokemonCondition {
   type: string;
-  withPokemonCpLimit: WithPokemonCpLimit;
+  withPokemonCpLimit?: WithPokemonCpLimit;
 }
 export interface WithPokemonCpLimit {
   maxCp: number;
 }
+export interface CombatCompetitiveSeasonSettings {
+  seasonEndTimeTimestamp: string[];
+  ratingAdjustmentPercentage: number;
+  rankingAdjustmentPercentage: number;
+}
+export interface InvasionNpcDisplaySettings {
+  trainerName: string;
+  avatar: Avatar;
+  trainerTitle: string;
+  trainerQuote: string;
+  iconUrl: string;
+  backdropImageBundle?: string;
+  modelName: string;
+  tutorialOnLossString?: string;
+  isMale?: boolean;
+}
+export interface Avatar {
+  avatar: number;
+}
+export interface BuddyWalkSettings {
+  kmRequiredPerAffectionPoint: number;
+}
+export interface BuddySwapSettings {
+  maxSwapsPerDay: number;
+}
+export interface BuddyLevelSettings {
+  level: string;
+  minNonCumulativePointsRequired?: number;
+  unlockedTraits?: string[];
+}
+export interface BuddyInteractionSettings {
+  feedItemWhitelist: string[];
+}
+export interface BuddyHungerSettings {
+  numHungerPointsRequiredForFull: number;
+  decayPointsPerBucket: number;
+  millisecondsPerBucket: string;
+  cooldownDurationMs: string;
+  decayDurationAfterFullMs: string;
+}
+export interface BuddyEncounterCameoSettings {
+  buddyWildEncounterCameoChancePercent: number;
+  buddyQuestEncounterCameoChancePercent: number;
+  buddyRaidEncounterCameoChancePercent: number;
+  buddyInvasionEncounterCameoChancePercent: number;
+}
+export interface BuddyEmotionLevelSettings {
+  emotionLevel: string;
+  emotionAnimation?: string;
+  minEmotionPointsRequired?: number;
+}
+export interface BuddyActivityCategorySettings {
+  activityCategory: string;
+  maxPointsPerDay: number;
+}
+export interface BuddyActivitySettings {
+  activity: string;
+  activityCategory: string;
+  maxTimesPerDay: number;
+  numPointsPerAction: number;
+  numEmotionPointsPerAction: number;
+  emotionCooldownDurationMs?: string;
+}
 export interface BelugaPokemonWhitelist {
   maxAllowedPokemonPokedexNumber: number;
   additionalPokemonAllowed: string[];
-  formsAllowed: string[];
   costumesAllowed: string[];
 }
 export interface BattleSettings {
@@ -466,8 +707,25 @@ export interface BattleSettings {
   swapDurationMs: number;
   dodgeDamageReductionPercent: number;
   minimumRaidPlayerLevel: number;
+  shadowPokemonAttackBonusMultiplier: number;
+  shadowPokemonDefenseBonusMultiplier: number;
+  purifiedPokemonAttackMultiplierVsShadow: number;
 }
-export interface BadgeSettings {
+export interface BattleHubOrderSettings {
+  section: Section[];
+  sectionGroup: SectionGroup[];
+}
+export interface SectionGroup {
+  section: string[];
+}
+export interface Section {
+  mainSection: string;
+  subsection: string[];
+}
+export interface BattleHubBadgeSettings {
+  combatHubDisplayedBadges: string[];
+}
+export interface Badge {
   badgeType: string;
   badgeRank: number;
   targets: number[];
@@ -477,6 +735,7 @@ export interface BackgroundModeSettings {
   weeklyFitnessGoalLevel1DistanceKm: number;
   weeklyFitnessGoalLevel2DistanceKm: number;
   weeklyFitnessGoalLevel3DistanceKm: number;
+  weeklyFitnessGoalLevel4DistanceKm: number;
 }
 export interface AvatarCustomization {
   enabled?: boolean;

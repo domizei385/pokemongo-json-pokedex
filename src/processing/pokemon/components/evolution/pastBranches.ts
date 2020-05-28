@@ -2,7 +2,7 @@ import { Component, ComponentType, IComponent } from '@core/pipeline/component';
 import { EvolutionCostToEvolve, PastEvolutionBranch, Pokemon, PokemonEvolution } from '@outcome/pokemon/index';
 
 import { GenericPropertyMapper } from '../genericPropertyMapper';
-import { ItemTemplate } from '@income/index';
+import {ItemTemplate, RootObject} from '@income/index';
 import { PokemonEvolutionParser } from './pokemonEvolution';
 import { Util } from '@util/index';
 import { Identifyable } from '@core/index';
@@ -19,7 +19,8 @@ import { GetEvolutionItemRequirement } from './shared/getEvolutionItemRequiremen
         new Id(),
         new GenericPropertyMapper(),
         new PokemonEvolutionParser(),
-    ]
+    ],
+    requiresGameMaster: true
 })
 
 /**
@@ -27,6 +28,7 @@ import { GetEvolutionItemRequirement } from './shared/getEvolutionItemRequiremen
  */
 export class PastBranches implements IComponent {
     rawPokemons: ItemTemplate[];
+    gameMaster: RootObject;
     /**
      * Get the raw GAME_MASTER pokemon by id
      * @param pokemonId The pokemon id
@@ -42,7 +44,7 @@ export class PastBranches implements IComponent {
      */
     private GetPreviousRawEvolution(pokemonId: string): ItemTemplate {
         return this.rawPokemons.find(item =>
-            (item.pokemonSettings.evolutionBranch || [])
+            (item.pokemon.evolutionBranch || [])
                 .some(evolution => getPokemonIdByEvolutionBranch(evolution) === pokemonId)
         )
     }
@@ -54,13 +56,13 @@ export class PastBranches implements IComponent {
      */
     private GetEvolutionCost(pokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
         if (!rawPokemon) return undefined;
-        const evolutionBranch = rawPokemon.pokemonSettings.evolutionBranch
+        const evolutionBranch = rawPokemon.pokemon.evolutionBranch
             .find(evolution => getPokemonIdByEvolutionBranch(evolution) === pokemonId);
 
         // Make evolutionItemRequirement to Identifyable
         let evolutionItem: Identifyable;
         if (evolutionBranch.evolutionItemRequirement) {
-            evolutionItem = GetEvolutionItemRequirement(evolutionBranch.evolutionItemRequirement);
+            evolutionItem = GetEvolutionItemRequirement(this.gameMaster, evolutionBranch.evolutionItemRequirement);
         }
         return {
             candyCost: evolutionBranch.candyCost,
@@ -90,8 +92,9 @@ export class PastBranches implements IComponent {
             costToEvolve
         };
     }
-    Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[]): Pokemon[] {
+    Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[], input: Map<String, any>): Pokemon[] {
         this.rawPokemons = rawPokemons;
+        this.gameMaster = input['gameMaster'];
         return pokemons.map(pokemon => {
             pokemon.evolution.pastBranch = this.GetPastBranch(pokemon.id);
             const previousEvolution = this.GetPreviousRawEvolution(pokemon.id);

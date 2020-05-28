@@ -11,6 +11,8 @@
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
+    "GIOVANNI_MAP": {},
+    "GLOBAL_EVENT_TICKET": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Baccananas d'argento",
         "description": "Fai mangiare questa bacca a un Pokémon per ottenere più caramelle quando lo catturi e renderlo più facile da catturare."
@@ -43,6 +45,8 @@
         "name": "Roccia di Re",
         "description": "Roccia che fa evolvere determinate specie di Pokémon. Ha l’aspetto di una corona."
     },
+    "LEADER_MAP": {},
+    "LEADER_MAP_FRAGMENT": {},
     "LEGENDARY_RAID_TICKET": {},
     "LUCKY_EGG": {
         "name": "Fortunuovo",
@@ -64,6 +68,8 @@
         "name": "Metalcoperta",
         "description": "Rivestimento che fa evolvere determinate specie di Pokémon. Si tratta di una speciale pellicola metallica."
     },
+    "MOVE_REROLL_ELITE_FAST_ATTACK": {},
+    "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
@@ -75,6 +81,7 @@
         "name": "Baccananas",
         "description": "Fai mangiare questa bacca a un Pokémon per ottenere più caramelle quando lo catturi."
     },
+    "POFFIN": {},
     "POKEMON_STORAGE_UPGRADE": {},
     "POKE_BALL": {
         "name": "Poké Ball",
@@ -90,6 +97,7 @@
         "name": "Baccalampon",
         "description": "Dalla a un Pokémon e sarà più facile catturarlo."
     },
+    "REMOTE_RAID_TICKET": {},
     "REVIVE": {
         "name": "Revitalizzante",
         "description": "Rimedio che rianima un Pokémon esausto e gli restituisce metà dei suoi PS."
