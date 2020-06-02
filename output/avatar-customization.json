@@ -1563,6 +1563,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Willowglasses",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_willowglasses_0",
+        "iconName": "f_hat_willowglasses_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Woobatearrings",
         "gender": "Female",
         "enabled": true,
@@ -3627,6 +3638,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Uniqlotshirts 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_uniqlotshirts_0",
+        "iconName": "f_shirt_uniqlotshirts_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Uniqlo"
+    },
+    {
+        "name": "Shirt Uniqlotshirts 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_uniqlotshirts_1",
+        "iconName": "f_shirt_uniqlotshirts_1_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Uniqlo"
+    },
+    {
+        "name": "Shirt Uniqlotshirts 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_uniqlotshirts_2",
+        "iconName": "f_shirt_uniqlotshirts_2_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Uniqlo"
+    },
+    {
         "name": "Shirt Unwto",
         "gender": "Female",
         "enabled": true,
@@ -4951,7 +4995,7 @@
         "id": "m_hair_default_10",
         "iconName": "m_group_hair",
         "slot": [
-            "Hat"
+            "Hair"
         ],
         "category": "Hair"
     },
@@ -5061,7 +5105,7 @@
         "id": "m_hair_default_4",
         "iconName": "m_group_hair",
         "slot": [
-            "Hat"
+            "Hair"
         ],
         "category": "Hair"
     },
@@ -5660,6 +5704,17 @@
         "enabled": true,
         "id": "m_hat_ultra_0",
         "iconName": "m_hat_ultra_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Willowglasses",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_willowglasses_0",
+        "iconName": "m_hat_willowglasses_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -7526,6 +7581,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Uniqlotshirts 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_uniqlotshirts_0",
+        "iconName": "m_shirt_uniqlotshirts_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Uniqlo"
+    },
+    {
+        "name": "Shirt Uniqlotshirts 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_uniqlotshirts_1",
+        "iconName": "m_shirt_uniqlotshirts_1_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Uniqlo"
+    },
+    {
+        "name": "Shirt Uniqlotshirts 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_uniqlotshirts_2",
+        "iconName": "m_shirt_uniqlotshirts_2_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Uniqlo"
+    },
+    {
         "name": "Shirt Unwto",
         "gender": "Male",
         "enabled": true,
@@ -8185,71 +8273,5 @@
             "Socks"
         ],
         "category": "Socks"
-    },
-    {
-        "name": "Shirt Uniqlotshirts 0",
-        "gender": "Female",
-        "enabled": true,
-        "id": "f_shirt_uniqlotshirts_0",
-        "iconName": "f_shirt_uniqlotshirts_0_bundle_icon",
-        "slot": [
-            "Shirt"
-        ],
-        "category": "Uniqlo"
-    },
-    {
-        "name": "Shirt Uniqlotshirts 1",
-        "gender": "Female",
-        "enabled": true,
-        "id": "f_shirt_uniqlotshirts_1",
-        "iconName": "f_shirt_uniqlotshirts_1_bundle_icon",
-        "slot": [
-            "Shirt"
-        ],
-        "category": "Uniqlo"
-    },
-    {
-        "name": "Shirt Uniqlotshirts 2",
-        "gender": "Female",
-        "enabled": true,
-        "id": "f_shirt_uniqlotshirts_2",
-        "iconName": "f_shirt_uniqlotshirts_2_bundle_icon",
-        "slot": [
-            "Shirt"
-        ],
-        "category": "Uniqlo"
-    },
-    {
-        "name": "Shirt Uniqlotshirts 0",
-        "gender": "Male",
-        "enabled": true,
-        "id": "m_shirt_uniqlotshirts_0",
-        "iconName": "m_shirt_uniqlotshirts_0_bundle_icon",
-        "slot": [
-            "Shirt"
-        ],
-        "category": "Uniqlo"
-    },
-    {
-        "name": "Shirt Uniqlotshirts 1",
-        "gender": "Male",
-        "enabled": true,
-        "id": "m_shirt_uniqlotshirts_1",
-        "iconName": "m_shirt_uniqlotshirts_1_bundle_icon",
-        "slot": [
-            "Shirt"
-        ],
-        "category": "Uniqlo"
-    },
-    {
-        "name": "Shirt Uniqlotshirts 2",
-        "gender": "Male",
-        "enabled": true,
-        "id": "m_shirt_uniqlotshirts_2",
-        "iconName": "m_shirt_uniqlotshirts_2_bundle_icon",
-        "slot": [
-            "Shirt"
-        ],
-        "category": "Uniqlo"
     }
 ]

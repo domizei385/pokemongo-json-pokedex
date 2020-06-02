@@ -252,6 +252,7 @@
         "name": "Cilindro"
     },
     "f_hat_ultra_0": {},
+    "f_hat_willowglasses_0": {},
     "f_hat_woobatearrings_0": {},
     "f_necklace_default_0": {
         "name": "Collare base"
@@ -615,6 +616,9 @@
         "name": "T-shirt Pikachu"
     },
     "f_shirt_ultra_0": {},
+    "f_shirt_uniqlotshirts_0": {},
+    "f_shirt_uniqlotshirts_1": {},
+    "f_shirt_uniqlotshirts_2": {},
     "f_shirt_unwto_0": {},
     "f_shirt_veterantrainerxy_0": {},
     "f_shoes_acetrainerbw_0": {},
@@ -939,6 +943,7 @@
         "name": "Cilindro"
     },
     "m_hat_ultra_0": {},
+    "m_hat_willowglasses_0": {},
     "m_hat_woobatearrings_0": {},
     "m_pants_acetrainerbw_0": {},
     "m_pants_acetrainersm_0": {},
@@ -1219,6 +1224,9 @@
         "name": "Maglia 30"
     },
     "m_shirt_ultra_0": {},
+    "m_shirt_uniqlotshirts_0": {},
+    "m_shirt_uniqlotshirts_1": {},
+    "m_shirt_uniqlotshirts_2": {},
     "m_shirt_unwto_0": {},
     "m_shirt_veterantrainerxy_0": {},
     "m_shoes_acetrainerbw_0": {},
@@ -1324,11 +1332,5 @@
     },
     "m_socks_empty": {
         "name": "Senza calze"
-    },
-    "f_shirt_uniqlotshirts_0": {},
-    "f_shirt_uniqlotshirts_1": {},
-    "f_shirt_uniqlotshirts_2": {},
-    "m_shirt_uniqlotshirts_0": {},
-    "m_shirt_uniqlotshirts_1": {},
-    "m_shirt_uniqlotshirts_2": {}
+    }
 }
