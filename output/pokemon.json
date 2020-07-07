@@ -5463,7 +5463,7 @@
         ],
         "height": 0.3,
         "modelHeight": 0.3,
-        "kmBuddyDistance": 1,
+        "kmBuddyDistance": 5,
         "weight": 1.8,
         "modelScale": 1.68,
         "maxCP": 680,
@@ -7714,6 +7714,10 @@
                 "id": "PIKACHU_VS_2019",
                 "name": "Pikachu Vs 2019",
                 "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020"
             }
         ]
     },
@@ -7824,6 +7828,129 @@
                 "id": "PIKACHU_VS_2019",
                 "name": "Pikachu Vs 2019",
                 "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Costume 2020",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 29,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.185,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.3,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderGround": 0.4,
+            "cylinderRadius": 0.37,
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "PIKACHU_COSTUME_2020",
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
+            }
+        ],
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020"
             }
         ]
     },
@@ -7934,6 +8061,10 @@
                 "id": "PIKACHU_VS_2019",
                 "name": "Pikachu Vs 2019",
                 "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020"
             }
         ]
     },
@@ -8044,6 +8175,10 @@
                 "id": "PIKACHU_VS_2019",
                 "name": "Pikachu Vs 2019",
                 "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020"
             }
         ]
     },
@@ -15229,6 +15364,131 @@
             ]
         },
         "id": "MEOWTH_ALOLA",
+        "forms": [
+            {
+                "id": "MEOWTH",
+                "name": "Meowth"
+            },
+            {
+                "id": "MEOWTH_ALOLA",
+                "name": "Meowth Alola",
+                "assetBundleValue": 61
+            },
+            {
+                "id": "MEOWTH_PURIFIED",
+                "name": "Meowth Purified"
+            },
+            {
+                "id": "MEOWTH_SHADOW",
+                "name": "Meowth Shadow"
+            },
+            {
+                "id": "MEOWTH_GALARIAN",
+                "name": "Meowth Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 52,
+        "name": "Meowth Galarian",
+        "animationTime": [
+            2,
+            0.6667,
+            1.7333,
+            1.5,
+            0,
+            2,
+            1.4,
+            2
+        ],
+        "height": 0.4,
+        "modelHeight": 0.39,
+        "kmBuddyDistance": 3,
+        "weight": 7.5,
+        "modelScale": 1.6,
+        "maxCP": 1035,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Scratch Fast",
+                "id": "SCRATCH_FAST"
+            },
+            {
+                "name": "Metal Claw Fast",
+                "id": "METAL_CLAW_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_MEOWTH",
+            "name": "Meowth"
+        },
+        "stats": {
+            "baseAttack": 115,
+            "baseDefense": 92,
+            "baseStamina": 137
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_STEEL",
+                "name": "Steel"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.15,
+            "attackTimer": 10,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.45,
+            "cameraDistance": 3,
+            "collisionRadius": 0.128,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.25,
+            "diskRadius": 0.6,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Perrserker",
+                    "id": "PERRSERKER",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "MEOWTH_GALARIAN",
         "forms": [
             {
                 "id": "MEOWTH",
@@ -24369,6 +24629,344 @@
         },
         "evolution": {},
         "id": "FARFETCHD",
+        "forms": [
+            {
+                "id": "FARFETCHD",
+                "name": "Farfetchd"
+            },
+            {
+                "id": "FARFETCHD_SHADOW",
+                "name": "Farfetchd Shadow"
+            },
+            {
+                "id": "FARFETCHD_PURIFIED",
+                "name": "Farfetchd Purified"
+            },
+            {
+                "id": "FARFETCHD_GALARIAN",
+                "name": "Farfetchd Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 83,
+        "name": "Farfetchd Galarian",
+        "animationTime": [
+            1.6667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.8333,
+            1.6,
+            0
+        ],
+        "height": 0.8,
+        "modelHeight": 0.78,
+        "kmBuddyDistance": 3,
+        "weight": 42,
+        "modelScale": 1.13,
+        "maxCP": 1674,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Leaf Blade",
+                "id": "LEAF_BLADE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Fury Cutter Fast",
+                "id": "FURY_CUTTER_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FARFETCHD",
+            "name": "Farfetchd"
+        },
+        "stats": {
+            "baseAttack": 174,
+            "baseDefense": 114,
+            "baseStamina": 141
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIGHTING",
+                "name": "Fighting"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 10,
+            "baseFleeRate": 0.09,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 4,
+            "collisionRadius": 0.2825,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.25,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.5,
+            "diskRadius": 0.678,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "FARFETCHD_GALARIAN",
+        "forms": [
+            {
+                "id": "FARFETCHD",
+                "name": "Farfetchd"
+            },
+            {
+                "id": "FARFETCHD_SHADOW",
+                "name": "Farfetchd Shadow"
+            },
+            {
+                "id": "FARFETCHD_PURIFIED",
+                "name": "Farfetchd Purified"
+            },
+            {
+                "id": "FARFETCHD_GALARIAN",
+                "name": "Farfetchd Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 83,
+        "name": "Farfetchd Purified",
+        "animationTime": [
+            1.6667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.8333,
+            1.6,
+            0
+        ],
+        "height": 0.8,
+        "modelHeight": 0.75,
+        "kmBuddyDistance": 3,
+        "weight": 15,
+        "modelScale": 1.13,
+        "maxCP": 1236,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Leaf Blade",
+                "id": "LEAF_BLADE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            },
+            {
+                "name": "Fury Cutter Fast",
+                "id": "FURY_CUTTER_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FARFETCHD",
+            "name": "Farfetchd"
+        },
+        "stats": {
+            "baseAttack": 124,
+            "baseDefense": 115,
+            "baseStamina": 141
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_NORMAL",
+                "name": "Normal"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 10,
+            "baseFleeRate": 0.09,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 3.39,
+            "collisionRadius": 0.2825,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.25,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.452,
+            "diskRadius": 0.678,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "FARFETCHD_PURIFIED",
+        "forms": [
+            {
+                "id": "FARFETCHD",
+                "name": "Farfetchd"
+            },
+            {
+                "id": "FARFETCHD_SHADOW",
+                "name": "Farfetchd Shadow"
+            },
+            {
+                "id": "FARFETCHD_PURIFIED",
+                "name": "Farfetchd Purified"
+            },
+            {
+                "id": "FARFETCHD_GALARIAN",
+                "name": "Farfetchd Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 83,
+        "name": "Farfetchd Shadow",
+        "animationTime": [
+            1.6667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            1.8333,
+            1.6,
+            0
+        ],
+        "height": 0.8,
+        "modelHeight": 0.75,
+        "kmBuddyDistance": 3,
+        "weight": 15,
+        "modelScale": 1.13,
+        "maxCP": 1236,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Leaf Blade",
+                "id": "LEAF_BLADE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            },
+            {
+                "name": "Fury Cutter Fast",
+                "id": "FURY_CUTTER_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FARFETCHD",
+            "name": "Farfetchd"
+        },
+        "stats": {
+            "baseAttack": 124,
+            "baseDefense": 115,
+            "baseStamina": 141
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_NORMAL",
+                "name": "Normal"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.7,
+            "attackTimer": 10,
+            "baseFleeRate": 0.09,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 3.39,
+            "collisionRadius": 0.2825,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 1.25,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.452,
+            "diskRadius": 0.678,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "FARFETCHD_SHADOW",
         "forms": [
             {
                 "id": "FARFETCHD",
@@ -59276,6 +59874,246 @@
         ]
     },
     {
+        "dex": 263,
+        "name": "Zigzagoon Purified",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 0.4,
+        "modelHeight": 1.1,
+        "kmBuddyDistance": 1,
+        "weight": 17.5,
+        "modelScale": 0.96,
+        "maxCP": 508,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ZIGZAGOON",
+            "name": "Zigzagoon"
+        },
+        "stats": {
+            "baseAttack": 58,
+            "baseDefense": 80,
+            "baseStamina": 116
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_NORMAL",
+                "name": "Normal"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.2,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 3,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.8,
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Linoone Purified",
+                    "id": "LINOONE_PURIFIED",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "ZIGZAGOON_PURIFIED",
+        "forms": [
+            {
+                "id": "ZIGZAGOON",
+                "name": "Zigzagoon"
+            },
+            {
+                "id": "ZIGZAGOON_SHADOW",
+                "name": "Zigzagoon Shadow"
+            },
+            {
+                "id": "ZIGZAGOON_PURIFIED",
+                "name": "Zigzagoon Purified"
+            },
+            {
+                "id": "ZIGZAGOON_GALARIAN",
+                "name": "Zigzagoon Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 263,
+        "name": "Zigzagoon Shadow",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 0.4,
+        "modelHeight": 1.1,
+        "kmBuddyDistance": 1,
+        "weight": 17.5,
+        "modelScale": 0.96,
+        "maxCP": 508,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ZIGZAGOON",
+            "name": "Zigzagoon"
+        },
+        "stats": {
+            "baseAttack": 58,
+            "baseDefense": 80,
+            "baseStamina": 116
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_NORMAL",
+                "name": "Normal"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.7,
+            "attackTimer": 20,
+            "baseFleeRate": 0.2,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 3,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 1.1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.8,
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Linoone Shadow",
+                    "id": "LINOONE_SHADOW",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "ZIGZAGOON_SHADOW",
+        "forms": [
+            {
+                "id": "ZIGZAGOON",
+                "name": "Zigzagoon"
+            },
+            {
+                "id": "ZIGZAGOON_SHADOW",
+                "name": "Zigzagoon Shadow"
+            },
+            {
+                "id": "ZIGZAGOON_PURIFIED",
+                "name": "Zigzagoon Purified"
+            },
+            {
+                "id": "ZIGZAGOON_GALARIAN",
+                "name": "Zigzagoon Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
         "dex": 264,
         "name": "Linoone",
         "animationTime": [
@@ -59504,6 +60342,242 @@
             ]
         },
         "id": "LINOONE_GALARIAN",
+        "forms": [
+            {
+                "id": "LINOONE",
+                "name": "Linoone"
+            },
+            {
+                "id": "LINOONE_SHADOW",
+                "name": "Linoone Shadow"
+            },
+            {
+                "id": "LINOONE_PURIFIED",
+                "name": "Linoone Purified"
+            },
+            {
+                "id": "LINOONE_GALARIAN",
+                "name": "Linoone Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 264,
+        "name": "Linoone Purified",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 0.5,
+        "modelHeight": 1.8,
+        "kmBuddyDistance": 1,
+        "weight": 32.5,
+        "modelScale": 0.78,
+        "maxCP": 1662,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ZIGZAGOON",
+            "name": "Zigzagoon"
+        },
+        "stats": {
+            "baseAttack": 142,
+            "baseDefense": 128,
+            "baseStamina": 186
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_NORMAL",
+                "name": "Normal"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 4,
+            "collisionRadius": 0.15,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 1,
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "pastBranch": {
+                "name": "Zigzagoon Purified",
+                "id": "ZIGZAGOON_PURIFIED"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
+        "id": "LINOONE_PURIFIED",
+        "forms": [
+            {
+                "id": "LINOONE",
+                "name": "Linoone"
+            },
+            {
+                "id": "LINOONE_SHADOW",
+                "name": "Linoone Shadow"
+            },
+            {
+                "id": "LINOONE_PURIFIED",
+                "name": "Linoone Purified"
+            },
+            {
+                "id": "LINOONE_GALARIAN",
+                "name": "Linoone Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 264,
+        "name": "Linoone Shadow",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 0.5,
+        "modelHeight": 1.8,
+        "kmBuddyDistance": 1,
+        "weight": 32.5,
+        "modelScale": 0.78,
+        "maxCP": 1662,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ZIGZAGOON",
+            "name": "Zigzagoon"
+        },
+        "stats": {
+            "baseAttack": 142,
+            "baseDefense": 128,
+            "baseStamina": 186
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_NORMAL",
+                "name": "Normal"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.7,
+            "attackTimer": 20,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 4,
+            "collisionRadius": 0.15,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 1.1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 1,
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "pastBranch": {
+                "name": "Zigzagoon Shadow",
+                "id": "ZIGZAGOON_SHADOW"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
+        "id": "LINOONE_SHADOW",
         "forms": [
             {
                 "id": "LINOONE",
@@ -85667,7 +86741,7 @@
             }
         },
         "camera": {
-            "cylinderRadius": 0.252,
+            "cylinderRadius": 0.9,
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
@@ -107249,6 +108323,333 @@
         ]
     },
     {
+        "dex": 554,
+        "name": "Darumaka Galarian",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0.8667,
+            0
+        ],
+        "height": 0.7,
+        "modelHeight": 0.72,
+        "kmBuddyDistance": 3,
+        "weight": 40,
+        "maxCP": 1442,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_DARUMAKA",
+            "name": "Darumaka"
+        },
+        "stats": {
+            "baseAttack": 153,
+            "baseDefense": 86,
+            "baseStamina": 172
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ICE",
+                "name": "Ice"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.09,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 4,
+            "collisionRadius": 0.5,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.6,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Darmanitan Galarian Standard",
+                    "id": "DARMANITAN_GALARIAN_STANDARD",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "DARUMAKA_GALARIAN",
+        "forms": [
+            {
+                "id": "DARUMAKA",
+                "name": "Darumaka"
+            },
+            {
+                "id": "DARUMAKA_SHADOW",
+                "name": "Darumaka Shadow"
+            },
+            {
+                "id": "DARUMAKA_PURIFIED",
+                "name": "Darumaka Purified"
+            },
+            {
+                "id": "DARUMAKA_GALARIAN",
+                "name": "Darumaka Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 554,
+        "name": "Darumaka Purified",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.6,
+        "modelHeight": 0.75,
+        "kmBuddyDistance": 3,
+        "weight": 37.5,
+        "modelScale": 1,
+        "maxCP": 1442,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Fire Punch",
+                "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Fire Fang Fast",
+                "id": "FIRE_FANG_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_DARUMAKA",
+            "name": "Darumaka"
+        },
+        "stats": {
+            "baseAttack": 153,
+            "baseDefense": 86,
+            "baseStamina": 172
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.09,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 3.5,
+            "collisionRadius": 0.35,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.8,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.7,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "DARUMAKA_PURIFIED",
+        "forms": [
+            {
+                "id": "DARUMAKA",
+                "name": "Darumaka"
+            },
+            {
+                "id": "DARUMAKA_SHADOW",
+                "name": "Darumaka Shadow"
+            },
+            {
+                "id": "DARUMAKA_PURIFIED",
+                "name": "Darumaka Purified"
+            },
+            {
+                "id": "DARUMAKA_GALARIAN",
+                "name": "Darumaka Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 554,
+        "name": "Darumaka Shadow",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.6,
+        "modelHeight": 0.75,
+        "kmBuddyDistance": 3,
+        "weight": 37.5,
+        "modelScale": 1,
+        "maxCP": 1442,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Fire Punch",
+                "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Fire Fang Fast",
+                "id": "FIRE_FANG_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_DARUMAKA",
+            "name": "Darumaka"
+        },
+        "stats": {
+            "baseAttack": 153,
+            "baseDefense": 86,
+            "baseStamina": 172
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.7,
+            "attackTimer": 29,
+            "baseFleeRate": 0.09,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 3.5,
+            "collisionRadius": 0.35,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 0.8,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.7,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "DARUMAKA_SHADOW",
+        "forms": [
+            {
+                "id": "DARUMAKA",
+                "name": "Darumaka"
+            },
+            {
+                "id": "DARUMAKA_SHADOW",
+                "name": "Darumaka Shadow"
+            },
+            {
+                "id": "DARUMAKA_PURIFIED",
+                "name": "Darumaka Purified"
+            },
+            {
+                "id": "DARUMAKA_GALARIAN",
+                "name": "Darumaka Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
         "dex": 555,
         "name": "Darmanitan",
         "animationTime": [
@@ -107342,6 +108743,252 @@
         },
         "evolution": {},
         "id": "DARMANITAN",
+        "forms": [
+            {
+                "id": "DARMANITAN_STANDARD",
+                "name": "Darmanitan Standard",
+                "assetBundleValue": 11
+            },
+            {
+                "id": "DARMANITAN_ZEN",
+                "name": "Darmanitan Zen",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "DARMANITAN_GALARIAN_STANDARD",
+                "name": "Darmanitan Galarian Standard",
+                "assetBundleValue": 31
+            },
+            {
+                "id": "DARMANITAN_GALARIAN_ZEN",
+                "name": "Darmanitan Galarian Zen",
+                "assetBundleValue": 32
+            }
+        ]
+    },
+    {
+        "dex": 555,
+        "name": "Darmanitan Galarian Standard",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0,
+            0
+        ],
+        "height": 1.7,
+        "modelHeight": 1.7,
+        "kmBuddyDistance": 3,
+        "weight": 120,
+        "modelScale": 0.9,
+        "maxCP": 3105,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Super Power",
+                "id": "SUPER_POWER"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_DARUMAKA",
+            "name": "Darumaka"
+        },
+        "stats": {
+            "baseAttack": 263,
+            "baseDefense": 114,
+            "baseStamina": 233
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ICE",
+                "name": "Ice"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.1,
+            "cameraDistance": 5,
+            "collisionRadius": 0.5,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.95,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "pastBranch": {
+                "name": "Darumaka Galarian",
+                "id": "DARUMAKA_GALARIAN"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
+        "id": "DARMANITAN_GALARIAN_STANDARD",
+        "forms": [
+            {
+                "id": "DARMANITAN_STANDARD",
+                "name": "Darmanitan Standard",
+                "assetBundleValue": 11
+            },
+            {
+                "id": "DARMANITAN_ZEN",
+                "name": "Darmanitan Zen",
+                "assetBundleValue": 12
+            },
+            {
+                "id": "DARMANITAN_GALARIAN_STANDARD",
+                "name": "Darmanitan Galarian Standard",
+                "assetBundleValue": 31
+            },
+            {
+                "id": "DARMANITAN_GALARIAN_ZEN",
+                "name": "Darmanitan Galarian Zen",
+                "assetBundleValue": 32
+            }
+        ]
+    },
+    {
+        "dex": 555,
+        "name": "Darmanitan Galarian Zen",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0,
+            0
+        ],
+        "height": 1.7,
+        "modelHeight": 1.7,
+        "kmBuddyDistance": 3,
+        "weight": 120,
+        "modelScale": 0.9,
+        "maxCP": 3905,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Super Power",
+                "id": "SUPER_POWER"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_DARUMAKA",
+            "name": "Darumaka"
+        },
+        "stats": {
+            "baseAttack": 323,
+            "baseDefense": 123,
+            "baseStamina": 233
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ICE",
+                "name": "Ice"
+            },
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.1,
+            "cameraDistance": 5,
+            "collisionRadius": 0.5,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.85,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "DARMANITAN_GALARIAN_ZEN",
         "forms": [
             {
                 "id": "DARMANITAN_STANDARD",
@@ -114965,6 +116612,351 @@
         ]
     },
     {
+        "dex": 618,
+        "name": "Stunfisk Galarian",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.7,
+        "modelHeight": 0.7,
+        "kmBuddyDistance": 5,
+        "weight": 20.5,
+        "modelScale": 1.26,
+        "maxCP": 2162,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Metal Claw Fast",
+                "id": "METAL_CLAW_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_STUNFISK",
+            "name": "Stunfisk"
+        },
+        "stats": {
+            "baseAttack": 144,
+            "baseDefense": 171,
+            "baseStamina": 240
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GROUND",
+                "name": "Ground"
+            },
+            {
+                "id": "POKEMON_TYPE_STEEL",
+                "name": "Steel"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.5,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.4,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "STUNFISK_GALARIAN",
+        "forms": [
+            {
+                "id": "STUNFISK",
+                "name": "Stunfisk"
+            },
+            {
+                "id": "STUNFISK_SHADOW",
+                "name": "Stunfisk Shadow"
+            },
+            {
+                "id": "STUNFISK_PURIFIED",
+                "name": "Stunfisk Purified"
+            },
+            {
+                "id": "STUNFISK_GALARIAN",
+                "name": "Stunfisk Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 618,
+        "name": "Stunfisk Purified",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.7,
+        "modelHeight": 0.7,
+        "kmBuddyDistance": 5,
+        "weight": 11,
+        "modelScale": 1.26,
+        "maxCP": 2162,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_STUNFISK",
+            "name": "Stunfisk"
+        },
+        "stats": {
+            "baseAttack": 144,
+            "baseDefense": 171,
+            "baseStamina": 240
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GROUND",
+                "name": "Ground"
+            },
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.1,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.4,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "STUNFISK_PURIFIED",
+        "forms": [
+            {
+                "id": "STUNFISK",
+                "name": "Stunfisk"
+            },
+            {
+                "id": "STUNFISK_SHADOW",
+                "name": "Stunfisk Shadow"
+            },
+            {
+                "id": "STUNFISK_PURIFIED",
+                "name": "Stunfisk Purified"
+            },
+            {
+                "id": "STUNFISK_GALARIAN",
+                "name": "Stunfisk Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 618,
+        "name": "Stunfisk Shadow",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 0.7,
+        "modelHeight": 0.7,
+        "kmBuddyDistance": 5,
+        "weight": 11,
+        "modelScale": 1.26,
+        "maxCP": 2162,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Mud Bomb",
+                "id": "MUD_BOMB"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_STUNFISK",
+            "name": "Stunfisk"
+        },
+        "stats": {
+            "baseAttack": 144,
+            "baseDefense": 171,
+            "baseStamina": 240
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GROUND",
+                "name": "Ground"
+            },
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.7,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 2.25,
+            "collisionRadius": 0.1,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "cylinderRadius": 0.4,
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "STUNFISK_SHADOW",
+        "forms": [
+            {
+                "id": "STUNFISK",
+                "name": "Stunfisk"
+            },
+            {
+                "id": "STUNFISK_SHADOW",
+                "name": "Stunfisk Shadow"
+            },
+            {
+                "id": "STUNFISK_PURIFIED",
+                "name": "Stunfisk Purified"
+            },
+            {
+                "id": "STUNFISK_GALARIAN",
+                "name": "Stunfisk Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
         "dex": 619,
         "name": "Mienfoo",
         "animationTime": [
@@ -118349,10 +120341,6 @@
                 "id": "BLIZZARD"
             },
             {
-                "name": "Icy Wind",
-                "id": "ICY_WIND"
-            },
-            {
                 "name": "Draco Meteor",
                 "id": "DRACO_METEOR"
             }
@@ -120119,1863 +122107,6 @@
         "evolution": {},
         "id": "MELMETAL",
         "forms": []
-    },
-    {
-        "dex": 52,
-        "name": "Meowth Galarian",
-        "animationTime": [
-            2,
-            0.6667,
-            1.7333,
-            1.5,
-            0,
-            2,
-            1.4,
-            2
-        ],
-        "height": 0.4,
-        "modelHeight": 0.39,
-        "kmBuddyDistance": 3,
-        "weight": 7.5,
-        "modelScale": 1.6,
-        "maxCP": 1035,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Night Slash",
-                "id": "NIGHT_SLASH"
-            },
-            {
-                "name": "Gyro Ball",
-                "id": "GYRO_BALL"
-            },
-            {
-                "name": "Dig",
-                "id": "DIG"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Scratch Fast",
-                "id": "SCRATCH_FAST"
-            },
-            {
-                "name": "Metal Claw Fast",
-                "id": "METAL_CLAW_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_MEOWTH",
-            "name": "Meowth"
-        },
-        "stats": {
-            "baseAttack": 115,
-            "baseDefense": 92,
-            "baseStamina": 137
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_STEEL",
-                "name": "Steel"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.15,
-            "attackTimer": 10,
-            "baseFleeRate": 0.1,
-            "baseCaptureRate": 0.45,
-            "cameraDistance": 3,
-            "collisionRadius": 0.128,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.2,
-            "jumpTime": 1,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.25,
-            "diskRadius": 0.6,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {
-            "futureBranches": [
-                {
-                    "name": "Perrserker",
-                    "id": "PERRSERKER",
-                    "costToEvolve": {
-                        "candyCost": 50
-                    }
-                }
-            ]
-        },
-        "id": "MEOWTH_GALARIAN",
-        "forms": [
-            {
-                "id": "MEOWTH",
-                "name": "Meowth"
-            },
-            {
-                "id": "MEOWTH_ALOLA",
-                "name": "Meowth Alola",
-                "assetBundleValue": 61
-            },
-            {
-                "id": "MEOWTH_PURIFIED",
-                "name": "Meowth Purified"
-            },
-            {
-                "id": "MEOWTH_SHADOW",
-                "name": "Meowth Shadow"
-            },
-            {
-                "id": "MEOWTH_GALARIAN",
-                "name": "Meowth Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 83,
-        "name": "Farfetchd Galarian",
-        "animationTime": [
-            1.6667,
-            0.6667,
-            1.6667,
-            1.8333,
-            0,
-            1.8333,
-            1.6,
-            0
-        ],
-        "height": 0.8,
-        "modelHeight": 0.78,
-        "kmBuddyDistance": 3,
-        "weight": 42,
-        "modelScale": 1.13,
-        "maxCP": 1674,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Brick Break",
-                "id": "BRICK_BREAK"
-            },
-            {
-                "name": "Brave Bird",
-                "id": "BRAVE_BIRD"
-            },
-            {
-                "name": "Leaf Blade",
-                "id": "LEAF_BLADE"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Rock Smash Fast",
-                "id": "ROCK_SMASH_FAST"
-            },
-            {
-                "name": "Fury Cutter Fast",
-                "id": "FURY_CUTTER_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_FARFETCHD",
-            "name": "Farfetchd"
-        },
-        "stats": {
-            "baseAttack": 174,
-            "baseDefense": 114,
-            "baseStamina": 141
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_FIGHTING",
-                "name": "Fighting"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 10,
-            "baseFleeRate": 0.09,
-            "baseCaptureRate": 0.3,
-            "cameraDistance": 4,
-            "collisionRadius": 0.2825,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 1.25,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.5,
-            "diskRadius": 0.678,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "FARFETCHD_GALARIAN",
-        "forms": [
-            {
-                "id": "FARFETCHD",
-                "name": "Farfetchd"
-            },
-            {
-                "id": "FARFETCHD_SHADOW",
-                "name": "Farfetchd Shadow"
-            },
-            {
-                "id": "FARFETCHD_PURIFIED",
-                "name": "Farfetchd Purified"
-            },
-            {
-                "id": "FARFETCHD_GALARIAN",
-                "name": "Farfetchd Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 83,
-        "name": "Farfetchd Purified",
-        "animationTime": [
-            1.6667,
-            0.6667,
-            1.6667,
-            1.8333,
-            0,
-            1.8333,
-            1.6,
-            0
-        ],
-        "height": 0.8,
-        "modelHeight": 0.75,
-        "kmBuddyDistance": 3,
-        "weight": 15,
-        "modelScale": 1.13,
-        "maxCP": 1236,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Aerial Ace",
-                "id": "AERIAL_ACE"
-            },
-            {
-                "name": "Air Cutter",
-                "id": "AIR_CUTTER"
-            },
-            {
-                "name": "Leaf Blade",
-                "id": "LEAF_BLADE"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Air Slash Fast",
-                "id": "AIR_SLASH_FAST"
-            },
-            {
-                "name": "Fury Cutter Fast",
-                "id": "FURY_CUTTER_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_FARFETCHD",
-            "name": "Farfetchd"
-        },
-        "stats": {
-            "baseAttack": 124,
-            "baseDefense": 115,
-            "baseStamina": 141
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_NORMAL",
-                "name": "Normal"
-            },
-            {
-                "id": "POKEMON_TYPE_FLYING",
-                "name": "Flying"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 10,
-            "baseFleeRate": 0.09,
-            "baseCaptureRate": 0.3,
-            "cameraDistance": 3.39,
-            "collisionRadius": 0.2825,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 1.25,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.452,
-            "diskRadius": 0.678,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "FARFETCHD_PURIFIED",
-        "forms": [
-            {
-                "id": "FARFETCHD",
-                "name": "Farfetchd"
-            },
-            {
-                "id": "FARFETCHD_SHADOW",
-                "name": "Farfetchd Shadow"
-            },
-            {
-                "id": "FARFETCHD_PURIFIED",
-                "name": "Farfetchd Purified"
-            },
-            {
-                "id": "FARFETCHD_GALARIAN",
-                "name": "Farfetchd Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 83,
-        "name": "Farfetchd Shadow",
-        "animationTime": [
-            1.6667,
-            0.6667,
-            1.6667,
-            1.8333,
-            0,
-            1.8333,
-            1.6,
-            0
-        ],
-        "height": 0.8,
-        "modelHeight": 0.75,
-        "kmBuddyDistance": 3,
-        "weight": 15,
-        "modelScale": 1.13,
-        "maxCP": 1236,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Aerial Ace",
-                "id": "AERIAL_ACE"
-            },
-            {
-                "name": "Air Cutter",
-                "id": "AIR_CUTTER"
-            },
-            {
-                "name": "Leaf Blade",
-                "id": "LEAF_BLADE"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Air Slash Fast",
-                "id": "AIR_SLASH_FAST"
-            },
-            {
-                "name": "Fury Cutter Fast",
-                "id": "FURY_CUTTER_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_FARFETCHD",
-            "name": "Farfetchd"
-        },
-        "stats": {
-            "baseAttack": 124,
-            "baseDefense": 115,
-            "baseStamina": 141
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_NORMAL",
-                "name": "Normal"
-            },
-            {
-                "id": "POKEMON_TYPE_FLYING",
-                "name": "Flying"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.7,
-            "attackTimer": 10,
-            "baseFleeRate": 0.09,
-            "baseCaptureRate": 0.3,
-            "cameraDistance": 3.39,
-            "collisionRadius": 0.2825,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.2,
-            "jumpTime": 1.25,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.452,
-            "diskRadius": 0.678,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "FARFETCHD_SHADOW",
-        "forms": [
-            {
-                "id": "FARFETCHD",
-                "name": "Farfetchd"
-            },
-            {
-                "id": "FARFETCHD_SHADOW",
-                "name": "Farfetchd Shadow"
-            },
-            {
-                "id": "FARFETCHD_PURIFIED",
-                "name": "Farfetchd Purified"
-            },
-            {
-                "id": "FARFETCHD_GALARIAN",
-                "name": "Farfetchd Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 263,
-        "name": "Zigzagoon Purified",
-        "animationTime": [
-            1.3333,
-            0.6667,
-            1.6667,
-            2,
-            0,
-            2,
-            3,
-            3
-        ],
-        "height": 0.4,
-        "modelHeight": 1.1,
-        "kmBuddyDistance": 1,
-        "weight": 17.5,
-        "modelScale": 0.96,
-        "maxCP": 508,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Dig",
-                "id": "DIG"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Thunderbolt",
-                "id": "THUNDERBOLT"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            },
-            {
-                "name": "Rock Smash Fast",
-                "id": "ROCK_SMASH_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_ZIGZAGOON",
-            "name": "Zigzagoon"
-        },
-        "stats": {
-            "baseAttack": 58,
-            "baseDefense": 80,
-            "baseStamina": 116
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_NORMAL",
-                "name": "Normal"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 20,
-            "baseFleeRate": 0.2,
-            "baseCaptureRate": 0.5,
-            "cameraDistance": 3,
-            "collisionRadius": 0.25,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 1.1,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.8,
-            "diskRadius": 0.555,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {
-            "futureBranches": [
-                {
-                    "name": "Linoone Purified",
-                    "id": "LINOONE_PURIFIED",
-                    "costToEvolve": {
-                        "candyCost": 50
-                    }
-                }
-            ]
-        },
-        "id": "ZIGZAGOON_PURIFIED",
-        "forms": [
-            {
-                "id": "ZIGZAGOON",
-                "name": "Zigzagoon"
-            },
-            {
-                "id": "ZIGZAGOON_SHADOW",
-                "name": "Zigzagoon Shadow"
-            },
-            {
-                "id": "ZIGZAGOON_PURIFIED",
-                "name": "Zigzagoon Purified"
-            },
-            {
-                "id": "ZIGZAGOON_GALARIAN",
-                "name": "Zigzagoon Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 263,
-        "name": "Zigzagoon Shadow",
-        "animationTime": [
-            1.3333,
-            0.6667,
-            1.6667,
-            2,
-            0,
-            2,
-            3,
-            3
-        ],
-        "height": 0.4,
-        "modelHeight": 1.1,
-        "kmBuddyDistance": 1,
-        "weight": 17.5,
-        "modelScale": 0.96,
-        "maxCP": 508,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Dig",
-                "id": "DIG"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Thunderbolt",
-                "id": "THUNDERBOLT"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            },
-            {
-                "name": "Rock Smash Fast",
-                "id": "ROCK_SMASH_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_ZIGZAGOON",
-            "name": "Zigzagoon"
-        },
-        "stats": {
-            "baseAttack": 58,
-            "baseDefense": 80,
-            "baseStamina": 116
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_NORMAL",
-                "name": "Normal"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.7,
-            "attackTimer": 20,
-            "baseFleeRate": 0.2,
-            "baseCaptureRate": 0.5,
-            "cameraDistance": 3,
-            "collisionRadius": 0.25,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.2,
-            "jumpTime": 1.1,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.8,
-            "diskRadius": 0.555,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {
-            "futureBranches": [
-                {
-                    "name": "Linoone Shadow",
-                    "id": "LINOONE_SHADOW",
-                    "costToEvolve": {
-                        "candyCost": 50
-                    }
-                }
-            ]
-        },
-        "id": "ZIGZAGOON_SHADOW",
-        "forms": [
-            {
-                "id": "ZIGZAGOON",
-                "name": "Zigzagoon"
-            },
-            {
-                "id": "ZIGZAGOON_SHADOW",
-                "name": "Zigzagoon Shadow"
-            },
-            {
-                "id": "ZIGZAGOON_PURIFIED",
-                "name": "Zigzagoon Purified"
-            },
-            {
-                "id": "ZIGZAGOON_GALARIAN",
-                "name": "Zigzagoon Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 264,
-        "name": "Linoone Purified",
-        "animationTime": [
-            1.3333,
-            0.6667,
-            1.6667,
-            2,
-            0,
-            2,
-            3,
-            3
-        ],
-        "height": 0.5,
-        "modelHeight": 1.8,
-        "kmBuddyDistance": 1,
-        "weight": 32.5,
-        "modelScale": 0.78,
-        "maxCP": 1662,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Dig",
-                "id": "DIG"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Thunder",
-                "id": "THUNDER"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Shadow Claw Fast",
-                "id": "SHADOW_CLAW_FAST"
-            },
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_ZIGZAGOON",
-            "name": "Zigzagoon"
-        },
-        "stats": {
-            "baseAttack": 142,
-            "baseDefense": 128,
-            "baseStamina": 186
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_NORMAL",
-                "name": "Normal"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 20,
-            "baseFleeRate": 0.07,
-            "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
-            "collisionRadius": 0.15,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 1.1,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 1,
-            "diskRadius": 0.555,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {
-            "pastBranch": {
-                "name": "Zigzagoon Purified",
-                "id": "ZIGZAGOON_PURIFIED"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        },
-        "id": "LINOONE_PURIFIED",
-        "forms": [
-            {
-                "id": "LINOONE",
-                "name": "Linoone"
-            },
-            {
-                "id": "LINOONE_SHADOW",
-                "name": "Linoone Shadow"
-            },
-            {
-                "id": "LINOONE_PURIFIED",
-                "name": "Linoone Purified"
-            },
-            {
-                "id": "LINOONE_GALARIAN",
-                "name": "Linoone Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 264,
-        "name": "Linoone Shadow",
-        "animationTime": [
-            1.3333,
-            0.6667,
-            1.6667,
-            2,
-            0,
-            2,
-            3,
-            3
-        ],
-        "height": 0.5,
-        "modelHeight": 1.8,
-        "kmBuddyDistance": 1,
-        "weight": 32.5,
-        "modelScale": 0.78,
-        "maxCP": 1662,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Dig",
-                "id": "DIG"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Thunder",
-                "id": "THUNDER"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Shadow Claw Fast",
-                "id": "SHADOW_CLAW_FAST"
-            },
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_ZIGZAGOON",
-            "name": "Zigzagoon"
-        },
-        "stats": {
-            "baseAttack": 142,
-            "baseDefense": 128,
-            "baseStamina": 186
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_NORMAL",
-                "name": "Normal"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.7,
-            "attackTimer": 20,
-            "baseFleeRate": 0.07,
-            "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
-            "collisionRadius": 0.15,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.2,
-            "jumpTime": 1.1,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 1,
-            "diskRadius": 0.555,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {
-            "pastBranch": {
-                "name": "Zigzagoon Shadow",
-                "id": "ZIGZAGOON_SHADOW"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        },
-        "id": "LINOONE_SHADOW",
-        "forms": [
-            {
-                "id": "LINOONE",
-                "name": "Linoone"
-            },
-            {
-                "id": "LINOONE_SHADOW",
-                "name": "Linoone Shadow"
-            },
-            {
-                "id": "LINOONE_PURIFIED",
-                "name": "Linoone Purified"
-            },
-            {
-                "id": "LINOONE_GALARIAN",
-                "name": "Linoone Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 554,
-        "name": "Darumaka Galarian",
-        "animationTime": [
-            1.9,
-            0.6666,
-            1.7666,
-            0,
-            2.4,
-            0.08667,
-            0.8667,
-            0
-        ],
-        "height": 0.7,
-        "modelHeight": 0.72,
-        "kmBuddyDistance": 5,
-        "weight": 40,
-        "maxCP": 1442,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Ice Punch",
-                "id": "ICE_PUNCH"
-            },
-            {
-                "name": "Ice Beam",
-                "id": "ICE_BEAM"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            },
-            {
-                "name": "Ice Fang Fast",
-                "id": "ICE_FANG_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_DARUMAKA",
-            "name": "Darumaka"
-        },
-        "stats": {
-            "baseAttack": 153,
-            "baseDefense": 86,
-            "baseStamina": 172
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_ICE",
-                "name": "Ice"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseFleeRate": 0.09,
-            "baseCaptureRate": 0.3,
-            "cameraDistance": 4,
-            "collisionRadius": 0.5,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.6,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {
-            "futureBranches": [
-                {
-                    "name": "Darmanitan Galarian Standard",
-                    "id": "DARMANITAN_GALARIAN_STANDARD",
-                    "costToEvolve": {
-                        "candyCost": 50
-                    }
-                }
-            ]
-        },
-        "id": "DARUMAKA_GALARIAN",
-        "forms": [
-            {
-                "id": "DARUMAKA",
-                "name": "Darumaka"
-            },
-            {
-                "id": "DARUMAKA_SHADOW",
-                "name": "Darumaka Shadow"
-            },
-            {
-                "id": "DARUMAKA_PURIFIED",
-                "name": "Darumaka Purified"
-            },
-            {
-                "id": "DARUMAKA_GALARIAN",
-                "name": "Darumaka Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 554,
-        "name": "Darumaka Purified",
-        "animationTime": [
-            1.9,
-            0.6667,
-            1.8,
-            1.7667,
-            0,
-            2.4,
-            0.8667,
-            0
-        ],
-        "height": 0.6,
-        "modelHeight": 0.75,
-        "kmBuddyDistance": 3,
-        "weight": 37.5,
-        "modelScale": 1,
-        "maxCP": 1442,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Fire Punch",
-                "id": "FIRE_PUNCH"
-            },
-            {
-                "name": "Flame Charge",
-                "id": "FLAME_CHARGE"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            },
-            {
-                "name": "Fire Fang Fast",
-                "id": "FIRE_FANG_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_DARUMAKA",
-            "name": "Darumaka"
-        },
-        "stats": {
-            "baseAttack": 153,
-            "baseDefense": 86,
-            "baseStamina": 172
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_FIRE",
-                "name": "Fire"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseFleeRate": 0.09,
-            "baseCaptureRate": 0.3,
-            "cameraDistance": 3.5,
-            "collisionRadius": 0.35,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.8,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.7,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "DARUMAKA_PURIFIED",
-        "forms": [
-            {
-                "id": "DARUMAKA",
-                "name": "Darumaka"
-            },
-            {
-                "id": "DARUMAKA_SHADOW",
-                "name": "Darumaka Shadow"
-            },
-            {
-                "id": "DARUMAKA_PURIFIED",
-                "name": "Darumaka Purified"
-            },
-            {
-                "id": "DARUMAKA_GALARIAN",
-                "name": "Darumaka Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 554,
-        "name": "Darumaka Shadow",
-        "animationTime": [
-            1.9,
-            0.6667,
-            1.8,
-            1.7667,
-            0,
-            2.4,
-            0.8667,
-            0
-        ],
-        "height": 0.6,
-        "modelHeight": 0.75,
-        "kmBuddyDistance": 3,
-        "weight": 37.5,
-        "modelScale": 1,
-        "maxCP": 1442,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Fire Punch",
-                "id": "FIRE_PUNCH"
-            },
-            {
-                "name": "Flame Charge",
-                "id": "FLAME_CHARGE"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            },
-            {
-                "name": "Fire Fang Fast",
-                "id": "FIRE_FANG_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_DARUMAKA",
-            "name": "Darumaka"
-        },
-        "stats": {
-            "baseAttack": 153,
-            "baseDefense": 86,
-            "baseStamina": 172
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_FIRE",
-                "name": "Fire"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.7,
-            "attackTimer": 29,
-            "baseFleeRate": 0.09,
-            "baseCaptureRate": 0.3,
-            "cameraDistance": 3.5,
-            "collisionRadius": 0.35,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.2,
-            "jumpTime": 0.8,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.7,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "DARUMAKA_SHADOW",
-        "forms": [
-            {
-                "id": "DARUMAKA",
-                "name": "Darumaka"
-            },
-            {
-                "id": "DARUMAKA_SHADOW",
-                "name": "Darumaka Shadow"
-            },
-            {
-                "id": "DARUMAKA_PURIFIED",
-                "name": "Darumaka Purified"
-            },
-            {
-                "id": "DARUMAKA_GALARIAN",
-                "name": "Darumaka Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 555,
-        "name": "Darmanitan Galarian Standard",
-        "animationTime": [
-            1.9,
-            0.6666,
-            1.7666,
-            0,
-            2.4,
-            0.08667,
-            0,
-            0
-        ],
-        "height": 1.7,
-        "modelHeight": 1.7,
-        "kmBuddyDistance": 5,
-        "weight": 120,
-        "modelScale": 0.9,
-        "maxCP": 3105,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Overheat",
-                "id": "OVERHEAT"
-            },
-            {
-                "name": "Avalanche",
-                "id": "AVALANCHE"
-            },
-            {
-                "name": "Super Power",
-                "id": "SUPER_POWER"
-            },
-            {
-                "name": "Ice Punch",
-                "id": "ICE_PUNCH"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            },
-            {
-                "name": "Ice Fang Fast",
-                "id": "ICE_FANG_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_DARUMAKA",
-            "name": "Darumaka"
-        },
-        "stats": {
-            "baseAttack": 263,
-            "baseDefense": 114,
-            "baseStamina": 233
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_ICE",
-                "name": "Ice"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseFleeRate": 0.07,
-            "baseCaptureRate": 0.1,
-            "cameraDistance": 5,
-            "collisionRadius": 0.5,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.95,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {
-            "pastBranch": {
-                "name": "Darumaka Galarian",
-                "id": "DARUMAKA_GALARIAN"
-            },
-            "costToEvolve": {
-                "candyCost": 50
-            }
-        },
-        "id": "DARMANITAN_GALARIAN_STANDARD",
-        "forms": [
-            {
-                "id": "DARMANITAN_STANDARD",
-                "name": "Darmanitan Standard",
-                "assetBundleValue": 11
-            },
-            {
-                "id": "DARMANITAN_ZEN",
-                "name": "Darmanitan Zen",
-                "assetBundleValue": 12
-            },
-            {
-                "id": "DARMANITAN_GALARIAN_STANDARD",
-                "name": "Darmanitan Galarian Standard",
-                "assetBundleValue": 31
-            },
-            {
-                "id": "DARMANITAN_GALARIAN_ZEN",
-                "name": "Darmanitan Galarian Zen",
-                "assetBundleValue": 32
-            }
-        ]
-    },
-    {
-        "dex": 555,
-        "name": "Darmanitan Galarian Zen",
-        "animationTime": [
-            1.9,
-            0.6666,
-            1.7666,
-            0,
-            2.4,
-            0.08667,
-            0,
-            0
-        ],
-        "height": 1.7,
-        "modelHeight": 1.7,
-        "kmBuddyDistance": 5,
-        "weight": 120,
-        "modelScale": 0.9,
-        "maxCP": 3905,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Overheat",
-                "id": "OVERHEAT"
-            },
-            {
-                "name": "Avalanche",
-                "id": "AVALANCHE"
-            },
-            {
-                "name": "Super Power",
-                "id": "SUPER_POWER"
-            },
-            {
-                "name": "Ice Punch",
-                "id": "ICE_PUNCH"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Tackle Fast",
-                "id": "TACKLE_FAST"
-            },
-            {
-                "name": "Ice Fang Fast",
-                "id": "ICE_FANG_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_DARUMAKA",
-            "name": "Darumaka"
-        },
-        "stats": {
-            "baseAttack": 323,
-            "baseDefense": 123,
-            "baseStamina": 233
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_ICE",
-                "name": "Ice"
-            },
-            {
-                "id": "POKEMON_TYPE_FIRE",
-                "name": "Fire"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseFleeRate": 0.07,
-            "baseCaptureRate": 0.1,
-            "cameraDistance": 5,
-            "collisionRadius": 0.5,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.85,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "DARMANITAN_GALARIAN_ZEN",
-        "forms": [
-            {
-                "id": "DARMANITAN_STANDARD",
-                "name": "Darmanitan Standard",
-                "assetBundleValue": 11
-            },
-            {
-                "id": "DARMANITAN_ZEN",
-                "name": "Darmanitan Zen",
-                "assetBundleValue": 12
-            },
-            {
-                "id": "DARMANITAN_GALARIAN_STANDARD",
-                "name": "Darmanitan Galarian Standard",
-                "assetBundleValue": 31
-            },
-            {
-                "id": "DARMANITAN_GALARIAN_ZEN",
-                "name": "Darmanitan Galarian Zen",
-                "assetBundleValue": 32
-            }
-        ]
-    },
-    {
-        "dex": 618,
-        "name": "Stunfisk Galarian",
-        "animationTime": [
-            1.9,
-            0.6666,
-            1.7666,
-            0,
-            2.4,
-            0.08667,
-            0
-        ],
-        "height": 0.7,
-        "modelHeight": 0.7,
-        "kmBuddyDistance": 5,
-        "weight": 20.5,
-        "modelScale": 1.26,
-        "maxCP": 2162,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Flash Cannon",
-                "id": "FLASH_CANNON"
-            },
-            {
-                "name": "Muddy Water",
-                "id": "MUDDY_WATER"
-            },
-            {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Mud Shot Fast",
-                "id": "MUD_SHOT_FAST"
-            },
-            {
-                "name": "Metal Claw Fast",
-                "id": "METAL_CLAW_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_STUNFISK",
-            "name": "Stunfisk"
-        },
-        "stats": {
-            "baseAttack": 144,
-            "baseDefense": 171,
-            "baseStamina": 240
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_GROUND",
-                "name": "Ground"
-            },
-            {
-                "id": "POKEMON_TYPE_STEEL",
-                "name": "Steel"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseFleeRate": 0.07,
-            "baseCaptureRate": 0.2,
-            "cameraDistance": 2.5,
-            "collisionRadius": 0.5,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.4,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "STUNFISK_GALARIAN",
-        "forms": [
-            {
-                "id": "STUNFISK",
-                "name": "Stunfisk"
-            },
-            {
-                "id": "STUNFISK_SHADOW",
-                "name": "Stunfisk Shadow"
-            },
-            {
-                "id": "STUNFISK_PURIFIED",
-                "name": "Stunfisk Purified"
-            },
-            {
-                "id": "STUNFISK_GALARIAN",
-                "name": "Stunfisk Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 618,
-        "name": "Stunfisk Purified",
-        "animationTime": [
-            1.9,
-            0.6667,
-            1.8,
-            1.7667,
-            0,
-            2.4,
-            0.8667,
-            0
-        ],
-        "height": 0.7,
-        "modelHeight": 0.7,
-        "kmBuddyDistance": 5,
-        "weight": 11,
-        "modelScale": 1.26,
-        "maxCP": 2162,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Mud Bomb",
-                "id": "MUD_BOMB"
-            },
-            {
-                "name": "Discharge",
-                "id": "DISCHARGE"
-            },
-            {
-                "name": "Muddy Water",
-                "id": "MUDDY_WATER"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Thunder Shock Fast",
-                "id": "THUNDER_SHOCK_FAST"
-            },
-            {
-                "name": "Mud Shot Fast",
-                "id": "MUD_SHOT_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_STUNFISK",
-            "name": "Stunfisk"
-        },
-        "stats": {
-            "baseAttack": 144,
-            "baseDefense": 171,
-            "baseStamina": 240
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_GROUND",
-                "name": "Ground"
-            },
-            {
-                "id": "POKEMON_TYPE_ELECTRIC",
-                "name": "Electric"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "attackTimer": 29,
-            "baseFleeRate": 0.07,
-            "baseCaptureRate": 0.2,
-            "cameraDistance": 2.25,
-            "collisionRadius": 0.1,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.15,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.4,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "STUNFISK_PURIFIED",
-        "forms": [
-            {
-                "id": "STUNFISK",
-                "name": "Stunfisk"
-            },
-            {
-                "id": "STUNFISK_SHADOW",
-                "name": "Stunfisk Shadow"
-            },
-            {
-                "id": "STUNFISK_PURIFIED",
-                "name": "Stunfisk Purified"
-            },
-            {
-                "id": "STUNFISK_GALARIAN",
-                "name": "Stunfisk Galarian",
-                "assetBundleValue": 31
-            }
-        ]
-    },
-    {
-        "dex": 618,
-        "name": "Stunfisk Shadow",
-        "animationTime": [
-            1.9,
-            0.6667,
-            1.8,
-            1.7667,
-            0,
-            2.4,
-            0.8667,
-            0
-        ],
-        "height": 0.7,
-        "modelHeight": 0.7,
-        "kmBuddyDistance": 5,
-        "weight": 11,
-        "modelScale": 1.26,
-        "maxCP": 2162,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Mud Bomb",
-                "id": "MUD_BOMB"
-            },
-            {
-                "name": "Discharge",
-                "id": "DISCHARGE"
-            },
-            {
-                "name": "Muddy Water",
-                "id": "MUDDY_WATER"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Thunder Shock Fast",
-                "id": "THUNDER_SHOCK_FAST"
-            },
-            {
-                "name": "Mud Shot Fast",
-                "id": "MUD_SHOT_FAST"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_STUNFISK",
-            "name": "Stunfisk"
-        },
-        "stats": {
-            "baseAttack": 144,
-            "baseDefense": 171,
-            "baseStamina": 240
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_GROUND",
-                "name": "Ground"
-            },
-            {
-                "id": "POKEMON_TYPE_ELECTRIC",
-                "name": "Electric"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.7,
-            "attackTimer": 29,
-            "baseFleeRate": 0.07,
-            "baseCaptureRate": 0.2,
-            "cameraDistance": 2.25,
-            "collisionRadius": 0.1,
-            "dodgeDistance": 1,
-            "dodgeProbability": 0.2,
-            "jumpTime": 0.9,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            },
-            "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
-            }
-        },
-        "camera": {
-            "cylinderRadius": 0.4,
-            "diskRadius": 0.378,
-            "shoulderModeScale": 0.5
-        },
-        "evolution": {},
-        "id": "STUNFISK_SHADOW",
-        "forms": [
-            {
-                "id": "STUNFISK",
-                "name": "Stunfisk"
-            },
-            {
-                "id": "STUNFISK_SHADOW",
-                "name": "Stunfisk Shadow"
-            },
-            {
-                "id": "STUNFISK_PURIFIED",
-                "name": "Stunfisk Purified"
-            },
-            {
-                "id": "STUNFISK_GALARIAN",
-                "name": "Stunfisk Galarian",
-                "assetBundleValue": 31
-            }
-        ]
     },
     {
         "dex": 862,

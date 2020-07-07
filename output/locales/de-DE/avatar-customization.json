@@ -35,6 +35,7 @@
     "f_backpack_pkmnhoodie007": {},
     "f_backpack_ruinmaniac_0": {},
     "f_backpack_ss_0": {},
+    "f_backpack_swshdlccostume_0": {},
     "f_backpack_togepibackpack_0": {},
     "f_backpack_ultra": {},
     "f_backpack_zubatbp_0": {},
@@ -150,6 +151,7 @@
     "f_gloves_gymleader_0": {
         "name": "Arenaleiter-\\nHandschuhe"
     },
+    "f_gloves_swshdlccostume_0": {},
     "f_gloves_teamaqua_0": {},
     "f_gloves_teammagma_0": {},
     "f_gloves_teamrocket_0": {
@@ -207,6 +209,7 @@
     "f_hat_frlg_0": {
         "name": "Blattgrüner Hut"
     },
+    "f_hat_galarfarfetchditems_0": {},
     "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
     "f_hat_hgss_0": {
@@ -466,6 +469,7 @@
     "f_shirt_frlg_0": {
         "name": "Blattgrünes Oberteil"
     },
+    "f_shirt_galarfarfetchditems_0": {},
     "f_shirt_gengar_0": {},
     "f_shirt_giovanni_0": {},
     "f_shirt_gofest_2019": {},
@@ -540,6 +544,7 @@
     "f_shirt_sweater_valor": {
         "name": "Team Wagemut"
     },
+    "f_shirt_swshdlccostume_0": {},
     "f_shirt_tanktop_0": {
         "name": "Trainer- Tanktop"
     },
@@ -682,6 +687,7 @@
     "f_shoes_sandals_2": {},
     "f_shoes_ss_0": {},
     "f_shoes_steven_0": {},
+    "f_shoes_swshdlccostume_0": {},
     "f_shoes_teamaqua_0": {},
     "f_shoes_teamblanche_0": {},
     "f_shoes_teamcandela_0": {},
@@ -765,6 +771,7 @@
     "m_backpack_pkmnhoodie007": {},
     "m_backpack_ruinmaniac_0": {},
     "m_backpack_ss_0": {},
+    "m_backpack_swshdlccostume_0": {},
     "m_backpack_togepibackpack_0": {},
     "m_backpack_ultra": {},
     "m_backpack_zubatbp_0": {},
@@ -832,6 +839,7 @@
     "m_gloves_jogger": {
         "name": "Jogger-Uhr"
     },
+    "m_gloves_swshdlccostume_0": {},
     "m_gloves_teamaqua_0": {},
     "m_gloves_teammagma_0": {},
     "m_gloves_teamrocket_0": {
@@ -902,6 +910,7 @@
     "m_hat_frlg_0": {
         "name": "Feuerrote Kappe"
     },
+    "m_hat_galarfarfetchditems_0": {},
     "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
     "m_hat_hgss_0": {
@@ -1075,6 +1084,7 @@
     "m_shirt_frlg_0": {
         "name": "Feuerrotes Oberteil"
     },
+    "m_shirt_galarfarfetchditems_0": {},
     "m_shirt_gengar_0": {},
     "m_shirt_giovanni_0": {},
     "m_shirt_gofest_2019": {},
@@ -1178,6 +1188,7 @@
     "m_shirt_sweatshirt_streak_4": {
         "name": "Streifen-Hoodie"
     },
+    "m_shirt_swshdlccostume_0": {},
     "m_shirt_teamaqua_0": {},
     "m_shirt_teamblanche_0": {},
     "m_shirt_teamcandela_0": {},
@@ -1293,6 +1304,7 @@
     "m_shoes_sandals_2": {},
     "m_shoes_ss_0": {},
     "m_shoes_steven_0": {},
+    "m_shoes_swshdlccostume_0": {},
     "m_shoes_teamaqua_0": {},
     "m_shoes_teamblanche_0": {},
     "m_shoes_teamcandela_0": {},

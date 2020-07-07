@@ -4675,5 +4675,25 @@
         },
         "name": "Rock Wrecker",
         "internalId": 334
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": "ATTACK_02",
+        "power": 80,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "fly",
+        "durationMs": 1800,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1500,
+        "energyDelta": -50,
+        "id": 341,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Fly",
+        "internalId": 341
     }
 ]

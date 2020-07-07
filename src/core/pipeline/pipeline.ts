@@ -103,6 +103,7 @@ export abstract class Pipeline implements IPipeline {
   }
 
   private shouldComponentBeProcessed(component: ComponentRegister, input: ItemTemplate) {
+    // console.log(component, " [should process] ", input.templateId, " ===> ", !component.settings.templateId || input.templateId === component.settings.templateId);
     // No templateId settings was set (= allow every item template)
     return !component.settings.templateId ||
         // or is actually correct template id

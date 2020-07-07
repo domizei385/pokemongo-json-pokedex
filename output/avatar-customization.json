@@ -222,6 +222,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Swshdlccostume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_swshdlccostume_0",
+        "iconName": "f_backpack_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Togepibackpack",
         "gender": "Female",
         "enabled": true,
@@ -745,6 +756,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Swshdlccostume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_swshdlccostume_0",
+        "iconName": "f_gloves_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Teamaqua",
         "gender": "Female",
         "enabled": true,
@@ -1214,6 +1236,17 @@
         "id": "f_hat_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_hat_frlg_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Galarfarfetchditems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_galarfarfetchditems_0",
+        "iconName": "f_hat_galarfarfetchditems_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2749,6 +2782,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Galarfarfetchditems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_galarfarfetchditems_0",
+        "iconName": "f_shirt_galarfarfetchditems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Gengar 0",
         "gender": "Female",
         "enabled": true,
@@ -3286,6 +3330,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Swshdlccostume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_swshdlccostume_0",
+        "iconName": "f_shirt_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Tanktop 0",
         "gender": "Female",
         "enabled": true,
@@ -3646,7 +3701,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Uniqlo"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Uniqlotshirts 1",
@@ -3657,7 +3712,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Uniqlo"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Uniqlotshirts 2",
@@ -3668,7 +3723,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Uniqlo"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Unwto",
@@ -4039,6 +4094,17 @@
         "enabled": true,
         "id": "f_shoes_steven_0",
         "iconName": "f_shoes_steven_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshdlccostume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_swshdlccostume_0",
+        "iconName": "f_shoes_swshdlccostume_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -4576,6 +4642,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Swshdlccostume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_swshdlccostume_0",
+        "iconName": "m_backpack_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Togepibackpack",
         "gender": "Male",
         "enabled": true,
@@ -4917,6 +4994,17 @@
         "id": "m_gloves_jogger",
         "unlockBadgeLevel": 10,
         "iconName": "m_gloves_jogger_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Swshdlccostume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_swshdlccostume_0",
+        "iconName": "m_gloves_swshdlccostume_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -5382,6 +5470,17 @@
         "id": "m_hat_frlg_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_hat_frlg_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Galarfarfetchditems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_galarfarfetchditems_0",
+        "iconName": "m_hat_galarfarfetchditems_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -6701,6 +6800,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Galarfarfetchditems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_galarfarfetchditems_0",
+        "iconName": "m_shirt_galarfarfetchditems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Gengar 0",
         "gender": "Male",
         "enabled": true,
@@ -7335,6 +7445,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Swshdlccostume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_swshdlccostume_0",
+        "iconName": "m_shirt_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Teamaqua",
         "gender": "Male",
         "enabled": true,
@@ -7589,7 +7710,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Uniqlo"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Uniqlotshirts 1",
@@ -7600,7 +7721,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Uniqlo"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Uniqlotshirts 2",
@@ -7611,7 +7732,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Uniqlo"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Unwto",
@@ -7994,6 +8115,17 @@
         "enabled": true,
         "id": "m_shoes_steven_0",
         "iconName": "m_shoes_steven_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshdlccostume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_swshdlccostume_0",
+        "iconName": "m_shoes_swshdlccostume_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
