@@ -7858,6 +7858,24 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
+            }
+        ],
         "quickMoves": [
             {
                 "name": "Thunder Shock Fast",
@@ -7912,24 +7930,6 @@
         },
         "evolution": {},
         "id": "PIKACHU_COSTUME_2020",
-        "cinematicMoves": [
-            {
-                "name": "Discharge",
-                "id": "DISCHARGE"
-            },
-            {
-                "name": "Thunderbolt",
-                "id": "THUNDERBOLT"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
-                "name": "Fly",
-                "id": "FLY"
-            }
-        ],
         "forms": [
             {
                 "id": "PIKACHU",

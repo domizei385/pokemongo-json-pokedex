@@ -4688,7 +4688,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1500,
         "energyDelta": -50,
-        "id": 341,
+        "id": "FLY",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
