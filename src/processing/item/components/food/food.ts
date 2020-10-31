@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline/index';
 
 import { Item, ItemFood } from '@outcome/item/index';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 
 @Component({
   pipeline: 'item'
@@ -10,7 +10,7 @@ export class Food implements IComponent {
   /**
    * Sets the food object
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     // Is a food
     if (!rawItem.item.food) {
       return item;

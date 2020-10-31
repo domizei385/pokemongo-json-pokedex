@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline';
 
 import { AvatarCustomization } from '@outcome/avatarCustomization';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 
 @Component({
   pipeline: 'avatarCustomization'
@@ -15,7 +15,7 @@ export class Gender implements IComponent {
    * new GenderParser().Process('AVATAR_m_hat_default_3'); // Gender.Male;
    * new GenderParser().Process('AVATAR_f_hat_default_3'); // Gender.Female;
    */
-  Process(avatarCustomization: AvatarCustomization, rawAvatarCustomzation: ItemTemplate): AvatarCustomization {
+  Process(avatarCustomization: AvatarCustomization, rawAvatarCustomzation: Data): AvatarCustomization {
     let match: RegExpExecArray = new RegExp('AVATAR_(.)_?.*', 'g').exec(rawAvatarCustomzation.templateId);
     let genderOutput: string;
 

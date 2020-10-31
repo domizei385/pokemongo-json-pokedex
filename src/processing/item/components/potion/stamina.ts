@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline/index';
 
 import { Item } from '@outcome/item/index';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 import { Potion } from './potion';
 
 @Component({
@@ -14,7 +14,7 @@ export class StaminaAmount implements IComponent {
   /**
    * Stamina amount
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     // Is a potion
     if (!rawItem.item.potion) {
       return item;

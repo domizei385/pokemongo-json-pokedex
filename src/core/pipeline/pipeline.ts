@@ -1,5 +1,5 @@
 import { ComponentRegister, ComponentRegistry, ComponentType } from '@core/pipeline';
-import { ItemTemplate, RootObject } from '../../income';
+import { Data, RootObject } from '../../income';
 import { forEachSeries, mapSeries } from 'p-iteration';
 
 export interface IPipeline {
@@ -13,7 +13,7 @@ export abstract class Pipeline implements IPipeline {
   protected name: string;
   protected input: RootObject;
   protected _components: ComponentRegister[];
-  protected parsedInput: ItemTemplate[];
+  protected parsedInput: Data[];
   private sortedComponents: ComponentRegister[];
   private visitedComponents: Object;
 
@@ -37,11 +37,18 @@ export abstract class Pipeline implements IPipeline {
     return this._components;
   }
 
-  abstract isItemTemplate(item: ItemTemplate): boolean;
+  abstract isItemTemplate(item: Data): boolean;
 
-  Parse(): ItemTemplate[] {
-    return this.input.itemTemplate
-        .filter(p => this.isItemTemplate(p));
+  Parse(): Data[] {
+    if (!this.input.template) {console.log("template.parse", this.input);}
+    return this.input.template
+        .filter(p => this.isItemTemplate(p))
+        .map(p => {
+         if (!p.data.templateId) {
+           p.data.templateId = p.templateId;
+         }
+         return p.data;
+        });
   }
 
   /**
@@ -102,7 +109,7 @@ export abstract class Pipeline implements IPipeline {
     });
   }
 
-  private shouldComponentBeProcessed(component: ComponentRegister, input: ItemTemplate) {
+  private shouldComponentBeProcessed(component: ComponentRegister, input: Data) {
     // console.log(component, " [should process] ", input.templateId, " ===> ", !component.settings.templateId || input.templateId === component.settings.templateId);
     // No templateId settings was set (= allow every item template)
     return !component.settings.templateId ||
@@ -129,6 +136,8 @@ export abstract class Pipeline implements IPipeline {
     this.resolveDependencyResolution();
     let output = [];
     await forEachSeries(this.sortedComponents, async component => {
+      console.log("Run", component);
+      console.log("Input: ", this.input);
       let additionalInput = (component.settings.requiresGameMaster ? {'gameMaster': this.input} : {}) as Map<String, any>
       if (component.settings.type === ComponentType.SIMPLE_MAP) {
         output = await this.processSimpleMapComponent(component, output, additionalInput);

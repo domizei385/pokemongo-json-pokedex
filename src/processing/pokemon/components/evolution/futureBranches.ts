@@ -2,7 +2,7 @@ import { Component, ComponentType, IComponent } from '@core/pipeline/component';
 import { EvolutionCostToEvolve, FutureEvolutionBranch, Pokemon } from '@outcome/pokemon';
 
 import { GenericPropertyMapper } from '../genericPropertyMapper';
-import { ItemTemplate, RootObject } from '@income';
+import { Data, RootObject } from '@income';
 import { PokemonEvolutionParser } from './pokemonEvolution';
 import { Util } from '@util';
 import { Identifyable } from '@core';
@@ -26,14 +26,14 @@ import { GetEvolutionItemRequirement } from './shared/getEvolutionItemRequiremen
  * Parses the future evolutions
  */
 export class FutureBranches implements IComponent {
-  rawPokemons: ItemTemplate[];
+  rawPokemons: Data[];
   gameMaster: RootObject;
 
   /**
    * Returns the future evolutions from the given GAME_MASTER data.
    * @param pokemonId The id of the pokemon
    */
-  private GetFutureRawEvolutions(pokemon: ItemTemplate): ItemTemplate[] {
+  private GetFutureRawEvolutions(pokemon: Data): Data[] {
     return (pokemon.pokemon.evolutionBranch || []).map(branch => {
       const pokemonId = getPokemonIdByEvolutionBranch(branch);
       const rawPokemon = this.GetRawPokemonById(pokemonId)
@@ -46,7 +46,7 @@ export class FutureBranches implements IComponent {
    * @param pokemonId The id of the pokemon you want to have the evolution cost
    * @param rawPokemon The GAME_MASTER provided raw pokemon of the lower evolution branch
    */
-  private GetEvolutionCost(futurePokemonId: string, rawPokemon: ItemTemplate): EvolutionCostToEvolve {
+  private GetEvolutionCost(futurePokemonId: string, rawPokemon: Data): EvolutionCostToEvolve {
     const evolutionBranch = (rawPokemon.pokemon.evolutionBranch || [])
         .find(branch => getPokemonIdByEvolutionBranch(branch) === futurePokemonId);
 
@@ -73,7 +73,7 @@ export class FutureBranches implements IComponent {
    * Get the raw GAME_MASTER pokemon by id
    * @param pokemonId The pokemon id
    */
-  private GetRawPokemonById(pokemonId): ItemTemplate {
+  private GetRawPokemonById(pokemonId): Data {
     return this.rawPokemons.find(pokemon => TemplateIdToId(pokemon) === pokemonId);
   }
 
@@ -81,7 +81,7 @@ export class FutureBranches implements IComponent {
    * Recursively gets all future branches from the given pokemon
    * @param pokemonId The id of the pokemon
    */
-  private GetFutureBranches(rawPokemon: ItemTemplate): FutureEvolutionBranch[] {
+  private GetFutureBranches(rawPokemon: Data): FutureEvolutionBranch[] {
     const futurePokemons = this.GetFutureRawEvolutions(rawPokemon);
     if (!futurePokemons.length) {
       return undefined;
@@ -95,7 +95,7 @@ export class FutureBranches implements IComponent {
         } as FutureEvolutionBranch))
   }
 
-  Process(pokemons: Pokemon[], rawPokemons: ItemTemplate[], input: Map<String, any>): Pokemon[] {
+  Process(pokemons: Pokemon[], rawPokemons: Data[], input: Map<String, any>): Pokemon[] {
     this.rawPokemons = rawPokemons;
     this.gameMaster = input['gameMaster'];
     return pokemons.map(pokemon => {

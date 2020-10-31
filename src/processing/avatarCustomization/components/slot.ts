@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline';
 
 import { AvatarCustomization } from '@outcome/avatarCustomization';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Util } from '@util';
 
 @Component({
@@ -11,7 +11,7 @@ export class Slot implements IComponent {
   /**
    * Maps generic properties which do not need to be processed.
    */
-  Process(avatarCustomization: AvatarCustomization, rawAvatarCustomization: ItemTemplate): AvatarCustomization {
+  Process(avatarCustomization: AvatarCustomization, rawAvatarCustomization: Data): AvatarCustomization {
     avatarCustomization.slot = rawAvatarCustomization
         .avatarCustomization
         .slot

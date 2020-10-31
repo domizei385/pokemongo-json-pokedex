@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline';
 
 import { Item } from '@outcome/item';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 
 @Component({
   pipeline: 'item'
@@ -10,7 +10,7 @@ export class GenericPropertyMapper implements IComponent {
   /**
    * Maps generic properties with the item
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     item.dropTrainerLevel = rawItem.item.dropTrainerLevel;
     return item;
   }

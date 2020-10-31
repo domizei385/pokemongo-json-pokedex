@@ -1,12 +1,12 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 
 @Component({
   pipeline: 'pokemon'
 })
 export class Stats implements IComponent {
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.stats = {
       baseAttack: rawPokemon.pokemon.stats.baseAttack,
       baseDefense: rawPokemon.pokemon.stats.baseDefense,

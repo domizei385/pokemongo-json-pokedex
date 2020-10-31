@@ -1,5 +1,5 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { Util } from '@util';
 
@@ -7,7 +7,7 @@ import { Util } from '@util';
   pipeline: 'pokemon'
 })
 export class PokemonClass implements IComponent {
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     if (rawPokemon.pokemon.pokemonClass) {
       pokemon.pokemonClass = {
         id: rawPokemon.pokemon.pokemonClass,

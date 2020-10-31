@@ -18,7 +18,7 @@ import { LocalesPipeline } from './core/pipeline/localePipeline';
 import { ItemLocalesPipeline } from './processing/item/locales/itemLocalesPipeline';
 import { AvatarCustomizationLocalesPipeline } from './processing/avatarCustomization/locales/index';
 
-const gameMaster = require('../pokemongo-game-master/versions/latest/GAME_MASTER.json');
+const gameMaster = require('../pokemongo-game-master/versions/latest/V2_GAME_MASTER.json');
 const specialGameMastersDirectory = path.resolve(__dirname, '../pokemongo-game-master/special');
 const specialGameMasters = fs.existsSync(specialGameMastersDirectory) ? fs.readdirSync(specialGameMastersDirectory).map(file => require(`../pokemongo-game-master/special/${file}`)) : [];
 const packageJson = require('../package.json');

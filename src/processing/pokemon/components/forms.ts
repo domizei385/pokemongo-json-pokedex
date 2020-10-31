@@ -1,5 +1,5 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { Util } from '@util';
 import * as leftPad from 'left-pad';
@@ -17,7 +17,7 @@ export class Forms implements IComponent {
   /**
    * Sets any additional forms the pokemon may have
    */
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate, input: Map<String, any>): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data, input: Map<String, any>): Pokemon {
     const forms = this.getForms(input['gameMaster'], rawPokemon);
 
     pokemon.forms = forms;
@@ -25,14 +25,14 @@ export class Forms implements IComponent {
     return pokemon;
   }
 
-  private getForms(gameMaster, rawPokemon: ItemTemplate) {
+  private getForms(gameMaster, rawPokemon: Data) {
 
     const dex = parseInt(rawPokemon.templateId.split('_')[0].slice(1), 10);
     const dexString = leftPad(dex, 4, '0');
 
     const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemon.uniqueId}`;
 
-    const itemTemplate = (gameMaster.itemTemplate || [])
+    const itemTemplate = (gameMaster.template.data || [])
         .find(itemTemplate => {
           return itemTemplate.templateId === formKey;
         });

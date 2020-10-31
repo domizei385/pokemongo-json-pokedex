@@ -1,5 +1,5 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { Id } from '../../type/components/id';
 
@@ -13,7 +13,7 @@ export class GenericPropertyMapper implements IComponent {
   /**
    * Maps generic properties which do not need to be processed.
    */
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.animationTime = rawPokemon.pokemon.animTime;
     pokemon.height = rawPokemon.pokemon.pokedexHeightM;
     pokemon.modelHeight = rawPokemon.pokemon.modelHeight;

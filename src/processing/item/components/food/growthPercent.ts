@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline/index';
 
 import { Item } from '@outcome/item/index';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 import { Food } from './food';
 
 @Component({
@@ -14,7 +14,7 @@ export class GrowthPercent implements IComponent {
   /**
    * Parses the growth percent
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     // Is a food
     if (!rawItem.item.food) {
       return item;

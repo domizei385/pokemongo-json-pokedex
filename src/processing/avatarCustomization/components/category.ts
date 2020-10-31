@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline';
 
 import { AvatarCustomization } from '@outcome/avatarCustomization';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Util } from '@util';
 
 @Component({
@@ -11,7 +11,7 @@ export class Category implements IComponent {
   /**
    * Parses the english name of the costumization
    */
-  Process(avatarCustomization: AvatarCustomization, rawAvatarCustomization: ItemTemplate): AvatarCustomization {
+  Process(avatarCustomization: AvatarCustomization, rawAvatarCustomization: Data): AvatarCustomization {
     const groupName = rawAvatarCustomization.avatarCustomization.groupName;
     const match: RegExpExecArray = new RegExp('group_(.*)', 'g').exec(groupName);
     if (!match.length) {

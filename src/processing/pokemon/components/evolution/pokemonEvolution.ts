@@ -1,7 +1,7 @@
 import { Component, ComponentType, IComponent } from '@core/pipeline/component';
 import { Pokemon, PokemonEvolution } from '@outcome/pokemon';
 
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 
 @Component({
   pipeline: 'pokemon',
@@ -11,7 +11,7 @@ import { ItemTemplate } from '@income';
  * Ensures if `pokemon.evolution` is set.
  */
 export class PokemonEvolutionParser implements IComponent {
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.evolution = pokemon.evolution || {} as PokemonEvolution;
     return pokemon;
   }

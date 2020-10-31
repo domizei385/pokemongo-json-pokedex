@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline/index';
 
 import { Item, ItemEffect } from '@outcome/item/index';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 import { Util } from '@util/util';
 import { Food } from './food';
 
@@ -15,7 +15,7 @@ export class Effect implements IComponent {
   /**
    * Parses the item effect
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     // Is a food
     if (!rawItem.item.food) {
       return item;

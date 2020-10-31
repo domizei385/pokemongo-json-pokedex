@@ -1,10 +1,10 @@
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 
 /**
  * Converts the pokemon template id to the pokemon id
  * @param templateId The template id of the item
  */
-export const TemplateIdToId = (rawPokemon: ItemTemplate) => {
+export const TemplateIdToId = (rawPokemon: Data) => {
   let newId = rawPokemon.templateId.substring(14);
   const pokemonId = rawPokemon.pokemon.uniqueId;
   if (pokemonId.endsWith('_MALE')) {

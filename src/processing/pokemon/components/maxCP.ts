@@ -1,5 +1,5 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import AppSettings from '@settings/app';
 
@@ -37,7 +37,7 @@ export class MaxCP implements IComponent {
   /**
    * Calculates the max CP of a Pokemon
    */
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.maxCP = this.Calculate(rawPokemon.pokemon.stats.baseStamina, rawPokemon.pokemon.stats.baseAttack, rawPokemon.pokemon.stats.baseDefense);
     return pokemon;
   }

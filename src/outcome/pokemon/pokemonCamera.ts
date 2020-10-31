@@ -13,13 +13,13 @@ export interface PokemonCamera {
    * @example
    * 0.51
    */
-  cylinderRadius: number;
+  cylRadius: number;
   /**
    * Unknown
    * @example
    * 0.5
    */
-  cylinderGround: number;
+  cylHeight: number;
   /**
    * Unknown
    * @example

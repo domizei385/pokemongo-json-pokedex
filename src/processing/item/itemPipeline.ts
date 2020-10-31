@@ -1,4 +1,4 @@
-import { ItemTemplate, RootObject } from '@income/index';
+import { Data, RootObject } from '@income/index';
 
 import { Pipeline } from '@core/pipeline/index';
 
@@ -14,7 +14,7 @@ export class ItemPipeline extends Pipeline {
   /**
    * Checks if the given ItemTemplate is indeed an item
    */
-  isItemTemplate(item: ItemTemplate): boolean {
+  isItemTemplate(item: Data): boolean {
     return new RegExp('^(ITEM_?.*)', 'g').test(item.templateId);
   }
 }

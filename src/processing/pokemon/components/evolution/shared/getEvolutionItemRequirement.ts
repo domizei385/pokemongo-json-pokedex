@@ -17,8 +17,8 @@ export const GetEvolutionItemRequirement = (gameMaster: RootObject, evolutionIte
   // If is number then it is an item id..
   if (typeof evolutionItemRequirement === 'number') {
     // Find item with the given id
-    const foundItem = (gameMaster.itemTemplate || [])
-        .find(item => item.item && item.item.itemId.toString() === evolutionItemRequirement.toString());
+    const foundItem = (gameMaster.template || [])
+        .find(item => item.data.item && item.data.item.toString() === evolutionItemRequirement.toString());
     id = foundItem.templateId
   } else {
     // If is string, it already is the id

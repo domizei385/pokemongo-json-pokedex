@@ -1,6 +1,6 @@
 import { Component, IComponent } from '@core/pipeline';
 
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Move } from '@outcome/move';
 
 @Component({
@@ -10,7 +10,7 @@ export class GenericPropertyMapper implements IComponent {
   /**
    * Maps generic properties which do not need to be processed.
    */
-  Process(move: Move, rawMove: ItemTemplate): Move {
+  Process(move: Move, rawMove: Data): Move {
     let moveStgs = rawMove.move;
     move.accuracyChange = moveStgs.accuracyChance;
     move.animationId = moveStgs.animationId;
@@ -24,7 +24,7 @@ export class GenericPropertyMapper implements IComponent {
     move.damageWindowStartMs = moveStgs.damageWindowStartMs;
     move.damageWindowEndMs = moveStgs.damageWindowEndMs;
     move.energyDelta = moveStgs.energyDelta;
-    move.id = moveStgs.movementId;
+    move.id = moveStgs.uniqueId;
     return move;
   }
 }

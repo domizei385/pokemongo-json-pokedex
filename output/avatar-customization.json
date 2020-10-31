@@ -141,7 +141,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Backpack"
+        "category": "Halloween"
     },
     {
         "name": "Backpack Hgss 0",
@@ -156,6 +156,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Longchampbp",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_longchampbp_00",
+        "iconName": "f_backpack_longchampbp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Sponsor"
+    },
+    {
         "name": "Backpack Mimikyubp",
         "gender": "Female",
         "enabled": true,
@@ -164,7 +175,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Backpack"
+        "category": "Halloween"
     },
     {
         "name": "Backpack Pkmnhoodie001",
@@ -263,7 +274,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Backpack"
+        "category": "Halloween"
     },
     {
         "name": "Belt Acetrainerbw",
@@ -509,6 +520,17 @@
         "category": "Eyes"
     },
     {
+        "name": "Face Verizon2020mask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_verizon2020mask_0",
+        "iconName": "f_face_verizon2020mask_0_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Glasses 3d",
         "gender": "Female",
         "enabled": true,
@@ -525,6 +547,17 @@
         "enabled": true,
         "id": "f_glasses_empty",
         "iconName": "f_glasses_empty_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Goteamrocketarlo",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_glasses_goteamrocketarlo",
+        "iconName": "f_glasses_goteamrocketarlo_00_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -756,6 +789,50 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Megabangle",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_megabangle_0",
+        "iconName": "f_gloves_megabangle_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Megabangleblue",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_megabangleblue_0",
+        "iconName": "f_gloves_megabangleblue_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Megabanglered",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_megabanglered_0",
+        "iconName": "f_gloves_megabanglered_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Megabangleyellow",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_megabangleyellow_0",
+        "iconName": "f_gloves_megabangleyellow_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Swshdlccostume",
         "gender": "Female",
         "enabled": true,
@@ -809,6 +886,17 @@
             "Gloves"
         ],
         "category": "Gloves"
+    },
+    {
+        "name": "Gofest Pikachuvisor",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_gofest_pikachuvisor_0",
+        "iconName": "f_hat_gofest_pikachuvisor_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hair Default 0",
@@ -914,6 +1002,28 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hair_default_17",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 18",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_18",
+        "iconName": "f_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 19",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hair_default_19",
         "iconName": "f_group_hair",
         "slot": [
             "Hair"
@@ -1051,7 +1161,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Default A 0",
@@ -1172,7 +1282,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Eeveecap",
@@ -1272,7 +1382,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Hgss 0",
@@ -1328,7 +1438,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Loneearrings",
@@ -1394,7 +1504,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Mismagius 0",
@@ -1405,7 +1515,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Pikachucap",
@@ -1480,6 +1590,17 @@
         "enabled": true,
         "id": "f_hat_ruinmaniac_0",
         "iconName": "f_hat_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Samsungsummer2020",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_samsungsummer2020_0",
+        "iconName": "f_hat_samsungsummer2020_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1568,6 +1689,17 @@
         "enabled": true,
         "id": "f_hat_teamrocket_0",
         "iconName": "f_hat_teamrocket_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamrocketcap",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_teamrocketcap_0",
+        "iconName": "f_hat_teamrocketcap_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1814,6 +1946,17 @@
         "id": "f_pants_giovanni_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_pants_giovanni_0_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Green",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_green_0",
+        "iconName": "f_pants_green_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2421,6 +2564,7 @@
     {
         "name": "Pose 17",
         "gender": "Female",
+        "enabled": true,
         "id": "pose_17",
         "iconName": "pose_17",
         "slot": [
@@ -2465,6 +2609,17 @@
         "enabled": true,
         "id": "pose_21",
         "iconName": "pose_21",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 22",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_22",
+        "iconName": "pose_22",
         "slot": [
             "Pose"
         ],
@@ -2745,7 +2900,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Halloween"
     },
     {
         "name": "Shirt Earthday 2018",
@@ -2801,7 +2956,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Halloween"
     },
     {
         "name": "Shirt Giovanni",
@@ -2821,6 +2976,61 @@
         "enabled": true,
         "id": "f_shirt_gofest_2019",
         "iconName": "f_shirt_gofest_2019_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest 2020",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gofest_2020_0",
+        "iconName": "f_shirt_gofest_2020_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Goteamrocketarlo",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_goteamrocketarlo_0",
+        "iconName": "f_shirt_goteamrocketarlo_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Goteamrocketcliff",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_goteamrocketcliff_0",
+        "iconName": "f_shirt_goteamrocketcliff_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Goteamrocketsierra",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_goteamrocketsierra_0",
+        "iconName": "f_shirt_goteamrocketsierra_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Green",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_green_0",
+        "iconName": "f_shirt_green_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -2935,6 +3145,17 @@
         "enabled": true,
         "id": "f_shirt_ingress_r_0",
         "iconName": "f_shirt_ingress_r_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Jessie",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_jessie_0",
+        "iconName": "f_shirt_jessie_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3228,6 +3449,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Samsungsummer2020",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_samsungsummer2020_0",
+        "iconName": "f_shirt_samsungsummer2020_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Spiritomb 0",
         "gender": "Female",
         "enabled": true,
@@ -3236,7 +3468,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Halloween"
     },
     {
         "name": "Shirt Ss",
@@ -3737,12 +3969,34 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Verizon2020",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_verizon2020sweater_0",
+        "iconName": "f_shirt_verizon2020sweater_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Veterantrainerxy",
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_veterantrainerxy_0",
         "unlockBadgeLevel": 200,
         "iconName": "f_shirt_veterantrainerxy_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Victinitshirts",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_victinitshirts_0",
+        "iconName": "f_shirt_victinitshirts_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3919,6 +4173,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Green",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_green_0",
+        "iconName": "f_shoes_green_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Gymleader 0",
         "gender": "Female",
         "enabled": true,
@@ -3971,6 +4236,39 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_shoes_loosepants_0",
+        "iconName": "f_shoes_loosepants_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Loosepants 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_loosepants_1",
+        "iconName": "f_shoes_loosepants_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Loosepants 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_loosepants_2",
+        "iconName": "f_shoes_loosepants_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Loosepants 3",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_loosepants_3",
         "iconName": "f_shoes_loosepants_0_bundle_icon",
         "slot": [
             "Shoes"
@@ -4561,7 +4859,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Backpack"
+        "category": "Halloween"
     },
     {
         "name": "Backpack Hgss 0",
@@ -4576,6 +4874,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Longchampbp",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_longchampbp_00",
+        "iconName": "m_backpack_longchampbp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Sponsor"
+    },
+    {
         "name": "Backpack Mimikyubp",
         "gender": "Male",
         "enabled": true,
@@ -4584,7 +4893,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Backpack"
+        "category": "Halloween"
     },
     {
         "name": "Backpack Pkmnhoodie001",
@@ -4683,7 +4992,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Backpack"
+        "category": "Halloween"
     },
     {
         "name": "Eyes 0",
@@ -4741,6 +5050,17 @@
         "category": "Eyes"
     },
     {
+        "name": "Face Verizon2020mask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_verizon2020mask_0",
+        "iconName": "m_face_verizon2020mask_0_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Glasses 3d",
         "gender": "Male",
         "enabled": true,
@@ -4757,6 +5077,17 @@
         "enabled": true,
         "id": "m_glasses_empty",
         "iconName": "m_glasses_empty_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Goteamrocketarlo",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_goteamrocketarlo",
+        "iconName": "m_glasses_goteamrocketarlo_00_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -5000,6 +5331,50 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Megabangle",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_megabangle_0",
+        "iconName": "m_gloves_megabangle_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Megabangleblue",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_megabangleblue_0",
+        "iconName": "m_gloves_megabangleblue_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Megabanglered",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_megabanglered_0",
+        "iconName": "m_gloves_megabanglered_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Megabangleyellow",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_megabangleyellow_0",
+        "iconName": "m_gloves_megabangleyellow_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Swshdlccostume",
         "gender": "Male",
         "enabled": true,
@@ -5053,6 +5428,17 @@
             "Gloves"
         ],
         "category": "Gloves"
+    },
+    {
+        "name": "Gofest Pikachuvisor",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_gofest_pikachuvisor_0",
+        "iconName": "m_hat_gofest_pikachuvisor_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hair Default 0",
@@ -5158,6 +5544,28 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hair_default_17",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 18",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_18",
+        "iconName": "m_group_hair",
+        "slot": [
+            "Hair"
+        ],
+        "category": "Hair"
+    },
+    {
+        "name": "Hair Default 19",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hair_default_19",
         "iconName": "m_group_hair",
         "slot": [
             "Hair"
@@ -5295,7 +5703,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Default 0",
@@ -5394,7 +5802,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Eeveecap",
@@ -5506,7 +5914,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Hgss 0",
@@ -5552,7 +5960,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Loneearrings",
@@ -5607,7 +6015,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Mismagius 0",
@@ -5618,7 +6026,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Halloween"
     },
     {
         "name": "Hat Pikachucap",
@@ -5693,6 +6101,17 @@
         "enabled": true,
         "id": "m_hat_ruinmaniac_0",
         "iconName": "m_hat_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Samsungsummer2020",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_samsungsummer2020_0",
+        "iconName": "m_hat_samsungsummer2020_0_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -5781,6 +6200,17 @@
         "enabled": true,
         "id": "m_hat_teamrocket_0",
         "iconName": "m_hat_teamrocket_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Teamrocketcap",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_teamrocketcap_0",
+        "iconName": "m_hat_teamrocketcap_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -5940,6 +6370,17 @@
         "id": "m_pants_giovanni_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_pants_giovanni_0_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Green",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_green_0",
+        "iconName": "m_pants_green_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -6325,6 +6766,7 @@
     {
         "name": "Pose 07",
         "gender": "Male",
+        "enabled": true,
         "id": "pose_07",
         "iconName": "pose_07",
         "slot": [
@@ -6471,6 +6913,17 @@
         "enabled": true,
         "id": "pose_21",
         "iconName": "pose_21",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 22",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_22",
+        "iconName": "pose_22",
         "slot": [
             "Pose"
         ],
@@ -6751,7 +7204,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Halloween"
     },
     {
         "name": "Shirt Earthday 2018",
@@ -6819,7 +7272,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Halloween"
     },
     {
         "name": "Shirt Giovanni",
@@ -6839,6 +7292,61 @@
         "enabled": true,
         "id": "m_shirt_gofest_2019",
         "iconName": "m_shirt_gofest_2019_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest 2020",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gofest_2020_0",
+        "iconName": "m_shirt_gofest_2020_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Goteamrocketarlo",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_goteamrocketarlo_0",
+        "iconName": "m_shirt_goteamrocketarlo_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Goteamrocketcliff",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_goteamrocketcliff_0",
+        "iconName": "m_shirt_goteamrocketcliff_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Goteamrocketsierra",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_goteamrocketsierra_0",
+        "iconName": "m_shirt_goteamrocketsierra_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Green",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_green_0",
+        "iconName": "m_shirt_green_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6953,6 +7461,17 @@
         "enabled": true,
         "id": "m_shirt_ingress_r_0",
         "iconName": "m_shirt_ingress_r_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt James",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_james_0",
+        "iconName": "m_shirt_james_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -7313,6 +7832,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Samsungsummer2020",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_samsungsummer2020_0",
+        "iconName": "m_shirt_samsungsummer2020_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Spiritomb 0",
         "gender": "Male",
         "enabled": true,
@@ -7321,7 +7851,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Halloween"
     },
     {
         "name": "Shirt Ss",
@@ -7746,12 +8276,34 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Verizon2020",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_verizon2020sweater_0",
+        "iconName": "m_shirt_verizon2020sweater_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Veterantrainerxy",
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_veterantrainerxy_0",
         "unlockBadgeLevel": 200,
         "iconName": "m_shirt_veterantrainerxy_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Victinitshirts",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_victinitshirts_0",
+        "iconName": "m_shirt_victinitshirts_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -7939,6 +8491,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Green",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_green_0",
+        "iconName": "m_shoes_green_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Gymleader 0",
         "gender": "Male",
         "enabled": true,
@@ -8003,6 +8566,39 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_shoes_loosepants_0",
+        "iconName": "m_shoes_loosepants_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Loosepants 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_loosepants_1",
+        "iconName": "m_shoes_loosepants_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Loosepants 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_loosepants_2",
+        "iconName": "m_shoes_loosepants_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Loosepants 3",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_loosepants_3",
         "iconName": "m_shoes_loosepants_0_bundle_icon",
         "slot": [
             "Shoes"
@@ -8405,5 +9001,335 @@
             "Socks"
         ],
         "category": "Socks"
+    },
+    {
+        "name": "Face Defaultmask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_defaultmask_0",
+        "iconName": "f_face_defaultmask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Empty",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_empty",
+        "iconName": "f_face_empty_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Defaultmask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_defaultmask_0",
+        "iconName": "m_face_defaultmask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Empty",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_empty",
+        "iconName": "m_face_empty_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Backpack Swshdlc2costume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_swshdlc2costume_0",
+        "iconName": "f_backpack_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Face Banettemask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_banettemask_0",
+        "iconName": "f_face_banettemask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Face Pikachumask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_pikachumask_0",
+        "iconName": "f_face_pikachumask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Face Sableyemask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_sableyemask_0",
+        "iconName": "f_face_sableyemask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Gloves Swshdlc2costume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_swshdlc2costume_0",
+        "iconName": "f_gloves_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Hat Sableyegoggles",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_sableyegoggles_0",
+        "iconName": "f_hat_sableyegoggles_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Hat Swshdlc2costume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_swshdlc2costume_0",
+        "iconName": "f_hat_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Yamaskhat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_yamaskhat_0",
+        "iconName": "f_hat_yamaskhat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Pants Swshdlc2costume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_swshdlc2costume_0",
+        "iconName": "f_pants_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pose 23",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_23",
+        "iconName": "pose_23",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Shirt Gengaronesie",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gengaronesie_0",
+        "iconName": "f_shirt_gengaronesie_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Shirt Swshdlc2costume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_swshdlc2costume_0",
+        "iconName": "f_shirt_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shoes Swshdlc2costume",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_swshdlc2costume_0",
+        "iconName": "f_shoes_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Backpack Swshdlc2costume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_swshdlc2costume_0",
+        "iconName": "m_backpack_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Face Banettemask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_banettemask_0",
+        "iconName": "m_face_banettemask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Face Pikachumask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_pikachumask_0",
+        "iconName": "m_face_pikachumask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Face Sableyemask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_sableyemask_0",
+        "iconName": "m_face_sableyemask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Gloves Swshdlc2costume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_swshdlc2costume_0",
+        "iconName": "m_gloves_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Hat Sableyegoggles",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_sableyegoggles_0",
+        "iconName": "m_hat_sableyegoggles_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Hat Swshdlc2costume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_swshdlc2costume_0",
+        "iconName": "m_hat_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Yamaskhat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_yamaskhat_0",
+        "iconName": "m_hat_yamaskhat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Pants Swshdlc2costume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_swshdlc2costume_0",
+        "iconName": "m_pants_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pose 23",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_23",
+        "iconName": "pose_23",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Shirt Gengaronesie",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gengaronesie_0",
+        "iconName": "m_shirt_gengaronesie_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Halloween"
+    },
+    {
+        "name": "Shirt Swshdlc2costume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_swshdlc2costume_0",
+        "iconName": "m_shirt_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shoes Swshdlc2costume",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_swshdlc2costume_0",
+        "iconName": "m_shoes_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
     }
 ]

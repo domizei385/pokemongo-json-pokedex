@@ -3,8 +3,8 @@
         "id": "BLUK_BERRY",
         "name": "Bluk Berry",
         "category": {
-            "name": "Food",
-            "id": "FOOD"
+            "name": "Holo Item Category Food",
+            "id": "HOLO_ITEM_CATEGORY_FOOD"
         },
         "type": {
             "name": "Food",
@@ -14,8 +14,8 @@
         "food": {
             "effect": [
                 {
-                    "name": "Cap No Movement",
-                    "id": "CAP_NO_MOVEMENT",
+                    "name": "Holo Item Effect Cap No Movement",
+                    "id": "HOLO_ITEM_EFFECT_CAP_NO_MOVEMENT",
                     "effectPercent": 1
                 }
             ],
@@ -26,8 +26,8 @@
         "id": "DRAGON_SCALE",
         "name": "Dragon Scale",
         "category": {
-            "name": "Evolution Requirement",
-            "id": "EVOLUTION_REQUIREMENT"
+            "name": "Holo Item Category Evolution Requirement",
+            "id": "HOLO_ITEM_CATEGORY_EVOLUTION_REQUIREMENT"
         },
         "type": {
             "name": "Evolution Requirement",
@@ -36,11 +36,23 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "EVENT_TICKET_PINK",
+        "name": "Event Ticket Pink",
+        "category": {
+            "name": "Holo Item Category Global Event Ticket",
+            "id": "HOLO_ITEM_CATEGORY_GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "FREE_RAID_TICKET",
         "name": "Free Raid Ticket",
         "category": {
-            "name": "Raid Ticket",
-            "id": "RAID_TICKET"
+            "name": "Holo Item Category Raid Ticket",
+            "id": "HOLO_ITEM_CATEGORY_RAID_TICKET"
         },
         "type": {
             "name": "Raid Ticket",
@@ -52,8 +64,8 @@
         "id": "FRIEND_GIFT_BOX",
         "name": "Friend Gift Box",
         "category": {
-            "name": "Friend Gift Box",
-            "id": "FRIEND_GIFT_BOX"
+            "name": "Holo Item Category Friend Gift Box",
+            "id": "HOLO_ITEM_CATEGORY_FRIEND_GIFT_BOX"
         },
         "type": {
             "name": "Friend Gift Box",
@@ -65,8 +77,8 @@
         "id": "GEN4_EVOLUTION_STONE",
         "name": "Gen4 Evolution Stone",
         "category": {
-            "name": "Evolution Requirement",
-            "id": "EVOLUTION_REQUIREMENT"
+            "name": "Holo Item Category Evolution Requirement",
+            "id": "HOLO_ITEM_CATEGORY_EVOLUTION_REQUIREMENT"
         },
         "type": {
             "name": "Evolution Requirement",
@@ -78,8 +90,8 @@
         "id": "GEN5_EVOLUTION_STONE",
         "name": "Gen5 Evolution Stone",
         "category": {
-            "name": "Evolution Requirement",
-            "id": "EVOLUTION_REQUIREMENT"
+            "name": "Holo Item Category Evolution Requirement",
+            "id": "HOLO_ITEM_CATEGORY_EVOLUTION_REQUIREMENT"
         },
         "type": {
             "name": "Evolution Requirement",
@@ -91,8 +103,8 @@
         "id": "GIOVANNI_MAP",
         "name": "Giovanni Map",
         "category": {
-            "name": "Incident Ticket",
-            "id": "INCIDENT_TICKET"
+            "name": "Holo Item Category Incident Ticket",
+            "id": "HOLO_ITEM_CATEGORY_INCIDENT_TICKET"
         },
         "type": {
             "name": "Incident Ticket",
@@ -104,8 +116,8 @@
         "id": "GLOBAL_EVENT_TICKET",
         "name": "Global Event Ticket",
         "category": {
-            "name": "Global Event Ticket",
-            "id": "GLOBAL_EVENT_TICKET"
+            "name": "Holo Item Category Global Event Ticket",
+            "id": "HOLO_ITEM_CATEGORY_GLOBAL_EVENT_TICKET"
         },
         "type": {
             "name": "Global Event Ticket",
@@ -116,8 +128,8 @@
         "id": "GOLDEN_PINAP_BERRY",
         "name": "Golden Pinap Berry",
         "category": {
-            "name": "Food",
-            "id": "FOOD"
+            "name": "Holo Item Category Food",
+            "id": "HOLO_ITEM_CATEGORY_FOOD"
         },
         "type": {
             "name": "Food",
@@ -129,13 +141,13 @@
             "remoteBerryMultiplier": 0.5,
             "effect": [
                 {
-                    "name": "Candy Award",
-                    "id": "CANDY_AWARD",
+                    "name": "Holo Item Effect Candy Award",
+                    "id": "HOLO_ITEM_EFFECT_CANDY_AWARD",
                     "effectPercent": 2
                 },
                 {
-                    "name": "Cap Chance Single Throw",
-                    "id": "CAP_CHANCE_SINGLE_THROW",
+                    "name": "Holo Item Effect Cap Chance Single Throw",
+                    "id": "HOLO_ITEM_EFFECT_CAP_CHANCE_SINGLE_THROW",
                     "effectPercent": 1.8
                 }
             ],
@@ -146,8 +158,8 @@
         "id": "GOLDEN_RAZZ_BERRY",
         "name": "Golden Razz Berry",
         "category": {
-            "name": "Food",
-            "id": "FOOD"
+            "name": "Holo Item Category Food",
+            "id": "HOLO_ITEM_CATEGORY_FOOD"
         },
         "type": {
             "name": "Food",
@@ -158,13 +170,13 @@
             "berryMultiplier": 1,
             "effect": [
                 {
-                    "name": "Cap Chance Single Throw",
-                    "id": "CAP_CHANCE_SINGLE_THROW",
+                    "name": "Holo Item Effect Cap Chance Single Throw",
+                    "id": "HOLO_ITEM_EFFECT_CAP_CHANCE_SINGLE_THROW",
                     "effectPercent": 2.5
                 },
                 {
-                    "name": "Full Motivation",
-                    "id": "FULL_MOTIVATION",
+                    "name": "Holo Item Effect Full Motivation",
+                    "id": "HOLO_ITEM_EFFECT_FULL_MOTIVATION",
                     "effectPercent": 1
                 }
             ]
@@ -174,8 +186,8 @@
         "id": "GREAT_BALL",
         "name": "Great Ball",
         "category": {
-            "name": "Pokeball",
-            "id": "POKEBALL"
+            "name": "Holo Item Category Pokeball",
+            "id": "HOLO_ITEM_CATEGORY_POKEBALL"
         },
         "type": {
             "name": "Pokeball",
@@ -187,8 +199,8 @@
         "id": "HYPER_POTION",
         "name": "Hyper Potion",
         "category": {
-            "name": "Medicine",
-            "id": "MEDICINE"
+            "name": "Holo Item Category Medicine",
+            "id": "HOLO_ITEM_CATEGORY_MEDICINE"
         },
         "type": {
             "name": "Potion",
@@ -203,8 +215,8 @@
         "id": "INCENSE_BELUGA_BOX",
         "name": "Incense Beluga Box",
         "category": {
-            "name": "Incense",
-            "id": "INCENSE"
+            "name": "Holo Item Category Incense",
+            "id": "HOLO_ITEM_CATEGORY_INCENSE"
         },
         "type": {
             "name": "Incense",
@@ -216,8 +228,8 @@
         "id": "INCENSE_ORDINARY",
         "name": "Incense Ordinary",
         "category": {
-            "name": "Incense",
-            "id": "INCENSE"
+            "name": "Holo Item Category Incense",
+            "id": "HOLO_ITEM_CATEGORY_INCENSE"
         },
         "type": {
             "name": "Incense",
@@ -229,8 +241,8 @@
         "id": "INCUBATOR_BASIC",
         "name": "Incubator Basic",
         "category": {
-            "name": "Incubator",
-            "id": "INCUBATOR"
+            "name": "Holo Item Category Incubator",
+            "id": "HOLO_ITEM_CATEGORY_INCUBATOR"
         },
         "type": {
             "name": "Incubator",
@@ -239,10 +251,10 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.5,
+            "distanceMultiplier": 1,
             "type": {
-                "name": "Distance",
-                "id": "DISTANCE"
+                "name": "Egg Type Incubator Distance",
+                "id": "EGG_TYPE_INCUBATOR_DISTANCE"
             }
         }
     },
@@ -250,8 +262,8 @@
         "id": "INCUBATOR_BASIC_UNLIMITED",
         "name": "Incubator Basic Unlimited",
         "category": {
-            "name": "Incubator",
-            "id": "INCUBATOR"
+            "name": "Holo Item Category Incubator",
+            "id": "HOLO_ITEM_CATEGORY_INCUBATOR"
         },
         "type": {
             "name": "Incubator",
@@ -259,10 +271,10 @@
         },
         "dropTrainerLevel": 100,
         "eggIncubinator": {
-            "distanceMultiplier": 0.5,
+            "distanceMultiplier": 1,
             "type": {
-                "name": "Distance",
-                "id": "DISTANCE"
+                "name": "Egg Type Incubator Distance",
+                "id": "EGG_TYPE_INCUBATOR_DISTANCE"
             }
         }
     },
@@ -270,8 +282,8 @@
         "id": "INCUBATOR_SUPER",
         "name": "Incubator Super",
         "category": {
-            "name": "Incubator",
-            "id": "INCUBATOR"
+            "name": "Holo Item Category Incubator",
+            "id": "HOLO_ITEM_CATEGORY_INCUBATOR"
         },
         "type": {
             "name": "Incubator",
@@ -280,10 +292,10 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.33333334,
+            "distanceMultiplier": 0.6666667,
             "type": {
-                "name": "Distance",
-                "id": "DISTANCE"
+                "name": "Egg Type Incubator Distance",
+                "id": "EGG_TYPE_INCUBATOR_DISTANCE"
             }
         }
     },
@@ -291,8 +303,8 @@
         "id": "ITEM_STORAGE_UPGRADE",
         "name": "Item Storage Upgrade",
         "category": {
-            "name": "Inventory Upgrade",
-            "id": "INVENTORY_UPGRADE"
+            "name": "Holo Item Category Inventory Upgrade",
+            "id": "HOLO_ITEM_CATEGORY_INVENTORY_UPGRADE"
         },
         "type": {
             "name": "Inventory Upgrade",
@@ -302,8 +314,8 @@
         "inventoryUpgrade": {
             "additionalStorage": 50,
             "type": {
-                "name": "Increase Item Storage",
-                "id": "INCREASE_ITEM_STORAGE"
+                "name": "Inventory Upgrade Type Increase Item Storage",
+                "id": "INVENTORY_UPGRADE_TYPE_INCREASE_ITEM_STORAGE"
             }
         }
     },
@@ -311,8 +323,8 @@
         "id": "KINGS_ROCK",
         "name": "Kings Rock",
         "category": {
-            "name": "Evolution Requirement",
-            "id": "EVOLUTION_REQUIREMENT"
+            "name": "Holo Item Category Evolution Requirement",
+            "id": "HOLO_ITEM_CATEGORY_EVOLUTION_REQUIREMENT"
         },
         "type": {
             "name": "Evolution Requirement",
@@ -324,8 +336,8 @@
         "id": "LEADER_MAP",
         "name": "Leader Map",
         "category": {
-            "name": "Incident Ticket",
-            "id": "INCIDENT_TICKET"
+            "name": "Holo Item Category Incident Ticket",
+            "id": "HOLO_ITEM_CATEGORY_INCIDENT_TICKET"
         },
         "type": {
             "name": "Incident Ticket",
@@ -337,8 +349,8 @@
         "id": "LEADER_MAP_FRAGMENT",
         "name": "Leader Map Fragment",
         "category": {
-            "name": "Incident Ticket",
-            "id": "INCIDENT_TICKET"
+            "name": "Holo Item Category Incident Ticket",
+            "id": "HOLO_ITEM_CATEGORY_INCIDENT_TICKET"
         },
         "type": {
             "name": "Incident Ticket",
@@ -350,8 +362,8 @@
         "id": "LEGENDARY_RAID_TICKET",
         "name": "Legendary Raid Ticket",
         "category": {
-            "name": "Raid Ticket",
-            "id": "RAID_TICKET"
+            "name": "Holo Item Category Raid Ticket",
+            "id": "HOLO_ITEM_CATEGORY_RAID_TICKET"
         },
         "type": {
             "name": "Raid Ticket",
@@ -363,8 +375,8 @@
         "id": "LUCKY_EGG",
         "name": "Lucky Egg",
         "category": {
-            "name": "Xp Boost",
-            "id": "XP_BOOST"
+            "name": "Holo Item Category Xp Boost",
+            "id": "HOLO_ITEM_CATEGORY_XP_BOOST"
         },
         "type": {
             "name": "Xp Boost",
@@ -380,8 +392,8 @@
         "id": "MASTER_BALL",
         "name": "Master Ball",
         "category": {
-            "name": "Pokeball",
-            "id": "POKEBALL"
+            "name": "Holo Item Category Pokeball",
+            "id": "HOLO_ITEM_CATEGORY_POKEBALL"
         },
         "type": {
             "name": "Pokeball",
@@ -393,8 +405,8 @@
         "id": "MAX_POTION",
         "name": "Max Potion",
         "category": {
-            "name": "Medicine",
-            "id": "MEDICINE"
+            "name": "Holo Item Category Medicine",
+            "id": "HOLO_ITEM_CATEGORY_MEDICINE"
         },
         "type": {
             "name": "Potion",
@@ -409,8 +421,8 @@
         "id": "MAX_REVIVE",
         "name": "Max Revive",
         "category": {
-            "name": "Medicine",
-            "id": "MEDICINE"
+            "name": "Holo Item Category Medicine",
+            "id": "HOLO_ITEM_CATEGORY_MEDICINE"
         },
         "type": {
             "name": "Revive",
@@ -425,8 +437,8 @@
         "id": "METAL_COAT",
         "name": "Metal Coat",
         "category": {
-            "name": "Evolution Requirement",
-            "id": "EVOLUTION_REQUIREMENT"
+            "name": "Holo Item Category Evolution Requirement",
+            "id": "HOLO_ITEM_CATEGORY_EVOLUTION_REQUIREMENT"
         },
         "type": {
             "name": "Evolution Requirement",
@@ -438,8 +450,8 @@
         "id": "MOVE_REROLL_ELITE_FAST_ATTACK",
         "name": "Move Reroll Elite Fast Attack",
         "category": {
-            "name": "Move Reroll",
-            "id": "MOVE_REROLL"
+            "name": "Holo Item Category Move Reroll",
+            "id": "HOLO_ITEM_CATEGORY_MOVE_REROLL"
         },
         "type": {
             "name": "Move Reroll",
@@ -451,8 +463,8 @@
         "id": "MOVE_REROLL_ELITE_SPECIAL_ATTACK",
         "name": "Move Reroll Elite Special Attack",
         "category": {
-            "name": "Move Reroll",
-            "id": "MOVE_REROLL"
+            "name": "Holo Item Category Move Reroll",
+            "id": "HOLO_ITEM_CATEGORY_MOVE_REROLL"
         },
         "type": {
             "name": "Move Reroll",
@@ -464,8 +476,8 @@
         "id": "MOVE_REROLL_FAST_ATTACK",
         "name": "Move Reroll Fast Attack",
         "category": {
-            "name": "Move Reroll",
-            "id": "MOVE_REROLL"
+            "name": "Holo Item Category Move Reroll",
+            "id": "HOLO_ITEM_CATEGORY_MOVE_REROLL"
         },
         "type": {
             "name": "Move Reroll",
@@ -477,8 +489,8 @@
         "id": "MOVE_REROLL_SPECIAL_ATTACK",
         "name": "Move Reroll Special Attack",
         "category": {
-            "name": "Move Reroll",
-            "id": "MOVE_REROLL"
+            "name": "Holo Item Category Move Reroll",
+            "id": "HOLO_ITEM_CATEGORY_MOVE_REROLL"
         },
         "type": {
             "name": "Move Reroll",
@@ -490,8 +502,8 @@
         "id": "NANAB_BERRY",
         "name": "Nanab Berry",
         "category": {
-            "name": "Food",
-            "id": "FOOD"
+            "name": "Holo Item Category Food",
+            "id": "HOLO_ITEM_CATEGORY_FOOD"
         },
         "type": {
             "name": "Food",
@@ -503,8 +515,8 @@
             "remoteBerryMultiplier": 0.3125,
             "effect": [
                 {
-                    "name": "Cap Target Slow",
-                    "id": "CAP_TARGET_SLOW",
+                    "name": "Holo Item Effect Cap Target Slow",
+                    "id": "HOLO_ITEM_EFFECT_CAP_TARGET_SLOW",
                     "effectPercent": 0.05
                 }
             ],
@@ -515,8 +527,8 @@
         "id": "PAID_RAID_TICKET",
         "name": "Paid Raid Ticket",
         "category": {
-            "name": "Raid Ticket",
-            "id": "RAID_TICKET"
+            "name": "Holo Item Category Raid Ticket",
+            "id": "HOLO_ITEM_CATEGORY_RAID_TICKET"
         },
         "type": {
             "name": "Raid Ticket",
@@ -528,8 +540,8 @@
         "id": "PINAP_BERRY",
         "name": "Pinap Berry",
         "category": {
-            "name": "Food",
-            "id": "FOOD"
+            "name": "Holo Item Category Food",
+            "id": "HOLO_ITEM_CATEGORY_FOOD"
         },
         "type": {
             "name": "Food",
@@ -541,8 +553,8 @@
             "remoteBerryMultiplier": 0.25,
             "effect": [
                 {
-                    "name": "Candy Award",
-                    "id": "CANDY_AWARD",
+                    "name": "Holo Item Effect Candy Award",
+                    "id": "HOLO_ITEM_EFFECT_CANDY_AWARD",
                     "effectPercent": 2
                 }
             ],
@@ -553,8 +565,8 @@
         "id": "POFFIN",
         "name": "Poffin",
         "category": {
-            "name": "Buddy Exclusive Food",
-            "id": "BUDDY_EXCLUSIVE_FOOD"
+            "name": "Holo Item Category Buddy Exclusive Food",
+            "id": "HOLO_ITEM_CATEGORY_BUDDY_EXCLUSIVE_FOOD"
         },
         "type": {
             "name": "Food",
@@ -568,8 +580,8 @@
         "id": "POKEMON_STORAGE_UPGRADE",
         "name": "Pokemon Storage Upgrade",
         "category": {
-            "name": "Inventory Upgrade",
-            "id": "INVENTORY_UPGRADE"
+            "name": "Holo Item Category Inventory Upgrade",
+            "id": "HOLO_ITEM_CATEGORY_INVENTORY_UPGRADE"
         },
         "type": {
             "name": "Inventory Upgrade",
@@ -579,8 +591,8 @@
         "inventoryUpgrade": {
             "additionalStorage": 50,
             "type": {
-                "name": "Increase Pokemon Storage",
-                "id": "INCREASE_POKEMON_STORAGE"
+                "name": "Inventory Upgrade Type Increase Pokemon Storage",
+                "id": "INVENTORY_UPGRADE_TYPE_INCREASE_POKEMON_STORAGE"
             }
         }
     },
@@ -588,8 +600,8 @@
         "id": "POKE_BALL",
         "name": "Poke Ball",
         "category": {
-            "name": "Pokeball",
-            "id": "POKEBALL"
+            "name": "Holo Item Category Pokeball",
+            "id": "HOLO_ITEM_CATEGORY_POKEBALL"
         },
         "type": {
             "name": "Pokeball",
@@ -601,8 +613,8 @@
         "id": "POTION",
         "name": "Potion",
         "category": {
-            "name": "Medicine",
-            "id": "MEDICINE"
+            "name": "Holo Item Category Medicine",
+            "id": "HOLO_ITEM_CATEGORY_MEDICINE"
         },
         "type": {
             "name": "Potion",
@@ -617,8 +629,8 @@
         "id": "PREMIER_BALL",
         "name": "Premier Ball",
         "category": {
-            "name": "Pokeball",
-            "id": "POKEBALL"
+            "name": "Holo Item Category Pokeball",
+            "id": "HOLO_ITEM_CATEGORY_POKEBALL"
         },
         "type": {
             "name": "Pokeball",
@@ -630,8 +642,8 @@
         "id": "RARE_CANDY",
         "name": "Rare Candy",
         "category": {
-            "name": "Candy",
-            "id": "CANDY"
+            "name": "Holo Item Category Candy",
+            "id": "HOLO_ITEM_CATEGORY_CANDY"
         },
         "type": {
             "name": "Candy",
@@ -643,8 +655,8 @@
         "id": "RAZZ_BERRY",
         "name": "Razz Berry",
         "category": {
-            "name": "Food",
-            "id": "FOOD"
+            "name": "Holo Item Category Food",
+            "id": "HOLO_ITEM_CATEGORY_FOOD"
         },
         "type": {
             "name": "Food",
@@ -656,8 +668,8 @@
             "remoteBerryMultiplier": 0.25,
             "effect": [
                 {
-                    "name": "Cap Chance Single Throw",
-                    "id": "CAP_CHANCE_SINGLE_THROW",
+                    "name": "Holo Item Effect Cap Chance Single Throw",
+                    "id": "HOLO_ITEM_EFFECT_CAP_CHANCE_SINGLE_THROW",
                     "effectPercent": 1.5
                 }
             ],
@@ -668,8 +680,8 @@
         "id": "REMOTE_RAID_TICKET",
         "name": "Remote Raid Ticket",
         "category": {
-            "name": "Raid Ticket",
-            "id": "RAID_TICKET"
+            "name": "Holo Item Category Raid Ticket",
+            "id": "HOLO_ITEM_CATEGORY_RAID_TICKET"
         },
         "type": {
             "name": "Raid Ticket",
@@ -681,8 +693,8 @@
         "id": "REVIVE",
         "name": "Revive",
         "category": {
-            "name": "Medicine",
-            "id": "MEDICINE"
+            "name": "Holo Item Category Medicine",
+            "id": "HOLO_ITEM_CATEGORY_MEDICINE"
         },
         "type": {
             "name": "Revive",
@@ -697,8 +709,8 @@
         "id": "SPECIAL_CAMERA",
         "name": "Special Camera",
         "category": {
-            "name": "Camera",
-            "id": "CAMERA"
+            "name": "Holo Item Category Camera",
+            "id": "HOLO_ITEM_CATEGORY_CAMERA"
         },
         "type": {
             "name": "Camera",
@@ -710,8 +722,8 @@
         "id": "STAR_PIECE",
         "name": "Star Piece",
         "category": {
-            "name": "Stardust Boost",
-            "id": "STARDUST_BOOST"
+            "name": "Holo Item Category Stardust Boost",
+            "id": "HOLO_ITEM_CATEGORY_STARDUST_BOOST"
         },
         "type": {
             "name": "Stardust Boost",
@@ -723,8 +735,8 @@
         "id": "SUN_STONE",
         "name": "Sun Stone",
         "category": {
-            "name": "Evolution Requirement",
-            "id": "EVOLUTION_REQUIREMENT"
+            "name": "Holo Item Category Evolution Requirement",
+            "id": "HOLO_ITEM_CATEGORY_EVOLUTION_REQUIREMENT"
         },
         "type": {
             "name": "Evolution Requirement",
@@ -736,8 +748,8 @@
         "id": "SUPER_POTION",
         "name": "Super Potion",
         "category": {
-            "name": "Medicine",
-            "id": "MEDICINE"
+            "name": "Holo Item Category Medicine",
+            "id": "HOLO_ITEM_CATEGORY_MEDICINE"
         },
         "type": {
             "name": "Potion",
@@ -752,8 +764,8 @@
         "id": "TEAM_CHANGE",
         "name": "Team Change",
         "category": {
-            "name": "Team Change",
-            "id": "TEAM_CHANGE"
+            "name": "Holo Item Category Team Change",
+            "id": "HOLO_ITEM_CATEGORY_TEAM_CHANGE"
         },
         "type": {
             "name": "Team Change",
@@ -765,8 +777,8 @@
         "id": "TROY_DISK",
         "name": "Troy Disk",
         "category": {
-            "name": "Disk",
-            "id": "DISK"
+            "name": "Holo Item Category Disk",
+            "id": "HOLO_ITEM_CATEGORY_DISK"
         },
         "type": {
             "name": "Disk",
@@ -778,8 +790,8 @@
         "id": "TROY_DISK_GLACIAL",
         "name": "Troy Disk Glacial",
         "category": {
-            "name": "Disk",
-            "id": "DISK"
+            "name": "Holo Item Category Disk",
+            "id": "HOLO_ITEM_CATEGORY_DISK"
         },
         "type": {
             "name": "Disk",
@@ -791,8 +803,8 @@
         "id": "TROY_DISK_MAGNETIC",
         "name": "Troy Disk Magnetic",
         "category": {
-            "name": "Disk",
-            "id": "DISK"
+            "name": "Holo Item Category Disk",
+            "id": "HOLO_ITEM_CATEGORY_DISK"
         },
         "type": {
             "name": "Disk",
@@ -804,8 +816,8 @@
         "id": "TROY_DISK_MOSSY",
         "name": "Troy Disk Mossy",
         "category": {
-            "name": "Disk",
-            "id": "DISK"
+            "name": "Holo Item Category Disk",
+            "id": "HOLO_ITEM_CATEGORY_DISK"
         },
         "type": {
             "name": "Disk",
@@ -817,8 +829,8 @@
         "id": "ULTRA_BALL",
         "name": "Ultra Ball",
         "category": {
-            "name": "Pokeball",
-            "id": "POKEBALL"
+            "name": "Holo Item Category Pokeball",
+            "id": "HOLO_ITEM_CATEGORY_POKEBALL"
         },
         "type": {
             "name": "Pokeball",
@@ -830,8 +842,8 @@
         "id": "UP_GRADE",
         "name": "Up Grade",
         "category": {
-            "name": "Evolution Requirement",
-            "id": "EVOLUTION_REQUIREMENT"
+            "name": "Holo Item Category Evolution Requirement",
+            "id": "HOLO_ITEM_CATEGORY_EVOLUTION_REQUIREMENT"
         },
         "type": {
             "name": "Evolution Requirement",
@@ -843,8 +855,8 @@
         "id": "WEPAR_BERRY",
         "name": "Wepar Berry",
         "category": {
-            "name": "Food",
-            "id": "FOOD"
+            "name": "Holo Item Category Food",
+            "id": "HOLO_ITEM_CATEGORY_FOOD"
         },
         "type": {
             "name": "Food",
@@ -854,8 +866,8 @@
         "food": {
             "effect": [
                 {
-                    "name": "Cap Target Max",
-                    "id": "CAP_TARGET_MAX",
+                    "name": "Holo Item Effect Cap Target Max",
+                    "id": "HOLO_ITEM_EFFECT_CAP_TARGET_MAX",
                     "effectPercent": 1
                 }
             ],
@@ -866,8 +878,8 @@
         "id": "X_ATTACK",
         "name": "X Attack",
         "category": {
-            "name": "Boost",
-            "id": "BOOST"
+            "name": "Holo Item Category Boost",
+            "id": "HOLO_ITEM_CATEGORY_BOOST"
         },
         "type": {
             "name": "Battle",
@@ -879,8 +891,8 @@
         "id": "X_DEFENSE",
         "name": "X Defense",
         "category": {
-            "name": "Boost",
-            "id": "BOOST"
+            "name": "Holo Item Category Boost",
+            "id": "HOLO_ITEM_CATEGORY_BOOST"
         },
         "type": {
             "name": "Battle",
@@ -892,12 +904,25 @@
         "id": "X_MIRACLE",
         "name": "X Miracle",
         "category": {
-            "name": "Boost",
-            "id": "BOOST"
+            "name": "Holo Item Category Boost",
+            "id": "HOLO_ITEM_CATEGORY_BOOST"
         },
         "type": {
             "name": "Battle",
             "id": "BATTLE"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
+        "id": "STICKER_INVENTORY",
+        "name": "Sticker Inventory",
+        "category": {
+            "name": "Holo Item Category Sticker",
+            "id": "HOLO_ITEM_CATEGORY_STICKER"
+        },
+        "type": {
+            "name": "Sticker Inventory",
+            "id": "STICKER_INVENTORY"
         },
         "dropTrainerLevel": 100
     }

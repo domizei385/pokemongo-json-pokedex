@@ -7,6 +7,7 @@
         "name": "龍之麟片",
         "description": "又硬又堅固的鱗片，可讓特定寶可夢進化。"
     },
+    "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -149,5 +150,6 @@
     "X_MIRACLE": {
         "name": "未定",
         "description": "未定"
-    }
+    },
+    "STICKER_INVENTORY": {}
 }

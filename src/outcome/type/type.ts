@@ -14,9 +14,5 @@ export class Type implements Identifyable {
    * POKEMON_TYPE_BUG
    */
   public id: string;
-  /**
-   * The array of attack scalars
-   */
-  public damage: TypeDamage[];
 }
 

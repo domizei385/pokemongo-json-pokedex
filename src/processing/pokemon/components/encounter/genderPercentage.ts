@@ -1,5 +1,5 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon, PokemonGender } from '@outcome/pokemon';
 import { Encounter } from './enounter';
 
@@ -11,7 +11,7 @@ import { Encounter } from './enounter';
   requiresGameMaster: true
 })
 export class GenderPercentage implements IComponent {
-  private isItemTemplateSpawn(item: ItemTemplate): boolean {
+  private isItemTemplateSpawn(item: Data): boolean {
     return new RegExp('^(SPAWN_V[0-9]+_POKEMON_?.*)', 'g').test(item.templateId);
   }
 
@@ -21,7 +21,7 @@ export class GenderPercentage implements IComponent {
    * @returns {PokemonGender} Object with the Pokémon Gender Percent values
    */
   private getGenderPercent(gameMaster, pokemonId: string): PokemonGender {
-    const itemTemplate = (gameMaster.itemTemplate || [])
+    const itemTemplate = (gameMaster.template.data || [])
         .filter(itemTemplate => this.isItemTemplateSpawn(itemTemplate))
         .find(itemTemplate =>
             itemTemplate.genderSettings.pokemon === pokemonId);
@@ -56,7 +56,7 @@ export class GenderPercentage implements IComponent {
     };
   }
 
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate, input: Map<String, any>): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data, input: Map<String, any>): Pokemon {
     const gender = this.getGenderPercent(input['gameMaster'], rawPokemon.pokemon.uniqueId);
     if (gender) {
       pokemon.encounter.gender = gender;

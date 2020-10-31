@@ -7,6 +7,7 @@
         "name": "용의비늘",
         "description": "어느 특정 포켓몬을 진화시키는 비늘. 단단하고 튼튼하다."
     },
+    "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -149,5 +150,6 @@
     "X_MIRACLE": {
         "name": "UNDEFINED",
         "description": "UNDEFINED"
-    }
+    },
+    "STICKER_INVENTORY": {}
 }

@@ -7,6 +7,7 @@
         "name": "Escama Dragón",
         "description": "Escama que hace evolucionar a determinadas especies de Pokémon. Es gruesa y resistente."
     },
+    "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -149,5 +150,6 @@
     "X_MIRACLE": {
         "name": "SIN DEFINIR",
         "description": "SIN DEFINIR"
-    }
+    },
+    "STICKER_INVENTORY": {}
 }

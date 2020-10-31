@@ -1,5 +1,5 @@
 import { IComponent, Pipeline } from '@core/pipeline';
-import { ItemTemplate, RootObject } from '@income';
+import { Data, RootObject } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { forEachSeries, map } from 'p-iteration';
 import * as _ from 'lodash';
@@ -26,20 +26,23 @@ export class PokemonPipeline extends Pipeline {
   /**
    * Checks if the given ItemTemplate is indeed a Pokemon
    */
-  isItemTemplate(item: ItemTemplate): boolean {
+  isItemTemplate(item: Data): boolean {
     const id = item.templateId;
     return PokemonPipeline.isPokemon(id);
   }
 
   public async Run(): Promise<Object[]> {
     const pokemonData = <Pokemon[]>await super.Run();
-    console.log('Pokemon count: ', pokemonData.length);
+    console.log('Pokemon count: ');
+    console.log(pokemonData.length);
     // Handle special game master files
-    const specialInputs = await map(this.specialMasterFiles, input => (input.itemTemplate || []).filter(p => this.isItemTemplate(p)));
+    const specialInputs = await map(this.specialMasterFiles, input => (input.template || []).filter(p => this.isItemTemplate(p)));
     const legacyMoveComponents = [new LegacyQuickMoves(), new LegacyCinematicMoves()];
     await forEachSeries(specialInputs, async specialInput => {
       await forEachSeries(specialInput, async itemTemplate => {
-        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.pokemon.uniqueId);
+        console.log("specialInput");
+        console.log(pokemonData);
+        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.pokemon.pokemonId);
         await forEachSeries(legacyMoveComponents, component => component.Process(currentPokemon, itemTemplate));
       });
     });
@@ -55,7 +58,7 @@ abstract class LegacyMove implements IComponent {
     this.moveType = moveType;
   }
 
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     const specialMoves = _
         .chain(rawPokemon.pokemon[this.moveType])
         .uniq()

@@ -7,6 +7,7 @@
         "name": "Squama Drago",
         "description": "Squama che fa evolvere determinate specie di Pokémon. È molto spessa e dura."
     },
+    "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -149,5 +150,6 @@
     "X_MIRACLE": {
         "name": "UNDEFINED",
         "description": "UNDEFINED"
-    }
+    },
+    "STICKER_INVENTORY": {}
 }

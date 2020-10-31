@@ -1,6 +1,5 @@
 import { Component, IComponent } from '@core/pipeline';
-
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Util } from '@util';
 import { Item } from '@outcome/item';
 
@@ -11,7 +10,7 @@ export class Name implements IComponent {
   /**
    * Parses the english name of the item
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     item.name = Util.SnakeCase2HumanReadable(rawItem.templateId.replace('ITEM_', ''));
     return item;
   }

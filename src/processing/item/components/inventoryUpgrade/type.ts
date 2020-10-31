@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline/index';
 
 import { Item } from '@outcome/item/index';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 import { Util } from '@util';
 import { InventoryUpgrade } from './inventoryUpgrade';
 
@@ -15,7 +15,7 @@ export class Type implements IComponent {
   /**
    * The type of an inventoryUpgrade
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     if (!rawItem.item.inventoryUpgrade) {
       return item;
     }

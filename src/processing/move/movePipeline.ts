@@ -1,4 +1,4 @@
-import { ItemTemplate, RootObject } from '@income';
+import { Data, RootObject } from '@income';
 import { Pipeline } from '@core/pipeline';
 
 /**
@@ -13,7 +13,7 @@ export class MovePipeline extends Pipeline {
   /**
    * Checks if the given ItemTemplate is indeed a move
    */
-  isItemTemplate(item: ItemTemplate): boolean {
+  isItemTemplate(item: Data): boolean {
     return new RegExp('^(V[0-9]+_MOVE_?.*)', 'g').test(item.templateId);
   }
 }

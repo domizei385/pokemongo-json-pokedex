@@ -7,6 +7,7 @@
         "name": "Dragon Scale",
         "description": "A scale that can make certain species of Pokémon evolve. It is very tough and inflexible."
     },
+    "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -149,5 +150,6 @@
     "X_MIRACLE": {
         "name": "UNDEFINED",
         "description": "UNDEFINED"
-    }
+    },
+    "STICKER_INVENTORY": {}
 }

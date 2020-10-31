@@ -1,7 +1,7 @@
 import { Component, IComponent } from '@core/pipeline/index';
 
 import { Item, ItemStardustBoost } from '@outcome/item/index';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 
 @Component({
   pipeline: 'item'
@@ -10,7 +10,7 @@ export class StardustBoost implements IComponent {
   /**
    * Sets the stardust boost object and maps generic properties
    */
-  Process(item: Item, rawItem: ItemTemplate): Item {
+  Process(item: Item, rawItem: Data): Item {
     // Is a stardustBoost
     if (!rawItem.item.stardustBoost) {
       return item;

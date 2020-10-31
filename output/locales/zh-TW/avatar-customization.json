@@ -29,6 +29,7 @@
     "f_backpack_hgss_0": {
         "name": "城都包包"
     },
+    "f_backpack_longchampbp_00": {},
     "f_backpack_mimikyubp_0": {},
     "f_backpack_pkmnhoodie001": {},
     "f_backpack_pkmnhoodie004": {},
@@ -93,12 +94,14 @@
     "f_eyes_2": {},
     "f_eyes_3": {},
     "f_eyes_4": {},
+    "f_face_verizon2020mask_0": {},
     "f_glasses_3d": {
         "name": "3D眼鏡"
     },
     "f_glasses_empty": {
         "name": "不戴眼鏡"
     },
+    "f_glasses_goteamrocketarlo": {},
     "f_glasses_mask_0": {
         "name": "神祕面具"
     },
@@ -151,6 +154,10 @@
     "f_gloves_gymleader_0": {
         "name": "道館館主手套"
     },
+    "f_gloves_megabangle_0": {},
+    "f_gloves_megabangleblue_0": {},
+    "f_gloves_megabanglered_0": {},
+    "f_gloves_megabangleyellow_0": {},
     "f_gloves_swshdlccostume_0": {},
     "f_gloves_teamaqua_0": {},
     "f_gloves_teammagma_0": {},
@@ -158,6 +165,7 @@
         "name": "火箭隊手套"
     },
     "f_gloves_teamspark_0": {},
+    "f_hat_gofest_pikachuvisor_0": {},
     "f_hair_default_0": {},
     "f_hair_default_1": {},
     "f_hair_default_10": {},
@@ -168,6 +176,8 @@
     "f_hair_default_15": {},
     "f_hair_default_16": {},
     "f_hair_default_17": {},
+    "f_hair_default_18": {},
+    "f_hair_default_19": {},
     "f_hair_default_2": {},
     "f_hair_default_3": {},
     "f_hair_default_4": {},
@@ -241,6 +251,7 @@
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
     "f_hat_ruinmaniac_0": {},
+    "f_hat_samsungsummer2020_0": {},
     "f_hat_ss_0": {},
     "f_hat_stantlerheadband_0": {},
     "f_hat_strawhat_0": {},
@@ -251,6 +262,7 @@
     "f_hat_teamrocket_0": {
         "name": "火箭隊帽"
     },
+    "f_hat_teamrocketcap_0": {},
     "f_hat_tophat_0": {
         "name": "禮帽"
     },
@@ -301,6 +313,7 @@
         "name": "葉子短裙"
     },
     "f_pants_giovanni_0": {},
+    "f_pants_green_0": {},
     "f_pants_gymleader_0": {
         "name": "道館館主短裙"
     },
@@ -413,6 +426,7 @@
     "pose_19": {},
     "pose_20": {},
     "pose_21": {},
+    "pose_22": {},
     "pose_empty": {},
     "f_shirt_acetrainerbw_0": {},
     "f_shirt_acetrainersm_0": {},
@@ -473,6 +487,11 @@
     "f_shirt_gengar_0": {},
     "f_shirt_giovanni_0": {},
     "f_shirt_gofest_2019": {},
+    "f_shirt_gofest_2020_0": {},
+    "f_shirt_goteamrocketarlo_0": {},
+    "f_shirt_goteamrocketcliff_0": {},
+    "f_shirt_goteamrocketsierra_0": {},
+    "f_shirt_green_0": {},
     "f_shirt_gymleader_0": {
         "name": "道館館主上衣"
     },
@@ -491,6 +510,7 @@
     "f_shirt_ingress_0": {},
     "f_shirt_ingress_e_0": {},
     "f_shirt_ingress_r_0": {},
+    "f_shirt_jessie_0": {},
     "f_shirt_jirachi_0": {},
     "f_shirt_latias_latios_0": {
         "name": "拉帝亞斯＆拉帝歐斯T恤"
@@ -523,6 +543,7 @@
     "f_shirt_poloshirt_2": {},
     "f_shirt_ruinmaniac_0": {},
     "f_shirt_safarizone2020_0": {},
+    "f_shirt_samsungsummer2020_0": {},
     "f_shirt_spiritomb_0": {},
     "f_shirt_ss_0": {},
     "f_shirt_steven_0": {},
@@ -625,7 +646,9 @@
     "f_shirt_uniqlotshirts_1": {},
     "f_shirt_uniqlotshirts_2": {},
     "f_shirt_unwto_0": {},
+    "f_shirt_verizon2020sweater_0": {},
     "f_shirt_veterantrainerxy_0": {},
+    "f_shirt_victinitshirts_0": {},
     "f_shoes_acetrainerbw_0": {},
     "f_shoes_acetrainersm_0": {},
     "f_shoes_backpacker_0": {},
@@ -661,6 +684,7 @@
         "name": "葉子鞋"
     },
     "f_shoes_giovanni_0": {},
+    "f_shoes_green_0": {},
     "f_shoes_gymleader_0": {
         "name": "道館館主運動鞋"
     },
@@ -674,6 +698,9 @@
         "name": "城都運動鞋"
     },
     "f_shoes_loosepants_0": {},
+    "f_shoes_loosepants_1": {},
+    "f_shoes_loosepants_2": {},
+    "f_shoes_loosepants_3": {},
     "f_shoes_luvdiscpack_0": {},
     "f_shoes_mewtwo_0": {},
     "f_shoes_misty_0": {},
@@ -765,6 +792,7 @@
     "m_backpack_hgss_0": {
         "name": "城都郵差包"
     },
+    "m_backpack_longchampbp_00": {},
     "m_backpack_mimikyubp_0": {},
     "m_backpack_pkmnhoodie001": {},
     "m_backpack_pkmnhoodie004": {},
@@ -780,12 +808,14 @@
     "m_eyes_2": {},
     "m_eyes_3": {},
     "m_eyes_4": {},
+    "m_face_verizon2020mask_0": {},
     "m_glasses_3d": {
         "name": "3D眼鏡"
     },
     "m_glasses_empty": {
         "name": "不戴眼鏡"
     },
+    "m_glasses_goteamrocketarlo": {},
     "m_glasses_jogger_0": {
         "name": "慢跑者墨鏡"
     },
@@ -839,6 +869,10 @@
     "m_gloves_jogger": {
         "name": "慢跑者手錶"
     },
+    "m_gloves_megabangle_0": {},
+    "m_gloves_megabangleblue_0": {},
+    "m_gloves_megabanglered_0": {},
+    "m_gloves_megabangleyellow_0": {},
     "m_gloves_swshdlccostume_0": {},
     "m_gloves_teamaqua_0": {},
     "m_gloves_teammagma_0": {},
@@ -846,6 +880,7 @@
         "name": "火箭隊手套"
     },
     "m_gloves_teamspark_0": {},
+    "m_hat_gofest_pikachuvisor_0": {},
     "m_hair_default_0": {},
     "m_hair_default_1": {},
     "m_hair_default_10": {},
@@ -856,6 +891,8 @@
     "m_hair_default_15": {},
     "m_hair_default_16": {},
     "m_hair_default_17": {},
+    "m_hair_default_18": {},
+    "m_hair_default_19": {},
     "m_hair_default_2": {},
     "m_hair_default_3": {},
     "m_hair_default_4": {},
@@ -938,6 +975,7 @@
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
     "m_hat_ruinmaniac_0": {},
+    "m_hat_samsungsummer2020_0": {},
     "m_hat_ss_0": {},
     "m_hat_stantlerheadband_0": {},
     "m_hat_strawhat_0": {},
@@ -948,6 +986,7 @@
     "m_hat_teamrocket_0": {
         "name": "火箭隊帽"
     },
+    "m_hat_teamrocketcap_0": {},
     "m_hat_tophat_0": {
         "name": "禮帽"
     },
@@ -970,6 +1009,7 @@
         "name": "火焰長褲"
     },
     "m_pants_giovanni_0": {},
+    "m_pants_green_0": {},
     "m_pants_gymleader_0": {
         "name": "道館館主短褲"
     },
@@ -1088,6 +1128,11 @@
     "m_shirt_gengar_0": {},
     "m_shirt_giovanni_0": {},
     "m_shirt_gofest_2019": {},
+    "m_shirt_gofest_2020_0": {},
+    "m_shirt_goteamrocketarlo_0": {},
+    "m_shirt_goteamrocketcliff_0": {},
+    "m_shirt_goteamrocketsierra_0": {},
+    "m_shirt_green_0": {},
     "m_shirt_gymleader_0": {
         "name": "道館館主上衣"
     },
@@ -1106,6 +1151,7 @@
     "m_shirt_ingress_0": {},
     "m_shirt_ingress_e_0": {},
     "m_shirt_ingress_r_0": {},
+    "m_shirt_james_0": {},
     "m_shirt_jirachi_0": {},
     "m_shirt_jogger_0": {
         "name": "慢跑者背心"
@@ -1158,6 +1204,7 @@
     "m_shirt_poloshirt_2": {},
     "m_shirt_ruinmaniac_0": {},
     "m_shirt_safarizone2020_0": {},
+    "m_shirt_samsungsummer2020_0": {},
     "m_shirt_spiritomb_0": {},
     "m_shirt_ss_0": {},
     "m_shirt_steven_0": {},
@@ -1239,7 +1286,9 @@
     "m_shirt_uniqlotshirts_1": {},
     "m_shirt_uniqlotshirts_2": {},
     "m_shirt_unwto_0": {},
+    "m_shirt_verizon2020sweater_0": {},
     "m_shirt_veterantrainerxy_0": {},
+    "m_shirt_victinitshirts_0": {},
     "m_shoes_acetrainerbw_0": {},
     "m_shoes_acetrainersm_0": {},
     "m_shoes_backpacker_0": {},
@@ -1276,6 +1325,7 @@
         "name": "火焰鞋"
     },
     "m_shoes_giovanni_0": {},
+    "m_shoes_green_0": {},
     "m_shoes_gymleader_0": {
         "name": "道館館主運動鞋"
     },
@@ -1292,6 +1342,9 @@
         "name": "慢跑者鞋"
     },
     "m_shoes_loosepants_0": {},
+    "m_shoes_loosepants_1": {},
+    "m_shoes_loosepants_2": {},
+    "m_shoes_loosepants_3": {},
     "m_shoes_luvdiscpack_0": {},
     "m_shoes_mewtwo_0": {},
     "m_shoes_pikachufan_0": {
@@ -1344,5 +1397,34 @@
     },
     "m_socks_empty": {
         "name": "不穿襪子"
-    }
+    },
+    "f_face_defaultmask_0": {},
+    "f_face_empty": {},
+    "m_face_defaultmask_0": {},
+    "m_face_empty": {},
+    "f_backpack_swshdlc2costume_0": {},
+    "f_face_banettemask_0": {},
+    "f_face_pikachumask_0": {},
+    "f_face_sableyemask_0": {},
+    "f_gloves_swshdlc2costume_0": {},
+    "f_hat_sableyegoggles_0": {},
+    "f_hat_swshdlc2costume_0": {},
+    "f_hat_yamaskhat_0": {},
+    "f_pants_swshdlc2costume_0": {},
+    "pose_23": {},
+    "f_shirt_gengaronesie_0": {},
+    "f_shirt_swshdlc2costume_0": {},
+    "f_shoes_swshdlc2costume_0": {},
+    "m_backpack_swshdlc2costume_0": {},
+    "m_face_banettemask_0": {},
+    "m_face_pikachumask_0": {},
+    "m_face_sableyemask_0": {},
+    "m_gloves_swshdlc2costume_0": {},
+    "m_hat_sableyegoggles_0": {},
+    "m_hat_swshdlc2costume_0": {},
+    "m_hat_yamaskhat_0": {},
+    "m_pants_swshdlc2costume_0": {},
+    "m_shirt_gengaronesie_0": {},
+    "m_shirt_swshdlc2costume_0": {},
+    "m_shoes_swshdlc2costume_0": {}
 }

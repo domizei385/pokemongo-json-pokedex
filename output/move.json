@@ -1,7 +1,7 @@
 [
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -22,7 +22,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 150,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.15,
@@ -43,7 +43,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -64,7 +64,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -85,7 +85,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 35,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.055,
@@ -106,7 +106,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -127,7 +127,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.12,
@@ -148,7 +148,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -169,7 +169,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -190,7 +190,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.1,
@@ -211,7 +211,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -232,7 +232,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 140,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.1,
@@ -253,7 +253,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.5,
         "staminaLossScalar": 0.1,
@@ -274,7 +274,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.075,
@@ -295,7 +295,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 40,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -316,7 +316,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 65,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -337,7 +337,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -358,8 +358,8 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
-        "power": 60,
+        "animationId": 5,
+        "power": 65,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
         "trainerLevelMin": 1,
@@ -379,7 +379,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -400,7 +400,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 130,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.11,
@@ -421,7 +421,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 95,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.095,
@@ -442,7 +442,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 55,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -463,7 +463,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.08,
@@ -484,7 +484,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -505,7 +505,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 25,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -526,7 +526,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -547,7 +547,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 35,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.05,
@@ -568,7 +568,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.07,
@@ -589,7 +589,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 45,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -610,7 +610,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -631,7 +631,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 40,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -652,7 +652,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 45,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -673,7 +673,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -694,7 +694,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 55,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -715,7 +715,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 65,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -736,7 +736,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -757,7 +757,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.06,
@@ -778,7 +778,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.075,
@@ -799,7 +799,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -820,7 +820,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -841,7 +841,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 40,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -862,7 +862,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -883,7 +883,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -904,7 +904,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -925,7 +925,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -946,7 +946,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 25,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.05,
@@ -967,7 +967,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 45,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.075,
@@ -988,7 +988,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.11,
@@ -1009,7 +1009,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -1030,7 +1030,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 45,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -1051,7 +1051,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.085,
@@ -1072,7 +1072,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.08,
@@ -1093,7 +1093,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -1114,7 +1114,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.05,
@@ -1135,7 +1135,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -1156,7 +1156,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 130,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.095,
@@ -1177,7 +1177,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.1,
@@ -1198,7 +1198,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 40,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.07,
@@ -1219,7 +1219,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -1240,7 +1240,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.095,
@@ -1261,7 +1261,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 130,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.12,
@@ -1282,7 +1282,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 40,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -1303,7 +1303,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -1324,7 +1324,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 55,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -1345,7 +1345,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 75,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.075,
@@ -1366,7 +1366,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 45,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -1387,7 +1387,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.05,
@@ -1408,7 +1408,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.07,
@@ -1429,7 +1429,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 140,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.11,
@@ -1450,7 +1450,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -1471,7 +1471,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -1492,7 +1492,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -1513,7 +1513,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 130,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.11,
@@ -1534,7 +1534,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
@@ -1555,7 +1555,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.1,
@@ -1576,7 +1576,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.055,
@@ -1597,7 +1597,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.075,
@@ -1618,7 +1618,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 55,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.075,
@@ -1639,7 +1639,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 180,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.12,
@@ -1660,7 +1660,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.09,
@@ -1681,7 +1681,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "staminaLossScalar": 0.12,
         "trainerLevelMin": 1,
@@ -1701,7 +1701,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.06,
@@ -1722,7 +1722,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.11,
@@ -1743,7 +1743,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 40,
         "criticalChance": 0.25,
         "staminaLossScalar": 0.075,
@@ -1764,7 +1764,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -1785,7 +1785,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 40,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -1806,7 +1806,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 55,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -1827,7 +1827,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -1848,7 +1848,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.085,
@@ -1869,7 +1869,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -1888,7 +1888,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 35,
         "staminaLossScalar": 0.1,
         "trainerLevelMin": 1,
@@ -1907,7 +1907,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.08,
@@ -1928,7 +1928,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.11,
@@ -1949,7 +1949,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 25,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -1970,7 +1970,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 25,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.06,
@@ -1991,7 +1991,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 3,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2011,7 +2011,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2031,7 +2031,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 6,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2051,7 +2051,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 7,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2071,7 +2071,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 6,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2091,7 +2091,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2111,7 +2111,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 6,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2131,7 +2131,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 6,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2151,7 +2151,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2171,7 +2171,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2191,7 +2191,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2211,7 +2211,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2231,7 +2231,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2251,7 +2251,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 9,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2271,7 +2271,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 7,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2291,7 +2291,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 13,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2311,7 +2311,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2331,7 +2331,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2351,7 +2351,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2371,7 +2371,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2391,7 +2391,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 6,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2411,7 +2411,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2431,7 +2431,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 7,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2451,7 +2451,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2471,7 +2471,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2491,7 +2491,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 9,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2511,7 +2511,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2531,7 +2531,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2551,7 +2551,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2571,7 +2571,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 9,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2591,7 +2591,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2611,7 +2611,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -2630,7 +2630,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2650,7 +2650,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 18,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2670,7 +2670,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2690,7 +2690,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 20,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2710,7 +2710,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2730,7 +2730,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2750,7 +2750,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2770,7 +2770,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 11,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2790,7 +2790,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2810,7 +2810,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 15,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2830,7 +2830,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -2848,7 +2848,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2868,7 +2868,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 6,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2888,7 +2888,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -2909,7 +2909,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -2930,7 +2930,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 140,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -2951,7 +2951,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -2972,7 +2972,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -2992,7 +2992,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 14,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3012,7 +3012,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3033,7 +3033,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 140,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3054,7 +3054,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 15,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3074,7 +3074,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3095,7 +3095,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 14,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3115,8 +3115,8 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
-        "power": 90,
+        "animationId": 5,
+        "power": 130,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
         "trainerLevelMin": 1,
@@ -3136,7 +3136,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3157,7 +3157,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3178,7 +3178,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3199,7 +3199,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3219,7 +3219,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 15,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3239,7 +3239,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3260,7 +3260,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3280,7 +3280,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3289,7 +3289,7 @@
         "durationMs": 1200,
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1200,
-        "energyDelta": 15,
+        "energyDelta": 16,
         "id": "HEX_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
@@ -3300,7 +3300,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3321,7 +3321,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 15,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3341,7 +3341,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3362,7 +3362,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3383,7 +3383,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 14,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3403,7 +3403,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 160,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3424,7 +3424,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3444,7 +3444,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3465,7 +3465,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3486,7 +3486,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3506,7 +3506,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 120,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3527,7 +3527,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3548,7 +3548,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3569,7 +3569,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3589,7 +3589,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3610,7 +3610,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.04,
@@ -3631,7 +3631,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 15,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.01,
@@ -3652,7 +3652,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 8,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3672,7 +3672,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 16,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3692,7 +3692,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 65,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3712,7 +3712,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 150,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3732,7 +3732,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3752,7 +3752,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -3771,7 +3771,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 70,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3791,7 +3791,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 130,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3811,7 +3811,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 130,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3831,7 +3831,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3851,7 +3851,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3871,7 +3871,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3891,7 +3891,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3911,7 +3911,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 60,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3931,7 +3931,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3951,7 +3951,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 16,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3971,7 +3971,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -3991,7 +3991,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -4012,7 +4012,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -4033,7 +4033,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.065,
@@ -4054,7 +4054,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 130,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4074,7 +4074,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 20,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4094,7 +4094,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 100,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4114,7 +4114,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 85,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4134,7 +4134,8 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
+        "power": 55,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4142,6 +4143,7 @@
         "durationMs": 2900,
         "damageWindowStartMs": 2400,
         "damageWindowEndMs": 2700,
+        "energyDelta": -33,
         "id": "LUNGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
@@ -4152,7 +4154,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4170,7 +4172,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4190,7 +4192,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4210,7 +4212,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 85,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4230,7 +4232,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4250,7 +4252,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 45,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4270,7 +4272,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4288,7 +4290,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4306,7 +4308,8 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
+        "power": 80,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4314,6 +4317,7 @@
         "durationMs": 2800,
         "damageWindowStartMs": 2250,
         "damageWindowEndMs": 2700,
+        "energyDelta": -50,
         "id": "SHADOW_BONE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
@@ -4324,7 +4328,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4344,7 +4348,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 45,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4364,7 +4368,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4382,7 +4386,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 50,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4402,7 +4406,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 20,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4422,7 +4426,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 200,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4442,7 +4446,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 10,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4462,7 +4466,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 35,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4482,7 +4486,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4502,7 +4506,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 1,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4522,7 +4526,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4542,7 +4546,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_01",
+        "animationId": 4,
         "power": 12,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4562,7 +4566,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4580,7 +4584,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4598,7 +4602,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 55,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4618,7 +4622,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4638,7 +4642,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 90,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4658,7 +4662,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 110,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4678,7 +4682,7 @@
     },
     {
         "accuracyChange": 1,
-        "animationId": "ATTACK_02",
+        "animationId": 5,
         "power": 80,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4695,5 +4699,65 @@
         },
         "name": "Fly",
         "internalId": 341
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 95,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "v_create",
+        "durationMs": 2800,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -33,
+        "id": "V_CREATE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "V Create",
+        "internalId": 342
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 75,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "tri_attack",
+        "durationMs": 2500,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2400,
+        "energyDelta": -50,
+        "id": "TRI_ATTACK",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Tri Attack",
+        "internalId": 344
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 25,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "gust_fast",
+        "durationMs": 2000,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 2000,
+        "energyDelta": 20,
+        "id": "GUST_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Gust Fast",
+        "internalId": 345
     }
 ]

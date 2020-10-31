@@ -1,4 +1,4 @@
-import { ItemTemplate, RootObject } from '@income';
+import { Data, RootObject } from '@income';
 import { Pipeline } from '@core/pipeline';
 
 /**
@@ -13,7 +13,7 @@ export class AvatarCustomizationPipeline extends Pipeline {
   /**
    * Checks if the given ItemTemplate is indeed an avatar customization
    */
-  isItemTemplate(item: ItemTemplate): boolean {
+  isItemTemplate(item: Data): boolean {
     return new RegExp('^(AVATAR_[mf]_?.*)', 'g').test(item.templateId);
   }
 }

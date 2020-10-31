@@ -1,15 +1,15 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 
 @Component({
   pipeline: 'pokemon'
 })
 export class Types implements IComponent {
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.camera = {
-      cylinderGround: rawPokemon.pokemon.camera.cylinderGroundM,
-      cylinderRadius: rawPokemon.pokemon.camera.cylinderRadiusM,
+      cylHeight: rawPokemon.pokemon.camera.cylHeightM,
+      cylRadius: rawPokemon.pokemon.camera.cylRadiusM,
       diskRadius: rawPokemon.pokemon.camera.diskRadiusM,
       shoulderModeScale: rawPokemon.pokemon.camera.shoulderModeScale
     };

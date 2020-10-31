@@ -1,4 +1,4 @@
-import { ItemTemplate, RootObject } from '@income';
+import { Data, RootObject } from '@income';
 
 import { Pipeline } from '@core/pipeline';
 
@@ -14,7 +14,7 @@ export class TypePipeline extends Pipeline {
   /**
    * Checks if the given ItemTemplate is indeed a Pokemon Type
    */
-  isItemTemplate(item: ItemTemplate): boolean {
+  isItemTemplate(item: Data): boolean {
     return new RegExp('^POKEMON_TYPE_.*$', 'g').test(item.templateId);
   }
 }

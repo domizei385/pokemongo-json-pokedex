@@ -1,5 +1,5 @@
 import { Component, IComponent } from '@core/pipeline';
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Pokemon } from '@outcome/pokemon';
 import { Util } from '@util';
 
@@ -10,7 +10,7 @@ export class Name implements IComponent {
   /**
    * Parses the english name of the Pokemon (eg: "BULBASAUR" => "Bulbasaur")
    */
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.name = Util.SnakeCase2HumanReadable(rawPokemon.templateId.substring(14));
     return pokemon;
   }

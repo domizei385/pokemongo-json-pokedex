@@ -1,6 +1,6 @@
 import { Component, IComponent } from '@core/pipeline';
 
-import { ItemTemplate } from '@income';
+import { Data } from '@income';
 import { Move } from '@outcome/move';
 import { Util } from '@util';
 
@@ -11,11 +11,11 @@ export class PokemonType implements IComponent {
   /**
    * Maps generic properties which do not need to be processed.
    */
-  Process(move: Move, rawMove: ItemTemplate): Move {
+  Process(move: Move, rawMove: Data): Move {
     const moveStgs = rawMove.move;
     move.pokemonType = {
-      id: moveStgs.pokemonType,
-      name: Util.SnakeCase2HumanReadable(moveStgs.pokemonType
+      id: moveStgs.type,
+      name: Util.SnakeCase2HumanReadable(moveStgs.type
           .replace('POKEMON_TYPE_', ''))
     };
     return move;

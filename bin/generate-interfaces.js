@@ -6,7 +6,7 @@ const { forEachSeries } = require('p-iteration');
 
 
 const FILES = [{
-    input: 'src/data/GAME_MASTER.json',
+    input: 'src/data/V2_GAME_MASTER.json',
     output: 'src/income/gameMaster.ts',
     rootObjectName: 'RootObject'
 }, {

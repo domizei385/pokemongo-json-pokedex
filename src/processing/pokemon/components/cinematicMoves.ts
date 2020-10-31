@@ -1,5 +1,5 @@
 import { Component, IComponent } from '@core/pipeline/index';
-import { ItemTemplate } from '@income/index';
+import { Data } from '@income/index';
 import { Pokemon } from '@outcome/pokemon/index';
 import { Util } from '@util/index';
 import * as _ from 'lodash';
@@ -8,7 +8,7 @@ import * as _ from 'lodash';
   pipeline: 'pokemon'
 })
 export class CinematicMoves implements IComponent {
-  Process(pokemon: Pokemon, rawPokemon: ItemTemplate): Pokemon {
+  Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     try {
       const cinematicMoves = _
         .chain(rawPokemon.pokemon.cinematicMoves)

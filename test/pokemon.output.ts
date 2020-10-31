@@ -62,7 +62,7 @@ describe('Pokemon Output', () => {
             item => expect(item.encounter.maxPokemonActionFrequency, 'encounter.maxPokemonActionFrequency').to.not.equal(undefined),
             item => expect(item.encounter.minPokemonActionFrequency, 'encounter.minPokemonActionFrequency').to.not.equal(undefined),
             item => expect(typeof item.camera, 'camera type').to.equal('object'),
-            item => expect(item.camera.cylinderRadius, 'camera.cylinderRadius').to.not.equal(undefined),
+            item => expect(item.camera.cylRadius, 'camera.cylRadius').to.not.equal(undefined),
             item => expect(item.camera.diskRadius, 'camera.diskRadius').to.not.equal(undefined),
             item => expect(item.name === 'Caterpie' || item.camera.shoulderModeScale !== undefined, 'camera.shoulderModeScale').to.equal(true),
             item => expect(Array.isArray(item.nextEvolutionBranches || []), 'nextEvolutionBranches type').to.equal(true),
