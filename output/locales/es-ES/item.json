@@ -111,6 +111,7 @@
         "name": "Trozo Estrella",
         "description": "Fragmento de una bonita gema que te hace ganar 50 % más de Polvos Estelares durante 30 minutos."
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "Piedra Solar",
         "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol."
@@ -139,6 +140,7 @@
         "name": "Baya Peragu",
         "description": "SIN DEFINIR"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "Ataque X",
         "description": "SIN DEFINIR"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "SIN DEFINIR",
         "description": "SIN DEFINIR"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }

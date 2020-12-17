@@ -111,6 +111,7 @@
         "name": "Sternenstück",
         "description": "Teil eines hübschen Edelsteins. Der Spieler erhält 30 Minuten lang 50 % mehr Sternenstaub."
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "Sonnenstein",
         "description": "Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist rot wie die Abendsonne."
@@ -139,6 +140,7 @@
         "name": "Nirbebeere",
         "description": "Nicht definiert"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "X-Angriff",
         "description": "Nicht definiert"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "Nicht definiert",
         "description": "Nicht definiert"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }

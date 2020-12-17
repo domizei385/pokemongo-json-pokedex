@@ -111,6 +111,7 @@
         "name": "Pedaço de Estrela",
         "description": "Um pequeno caco de uma linda joia que faz você ganhar 50% a mais de Poeira Estelar por 30 minutos."
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "Pedra Solar",
         "description": "Pedra peculiar que faz com que certas espécies de Pokémon evoluam. É vermelha como o sol ao entardecer."
@@ -139,6 +140,7 @@
         "name": "Fruta Ocipêra",
         "description": "INDEFINIDO"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "Ataque X",
         "description": "INDEFINIDO"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "INDEFINIDO",
         "description": "INDEFINIDO"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }

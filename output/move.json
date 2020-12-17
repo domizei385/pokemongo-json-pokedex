@@ -4683,6 +4683,26 @@
     {
         "accuracyChange": 1,
         "animationId": 5,
+        "power": 180,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "aeroblast",
+        "durationMs": 3400,
+        "damageWindowStartMs": 3200,
+        "damageWindowEndMs": 3400,
+        "energyDelta": -100,
+        "id": "AEROBLAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Aeroblast",
+        "internalId": 335
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
         "power": 80,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
@@ -4759,5 +4779,25 @@
         },
         "name": "Gust Fast",
         "internalId": 345
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 29,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "incinerate_fast",
+        "durationMs": 2300,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 2300,
+        "energyDelta": 20,
+        "id": "INCINERATE_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Incinerate Fast",
+        "internalId": 346
     }
 ]

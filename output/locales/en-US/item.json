@@ -111,6 +111,7 @@
         "name": "Star Piece",
         "description": "A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes."
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "Sun Stone",
         "description": "A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun."
@@ -139,6 +140,7 @@
         "name": "Wepear Berry",
         "description": "UNDEFINED"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "X Attack",
         "description": "UNDEFINED"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "UNDEFINED",
         "description": "UNDEFINED"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }

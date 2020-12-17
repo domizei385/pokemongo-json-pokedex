@@ -111,6 +111,7 @@
         "name": "Morceau d’Étoile",
         "description": "Un fragment de gemme qui te donne 50% de Poussière Étoile en plus pendant 30 minutes."
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "Pierre Soleil",
         "description": "Une pierre étrange qui fait évoluer certaines espèces de Pokémon. Elle est rouge comme le soleil couchant."
@@ -139,6 +140,7 @@
         "name": "Baie Repoi",
         "description": "UNDEFINED"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "Attaque +",
         "description": "UNDEFINED"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "UNDEFINED",
         "description": "UNDEFINED"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }

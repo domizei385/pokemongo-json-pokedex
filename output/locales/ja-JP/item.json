@@ -111,6 +111,7 @@
         "name": "ほしのかけら",
         "description": "もらえるほしのすなが30分間1.5倍になる宝石のかけら。"
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "たいようのいし",
         "description": "ある特定のポケモンを進化させる不思議ないし。夕陽のように赤く輝く。"
@@ -139,6 +140,7 @@
         "name": "セシナのみ",
         "description": "不明"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "プラスパワー",
         "description": "未定義"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "不明",
         "description": "不明"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }

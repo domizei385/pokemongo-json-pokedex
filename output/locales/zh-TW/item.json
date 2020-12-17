@@ -111,6 +111,7 @@
         "name": "星星碎片",
         "description": "美麗寶石的碎片。使用後可獲得1.5倍的星星沙子，效果將持續30分鐘。"
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "日之石",
         "description": "散發出夕陽般紅色光輝的奇妙石頭，可讓特定寶可夢進化。"
@@ -139,6 +140,7 @@
         "name": "西梨果",
         "description": "未定"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "力量強化",
         "description": "未定"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "未定",
         "description": "未定"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }

@@ -111,6 +111,7 @@
         "name": "Pezzo Stella",
         "description": "Piccolo frammento di una bellissima gemma che fa ottenere il 50% di polvere di stelle in più per 30 minuti."
     },
+    "STICKER_INVENTORY": {},
     "SUN_STONE": {
         "name": "Pietrasolare",
         "description": "Pietra particolare che fa evolvere determinate specie di Pokémon. È rossa come il sole al tramonto."
@@ -139,6 +140,7 @@
         "name": "Baccapera",
         "description": "UNDEFINED"
     },
+    "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "Attacco X",
         "description": "UNDEFINED"
@@ -150,6 +152,5 @@
     "X_MIRACLE": {
         "name": "UNDEFINED",
         "description": "UNDEFINED"
-    },
-    "STICKER_INVENTORY": {}
+    }
 }
