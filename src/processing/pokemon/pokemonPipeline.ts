@@ -11,7 +11,7 @@ import { Identifyable } from '@core';
  * input data to Pokemon models
  */
 export class PokemonPipeline extends Pipeline {
-  private static pokemonPattern: string = '^(V[0-9]+_POKEMON_?.*)(?<!NORMAL)$';
+  private static pokemonPattern: string = '^(V[0-9]+_POKEMON_?.*)(?<!NORMAL|HOME_REVERSION|HOME_FORM_REVERSION)$';
   private readonly specialMasterFiles: RootObject[];
 
   constructor(input: RootObject, special: RootObject[]) {
@@ -28,10 +28,12 @@ export class PokemonPipeline extends Pipeline {
    */
   isItemTemplate(item: Data): boolean {
     const id = item.templateId;
+    //console.log(id + (PokemonPipeline.isPokemon(id) ? " MATCH" : " - NO MATCH"));
     return PokemonPipeline.isPokemon(id);
   }
 
   public async Run(): Promise<Object[]> {
+    console.log('Processing Pokemon');
     const pokemonData = <Pokemon[]>await super.Run();
     console.log('Pokemon count: ');
     console.log(pokemonData.length);
@@ -41,8 +43,8 @@ export class PokemonPipeline extends Pipeline {
     await forEachSeries(specialInputs, async specialInput => {
       await forEachSeries(specialInput, async itemTemplate => {
         console.log("specialInput");
-        console.log(pokemonData);
-        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.pokemon.pokemonId);
+        console.log(specialInput);
+        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.data.pokemon.uniqueId);
         await forEachSeries(legacyMoveComponents, component => component.Process(currentPokemon, itemTemplate));
       });
     });

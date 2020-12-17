@@ -88,6 +88,9 @@ export class FutureBranches implements IComponent {
     }
     return futurePokemons
         .filter(pokemon => pokemon !== undefined)
+        .filter(futurePokemon => {
+          return rawPokemon.templateId != futurePokemon.templateId;
+        })
         .map(futurePokemon => ({
           ...Util.SnakeCase2Identifyable(TemplateIdToId(futurePokemon)),
           futureBranches: this.GetFutureBranches(futurePokemon),

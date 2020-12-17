@@ -32,13 +32,13 @@ export class Forms implements IComponent {
 
     const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemon.uniqueId}`;
 
-    const itemTemplate = (gameMaster.template.data || [])
+    const itemTemplate = (gameMaster || [])
         .find(itemTemplate => {
           return itemTemplate.templateId === formKey;
         });
 
     const forms: PokemonForm[] = [];
-
+    console.log(itemTemplate);
     if (itemTemplate && itemTemplate.formSettings && itemTemplate.formSettings.forms) {
 
       itemTemplate.formSettings.forms.forEach(f => {

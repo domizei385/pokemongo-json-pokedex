@@ -21,7 +21,7 @@ export class GenderPercentage implements IComponent {
    * @returns {PokemonGender} Object with the Pokémon Gender Percent values
    */
   private getGenderPercent(gameMaster, pokemonId: string): PokemonGender {
-    const itemTemplate = (gameMaster.template.data || [])
+    const itemTemplate = (gameMaster || [])
         .filter(itemTemplate => this.isItemTemplateSpawn(itemTemplate))
         .find(itemTemplate =>
             itemTemplate.genderSettings.pokemon === pokemonId);
