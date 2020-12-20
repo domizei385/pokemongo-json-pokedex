@@ -283,6 +283,7 @@
         "name": "Top Hat"
     },
     "f_hat_ultra_0": {},
+    "f_hat_whimsicottearmuff_0": {},
     "f_hat_willowglasses_0": {},
     "f_hat_woobatearrings_0": {},
     "f_hat_yamaskhat_0": {},
@@ -451,6 +452,7 @@
     "pose_24": {},
     "pose_25": {},
     "pose_26": {},
+    "pose_27": {},
     "pose_empty": {},
     "f_shirt_acetrainerbw_0": {},
     "f_shirt_acetrainersm_0": {},
@@ -518,6 +520,7 @@
     "f_shirt_goteamrocketarlo_0": {},
     "f_shirt_goteamrocketcliff_0": {},
     "f_shirt_goteamrocketsierra_0": {},
+    "f_shirt_greedentsweater_0": {},
     "f_shirt_green_0": {},
     "f_shirt_gymleader_0": {
         "name": "Gym Leader Top"
@@ -553,6 +556,7 @@
     },
     "f_shirt_mewtwo_0": {},
     "f_shirt_misty_0": {},
+    "f_shirt_movie2020jessiejames_0": {},
     "f_shirt_ocshirt_045": {},
     "f_shirt_ocshirt_108": {},
     "f_shirt_ocshirt_129": {},
@@ -681,6 +685,7 @@
     "f_shirt_verizon2020sweater_0": {},
     "f_shirt_veterantrainerxy_0": {},
     "f_shirt_victinitshirts_0": {},
+    "f_shirt_whitecoat_0": {},
     "f_shoes_acetrainerbw_0": {},
     "f_shoes_acetrainersm_0": {},
     "f_shoes_animegou_0": {},
@@ -765,6 +770,10 @@
     "f_shoes_teamspark_0": {},
     "f_shoes_ultra_0": {},
     "f_shoes_veterantrainerxy_0": {},
+    "f_shoes_winterboots_0": {},
+    "f_shoes_winterboots_1": {},
+    "f_shoes_winterboots_2": {},
+    "f_shoes_winterboots_3": {},
     "f_skin_0": {},
     "f_skin_1": {},
     "f_skin_10": {},
@@ -1044,6 +1053,7 @@
         "name": "Top Hat"
     },
     "m_hat_ultra_0": {},
+    "m_hat_whimsicottearmuff_0": {},
     "m_hat_willowglasses_0": {},
     "m_hat_woobatearrings_0": {},
     "m_hat_yamaskhat_0": {},
@@ -1192,6 +1202,7 @@
     "m_shirt_goteamrocketarlo_0": {},
     "m_shirt_goteamrocketcliff_0": {},
     "m_shirt_goteamrocketsierra_0": {},
+    "m_shirt_greedentsweater_0": {},
     "m_shirt_green_0": {},
     "m_shirt_gymleader_0": {
         "name": "Gym Leader Top"
@@ -1247,6 +1258,7 @@
         "name": "Mew Shirt"
     },
     "m_shirt_mewtwo_0": {},
+    "m_shirt_movie2020jessiejames_0": {},
     "m_shirt_ocshirt_045": {},
     "m_shirt_ocshirt_108": {},
     "m_shirt_ocshirt_129": {},
@@ -1354,6 +1366,7 @@
     "m_shirt_verizon2020sweater_0": {},
     "m_shirt_veterantrainerxy_0": {},
     "m_shirt_victinitshirts_0": {},
+    "m_shirt_whitecoat_0": {},
     "m_shoes_acetrainerbw_0": {},
     "m_shoes_acetrainersm_0": {},
     "m_shoes_animegou_0": {},
@@ -1441,6 +1454,10 @@
     "m_shoes_teamspark_0": {},
     "m_shoes_ultra_0": {},
     "m_shoes_veterantrainerxy_0": {},
+    "m_shoes_winterboots_0": {},
+    "m_shoes_winterboots_1": {},
+    "m_shoes_winterboots_2": {},
+    "m_shoes_winterboots_3": {},
     "m_skin_0": {},
     "m_skin_1": {},
     "m_skin_10": {},

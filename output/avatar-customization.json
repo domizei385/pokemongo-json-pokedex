@@ -1906,6 +1906,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Whimsicottearmuff",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_whimsicottearmuff_0",
+        "iconName": "f_hat_whimsicottearmuff_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Willowglasses",
         "gender": "Female",
         "enabled": true,
@@ -2894,6 +2905,17 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 27",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_27",
+        "iconName": "pose_27",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -3327,6 +3349,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Greedentsweater",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_greedentsweater_0",
+        "iconName": "f_shirt_greedentsweater_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Green",
         "gender": "Female",
         "enabled": true,
@@ -3580,6 +3613,17 @@
         "enabled": true,
         "id": "f_shirt_misty_0",
         "iconName": "f_shirt_misty_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Movie2020jessiejames",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_movie2020jessiejames_0",
+        "iconName": "f_shirt_movie2020jessiejames_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -4361,6 +4405,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Whitecoat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_whitecoat_0",
+        "iconName": "f_shirt_whitecoat_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shoes Acetrainerbw",
         "gender": "Female",
         "enabled": true,
@@ -4917,6 +4972,50 @@
         "id": "f_shoes_veterantrainerxy_0",
         "unlockBadgeLevel": 200,
         "iconName": "f_shoes_veterantrainerxy_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_winterboots_0",
+        "iconName": "f_shoes_winterboots_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_winterboots_1",
+        "iconName": "f_shoes_winterboots_01_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 2",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_winterboots_2",
+        "iconName": "f_shoes_winterboots_02_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 3",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_winterboots_3",
+        "iconName": "f_shoes_winterboots_03_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -6831,6 +6930,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Whimsicottearmuff",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_whimsicottearmuff_0",
+        "iconName": "m_hat_whimsicottearmuff_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Willowglasses",
         "gender": "Male",
         "enabled": true,
@@ -7613,6 +7723,17 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 27",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_27",
+        "iconName": "pose_27",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -8058,6 +8179,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Greedentsweater",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_greedentsweater_0",
+        "iconName": "m_shirt_greedentsweater_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Green",
         "gender": "Male",
         "enabled": true,
@@ -8378,6 +8510,17 @@
         "enabled": true,
         "id": "m_shirt_mewtwo_0",
         "iconName": "m_shirt_mewtwo_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Movie2020jessiejames",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_movie2020jessiejames_0",
+        "iconName": "m_shirt_movie2020jessiejames_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -9083,6 +9226,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Whitecoat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_whitecoat_0",
+        "iconName": "m_shirt_whitecoat_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shoes Acetrainerbw",
         "gender": "Male",
         "enabled": true,
@@ -9651,6 +9805,50 @@
         "id": "m_shoes_veterantrainerxy_0",
         "unlockBadgeLevel": 200,
         "iconName": "m_shoes_veterantrainerxy_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_winterboots_0",
+        "iconName": "m_shoes_winterboots_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_winterboots_1",
+        "iconName": "m_shoes_winterboots_01_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 2",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_winterboots_2",
+        "iconName": "m_shoes_winterboots_02_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Winterboots 3",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_winterboots_3",
+        "iconName": "m_shoes_winterboots_03_bundle_icon",
         "slot": [
             "Shoes"
         ],
