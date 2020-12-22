@@ -129,7 +129,8 @@
             },
             {
                 "id": "BULBASAUR_FALL_2019",
-                "name": "Bulbasaur Fall 2019"
+                "name": "Bulbasaur Fall 2019",
+                "assetBundleSuffix": "pm0001_00_pgo_fall2019"
             }
         ]
     },
@@ -243,7 +244,8 @@
             },
             {
                 "id": "BULBASAUR_FALL_2019",
-                "name": "Bulbasaur Fall 2019"
+                "name": "Bulbasaur Fall 2019",
+                "assetBundleSuffix": "pm0001_00_pgo_fall2019"
             }
         ]
     },
@@ -377,7 +379,8 @@
             },
             {
                 "id": "BULBASAUR_FALL_2019",
-                "name": "Bulbasaur Fall 2019"
+                "name": "Bulbasaur Fall 2019",
+                "assetBundleSuffix": "pm0001_00_pgo_fall2019"
             }
         ]
     },
@@ -510,7 +513,8 @@
             },
             {
                 "id": "BULBASAUR_FALL_2019",
-                "name": "Bulbasaur Fall 2019"
+                "name": "Bulbasaur Fall 2019",
+                "assetBundleSuffix": "pm0001_00_pgo_fall2019"
             }
         ]
     },
@@ -1023,7 +1027,8 @@
             },
             {
                 "id": "VENUSAUR_COPY_2019",
-                "name": "Venusaur Copy 2019"
+                "name": "Venusaur Copy 2019",
+                "assetBundleSuffix": "pm0003_00_pgo_copy2019"
             }
         ]
     },
@@ -1137,7 +1142,8 @@
             },
             {
                 "id": "VENUSAUR_COPY_2019",
-                "name": "Venusaur Copy 2019"
+                "name": "Venusaur Copy 2019",
+                "assetBundleSuffix": "pm0003_00_pgo_copy2019"
             }
         ]
     },
@@ -1267,7 +1273,8 @@
             },
             {
                 "id": "VENUSAUR_COPY_2019",
-                "name": "Venusaur Copy 2019"
+                "name": "Venusaur Copy 2019",
+                "assetBundleSuffix": "pm0003_00_pgo_copy2019"
             }
         ]
     },
@@ -1396,7 +1403,8 @@
             },
             {
                 "id": "VENUSAUR_COPY_2019",
-                "name": "Venusaur Copy 2019"
+                "name": "Venusaur Copy 2019",
+                "assetBundleSuffix": "pm0003_00_pgo_copy2019"
             }
         ]
     },
@@ -1526,7 +1534,8 @@
             },
             {
                 "id": "CHARMANDER_FALL_2019",
-                "name": "Charmander Fall 2019"
+                "name": "Charmander Fall 2019",
+                "assetBundleSuffix": "pm0004_00_pgo_fall2019"
             }
         ]
     },
@@ -1636,7 +1645,8 @@
             },
             {
                 "id": "CHARMANDER_FALL_2019",
-                "name": "Charmander Fall 2019"
+                "name": "Charmander Fall 2019",
+                "assetBundleSuffix": "pm0004_00_pgo_fall2019"
             }
         ]
     },
@@ -1766,7 +1776,8 @@
             },
             {
                 "id": "CHARMANDER_FALL_2019",
-                "name": "Charmander Fall 2019"
+                "name": "Charmander Fall 2019",
+                "assetBundleSuffix": "pm0004_00_pgo_fall2019"
             }
         ]
     },
@@ -1895,7 +1906,8 @@
             },
             {
                 "id": "CHARMANDER_FALL_2019",
-                "name": "Charmander Fall 2019"
+                "name": "Charmander Fall 2019",
+                "assetBundleSuffix": "pm0004_00_pgo_fall2019"
             }
         ]
     },
@@ -2396,7 +2408,8 @@
             },
             {
                 "id": "CHARIZARD_COPY_2019",
-                "name": "Charizard Copy 2019"
+                "name": "Charizard Copy 2019",
+                "assetBundleSuffix": "pm0006_00_pgo_copy2019"
             }
         ]
     },
@@ -2510,7 +2523,8 @@
             },
             {
                 "id": "CHARIZARD_COPY_2019",
-                "name": "Charizard Copy 2019"
+                "name": "Charizard Copy 2019",
+                "assetBundleSuffix": "pm0006_00_pgo_copy2019"
             }
         ]
     },
@@ -2640,7 +2654,8 @@
             },
             {
                 "id": "CHARIZARD_COPY_2019",
-                "name": "Charizard Copy 2019"
+                "name": "Charizard Copy 2019",
+                "assetBundleSuffix": "pm0006_00_pgo_copy2019"
             }
         ]
     },
@@ -2769,7 +2784,8 @@
             },
             {
                 "id": "CHARIZARD_COPY_2019",
-                "name": "Charizard Copy 2019"
+                "name": "Charizard Copy 2019",
+                "assetBundleSuffix": "pm0006_00_pgo_copy2019"
             }
         ]
     },
@@ -2899,7 +2915,8 @@
             },
             {
                 "id": "SQUIRTLE_FALL_2019",
-                "name": "Squirtle Fall 2019"
+                "name": "Squirtle Fall 2019",
+                "assetBundleSuffix": "pm0007_00_pgo_fall2019"
             }
         ]
     },
@@ -3009,7 +3026,8 @@
             },
             {
                 "id": "SQUIRTLE_FALL_2019",
-                "name": "Squirtle Fall 2019"
+                "name": "Squirtle Fall 2019",
+                "assetBundleSuffix": "pm0007_00_pgo_fall2019"
             }
         ]
     },
@@ -3139,7 +3157,8 @@
             },
             {
                 "id": "SQUIRTLE_FALL_2019",
-                "name": "Squirtle Fall 2019"
+                "name": "Squirtle Fall 2019",
+                "assetBundleSuffix": "pm0007_00_pgo_fall2019"
             }
         ]
     },
@@ -3268,7 +3287,8 @@
             },
             {
                 "id": "SQUIRTLE_FALL_2019",
-                "name": "Squirtle Fall 2019"
+                "name": "Squirtle Fall 2019",
+                "assetBundleSuffix": "pm0007_00_pgo_fall2019"
             }
         ]
     },
@@ -3769,7 +3789,8 @@
             },
             {
                 "id": "BLASTOISE_COPY_2019",
-                "name": "Blastoise Copy 2019"
+                "name": "Blastoise Copy 2019",
+                "assetBundleSuffix": "pm0009_00_pgo_copy2019"
             }
         ]
     },
@@ -3883,7 +3904,8 @@
             },
             {
                 "id": "BLASTOISE_COPY_2019",
-                "name": "Blastoise Copy 2019"
+                "name": "Blastoise Copy 2019",
+                "assetBundleSuffix": "pm0009_00_pgo_copy2019"
             }
         ]
     },
@@ -4013,7 +4035,8 @@
             },
             {
                 "id": "BLASTOISE_COPY_2019",
-                "name": "Blastoise Copy 2019"
+                "name": "Blastoise Copy 2019",
+                "assetBundleSuffix": "pm0009_00_pgo_copy2019"
             }
         ]
     },
@@ -4142,7 +4165,8 @@
             },
             {
                 "id": "BLASTOISE_COPY_2019",
-                "name": "Blastoise Copy 2019"
+                "name": "Blastoise Copy 2019",
+                "assetBundleSuffix": "pm0009_00_pgo_copy2019"
             }
         ]
     },
@@ -7784,11 +7808,13 @@
             },
             {
                 "id": "PIKACHU_FALL_2019",
-                "name": "Pikachu Fall 2019"
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
             },
             {
                 "id": "PIKACHU_COPY_2019",
-                "name": "Pikachu Copy 2019"
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
             },
             {
                 "id": "PIKACHU_VS_2019",
@@ -7797,15 +7823,18 @@
             },
             {
                 "id": "PIKACHU_COSTUME_2020",
-                "name": "Pikachu Costume 2020"
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
             },
             {
                 "id": "PIKACHU_ADVENTURE_HAT_2020",
-                "name": "Pikachu Adventure Hat 2020"
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
             },
             {
                 "id": "PIKACHU_WINTER_2020",
-                "name": "Pikachu Winter 2020"
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
             }
         ]
     },
@@ -7907,11 +7936,13 @@
             },
             {
                 "id": "PIKACHU_FALL_2019",
-                "name": "Pikachu Fall 2019"
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
             },
             {
                 "id": "PIKACHU_COPY_2019",
-                "name": "Pikachu Copy 2019"
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
             },
             {
                 "id": "PIKACHU_VS_2019",
@@ -7920,15 +7951,18 @@
             },
             {
                 "id": "PIKACHU_COSTUME_2020",
-                "name": "Pikachu Costume 2020"
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
             },
             {
                 "id": "PIKACHU_ADVENTURE_HAT_2020",
-                "name": "Pikachu Adventure Hat 2020"
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
             },
             {
                 "id": "PIKACHU_WINTER_2020",
-                "name": "Pikachu Winter 2020"
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
             }
         ]
     },
@@ -8030,11 +8064,13 @@
             },
             {
                 "id": "PIKACHU_FALL_2019",
-                "name": "Pikachu Fall 2019"
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
             },
             {
                 "id": "PIKACHU_COPY_2019",
-                "name": "Pikachu Copy 2019"
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
             },
             {
                 "id": "PIKACHU_VS_2019",
@@ -8043,15 +8079,18 @@
             },
             {
                 "id": "PIKACHU_COSTUME_2020",
-                "name": "Pikachu Costume 2020"
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
             },
             {
                 "id": "PIKACHU_ADVENTURE_HAT_2020",
-                "name": "Pikachu Adventure Hat 2020"
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
             },
             {
                 "id": "PIKACHU_WINTER_2020",
-                "name": "Pikachu Winter 2020"
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
             }
         ]
     },
@@ -8157,11 +8196,13 @@
             },
             {
                 "id": "PIKACHU_FALL_2019",
-                "name": "Pikachu Fall 2019"
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
             },
             {
                 "id": "PIKACHU_COPY_2019",
-                "name": "Pikachu Copy 2019"
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
             },
             {
                 "id": "PIKACHU_VS_2019",
@@ -8170,15 +8211,18 @@
             },
             {
                 "id": "PIKACHU_COSTUME_2020",
-                "name": "Pikachu Costume 2020"
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
             },
             {
                 "id": "PIKACHU_ADVENTURE_HAT_2020",
-                "name": "Pikachu Adventure Hat 2020"
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
             },
             {
                 "id": "PIKACHU_WINTER_2020",
-                "name": "Pikachu Winter 2020"
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
             }
         ]
     },
@@ -8280,11 +8324,13 @@
             },
             {
                 "id": "PIKACHU_FALL_2019",
-                "name": "Pikachu Fall 2019"
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
             },
             {
                 "id": "PIKACHU_COPY_2019",
-                "name": "Pikachu Copy 2019"
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
             },
             {
                 "id": "PIKACHU_VS_2019",
@@ -8293,15 +8339,18 @@
             },
             {
                 "id": "PIKACHU_COSTUME_2020",
-                "name": "Pikachu Costume 2020"
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
             },
             {
                 "id": "PIKACHU_ADVENTURE_HAT_2020",
-                "name": "Pikachu Adventure Hat 2020"
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
             },
             {
                 "id": "PIKACHU_WINTER_2020",
-                "name": "Pikachu Winter 2020"
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
             }
         ]
     },
@@ -8403,11 +8452,13 @@
             },
             {
                 "id": "PIKACHU_FALL_2019",
-                "name": "Pikachu Fall 2019"
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
             },
             {
                 "id": "PIKACHU_COPY_2019",
-                "name": "Pikachu Copy 2019"
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
             },
             {
                 "id": "PIKACHU_VS_2019",
@@ -8416,15 +8467,18 @@
             },
             {
                 "id": "PIKACHU_COSTUME_2020",
-                "name": "Pikachu Costume 2020"
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
             },
             {
                 "id": "PIKACHU_ADVENTURE_HAT_2020",
-                "name": "Pikachu Adventure Hat 2020"
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
             },
             {
                 "id": "PIKACHU_WINTER_2020",
-                "name": "Pikachu Winter 2020"
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
             }
         ]
     },
@@ -8526,11 +8580,13 @@
             },
             {
                 "id": "PIKACHU_FALL_2019",
-                "name": "Pikachu Fall 2019"
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
             },
             {
                 "id": "PIKACHU_COPY_2019",
-                "name": "Pikachu Copy 2019"
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
             },
             {
                 "id": "PIKACHU_VS_2019",
@@ -8539,15 +8595,18 @@
             },
             {
                 "id": "PIKACHU_COSTUME_2020",
-                "name": "Pikachu Costume 2020"
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
             },
             {
                 "id": "PIKACHU_ADVENTURE_HAT_2020",
-                "name": "Pikachu Adventure Hat 2020"
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
             },
             {
                 "id": "PIKACHU_WINTER_2020",
-                "name": "Pikachu Winter 2020"
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
             }
         ]
     },
@@ -27439,7 +27498,8 @@
             },
             {
                 "id": "SLOWPOKE_2020",
-                "name": "Slowpoke 2020"
+                "name": "Slowpoke 2020",
+                "assetBundleSuffix": "pm0079_00_pgo_2020"
             }
         ]
     },
@@ -27563,7 +27623,8 @@
             },
             {
                 "id": "SLOWPOKE_2020",
-                "name": "Slowpoke 2020"
+                "name": "Slowpoke 2020",
+                "assetBundleSuffix": "pm0079_00_pgo_2020"
             }
         ]
     },
@@ -27698,7 +27759,8 @@
             },
             {
                 "id": "SLOWPOKE_2020",
-                "name": "Slowpoke 2020"
+                "name": "Slowpoke 2020",
+                "assetBundleSuffix": "pm0079_00_pgo_2020"
             }
         ]
     },
@@ -27833,7 +27895,8 @@
             },
             {
                 "id": "SLOWPOKE_2020",
-                "name": "Slowpoke 2020"
+                "name": "Slowpoke 2020",
+                "assetBundleSuffix": "pm0079_00_pgo_2020"
             }
         ]
     },
@@ -27955,7 +28018,8 @@
             },
             {
                 "id": "SLOWBRO_2021",
-                "name": "Slowbro 2021"
+                "name": "Slowbro 2021",
+                "assetBundleSuffix": "pm0080_00_pgo_2021"
             }
         ]
     },
@@ -28077,7 +28141,8 @@
             },
             {
                 "id": "SLOWBRO_2021",
-                "name": "Slowbro 2021"
+                "name": "Slowbro 2021",
+                "assetBundleSuffix": "pm0080_00_pgo_2021"
             }
         ]
     },
@@ -28199,7 +28264,8 @@
             },
             {
                 "id": "SLOWBRO_2021",
-                "name": "Slowbro 2021"
+                "name": "Slowbro 2021",
+                "assetBundleSuffix": "pm0080_00_pgo_2021"
             }
         ]
     },
@@ -28321,7 +28387,8 @@
             },
             {
                 "id": "SLOWBRO_2021",
-                "name": "Slowbro 2021"
+                "name": "Slowbro 2021",
+                "assetBundleSuffix": "pm0080_00_pgo_2021"
             }
         ]
     },
@@ -47609,7 +47676,8 @@
             },
             {
                 "id": "MEWTWO_A",
-                "name": "Mewtwo A"
+                "name": "Mewtwo A",
+                "assetBundleSuffix": "pm0150_00_pgo_a"
             },
             {
                 "id": "MEWTWO_PURIFIED",
@@ -47723,7 +47791,8 @@
             },
             {
                 "id": "MEWTWO_A",
-                "name": "Mewtwo A"
+                "name": "Mewtwo A",
+                "assetBundleSuffix": "pm0150_00_pgo_a"
             },
             {
                 "id": "MEWTWO_PURIFIED",
@@ -47841,7 +47910,8 @@
             },
             {
                 "id": "MEWTWO_A",
-                "name": "Mewtwo A"
+                "name": "Mewtwo A",
+                "assetBundleSuffix": "pm0150_00_pgo_a"
             },
             {
                 "id": "MEWTWO_PURIFIED",
@@ -47959,7 +48029,8 @@
             },
             {
                 "id": "MEWTWO_A",
-                "name": "Mewtwo A"
+                "name": "Mewtwo A",
+                "assetBundleSuffix": "pm0150_00_pgo_a"
             },
             {
                 "id": "MEWTWO_PURIFIED",
@@ -62170,7 +62241,8 @@
             },
             {
                 "id": "DELIBIRD_WINTER_2020",
-                "name": "Delibird Winter 2020"
+                "name": "Delibird Winter 2020",
+                "assetBundleSuffix": "pm0225_00_pgo_winter2020"
             }
         ]
     },
@@ -62280,7 +62352,8 @@
             },
             {
                 "id": "DELIBIRD_WINTER_2020",
-                "name": "Delibird Winter 2020"
+                "name": "Delibird Winter 2020",
+                "assetBundleSuffix": "pm0225_00_pgo_winter2020"
             }
         ]
     },
@@ -62390,7 +62463,8 @@
             },
             {
                 "id": "DELIBIRD_WINTER_2020",
-                "name": "Delibird Winter 2020"
+                "name": "Delibird Winter 2020",
+                "assetBundleSuffix": "pm0225_00_pgo_winter2020"
             }
         ]
     },
@@ -62500,7 +62574,8 @@
             },
             {
                 "id": "DELIBIRD_WINTER_2020",
-                "name": "Delibird Winter 2020"
+                "name": "Delibird Winter 2020",
+                "assetBundleSuffix": "pm0225_00_pgo_winter2020"
             }
         ]
     },
@@ -76227,7 +76302,8 @@
             },
             {
                 "id": "SABLEYE_COSTUME_2020",
-                "name": "Sableye Costume 2020"
+                "name": "Sableye Costume 2020",
+                "assetBundleSuffix": "pm0302_00_pgo_fall2020"
             }
         ]
     },
@@ -76341,7 +76417,8 @@
             },
             {
                 "id": "SABLEYE_COSTUME_2020",
-                "name": "Sableye Costume 2020"
+                "name": "Sableye Costume 2020",
+                "assetBundleSuffix": "pm0302_00_pgo_fall2020"
             }
         ]
     },
@@ -76455,7 +76532,8 @@
             },
             {
                 "id": "SABLEYE_COSTUME_2020",
-                "name": "Sableye Costume 2020"
+                "name": "Sableye Costume 2020",
+                "assetBundleSuffix": "pm0302_00_pgo_fall2020"
             }
         ]
     },
@@ -76569,7 +76647,8 @@
             },
             {
                 "id": "SABLEYE_COSTUME_2020",
-                "name": "Sableye Costume 2020"
+                "name": "Sableye Costume 2020",
+                "assetBundleSuffix": "pm0302_00_pgo_fall2020"
             }
         ]
     },
@@ -128565,7 +128644,8 @@
             },
             {
                 "id": "CUBCHOO_WINTER_2020",
-                "name": "Cubchoo Winter 2020"
+                "name": "Cubchoo Winter 2020",
+                "assetBundleSuffix": "pm0613_00_pgo_winter2020"
             }
         ]
     },
@@ -128667,7 +128747,8 @@
             },
             {
                 "id": "CUBCHOO_WINTER_2020",
-                "name": "Cubchoo Winter 2020"
+                "name": "Cubchoo Winter 2020",
+                "assetBundleSuffix": "pm0613_00_pgo_winter2020"
             }
         ]
     },

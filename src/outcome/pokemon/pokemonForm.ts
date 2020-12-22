@@ -19,4 +19,9 @@ export interface PokemonForm {
   * 61
   */
   assetBundleValue: number;
+  /* Asset bundle suffix
+  * @example
+  * winter2020
+  */
+  assetBundleSuffix: string;
 }
