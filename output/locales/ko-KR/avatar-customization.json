@@ -27,6 +27,7 @@
     },
     "f_backpack_genesecteventitem_0": {},
     "f_backpack_gengar_0": {},
+    "f_backpack_guccibackpack_0": {},
     "f_backpack_hgss_0": {
         "name": "성도백"
     },
@@ -118,6 +119,7 @@
         "name": "미스터리 마스크"
     },
     "f_glasses_newyearglasses2020_0": {},
+    "f_glasses_newyearglasses2021_0": {},
     "f_glasses_teardrop_0": {
         "name": "티어드롭형 선글라스"
     },
@@ -234,6 +236,7 @@
     "f_hat_galarfarfetchditems_0": {},
     "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
+    "f_hat_guccihat_0": {},
     "f_hat_gyaradoscap_0": {},
     "f_hat_hgss_0": {
         "name": "성도캡"
@@ -256,6 +259,7 @@
     "f_hat_mewtwo_0": {},
     "f_hat_mimikyu_0": {},
     "f_hat_mismagius_0": {},
+    "f_hat_newyearhat2021_0": {},
     "f_hat_pikachucap_0": {},
     "f_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
@@ -522,6 +526,7 @@
     "f_shirt_goteamrocketsierra_0": {},
     "f_shirt_greedentsweater_0": {},
     "f_shirt_green_0": {},
+    "f_shirt_guccitshirts_0": {},
     "f_shirt_gymleader_0": {
         "name": "체육관 리더 상의"
     },
@@ -836,6 +841,7 @@
     },
     "m_backpack_genesecteventitem_0": {},
     "m_backpack_gengar_0": {},
+    "m_backpack_guccibackpack_0": {},
     "m_backpack_hgss_0": {
         "name": "성도백"
     },
@@ -881,6 +887,7 @@
         "name": "미스테리 마스크"
     },
     "m_glasses_newyearglasses2020_0": {},
+    "m_glasses_newyearglasses2021_0": {},
     "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
         "name": "둥근테안경"
@@ -1008,6 +1015,7 @@
     "m_hat_galarfarfetchditems_0": {},
     "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
+    "m_hat_guccihat_0": {},
     "m_hat_gyaradoscap_0": {},
     "m_hat_hgss_0": {
         "name": "성도캡"
@@ -1026,6 +1034,7 @@
     "m_hat_mewtwo_0": {},
     "m_hat_mimikyu_0": {},
     "m_hat_mismagius_0": {},
+    "m_hat_newyearhat2021_0": {},
     "m_hat_pikachucap_0": {},
     "m_hat_pikachufan_0": {
         "name": "피카츄 머리띠"
@@ -1204,6 +1213,7 @@
     "m_shirt_goteamrocketsierra_0": {},
     "m_shirt_greedentsweater_0": {},
     "m_shirt_green_0": {},
+    "m_shirt_guccitshirts_0": {},
     "m_shirt_gymleader_0": {
         "name": "체육관 리더 상의"
     },

@@ -4703,6 +4703,91 @@
     {
         "accuracyChange": 1,
         "animationId": 5,
+        "power": 120,
+        "vfxName": "techno_blast_normal",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -100,
+        "id": "TECHNO_BLAST_NORMAL",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Techno Blast Normal",
+        "internalId": 336
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 120,
+        "vfxName": "techno_blast_burn",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -100,
+        "id": "TECHNO_BLAST_BURN",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Techno Blast Burn",
+        "internalId": 337
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 120,
+        "vfxName": "techno_blast_chill",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1400,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -100,
+        "id": "TECHNO_BLAST_CHILL",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ICE",
+            "name": "Ice"
+        },
+        "name": "Techno Blast Chill",
+        "internalId": 338
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 120,
+        "vfxName": "techno_blast_water",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -100,
+        "id": "TECHNO_BLAST_WATER",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Techno Blast Water",
+        "internalId": 339
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
+        "power": 120,
+        "vfxName": "techno_blast_shock",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -100,
+        "id": "TECHNO_BLAST_SHOCK",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ELECTRIC",
+            "name": "Electric"
+        },
+        "name": "Techno Blast Shock",
+        "internalId": 340
+    },
+    {
+        "accuracyChange": 1,
+        "animationId": 5,
         "power": 80,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
