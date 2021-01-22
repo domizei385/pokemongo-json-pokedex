@@ -1,7 +1,6 @@
 import { IComponent, Pipeline } from '@core/pipeline';
 import { Data, RootObject } from '@income';
 import { Pokemon } from '@outcome/pokemon';
-import { forEachSeries, map } from 'p-iteration';
 import * as _ from 'lodash';
 import { Util } from '@util';
 import { Identifyable } from '@core';
@@ -12,11 +11,9 @@ import { Identifyable } from '@core';
  */
 export class PokemonPipeline extends Pipeline {
   private static pokemonPattern: string = '^(V[0-9]+_POKEMON_?.*)(?<!NORMAL|HOME_REVERSION|HOME_FORM_REVERSION)$';
-  private readonly specialMasterFiles: RootObject[];
 
-  constructor(input: RootObject, special: RootObject[]) {
+  constructor(input: RootObject) {
     super(input, 'pokemon');
-    this.specialMasterFiles = special;
   }
 
   private static isPokemon(templateId: string) {
@@ -37,17 +34,6 @@ export class PokemonPipeline extends Pipeline {
     const pokemonData = <Pokemon[]>await super.Run();
     console.log('Pokemon count: ');
     console.log(pokemonData.length);
-    // Handle special game master files
-    const specialInputs = await map(this.specialMasterFiles, input => (input.template || []).filter(p => this.isItemTemplate(p)));
-    const legacyMoveComponents = [new LegacyQuickMoves(), new LegacyCinematicMoves()];
-    await forEachSeries(specialInputs, async specialInput => {
-      await forEachSeries(specialInput, async itemTemplate => {
-        console.log("specialInput");
-        console.log(specialInput);
-        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.data.pokemon.uniqueId);
-        await forEachSeries(legacyMoveComponents, component => component.Process(currentPokemon, itemTemplate));
-      });
-    });
 
     return pokemonData;
   }
@@ -79,18 +65,6 @@ abstract class LegacyMove implements IComponent {
       id: move.id,
       legacy: true
     }
-  }
-}
-
-class LegacyCinematicMoves extends LegacyMove {
-  constructor() {
-    super('cinematicMoves');
-  }
-}
-
-class LegacyQuickMoves extends LegacyMove {
-  constructor() {
-    super('quickMoves');
   }
 }
 

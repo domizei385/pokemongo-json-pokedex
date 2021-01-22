@@ -18,9 +18,7 @@ import { LocalesPipeline } from './core/pipeline/localePipeline';
 import { ItemLocalesPipeline } from './processing/item/locales/itemLocalesPipeline';
 import { AvatarCustomizationLocalesPipeline } from './processing/avatarCustomization/locales/index';
 
-const gameMaster = require('../pokemongo-game-master/versions/latest/V2_GAME_MASTER.json');
-const specialGameMastersDirectory = path.resolve(__dirname, '../pokemongo-game-master/special');
-const specialGameMasters = fs.existsSync(specialGameMastersDirectory) ? fs.readdirSync(specialGameMastersDirectory).map(file => require(`../pokemongo-game-master/special/${file}`)) : [];
+const gameMaster = require('../pokemongo-game-master/latest/latest.json');
 const packageJson = require('../package.json');
 const POKEMON_TRANSLATIONS = require('./data/POKEMON_TRANSLATIONS.json');
 const MOVES_TRANSLATIONS = require('./data/MOVES_TRANSLATIONS.json');
@@ -70,7 +68,7 @@ console.log(`${chalk.blue('i')} Using GAME_MASTER version ${chalk.cyan(gameMaste
 
 
 const writePokemon = async () => {
-  const pokemons = await write('./output/pokemon.json', new PokemonPipeline(gameMaster, specialGameMasters), 'Pokemons');
+  const pokemons = await write('./output/pokemon.json', new PokemonPipeline(gameMaster), 'Pokemons');
   writeTranslations('pokemon.json', await new PokemonLocalesPipeline(POKEMON_TRANSLATIONS, pokemons, LOCALES), 'Pokemon Translations');
 }
 
