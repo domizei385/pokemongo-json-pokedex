@@ -166,6 +166,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Backpack Guitarcasebackpack",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_guitarcasebackpack_0",
+        "iconName": "f_backpack_guitarcasebackpack_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Hgss 0",
         "gender": "Female",
         "enabled": true,
@@ -238,6 +249,17 @@
         "enabled": true,
         "id": "f_backpack_ruinmaniac_0",
         "iconName": "f_backpack_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Snapcamera",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_snapcamera_0",
+        "iconName": "f_backpack_snapcamera_00_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -553,6 +575,39 @@
         "category": "Eyes"
     },
     {
+        "name": "Face 3dmask 00",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_3dmask_0",
+        "iconName": "f_face_3dmask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face 3dmask 01",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_3dmask_1",
+        "iconName": "f_face_3dmask_01_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face 3dmask 02",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_3dmask_2",
+        "iconName": "f_face_3dmask_02_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Face Banettemask",
         "gender": "Female",
         "enabled": true,
@@ -580,6 +635,28 @@
         "enabled": true,
         "id": "f_face_empty",
         "iconName": "f_face_empty_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Facestickerpikachu",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_facestickerpikachu_0",
+        "iconName": "f_face_facestickerpikachu_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Facestickerpokeball",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_facestickerpokeball_0",
+        "iconName": "f_face_facestickerpokeball_00_bundle_icon",
         "slot": [
             "Face"
         ],
@@ -922,6 +999,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Korrina",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_korrina_0",
+        "iconName": "f_gloves_korrina_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Megabangle",
         "gender": "Female",
         "enabled": true,
@@ -982,6 +1070,39 @@
         "enabled": true,
         "id": "f_gloves_swshdlccostume_0",
         "iconName": "f_gloves_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Swshuniformdark",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_swshuniformdark_0",
+        "iconName": "f_gloves_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Swshuniformdefault",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_swshuniformdefault_0",
+        "iconName": "f_gloves_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Swshuniformdragon",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_swshuniformdragon_0",
+        "iconName": "f_gloves_swshuniformdragon_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1286,6 +1407,28 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Aseries",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_aseries_0",
+        "iconName": "f_hat_aseries_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Sponsor"
+    },
+    {
+        "name": "Hat Bidoofhat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_bidoofhat_0",
+        "iconName": "f_hat_bidoofhat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Bwn",
         "gender": "Female",
         "enabled": true,
@@ -1451,6 +1594,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Elesa",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_elesa_0",
+        "iconName": "f_hat_elesa_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Empty",
         "gender": "Female",
         "enabled": true,
@@ -1585,6 +1739,28 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Kantotourcapgreen",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_kantotourcapgreen_0",
+        "iconName": "f_hat_kantotourcapgreen_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Kantotourcapred",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_kantotourcapred_0",
+        "iconName": "f_hat_kantotourcapred_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Knitted 0",
         "gender": "Female",
         "enabled": true,
@@ -1601,6 +1777,17 @@
         "enabled": true,
         "id": "f_hat_knitted_1",
         "iconName": "f_hat_knitted_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Korrina",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_korrina_0",
+        "iconName": "f_hat_korrina_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1646,6 +1833,17 @@
         "enabled": true,
         "id": "f_hat_magikarp",
         "iconName": "f_hat_magikarp_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Megalopunnyitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_megalopunnyitems_0",
+        "iconName": "f_hat_megalopunnyitems_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1701,6 +1899,28 @@
         "enabled": true,
         "id": "f_hat_mismagius_0",
         "iconName": "f_hat_mismagius_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Munnapack 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_munnapack_0",
+        "iconName": "f_hat_munnapack_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Munnapack 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_munnapack_1",
+        "iconName": "f_hat_munnapack_01_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -1785,6 +2005,39 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Regiicejersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_regiicejersies_0",
+        "iconName": "f_hat_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Regirockjersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_regirockjersies_0",
+        "iconName": "f_hat_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Registeeljersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_registeeljersies_0",
+        "iconName": "f_hat_registeeljersies_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Ruinmaniac",
         "gender": "Female",
         "enabled": true,
@@ -1816,6 +2069,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Slowpoketailshirts",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_slowpoketailshirts_0",
+        "iconName": "f_hat_slowpoketailshirts_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Ss",
@@ -1856,6 +2120,17 @@
         "enabled": true,
         "id": "f_hat_swshdlc2costume_0",
         "iconName": "f_hat_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Sylveonitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_sylveonitems_0",
+        "iconName": "f_hat_sylveonitems_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2398,6 +2673,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Munnapack",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_munnapack_0",
+        "iconName": "f_pants_munnapack_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Neon Solid 0",
         "gender": "Female",
         "enabled": true,
@@ -2476,6 +2762,39 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Regiicejersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_regiicejersies_0",
+        "iconName": "f_pants_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Regirockjersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_regirockjersies_0",
+        "iconName": "f_pants_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Registeeljersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_registeeljersies_0",
+        "iconName": "f_pants_registeeljersies_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Shorts 0",
         "gender": "Female",
         "enabled": true,
@@ -2547,6 +2866,39 @@
         "enabled": true,
         "id": "f_pants_swshdlc2costume_0",
         "iconName": "f_pants_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformdark",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_swshuniformdark_0",
+        "iconName": "f_pants_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformdefault",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_swshuniformdefault_0",
+        "iconName": "f_pants_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformdragon",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_swshuniformdragon_0",
+        "iconName": "f_pants_swshuniformdragon_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -2960,6 +3312,50 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 28",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_28",
+        "iconName": "pose_28",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 29",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_29",
+        "iconName": "pose_29",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 30",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_30",
+        "iconName": "pose_30",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 31",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_31",
+        "iconName": "pose_31",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -3004,6 +3400,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shirt Aseries",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_aseries_0",
+        "iconName": "f_shirt_aseries_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Sponsor"
     },
     {
         "name": "Shirt Backpacker",
@@ -3270,6 +3677,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Elesa",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_elesa_0",
+        "iconName": "f_shirt_elesa_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Fragment 0",
         "gender": "Female",
         "enabled": true,
@@ -3354,6 +3772,17 @@
         "enabled": true,
         "id": "f_shirt_gofest_2020_0",
         "iconName": "f_shirt_gofest_2020_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest 2021",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gofest_2021_0",
+        "iconName": "f_shirt_gofest_2021_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3507,6 +3936,28 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Holifestival2021black",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_holifestival2021black_0",
+        "iconName": "f_shirt_holifestival2021black_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Holifestival2021white",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_holifestival2021white_0",
+        "iconName": "f_shirt_holifestival2021white_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Ingress 0",
         "gender": "Female",
         "enabled": true,
@@ -3562,6 +4013,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Korrina",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_korrina_0",
+        "iconName": "f_shirt_korrina_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Latias Latios 0",
         "gender": "Female",
         "enabled": true,
@@ -3608,6 +4070,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Megalopunnyitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_megalopunnyitems_0",
+        "iconName": "f_shirt_megalopunnyitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Melmetaljacket",
         "gender": "Female",
         "enabled": true,
@@ -3624,6 +4097,17 @@
         "enabled": true,
         "id": "f_shirt_melmetalvest_0",
         "iconName": "f_shirt_melmetalvest_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Meloettatshirt",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_meloettatshirt_0",
+        "iconName": "f_shirt_meloettatshirt_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3679,6 +4163,17 @@
         "enabled": true,
         "id": "f_shirt_movie2020jessiejames_0",
         "iconName": "f_shirt_movie2020jessiejames_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Munnapack",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_munnapack_0",
+        "iconName": "f_shirt_munnapack_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3796,6 +4291,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Pkmnshirts2021 00",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_pkmnshirts2021_0",
+        "iconName": "f_shirt_pkmnshirts2021_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Pkmnshirts2021 01",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_pkmnshirts2021_1",
+        "iconName": "f_shirt_pkmnshirts2021_01_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Pkmnshirts2021 02",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_pkmnshirts2021_2",
+        "iconName": "f_shirt_pkmnshirts2021_02_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Pkmnshirts 165",
         "gender": "Female",
         "enabled": true,
@@ -3873,6 +4401,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Regiicejersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_regiicejersies_0",
+        "iconName": "f_shirt_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Regirockjersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_regirockjersies_0",
+        "iconName": "f_shirt_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Registeeljersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_registeeljersies_0",
+        "iconName": "f_shirt_registeeljersies_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Ruinmaniac",
         "gender": "Female",
         "enabled": true,
@@ -3906,11 +4467,66 @@
         "category": "Sponsor"
     },
     {
+        "name": "Shirt Shinymewtshirts",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_shinymewtshirts_0",
+        "iconName": "f_shirt_shinymewtshirts_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Slowpokeshirts",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_slowpokeshirts_0",
+        "iconName": "f_shirt_slowpokeshirts_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Slowpoketailshirts",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_slowpoketailshirts_0",
+        "iconName": "f_shirt_slowpoketailshirts_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Spiritomb 0",
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_spiritomb_0",
         "iconName": "f_shirt_spiritomb_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spring2021gulpin",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_spring2021gulpin_0",
+        "iconName": "f_shirt_spring2021gulpin_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spring2021plusle",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_spring2021plusle_0",
+        "iconName": "f_shirt_spring2021plusle_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -3933,6 +4549,50 @@
         "enabled": true,
         "id": "f_shirt_steven_0",
         "iconName": "f_shirt_steven_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanblastoise",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_sukajanblastoise_0",
+        "iconName": "f_shirt_sukajanblastoise_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajancharizard",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_sukajancharizard_0",
+        "iconName": "f_shirt_sukajancharizard_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanvenusaur",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_sukajanvenusaur_0",
+        "iconName": "f_shirt_sukajanvenusaur_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sustainability2021",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_sustainability2021_0",
+        "iconName": "f_shirt_sustainability2021_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -4024,6 +4684,50 @@
         "enabled": true,
         "id": "f_shirt_swshdlccostume_0",
         "iconName": "f_shirt_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformdark",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_swshuniformdark_0",
+        "iconName": "f_shirt_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformdefault",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_swshuniformdefault_0",
+        "iconName": "f_shirt_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformdragon",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_swshuniformdragon_0",
+        "iconName": "f_shirt_swshuniformdragon_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sylveonitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_sylveonitems_0",
+        "iconName": "f_shirt_sylveonitems_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -4640,6 +5344,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Elesa",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_elesa_0",
+        "iconName": "f_shoes_elesa_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Empty",
         "gender": "Female",
         "enabled": true,
@@ -4734,6 +5449,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Korrina",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_korrina_0",
+        "iconName": "f_shoes_korrina_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Loosepants",
         "gender": "Female",
         "enabled": true,
@@ -4783,6 +5509,17 @@
         "enabled": true,
         "id": "f_shoes_luvdiscpack_0",
         "iconName": "f_shoes_luvdiscpack_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Megalopunnyitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_megalopunnyitems_0",
+        "iconName": "f_shoes_megalopunnyitems_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -4839,6 +5576,39 @@
         "enabled": true,
         "id": "f_shoes_pikachulibre_0",
         "iconName": "f_shoes_pikachulibre_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Regiicejersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_regiicejersies_0",
+        "iconName": "f_shoes_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Regirockjersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_regirockjersies_0",
+        "iconName": "f_shoes_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Registeeljersies",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_registeeljersies_0",
+        "iconName": "f_shoes_registeeljersies_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -4927,6 +5697,50 @@
         "enabled": true,
         "id": "f_shoes_swshdlccostume_0",
         "iconName": "f_shoes_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshuniformdark",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_swshuniformdark_0",
+        "iconName": "f_shoes_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshuniformdefault",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_swshuniformdefault_0",
+        "iconName": "f_shoes_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshuniformdragon",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_swshuniformdragon_0",
+        "iconName": "f_shoes_swshuniformdragon_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sylveonitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_sylveonitems_0",
+        "iconName": "f_shoes_sylveonitems_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -5253,6 +6067,28 @@
         "category": "Socks"
     },
     {
+        "name": "Socks Swshuniformdefault",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_socks_swshuniformdefault_0",
+        "iconName": "f_socks_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks"
+    },
+    {
+        "name": "Socks Swshuniformdragon",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_socks_swshuniformdragon_0",
+        "iconName": "f_socks_swshuniformdragon_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks"
+    },
+    {
         "name": "Socks Teamaqua",
         "gender": "Female",
         "enabled": true,
@@ -5452,6 +6288,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Backpack Guitarcasebackpack",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_guitarcasebackpack_0",
+        "iconName": "m_backpack_guitarcasebackpack_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Hgss 0",
         "gender": "Male",
         "enabled": true,
@@ -5524,6 +6371,17 @@
         "enabled": true,
         "id": "m_backpack_ruinmaniac_0",
         "iconName": "m_backpack_ruinmaniac_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Snapcamera",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_snapcamera_0",
+        "iconName": "m_backpack_snapcamera_00_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -5651,6 +6509,39 @@
         "category": "Eyes"
     },
     {
+        "name": "Face 3dmask 00",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_3dmask_0",
+        "iconName": "m_face_3dmask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face 3dmask 01",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_3dmask_1",
+        "iconName": "m_face_3dmask_01_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face 3dmask 02",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_3dmask_2",
+        "iconName": "m_face_3dmask_02_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Face Banettemask",
         "gender": "Male",
         "enabled": true,
@@ -5678,6 +6569,28 @@
         "enabled": true,
         "id": "m_face_empty",
         "iconName": "m_face_empty_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Facestickerpikachu",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_facestickerpikachu_0",
+        "iconName": "m_face_facestickerpikachu_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Facestickerpokeball",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_facestickerpokeball_0",
+        "iconName": "m_face_facestickerpokeball_00_bundle_icon",
         "slot": [
             "Face"
         ],
@@ -6032,6 +6945,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Korrina",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_korrina_0",
+        "iconName": "m_gloves_korrina_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Megabangle",
         "gender": "Male",
         "enabled": true,
@@ -6092,6 +7016,39 @@
         "enabled": true,
         "id": "m_gloves_swshdlccostume_0",
         "iconName": "m_gloves_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Swshuniformdark",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_swshuniformdark_0",
+        "iconName": "m_gloves_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Swshuniformdefault",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_swshuniformdefault_0",
+        "iconName": "m_gloves_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Swshuniformdragon",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_swshuniformdragon_0",
+        "iconName": "m_gloves_swshuniformdragon_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -6396,6 +7353,28 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Aseries",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_aseries_0",
+        "iconName": "m_hat_aseries_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Sponsor"
+    },
+    {
+        "name": "Hat Bidoofhat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_bidoofhat_0",
+        "iconName": "m_hat_bidoofhat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Bwn",
         "gender": "Male",
         "enabled": true,
@@ -6533,6 +7512,17 @@
         "enabled": true,
         "id": "m_hat_eeveecap_0",
         "iconName": "m_hat_eeveecap_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Elesa",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_elesa_0",
+        "iconName": "m_hat_elesa_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -6697,6 +7687,39 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Kantotourcapgreen",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_kantotourcapgreen_0",
+        "iconName": "m_hat_kantotourcapgreen_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Kantotourcapred",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_kantotourcapred_0",
+        "iconName": "m_hat_kantotourcapred_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Korrina",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_korrina_0",
+        "iconName": "m_hat_korrina_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Litwickhat",
         "gender": "Male",
         "enabled": true,
@@ -6742,6 +7765,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Megalopunnyitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_megalopunnyitems_0",
+        "iconName": "m_hat_megalopunnyitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Meltan",
         "gender": "Male",
         "enabled": true,
@@ -6780,6 +7814,28 @@
         "enabled": true,
         "id": "m_hat_mismagius_0",
         "iconName": "m_hat_mismagius_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Munnapack 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_munnapack_0",
+        "iconName": "m_hat_munnapack_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Munnapack 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_munnapack_1",
+        "iconName": "m_hat_munnapack_01_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -6864,6 +7920,39 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Regiicejersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_regiicejersies_0",
+        "iconName": "m_hat_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Regirockjersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_regirockjersies_0",
+        "iconName": "m_hat_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Registeeljersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_registeeljersies_0",
+        "iconName": "m_hat_registeeljersies_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Ruinmaniac",
         "gender": "Male",
         "enabled": true,
@@ -6895,6 +7984,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Slowpoketailshirts",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_slowpoketailshirts_0",
+        "iconName": "m_hat_slowpoketailshirts_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Ss",
@@ -6935,6 +8035,17 @@
         "enabled": true,
         "id": "m_hat_swshdlc2costume_0",
         "iconName": "m_hat_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Sylveonitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_sylveonitems_0",
+        "iconName": "m_hat_sylveonitems_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -7174,6 +8285,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Elesa",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_elesa_0",
+        "iconName": "m_pants_elesa_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Fisher 0",
         "gender": "Male",
         "enabled": true,
@@ -7281,6 +8403,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Korrina",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_korrina_0",
+        "iconName": "m_pants_korrina_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Loosepants",
         "gender": "Male",
         "enabled": true,
@@ -7314,6 +8447,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Munnapack",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_munnapack_0",
+        "iconName": "m_pants_munnapack_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Pikachufan 0",
         "gender": "Male",
         "enabled": true,
@@ -7331,6 +8475,39 @@
         "enabled": true,
         "id": "m_pants_pikachulibre_0",
         "iconName": "m_pants_pikachulibre_0_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Regiicejersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_regiicejersies_0",
+        "iconName": "m_pants_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Regirockjersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_regirockjersies_0",
+        "iconName": "m_pants_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Registeeljersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_registeeljersies_0",
+        "iconName": "m_pants_registeeljersies_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -7452,6 +8629,39 @@
         "enabled": true,
         "id": "m_pants_swshdlc2costume_0",
         "iconName": "m_pants_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformdark",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_swshuniformdark_0",
+        "iconName": "m_pants_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformdefault",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_swshuniformdefault_0",
+        "iconName": "m_pants_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformdragon",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_swshuniformdragon_0",
+        "iconName": "m_pants_swshuniformdragon_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -7833,6 +9043,50 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 28",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_28",
+        "iconName": "pose_28",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 29",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_29",
+        "iconName": "pose_29",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 30",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_30",
+        "iconName": "pose_30",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 31",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_31",
+        "iconName": "pose_31",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -7877,6 +9131,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shirt Aseries",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_aseries_0",
+        "iconName": "m_shirt_aseries_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Sponsor"
     },
     {
         "name": "Shirt Backpacker",
@@ -8143,6 +9408,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Elesa",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_elesa_0",
+        "iconName": "m_shirt_elesa_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Fisher 0",
         "gender": "Male",
         "enabled": true,
@@ -8239,6 +9515,17 @@
         "enabled": true,
         "id": "m_shirt_gofest_2020_0",
         "iconName": "m_shirt_gofest_2020_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest 2021",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gofest_2021_0",
+        "iconName": "m_shirt_gofest_2021_0_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -8392,6 +9679,28 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Holifestival2021black",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_holifestival2021black_0",
+        "iconName": "m_shirt_holifestival2021black_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Holifestival2021white",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_holifestival2021white_0",
+        "iconName": "m_shirt_holifestival2021white_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Ingress 0",
         "gender": "Male",
         "enabled": true,
@@ -8453,6 +9762,17 @@
         "id": "m_shirt_jogger_0",
         "unlockBadgeLevel": 1000,
         "iconName": "m_shirt_jogger_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Korrina",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_korrina_0",
+        "iconName": "m_shirt_korrina_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -8571,6 +9891,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Megalopunnyitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_megalopunnyitems_0",
+        "iconName": "m_shirt_megalopunnyitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Melmetaljacket",
         "gender": "Male",
         "enabled": true,
@@ -8587,6 +9918,17 @@
         "enabled": true,
         "id": "m_shirt_melmetalvest_0",
         "iconName": "m_shirt_melmetalvest_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Meloettatshirt",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_meloettatshirt_0",
+        "iconName": "m_shirt_meloettatshirt_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -8631,6 +9973,17 @@
         "enabled": true,
         "id": "m_shirt_movie2020jessiejames_0",
         "iconName": "m_shirt_movie2020jessiejames_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Munnapack",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_munnapack_0",
+        "iconName": "m_shirt_munnapack_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -8748,6 +10101,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Pkmnshirts2021 00",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_pkmnshirts2021_0",
+        "iconName": "m_shirt_pkmnshirts2021_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Pkmnshirts2021 01",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_pkmnshirts2021_1",
+        "iconName": "m_shirt_pkmnshirts2021_01_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Pkmnshirts2021 02",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_pkmnshirts2021_2",
+        "iconName": "m_shirt_pkmnshirts2021_02_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Pkmnshirts 165",
         "gender": "Male",
         "enabled": true,
@@ -8825,6 +10211,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Regiicejersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_regiicejersies_0",
+        "iconName": "m_shirt_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Regirockjersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_regirockjersies_0",
+        "iconName": "m_shirt_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Registeeljersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_registeeljersies_0",
+        "iconName": "m_shirt_registeeljersies_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Ruinmaniac",
         "gender": "Male",
         "enabled": true,
@@ -8858,11 +10277,66 @@
         "category": "Sponsor"
     },
     {
+        "name": "Shirt Shinymewtshirts",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_shinymewtshirts_0",
+        "iconName": "m_shirt_shinymewtshirts_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Slowpokeshirts",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_slowpokeshirts_0",
+        "iconName": "m_shirt_slowpokeshirts_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Slowpoketailshirts",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_slowpoketailshirts_0",
+        "iconName": "m_shirt_slowpoketailshirts_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Spiritomb 0",
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_spiritomb_0",
         "iconName": "m_shirt_spiritomb_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spring2021gulpin",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_spring2021gulpin_0",
+        "iconName": "m_shirt_spring2021gulpin_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Spring2021plusle",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_spring2021plusle_0",
+        "iconName": "m_shirt_spring2021plusle_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -8885,6 +10359,50 @@
         "enabled": true,
         "id": "m_shirt_steven_0",
         "iconName": "m_shirt_steven_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanblastoise",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_sukajanblastoise_0",
+        "iconName": "m_shirt_sukajanblastoise_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajancharizard",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_sukajancharizard_0",
+        "iconName": "m_shirt_sukajancharizard_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanvenusaur",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_sukajanvenusaur_0",
+        "iconName": "m_shirt_sukajanvenusaur_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sustainability2021",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_sustainability2021_0",
+        "iconName": "m_shirt_sustainability2021_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -9006,6 +10524,50 @@
         "enabled": true,
         "id": "m_shirt_swshdlccostume_0",
         "iconName": "m_shirt_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformdark",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_swshuniformdark_0",
+        "iconName": "m_shirt_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformdefault",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_swshuniformdefault_0",
+        "iconName": "m_shirt_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformdragon",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_swshuniformdragon_0",
+        "iconName": "m_shirt_swshuniformdragon_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sylveonitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_sylveonitems_0",
+        "iconName": "m_shirt_sylveonitems_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -9515,6 +11077,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Elesa",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_elesa_0",
+        "iconName": "m_shoes_elesa_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Empty",
         "gender": "Male",
         "enabled": true,
@@ -9633,6 +11206,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Korrina",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_korrina_0",
+        "iconName": "m_shoes_korrina_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Loosepants",
         "gender": "Male",
         "enabled": true,
@@ -9688,6 +11272,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Megalopunnyitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_megalopunnyitems_0",
+        "iconName": "m_shoes_megalopunnyitems_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Melmetalshoes",
         "gender": "Male",
         "enabled": true,
@@ -9727,6 +11322,39 @@
         "enabled": true,
         "id": "m_shoes_pikachulibre_0",
         "iconName": "m_shoes_pikachulibre_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Regiicejersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_regiicejersies_0",
+        "iconName": "m_shoes_regiicejersies_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Regirockjersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_regirockjersies_0",
+        "iconName": "m_shoes_regirockjersies_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Registeeljersies",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_registeeljersies_0",
+        "iconName": "m_shoes_registeeljersies_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -9815,6 +11443,50 @@
         "enabled": true,
         "id": "m_shoes_swshdlccostume_0",
         "iconName": "m_shoes_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshuniformdark",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_swshuniformdark_0",
+        "iconName": "m_shoes_swshuniformdark_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshuniformdefault",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_swshuniformdefault_0",
+        "iconName": "m_shoes_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Swshuniformdragon",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_swshuniformdragon_0",
+        "iconName": "m_shoes_swshuniformdragon_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Sylveonitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_sylveonitems_0",
+        "iconName": "m_shoes_sylveonitems_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -10134,6 +11806,28 @@
         "enabled": true,
         "id": "m_socks_empty",
         "iconName": "m_socks_empty_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks"
+    },
+    {
+        "name": "Socks Swshuniformdefault",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_socks_swshuniformdefault_0",
+        "iconName": "m_socks_swshuniformdefault_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Socks"
+    },
+    {
+        "name": "Socks Swshuniformdragon",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_socks_swshuniformdragon_0",
+        "iconName": "m_socks_swshuniformdragon_00_bundle_icon",
         "slot": [
             "Socks"
         ],

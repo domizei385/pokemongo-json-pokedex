@@ -40,8 +40,10 @@ export abstract class Pipeline implements IPipeline {
   abstract isItemTemplate(item: Data): boolean;
 
   Parse(): Data[] {
-    if (!this.input.template) {console.log("template.parse", this.input);}
-    return this.input.template
+    if (!this.input) {
+      console.log("Missing Input", this.input);
+    }
+    return this.input
         .filter(p => this.isItemTemplate(p))
         .map(p => {
          if (!p.data.templateId) {

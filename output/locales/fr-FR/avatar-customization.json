@@ -28,6 +28,7 @@
     "f_backpack_genesecteventitem_0": {},
     "f_backpack_gengar_0": {},
     "f_backpack_guccibackpack_0": {},
+    "f_backpack_guitarcasebackpack_0": {},
     "f_backpack_hgss_0": {
         "name": "Sac Johto"
     },
@@ -37,6 +38,7 @@
     "f_backpack_pkmnhoodie004": {},
     "f_backpack_pkmnhoodie007": {},
     "f_backpack_ruinmaniac_0": {},
+    "f_backpack_snapcamera_0": {},
     "f_backpack_ss_0": {},
     "f_backpack_swshdlc2costume_0": {},
     "f_backpack_swshdlccostume_0": {},
@@ -97,9 +99,14 @@
     "f_eyes_2": {},
     "f_eyes_3": {},
     "f_eyes_4": {},
+    "f_face_3dmask_0": {},
+    "f_face_3dmask_1": {},
+    "f_face_3dmask_2": {},
     "f_face_banettemask_0": {},
     "f_face_defaultmask_0": {},
     "f_face_empty": {},
+    "f_face_facestickerpikachu_0": {},
+    "f_face_facestickerpokeball_0": {},
     "f_face_pikachumask_0": {},
     "f_face_sableyemask_0": {},
     "f_face_verizon2020mask_0": {},
@@ -166,12 +173,16 @@
     "f_gloves_gymleader_0": {
         "name": "Gants de Championne d’Arène"
     },
+    "f_gloves_korrina_0": {},
     "f_gloves_megabangle_0": {},
     "f_gloves_megabangleblue_0": {},
     "f_gloves_megabanglered_0": {},
     "f_gloves_megabangleyellow_0": {},
     "f_gloves_swshdlc2costume_0": {},
     "f_gloves_swshdlccostume_0": {},
+    "f_gloves_swshuniformdark_0": {},
+    "f_gloves_swshuniformdefault_0": {},
+    "f_gloves_swshuniformdragon_0": {},
     "f_gloves_teamaqua_0": {},
     "f_gloves_teammagma_0": {},
     "f_gloves_teamrocket_0": {
@@ -203,6 +214,8 @@
     "f_hat_adventure_0": {
         "name": "Chapeau d’expédition"
     },
+    "f_hat_aseries_0": {},
+    "f_hat_bidoofhat_0": {},
     "f_hat_bwn_0": {},
     "f_hat_casket_0": {
         "name": "Casquette gavroche"
@@ -220,6 +233,7 @@
     "f_hat_detectivepikachu_0": {},
     "f_hat_drifloon_0": {},
     "f_hat_eeveecap_0": {},
+    "f_hat_elesa_0": {},
     "f_hat_empty": {
         "name": "Aucun chapeau"
     },
@@ -242,23 +256,29 @@
         "name": "Casquette Johto"
     },
     "f_hat_holidaybeanie_0": {},
+    "f_hat_kantotourcapgreen_0": {},
+    "f_hat_kantotourcapred_0": {},
     "f_hat_knitted_0": {
         "name": "Bonnet de laine"
     },
     "f_hat_knitted_1": {
         "name": "Bonnet de laine"
     },
+    "f_hat_korrina_0": {},
     "f_hat_litwickhat_0": {},
     "f_hat_loneearrings_0": {},
     "f_hat_lvl50cap_0": {},
     "f_hat_magikarp": {
         "name": "Bonnet Magicarpe"
     },
+    "f_hat_megalopunnyitems_0": {},
     "f_hat_meltan_0": {},
     "f_hat_meltanearrings_0": {},
     "f_hat_mewtwo_0": {},
     "f_hat_mimikyu_0": {},
     "f_hat_mismagius_0": {},
+    "f_hat_munnapack_0": {},
+    "f_hat_munnapack_1": {},
     "f_hat_newyearhat2021_0": {},
     "f_hat_pikachucap_0": {},
     "f_hat_pikachufan_0": {
@@ -268,13 +288,18 @@
     "f_hat_pkmncap_0": {},
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
+    "f_hat_regiicejersies_0": {},
+    "f_hat_regirockjersies_0": {},
+    "f_hat_registeeljersies_0": {},
     "f_hat_ruinmaniac_0": {},
     "f_hat_sableyegoggles_0": {},
     "f_hat_samsungsummer2020_0": {},
+    "f_hat_slowpoketailshirts_0": {},
     "f_hat_ss_0": {},
     "f_hat_stantlerheadband_0": {},
     "f_hat_strawhat_0": {},
     "f_hat_swshdlc2costume_0": {},
+    "f_hat_sylveonitems_0": {},
     "f_hat_teamaqua_0": {},
     "f_hat_teamleadercap_0": {},
     "f_hat_teamleadercap_1": {},
@@ -375,6 +400,7 @@
         "name": "Jupe avec vague"
     },
     "f_pants_misty_0": {},
+    "f_pants_munnapack_0": {},
     "f_pants_neon_solid_0": {
         "name": "Leggings fluos"
     },
@@ -394,6 +420,9 @@
         "name": "Short Fan de Pikachu"
     },
     "f_pants_pikachulibre_0": {},
+    "f_pants_regiicejersies_0": {},
+    "f_pants_regirockjersies_0": {},
+    "f_pants_registeeljersies_0": {},
     "f_pants_shorts_0": {
         "name": "Short de course"
     },
@@ -411,6 +440,9 @@
     },
     "f_pants_steven_0": {},
     "f_pants_swshdlc2costume_0": {},
+    "f_pants_swshuniformdark_0": {},
+    "f_pants_swshuniformdefault_0": {},
+    "f_pants_swshuniformdragon_0": {},
     "f_pants_teamaqua_0": {},
     "f_pants_teamblanche_0": {},
     "f_pants_teamcandela_0": {},
@@ -457,10 +489,15 @@
     "pose_25": {},
     "pose_26": {},
     "pose_27": {},
+    "pose_28": {},
+    "pose_29": {},
+    "pose_30": {},
+    "pose_31": {},
     "pose_empty": {},
     "f_shirt_acetrainerbw_0": {},
     "f_shirt_acetrainersm_0": {},
     "f_shirt_animegou_0": {},
+    "f_shirt_aseries_0": {},
     "f_shirt_backpacker_0": {},
     "f_shirt_battlegirl_0": {
         "name": "Débardeur de combattante"
@@ -511,6 +548,7 @@
     "f_shirt_earthday_2018": {
         "name": "T-shirt surf Blue"
     },
+    "f_shirt_elesa_0": {},
     "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "Haut Vert Feuille"
@@ -521,6 +559,7 @@
     "f_shirt_giovanni_0": {},
     "f_shirt_gofest_2019": {},
     "f_shirt_gofest_2020_0": {},
+    "f_shirt_gofest_2021_0": {},
     "f_shirt_goteamrocketarlo_0": {},
     "f_shirt_goteamrocketcliff_0": {},
     "f_shirt_goteamrocketsierra_0": {},
@@ -542,19 +581,24 @@
     "f_shirt_hgss_0": {
         "name": "Haut Johto"
     },
+    "f_shirt_holifestival2021black_0": {},
+    "f_shirt_holifestival2021white_0": {},
     "f_shirt_ingress_0": {},
     "f_shirt_ingress_e_0": {},
     "f_shirt_ingress_r_0": {},
     "f_shirt_jessie_0": {},
     "f_shirt_jirachi_0": {},
+    "f_shirt_korrina_0": {},
     "f_shirt_latias_latios_0": {
         "name": "T-shirt Latias et Latios"
     },
     "f_shirt_luvdiscpack_0": {},
     "f_shirt_lvl50_0": {},
     "f_shirt_lvl50_1": {},
+    "f_shirt_megalopunnyitems_0": {},
     "f_shirt_melmetaljacket_0": {},
     "f_shirt_melmetalvest_0": {},
+    "f_shirt_meloettatshirt_0": {},
     "f_shirt_meltan_0": {},
     "f_shirt_mew_0": {
         "name": "T-shirt Mew"
@@ -562,6 +606,7 @@
     "f_shirt_mewtwo_0": {},
     "f_shirt_misty_0": {},
     "f_shirt_movie2020jessiejames_0": {},
+    "f_shirt_munnapack_0": {},
     "f_shirt_ocshirt_045": {},
     "f_shirt_ocshirt_108": {},
     "f_shirt_ocshirt_129": {},
@@ -574,6 +619,9 @@
     "f_shirt_pkmnhoodie001": {},
     "f_shirt_pkmnhoodie004": {},
     "f_shirt_pkmnhoodie007": {},
+    "f_shirt_pkmnshirts2021_0": {},
+    "f_shirt_pkmnshirts2021_1": {},
+    "f_shirt_pkmnshirts2021_2": {},
     "f_shirt_pkmnshirts_165": {},
     "f_shirt_pkmnshirts_188": {},
     "f_shirt_pkmnshirts_201": {},
@@ -581,12 +629,24 @@
     "f_shirt_poloshirt_0": {},
     "f_shirt_poloshirt_1": {},
     "f_shirt_poloshirt_2": {},
+    "f_shirt_regiicejersies_0": {},
+    "f_shirt_regirockjersies_0": {},
+    "f_shirt_registeeljersies_0": {},
     "f_shirt_ruinmaniac_0": {},
     "f_shirt_safarizone2020_0": {},
     "f_shirt_samsungsummer2020_0": {},
+    "f_shirt_shinymewtshirts_0": {},
+    "f_shirt_slowpokeshirts_0": {},
+    "f_shirt_slowpoketailshirts_0": {},
     "f_shirt_spiritomb_0": {},
+    "f_shirt_spring2021gulpin_0": {},
+    "f_shirt_spring2021plusle_0": {},
     "f_shirt_ss_0": {},
     "f_shirt_steven_0": {},
+    "f_shirt_sukajanblastoise_0": {},
+    "f_shirt_sukajancharizard_0": {},
+    "f_shirt_sukajanvenusaur_0": {},
+    "f_shirt_sustainability2021_0": {},
     "f_shirt_sweater_30_0": {
         "name": "Col roulé 30"
     },
@@ -607,6 +667,10 @@
     },
     "f_shirt_swshdlc2costume_0": {},
     "f_shirt_swshdlccostume_0": {},
+    "f_shirt_swshuniformdark_0": {},
+    "f_shirt_swshuniformdefault_0": {},
+    "f_shirt_swshuniformdragon_0": {},
+    "f_shirt_sylveonitems_0": {},
     "f_shirt_tanktop_0": {
         "name": "Débardeur de Dresseuse"
     },
@@ -722,6 +786,7 @@
         "name": "Chaussures de course"
     },
     "f_shoes_delibird_0": {},
+    "f_shoes_elesa_0": {},
     "f_shoes_empty": {
         "name": "Aucunes chaussures"
     },
@@ -742,11 +807,13 @@
     "f_shoes_hgss_0": {
         "name": "Chaussures Johto"
     },
+    "f_shoes_korrina_0": {},
     "f_shoes_loosepants_0": {},
     "f_shoes_loosepants_1": {},
     "f_shoes_loosepants_2": {},
     "f_shoes_loosepants_3": {},
     "f_shoes_luvdiscpack_0": {},
+    "f_shoes_megalopunnyitems_0": {},
     "f_shoes_melmetalshoes_0": {},
     "f_shoes_mewtwo_0": {},
     "f_shoes_misty_0": {},
@@ -754,6 +821,9 @@
         "name": "Chaussures Fan de Pikachu"
     },
     "f_shoes_pikachulibre_0": {},
+    "f_shoes_regiicejersies_0": {},
+    "f_shoes_regirockjersies_0": {},
+    "f_shoes_registeeljersies_0": {},
     "f_shoes_ruinmaniac_0": {},
     "f_shoes_sandals_0": {},
     "f_shoes_sandals_1": {},
@@ -762,6 +832,10 @@
     "f_shoes_steven_0": {},
     "f_shoes_swshdlc2costume_0": {},
     "f_shoes_swshdlccostume_0": {},
+    "f_shoes_swshuniformdark_0": {},
+    "f_shoes_swshuniformdefault_0": {},
+    "f_shoes_swshuniformdragon_0": {},
+    "f_shoes_sylveonitems_0": {},
     "f_shoes_teamaqua_0": {},
     "f_shoes_teamblanche_0": {},
     "f_shoes_teamcandela_0": {},
@@ -806,6 +880,8 @@
     "f_socks_hgss_0": {
         "name": "Chaussettes Johto"
     },
+    "f_socks_swshuniformdefault_0": {},
+    "f_socks_swshuniformdragon_0": {},
     "f_socks_teamaqua_0": {},
     "f_socks_thighhighs_0": {
         "name": "Jambières en laine"
@@ -842,6 +918,7 @@
     "m_backpack_genesecteventitem_0": {},
     "m_backpack_gengar_0": {},
     "m_backpack_guccibackpack_0": {},
+    "m_backpack_guitarcasebackpack_0": {},
     "m_backpack_hgss_0": {
         "name": "Sac Johto"
     },
@@ -851,6 +928,7 @@
     "m_backpack_pkmnhoodie004": {},
     "m_backpack_pkmnhoodie007": {},
     "m_backpack_ruinmaniac_0": {},
+    "m_backpack_snapcamera_0": {},
     "m_backpack_ss_0": {},
     "m_backpack_swshdlc2costume_0": {},
     "m_backpack_swshdlccostume_0": {},
@@ -862,9 +940,14 @@
     "m_eyes_2": {},
     "m_eyes_3": {},
     "m_eyes_4": {},
+    "m_face_3dmask_0": {},
+    "m_face_3dmask_1": {},
+    "m_face_3dmask_2": {},
     "m_face_banettemask_0": {},
     "m_face_defaultmask_0": {},
     "m_face_empty": {},
+    "m_face_facestickerpikachu_0": {},
+    "m_face_facestickerpokeball_0": {},
     "m_face_pikachumask_0": {},
     "m_face_sableyemask_0": {},
     "m_face_verizon2020mask_0": {},
@@ -932,12 +1015,16 @@
     "m_gloves_jogger": {
         "name": "Montre de joggeur"
     },
+    "m_gloves_korrina_0": {},
     "m_gloves_megabangle_0": {},
     "m_gloves_megabangleblue_0": {},
     "m_gloves_megabanglered_0": {},
     "m_gloves_megabangleyellow_0": {},
     "m_gloves_swshdlc2costume_0": {},
     "m_gloves_swshdlccostume_0": {},
+    "m_gloves_swshuniformdark_0": {},
+    "m_gloves_swshuniformdefault_0": {},
+    "m_gloves_swshuniformdragon_0": {},
     "m_gloves_teamaqua_0": {},
     "m_gloves_teammagma_0": {},
     "m_gloves_teamrocket_0": {
@@ -969,6 +1056,8 @@
     "m_hat_adventure_0": {
         "name": "Chapeau d’expédition"
     },
+    "m_hat_aseries_0": {},
+    "m_hat_bidoofhat_0": {},
     "m_hat_bwn_0": {},
     "m_hat_casket_0": {
         "name": "Casquette gavroche"
@@ -996,6 +1085,7 @@
     "m_hat_detectivepikachu_0": {},
     "m_hat_drifloon_0": {},
     "m_hat_eeveecap_0": {},
+    "m_hat_elesa_0": {},
     "m_hat_empty": {
         "name": "Aucun chapeau"
     },
@@ -1024,16 +1114,22 @@
     "m_hat_jogger_0": {
         "name": "Visière de joggeur"
     },
+    "m_hat_kantotourcapgreen_0": {},
+    "m_hat_kantotourcapred_0": {},
+    "m_hat_korrina_0": {},
     "m_hat_litwickhat_0": {},
     "m_hat_loneearrings_0": {},
     "m_hat_lvl50cap_0": {},
     "m_hat_magikarp": {
         "name": "Bonnet Magicarpe"
     },
+    "m_hat_megalopunnyitems_0": {},
     "m_hat_meltan_0": {},
     "m_hat_mewtwo_0": {},
     "m_hat_mimikyu_0": {},
     "m_hat_mismagius_0": {},
+    "m_hat_munnapack_0": {},
+    "m_hat_munnapack_1": {},
     "m_hat_newyearhat2021_0": {},
     "m_hat_pikachucap_0": {},
     "m_hat_pikachufan_0": {
@@ -1043,13 +1139,18 @@
     "m_hat_pkmncap_0": {},
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
+    "m_hat_regiicejersies_0": {},
+    "m_hat_regirockjersies_0": {},
+    "m_hat_registeeljersies_0": {},
     "m_hat_ruinmaniac_0": {},
     "m_hat_sableyegoggles_0": {},
     "m_hat_samsungsummer2020_0": {},
+    "m_hat_slowpoketailshirts_0": {},
     "m_hat_ss_0": {},
     "m_hat_stantlerheadband_0": {},
     "m_hat_strawhat_0": {},
     "m_hat_swshdlc2costume_0": {},
+    "m_hat_sylveonitems_0": {},
     "m_hat_teamaqua_0": {},
     "m_hat_teamleadercap_0": {},
     "m_hat_teamleadercap_1": {},
@@ -1077,6 +1178,7 @@
     "m_pants_default_0": {
         "name": "Short de Dresseur"
     },
+    "m_pants_elesa_0": {},
     "m_pants_fisher_0": {
         "name": "Pantalon de pêcheur"
     },
@@ -1100,13 +1202,18 @@
     "m_pants_jogger_0": {
         "name": "Short de joggeur"
     },
+    "m_pants_korrina_0": {},
     "m_pants_loosepants_0": {},
     "m_pants_luvdiscpack_0": {},
     "m_pants_mewtwo_0": {},
+    "m_pants_munnapack_0": {},
     "m_pants_pikachufan_0": {
         "name": "Short Fan de Pikachu"
     },
     "m_pants_pikachulibre_0": {},
+    "m_pants_regiicejersies_0": {},
+    "m_pants_regirockjersies_0": {},
+    "m_pants_registeeljersies_0": {},
     "m_pants_skinnyjeans_0": {
         "name": "Jean stretch"
     },
@@ -1134,6 +1241,9 @@
         "name": "Pantalon de jogging"
     },
     "m_pants_swshdlc2costume_0": {},
+    "m_pants_swshuniformdark_0": {},
+    "m_pants_swshuniformdefault_0": {},
+    "m_pants_swshuniformdragon_0": {},
     "m_pants_teamaqua_0": {},
     "m_pants_teamblanche_0": {},
     "m_pants_teamcandela_0": {},
@@ -1147,6 +1257,7 @@
     "m_shirt_acetrainerbw_0": {},
     "m_shirt_acetrainersm_0": {},
     "m_shirt_animegou_0": {},
+    "m_shirt_aseries_0": {},
     "m_shirt_backpacker_0": {},
     "m_shirt_blazer_0": {
         "name": "Veste de costume"
@@ -1195,6 +1306,7 @@
     "m_shirt_earthday_2018": {
         "name": "T-shirt surf Blue"
     },
+    "m_shirt_elesa_0": {},
     "m_shirt_fisher_0": {
         "name": "Gilet de pêcheur"
     },
@@ -1208,6 +1320,7 @@
     "m_shirt_giovanni_0": {},
     "m_shirt_gofest_2019": {},
     "m_shirt_gofest_2020_0": {},
+    "m_shirt_gofest_2021_0": {},
     "m_shirt_goteamrocketarlo_0": {},
     "m_shirt_goteamrocketcliff_0": {},
     "m_shirt_goteamrocketsierra_0": {},
@@ -1229,6 +1342,8 @@
     "m_shirt_hgss_0": {
         "name": "Haut Johto"
     },
+    "m_shirt_holifestival2021black_0": {},
+    "m_shirt_holifestival2021white_0": {},
     "m_shirt_ingress_0": {},
     "m_shirt_ingress_e_0": {},
     "m_shirt_ingress_r_0": {},
@@ -1237,6 +1352,7 @@
     "m_shirt_jogger_0": {
         "name": "Débardeur de joggeur"
     },
+    "m_shirt_korrina_0": {},
     "m_shirt_latias_latios_0": {
         "name": "T-shirt Latias et Latios"
     },
@@ -1261,14 +1377,17 @@
     "m_shirt_luvdiscpack_0": {},
     "m_shirt_lvl50_0": {},
     "m_shirt_lvl50_1": {},
+    "m_shirt_megalopunnyitems_0": {},
     "m_shirt_melmetaljacket_0": {},
     "m_shirt_melmetalvest_0": {},
+    "m_shirt_meloettatshirt_0": {},
     "m_shirt_meltan_0": {},
     "m_shirt_mew_0": {
         "name": "T-shirt Mew"
     },
     "m_shirt_mewtwo_0": {},
     "m_shirt_movie2020jessiejames_0": {},
+    "m_shirt_munnapack_0": {},
     "m_shirt_ocshirt_045": {},
     "m_shirt_ocshirt_108": {},
     "m_shirt_ocshirt_129": {},
@@ -1281,6 +1400,9 @@
     "m_shirt_pkmnhoodie001": {},
     "m_shirt_pkmnhoodie004": {},
     "m_shirt_pkmnhoodie007": {},
+    "m_shirt_pkmnshirts2021_0": {},
+    "m_shirt_pkmnshirts2021_1": {},
+    "m_shirt_pkmnshirts2021_2": {},
     "m_shirt_pkmnshirts_165": {},
     "m_shirt_pkmnshirts_188": {},
     "m_shirt_pkmnshirts_201": {},
@@ -1288,12 +1410,24 @@
     "m_shirt_poloshirt_0": {},
     "m_shirt_poloshirt_1": {},
     "m_shirt_poloshirt_2": {},
+    "m_shirt_regiicejersies_0": {},
+    "m_shirt_regirockjersies_0": {},
+    "m_shirt_registeeljersies_0": {},
     "m_shirt_ruinmaniac_0": {},
     "m_shirt_safarizone2020_0": {},
     "m_shirt_samsungsummer2020_0": {},
+    "m_shirt_shinymewtshirts_0": {},
+    "m_shirt_slowpokeshirts_0": {},
+    "m_shirt_slowpoketailshirts_0": {},
     "m_shirt_spiritomb_0": {},
+    "m_shirt_spring2021gulpin_0": {},
+    "m_shirt_spring2021plusle_0": {},
     "m_shirt_ss_0": {},
     "m_shirt_steven_0": {},
+    "m_shirt_sukajanblastoise_0": {},
+    "m_shirt_sukajancharizard_0": {},
+    "m_shirt_sukajanvenusaur_0": {},
+    "m_shirt_sustainability2021_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "Sweat de sport"
     },
@@ -1323,6 +1457,10 @@
     },
     "m_shirt_swshdlc2costume_0": {},
     "m_shirt_swshdlccostume_0": {},
+    "m_shirt_swshuniformdark_0": {},
+    "m_shirt_swshuniformdefault_0": {},
+    "m_shirt_swshuniformdragon_0": {},
+    "m_shirt_sylveonitems_0": {},
     "m_shirt_teamaqua_0": {},
     "m_shirt_teamblanche_0": {},
     "m_shirt_teamcandela_0": {},
@@ -1406,6 +1544,7 @@
         "name": "Chaussures de course"
     },
     "m_shoes_delibird_0": {},
+    "m_shoes_elesa_0": {},
     "m_shoes_empty": {
         "name": "Aucunes chaussures"
     },
@@ -1432,17 +1571,22 @@
     "m_shoes_jogger_0": {
         "name": "Chaussures de joggeur"
     },
+    "m_shoes_korrina_0": {},
     "m_shoes_loosepants_0": {},
     "m_shoes_loosepants_1": {},
     "m_shoes_loosepants_2": {},
     "m_shoes_loosepants_3": {},
     "m_shoes_luvdiscpack_0": {},
+    "m_shoes_megalopunnyitems_0": {},
     "m_shoes_melmetalshoes_0": {},
     "m_shoes_mewtwo_0": {},
     "m_shoes_pikachufan_0": {
         "name": "Chaussures Fan de Pikachu"
     },
     "m_shoes_pikachulibre_0": {},
+    "m_shoes_regiicejersies_0": {},
+    "m_shoes_regirockjersies_0": {},
+    "m_shoes_registeeljersies_0": {},
     "m_shoes_ruinmaniac_0": {},
     "m_shoes_sandals_0": {},
     "m_shoes_sandals_1": {},
@@ -1451,6 +1595,10 @@
     "m_shoes_steven_0": {},
     "m_shoes_swshdlc2costume_0": {},
     "m_shoes_swshdlccostume_0": {},
+    "m_shoes_swshuniformdark_0": {},
+    "m_shoes_swshuniformdefault_0": {},
+    "m_shoes_swshuniformdragon_0": {},
+    "m_shoes_sylveonitems_0": {},
     "m_shoes_teamaqua_0": {},
     "m_shoes_teamblanche_0": {},
     "m_shoes_teamcandela_0": {},
@@ -1494,5 +1642,7 @@
     },
     "m_socks_empty": {
         "name": "Aucun legging"
-    }
+    },
+    "m_socks_swshuniformdefault_0": {},
+    "m_socks_swshuniformdragon_0": {}
 }
