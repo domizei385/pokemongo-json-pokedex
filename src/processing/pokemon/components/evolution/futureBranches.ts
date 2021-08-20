@@ -34,7 +34,7 @@ export class FutureBranches implements IComponent {
    * @param pokemonId The id of the pokemon
    */
   private GetFutureRawEvolutions(pokemon: Data): Data[] {
-    return (pokemon.pokemon.evolutionBranch || []).map(branch => {
+    return (pokemon.pokemonSettings.evolutionBranch || []).map(branch => {
       const pokemonId = getPokemonIdByEvolutionBranch(branch);
       const rawPokemon = this.GetRawPokemonById(pokemonId)
       return rawPokemon;
@@ -47,7 +47,7 @@ export class FutureBranches implements IComponent {
    * @param rawPokemon The GAME_MASTER provided raw pokemon of the lower evolution branch
    */
   private GetEvolutionCost(futurePokemonId: string, rawPokemon: Data): EvolutionCostToEvolve {
-    const evolutionBranch = (rawPokemon.pokemon.evolutionBranch || [])
+    const evolutionBranch = (rawPokemon.pokemonSettings.evolutionBranch || [])
         .find(branch => getPokemonIdByEvolutionBranch(branch) === futurePokemonId);
 
     // If no evolution is found, just return nothing

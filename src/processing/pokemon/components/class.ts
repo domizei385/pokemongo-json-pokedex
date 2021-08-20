@@ -8,10 +8,10 @@ import { Util } from '@util';
 })
 export class PokemonClass implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
-    if (rawPokemon.pokemon.pokemonClass) {
+    if (rawPokemon.pokemonSettings.pokemonClass) {
       pokemon.pokemonClass = {
-        id: rawPokemon.pokemon.pokemonClass,
-        name: Util.SnakeCase2HumanReadable(rawPokemon.pokemon.pokemonClass
+        id: rawPokemon.pokemonSettings.pokemonClass,
+        name: Util.SnakeCase2HumanReadable(rawPokemon.pokemonSettings.pokemonClass
             .replace('POKEMON_RARITY_', ''))
       };
     }

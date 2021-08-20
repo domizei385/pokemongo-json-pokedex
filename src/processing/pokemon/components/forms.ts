@@ -30,7 +30,7 @@ export class Forms implements IComponent {
     const dex = parseInt(rawPokemon.templateId.split('_')[0].slice(1), 10);
     const dexString = leftPad(dex, 4, '0');
 
-    const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemon.uniqueId}`;
+    const formKey = `FORMS_V${dexString}_POKEMON_${rawPokemon.pokemonSettings.uniqueId}`;
 
     const itemTemplate = (gameMaster || [])
         .find(itemTemplate => {

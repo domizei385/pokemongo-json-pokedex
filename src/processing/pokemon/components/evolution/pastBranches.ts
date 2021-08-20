@@ -45,7 +45,7 @@ export class PastBranches implements IComponent {
    */
   private GetPreviousRawEvolution(pokemonId: string): Data {
     return this.rawPokemons.find(item =>
-        (item.pokemon.evolutionBranch || [])
+        (item.pokemonSettings.evolutionBranch || [])
             .some(evolution => getPokemonIdByEvolutionBranch(evolution) === pokemonId)
     )
   }
@@ -57,7 +57,7 @@ export class PastBranches implements IComponent {
    */
   private GetEvolutionCost(pokemonId: string, rawPokemon: Data): EvolutionCostToEvolve {
     if (!rawPokemon) return undefined;
-    const evolutionBranch = rawPokemon.pokemon.evolutionBranch
+    const evolutionBranch = rawPokemon.pokemonSettings.evolutionBranch
         .find(evolution => getPokemonIdByEvolutionBranch(evolution) === pokemonId);
 
     // Make evolutionItemRequirement to Identifyable

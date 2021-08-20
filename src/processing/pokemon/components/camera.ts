@@ -8,10 +8,10 @@ import { Pokemon } from '@outcome/pokemon';
 export class Types implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.camera = {
-      cylHeight: rawPokemon.pokemon.camera.cylHeightM,
-      cylRadius: rawPokemon.pokemon.camera.cylRadiusM,
-      diskRadius: rawPokemon.pokemon.camera.diskRadiusM,
-      shoulderModeScale: rawPokemon.pokemon.camera.shoulderModeScale
+      cylHeight: rawPokemon.pokemonSettings.camera.cylHeightM,
+      cylRadius: rawPokemon.pokemonSettings.camera.cylRadiusM,
+      diskRadius: rawPokemon.pokemonSettings.camera.diskRadiusM,
+      shoulderModeScale: rawPokemon.pokemonSettings.camera.shoulderModeScale
     };
 
     return pokemon;

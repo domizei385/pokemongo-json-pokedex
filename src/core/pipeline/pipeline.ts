@@ -138,14 +138,15 @@ export abstract class Pipeline implements IPipeline {
     this.resolveDependencyResolution();
     let output = [];
     await forEachSeries(this.sortedComponents, async component => {
-      // console.log("Run", component.id);
-      let additionalInput = (component.settings.requiresGameMaster ? {'gameMaster': this.input.template.map(s => s.data)} : {}) as Map<String, any>
+      //console.log("Run", component.id);
+      let additionalInput = (component.settings.requiresGameMaster ? {'gameMaster': this.input.map(s => s.data)} : {}) as Map<String, any>
       if (component.settings.type === ComponentType.SIMPLE_MAP) {
         output = await this.processSimpleMapComponent(component, output, additionalInput);
       } else if (component.settings.type === ComponentType.ADVANCED_MAP) {
         output = await this.process(component, output, this.parsedInput, additionalInput);
       }
     });
+    console.log("Output : " + output);
     return output;
   }
 }

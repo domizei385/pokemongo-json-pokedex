@@ -10,18 +10,18 @@ export class Types implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.types = [];
 
-    if (rawPokemon.pokemon.type1) {
+    if (rawPokemon.pokemonSettings.type1) {
       pokemon.types.push({
-        id: rawPokemon.pokemon.type1,
-        name: Util.SnakeCase2HumanReadable(rawPokemon.pokemon.type1
+        id: rawPokemon.pokemonSettings.type1,
+        name: Util.SnakeCase2HumanReadable(rawPokemon.pokemonSettings.type1
             .replace('POKEMON_TYPE_', ''))
       });
     }
 
-    if (rawPokemon.pokemon.type2) {
+    if (rawPokemon.pokemonSettings.type2) {
       pokemon.types.push({
-        id: rawPokemon.pokemon.type2,
-        name: Util.SnakeCase2HumanReadable(rawPokemon.pokemon.type2.replace('POKEMON_TYPE_', ''))
+        id: rawPokemon.pokemonSettings.type2,
+        name: Util.SnakeCase2HumanReadable(rawPokemon.pokemonSettings.type2.replace('POKEMON_TYPE_', ''))
       });
     }
     return pokemon;

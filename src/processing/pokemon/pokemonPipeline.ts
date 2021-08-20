@@ -38,13 +38,13 @@ export class PokemonPipeline extends Pipeline {
     console.log('Pokemon count: ');
     console.log(pokemonData.length);
     // Handle special game master files
-    const specialInputs = await map(this.specialMasterFiles, input => (input.template || []).filter(p => this.isItemTemplate(p)));
+    const specialInputs = await map(this.specialMasterFiles, input => (input.pokemonSettings || []).filter(p => this.isItemTemplate(p)));
     const legacyMoveComponents = [new LegacyQuickMoves(), new LegacyCinematicMoves()];
     await forEachSeries(specialInputs, async specialInput => {
       await forEachSeries(specialInput, async itemTemplate => {
         console.log("specialInput");
         console.log(specialInput);
-        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.data.pokemon.uniqueId);
+        const currentPokemon = pokemonData.find(value => value.id === itemTemplate.data.pokemonSettings.pokemonId);
         await forEachSeries(legacyMoveComponents, component => component.Process(currentPokemon, itemTemplate));
       });
     });

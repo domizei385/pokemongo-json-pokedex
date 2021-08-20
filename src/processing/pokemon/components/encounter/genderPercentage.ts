@@ -57,7 +57,7 @@ export class GenderPercentage implements IComponent {
   }
 
   Process(pokemon: Pokemon, rawPokemon: Data, input: Map<String, any>): Pokemon {
-    const gender = this.getGenderPercent(input['gameMaster'], rawPokemon.pokemon.uniqueId);
+    const gender = this.getGenderPercent(input['gameMaster'], rawPokemon.pokemonSettings.uniqueId);
     if (gender) {
       pokemon.encounter.gender = gender;
     }

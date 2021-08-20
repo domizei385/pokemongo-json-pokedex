@@ -8,9 +8,9 @@ import { Pokemon } from '@outcome/pokemon';
 export class Stats implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
     pokemon.stats = {
-      baseAttack: rawPokemon.pokemon.stats.baseAttack,
-      baseDefense: rawPokemon.pokemon.stats.baseDefense,
-      baseStamina: rawPokemon.pokemon.stats.baseStamina
+      baseAttack: rawPokemon.pokemonSettings.stats.baseAttack,
+      baseDefense: rawPokemon.pokemonSettings.stats.baseDefense,
+      baseStamina: rawPokemon.pokemonSettings.stats.baseStamina
     };
     return pokemon;
   }

@@ -8,7 +8,7 @@ import { Util } from '@util';
 })
 export class BuddySize implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
-    const buddySize = rawPokemon.pokemon.buddySize || 'BUDDY_MEDIUM';
+    const buddySize = rawPokemon.pokemonSettings.buddySize || 'BUDDY_MEDIUM';
 
     pokemon.buddySize = {
       id: buddySize,

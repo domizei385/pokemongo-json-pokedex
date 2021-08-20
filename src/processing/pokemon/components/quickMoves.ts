@@ -9,9 +9,9 @@ import * as _ from 'lodash';
 })
 export class QuickMoves implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
-    //pokemon.quickMoves = rawPokemon.pokemon.quickMoves.map(Util.SnakeCase2Identifyable);
+    //pokemon.quickMoves = rawPokemon.pokemonSettings.quickMoves.map(Util.SnakeCase2Identifyable);
     const quickMoves = _
-        .chain(rawPokemon.pokemon.quickMoves)
+        .chain(rawPokemon.pokemonSettings.quickMoves)
         .uniq()
         .map(Util.SnakeCase2Identifyable)
         .value();
