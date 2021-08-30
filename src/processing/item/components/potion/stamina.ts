@@ -16,12 +16,12 @@ export class StaminaAmount implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is a potion
-    if (!rawItem.item.potion) {
+    if (!rawItem.itemSettings.potion) {
       return item;
     }
 
-    item.potion.staminaAmount = rawItem.item.potion.staAmount;
-    item.potion.staminaPercent = rawItem.item.potion.staPercent;
+    item.potion.staminaAmount = rawItem.itemSettings.potion.staAmount;
+    item.potion.staminaPercent = rawItem.itemSettings.potion.staPercent;
 
     return item;
   }

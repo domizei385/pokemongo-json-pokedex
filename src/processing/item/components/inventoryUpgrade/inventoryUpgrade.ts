@@ -12,13 +12,13 @@ export class InventoryUpgrade implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is an inventoryUpgrade
-    if (!rawItem.item.inventoryUpgrade) {
+    if (!rawItem.itemSettings.inventoryUpgrade) {
       return item;
     }
 
     item.inventoryUpgrade = item.inventoryUpgrade || {} as ItemInventoryUpgrade;
     item.inventoryUpgrade.additionalStorage =
-        rawItem.item.inventoryUpgrade.additionalStorage;
+        rawItem.itemSettings.inventoryUpgrade.additionalStorage;
 
     return item;
   }

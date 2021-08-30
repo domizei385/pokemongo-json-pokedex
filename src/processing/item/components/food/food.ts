@@ -12,13 +12,13 @@ export class Food implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is a food
-    if (!rawItem.item.food) {
+    if (!rawItem.itemSettings.food) {
       return item;
     }
 
     item.food = item.food || {} as ItemFood;
-    item.food.berryMultiplier = rawItem.item.food.berryMultiplier;
-    item.food.remoteBerryMultiplier = rawItem.item.food.remoteBerryMultiplier;
+    item.food.berryMultiplier = rawItem.itemSettings.food.berryMultiplier;
+    item.food.remoteBerryMultiplier = rawItem.itemSettings.food.remoteBerryMultiplier;
 
     return item;
   }

@@ -16,11 +16,11 @@ export class Type implements IComponent {
    * The type of an inventoryUpgrade
    */
   Process(item: Item, rawItem: Data): Item {
-    if (!rawItem.item.inventoryUpgrade) {
+    if (!rawItem.itemSettings.inventoryUpgrade) {
       return item;
     }
 
-    const inventoryUpgrade = rawItem.item.inventoryUpgrade;
+    const inventoryUpgrade = rawItem.itemSettings.inventoryUpgrade;
     item.inventoryUpgrade.type = Util.SnakeCase2Identifyable(inventoryUpgrade.upgradeType);
 
     return item;

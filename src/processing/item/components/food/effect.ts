@@ -17,12 +17,12 @@ export class Effect implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is a food
-    if (!rawItem.item.food) {
+    if (!rawItem.itemSettings.food) {
       return item;
     }
 
-    const effects = rawItem.item.food.itemEffect || [];
-    const effectPercents = rawItem.item.food.itemEffectPercent || [];
+    const effects = rawItem.itemSettings.food.itemEffect || [];
+    const effectPercents = rawItem.itemSettings.food.itemEffectPercent || [];
 
     item.food.effect = effects.map((effect: string, index: number): ItemEffect => {
       return {
