@@ -38,7 +38,7 @@ export class Forms implements IComponent {
         });
 
     const forms: PokemonForm[] = [];
-    console.log(itemTemplate);
+    console.log("Forms: " + itemTemplate);
     if (itemTemplate && itemTemplate.formSettings && itemTemplate.formSettings.forms) {
 
       itemTemplate.formSettings.forms.forEach(f => {

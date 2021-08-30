@@ -7,7 +7,7 @@ export interface Move extends Identifyable {
   animationId: number;
   pokemonType: Identifyable;
   power: number;
-  accuracyChange: number;
+  accuracyChance: number;
   criticalChance: number;
   staminaLossScalar: number;
   trainerLevelMin: number;

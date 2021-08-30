@@ -11,8 +11,8 @@ export class GenericPropertyMapper implements IComponent {
    * Maps generic properties which do not need to be processed.
    */
   Process(move: Move, rawMove: Data): Move {
-    let moveStgs = rawMove.move;
-    move.accuracyChange = moveStgs.accuracyChance;
+    let moveStgs = rawMove.moveSettings;
+    move.accuracyChance = moveStgs.accuracyChance;
     move.animationId = moveStgs.animationId;
     move.power = moveStgs.power;
     move.criticalChance = moveStgs.criticalChance;

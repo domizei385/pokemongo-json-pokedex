@@ -192,7 +192,7 @@ export interface VsSeekerClientSettings {
   allowedVsSeekerLeagueTemplateId: string[];
 }
 export interface Move {
-  uniqueId: string;
+  movementId: string;
   animationId: number;
   type: string;
   power?: number;
@@ -210,9 +210,9 @@ export interface Move {
   isLocked?: boolean;
 }
 export interface Pokemon {
-  uniqueId: string;
+  pokemonId: string;
   modelScale?: number;
-  type1: string;
+  type: string;
   type2?: string;
   camera: Camera;
   encounter: Encounter;
@@ -259,7 +259,7 @@ export interface TemporaryEvolution2 {
   stats: Stats;
   pokedexHeightM: number;
   pokedexWeightK: number;
-  type1: string;
+  type: string;
   type2?: string;
   camera?: Camera2;
   modelScaleV2: number;

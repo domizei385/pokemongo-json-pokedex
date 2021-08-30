@@ -146,7 +146,7 @@ export abstract class Pipeline implements IPipeline {
         output = await this.process(component, output, this.parsedInput, additionalInput);
       }
     });
-    console.log("Output : " + output);
+    //console.log("Output : " + output);
     return output;
   }
 }

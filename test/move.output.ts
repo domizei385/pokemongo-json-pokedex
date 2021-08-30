@@ -13,7 +13,7 @@ describe('Move Output', () => {
 
     it('should have values', () => {
         const testFunctions = [
-            item => expect(item.accuracyChange).to.not.equal(undefined),
+            item => expect(item.accuracyChance).to.not.equal(undefined),
             item => expect(item.animationId).to.not.equal(undefined),
             item => expect(typeof item.pokemonType).to.equal('object'),
             item => expect(item.pokemonType.id).to.not.equal(undefined),
