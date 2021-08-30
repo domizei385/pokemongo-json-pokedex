@@ -1076,6 +1076,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Swshuniformchampion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_swshuniformchampion_0",
+        "iconName": "f_gloves_swshuniformchampion_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Swshuniformdark",
         "gender": "Female",
         "enabled": true,
@@ -2126,6 +2137,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Swshuniformchampion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_swshuniformchampion_0",
+        "iconName": "f_hat_swshuniformchampion_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Sylveonitems",
         "gender": "Female",
         "enabled": true,
@@ -2866,6 +2888,17 @@
         "enabled": true,
         "id": "f_pants_swshdlc2costume_0",
         "iconName": "f_pants_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformchampion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_swshuniformchampion_0",
+        "iconName": "f_pants_swshuniformchampion_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -4684,6 +4717,17 @@
         "enabled": true,
         "id": "f_shirt_swshdlccostume_0",
         "iconName": "f_shirt_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformchampion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_swshuniformchampion_0",
+        "iconName": "f_shirt_swshuniformchampion_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -7022,6 +7066,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Swshuniformchampion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_swshuniformchampion_0",
+        "iconName": "m_gloves_swshuniformchampion_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Swshuniformdark",
         "gender": "Male",
         "enabled": true,
@@ -8041,6 +8096,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Swshuniformchampion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_swshuniformchampion_0",
+        "iconName": "m_hat_swshuniformchampion_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Sylveonitems",
         "gender": "Male",
         "enabled": true,
@@ -8629,6 +8695,17 @@
         "enabled": true,
         "id": "m_pants_swshdlc2costume_0",
         "iconName": "m_pants_swshdlc2costume_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Swshuniformchampion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_swshuniformchampion_0",
+        "iconName": "m_pants_swshuniformchampion_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -10524,6 +10601,17 @@
         "enabled": true,
         "id": "m_shirt_swshdlccostume_0",
         "iconName": "m_shirt_swshdlccostume_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Swshuniformchampion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_swshuniformchampion_0",
+        "iconName": "m_shirt_swshuniformchampion_00_bundle_icon",
         "slot": [
             "Shirt"
         ],

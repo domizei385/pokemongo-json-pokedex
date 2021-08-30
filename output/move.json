@@ -4944,5 +4944,25 @@
         },
         "name": "Feather Dance",
         "internalId": 348
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 55,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "weather_ball_normal",
+        "durationMs": 1600,
+        "damageWindowStartMs": 1350,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -33,
+        "id": "WEATHER_BALL_NORMAL",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Weather Ball Normal",
+        "internalId": 352
     }
 ]
