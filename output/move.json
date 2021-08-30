@@ -12,6 +12,7 @@
         "damageWindowStartMs": 2050,
         "damageWindowEndMs": 2700,
         "energyDelta": -33,
+        "id": "WRAP",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -32,6 +33,7 @@
         "damageWindowStartMs": 3300,
         "damageWindowEndMs": 3600,
         "energyDelta": -100,
+        "id": "HYPER_BEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -52,6 +54,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 2300,
         "energyDelta": -50,
+        "id": "DARK_PULSE",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -72,6 +75,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1550,
         "energyDelta": -33,
+        "id": "SLUDGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -92,6 +96,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1500,
         "energyDelta": -33,
+        "id": "VICE_GRIP",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -112,6 +117,7 @@
         "damageWindowStartMs": 2100,
         "damageWindowEndMs": 2400,
         "energyDelta": -50,
+        "id": "FLAME_WHEEL",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -132,6 +138,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 1900,
         "energyDelta": -100,
+        "id": "MEGAHORN",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -152,6 +159,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1700,
         "energyDelta": -50,
+        "id": "FLAMETHROWER",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -172,6 +180,7 @@
         "damageWindowStartMs": 2800,
         "damageWindowEndMs": 4500,
         "energyDelta": -50,
+        "id": "DIG",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -192,6 +201,7 @@
         "damageWindowStartMs": 800,
         "damageWindowEndMs": 1200,
         "energyDelta": -50,
+        "id": "CROSS_CHOP",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -212,6 +222,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 2700,
         "energyDelta": -50,
+        "id": "PSYBEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -232,6 +243,7 @@
         "damageWindowStartMs": 2700,
         "damageWindowEndMs": 3500,
         "energyDelta": -100,
+        "id": "EARTHQUAKE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -252,6 +264,7 @@
         "damageWindowStartMs": 700,
         "damageWindowEndMs": 2100,
         "energyDelta": -100,
+        "id": "STONE_EDGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -272,6 +285,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 1600,
         "energyDelta": -33,
+        "id": "ICE_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -292,6 +306,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1600,
         "energyDelta": -33,
+        "id": "HEART_STAMP",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -312,6 +327,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2100,
         "energyDelta": -33,
+        "id": "DISCHARGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -332,6 +348,7 @@
         "damageWindowStartMs": 1600,
         "damageWindowEndMs": 2500,
         "energyDelta": -100,
+        "id": "FLASH_CANNON",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -352,6 +369,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2100,
         "energyDelta": -33,
+        "id": "DRILL_PECK",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -372,6 +390,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 2800,
         "energyDelta": -50,
+        "id": "ICE_BEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -392,6 +411,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 2900,
         "energyDelta": -100,
+        "id": "BLIZZARD",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -412,6 +432,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2800,
         "energyDelta": -100,
+        "id": "HEAT_WAVE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -432,6 +453,7 @@
         "damageWindowStartMs": 1900,
         "damageWindowEndMs": 2200,
         "energyDelta": -33,
+        "id": "AERIAL_ACE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -452,6 +474,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2600,
         "energyDelta": -50,
+        "id": "DRILL_RUN",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -472,6 +495,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2300,
         "energyDelta": -100,
+        "id": "PETAL_BLIZZARD",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -492,6 +516,7 @@
         "damageWindowStartMs": 950,
         "damageWindowEndMs": 2000,
         "energyDelta": -50,
+        "id": "MEGA_DRAIN",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -512,6 +537,7 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 3100,
         "energyDelta": -50,
+        "id": "BUG_BUZZ",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -532,6 +558,7 @@
         "damageWindowStartMs": 900,
         "damageWindowEndMs": 1400,
         "energyDelta": -33,
+        "id": "POISON_FANG",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -552,6 +579,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 2000,
         "energyDelta": -33,
+        "id": "NIGHT_SLASH",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -572,6 +600,7 @@
         "damageWindowStartMs": 1450,
         "damageWindowEndMs": 1700,
         "energyDelta": -33,
+        "id": "BUBBLE_BEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -592,6 +621,7 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2000,
         "energyDelta": -50,
+        "id": "SUBMISSION",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -612,6 +642,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 1650,
         "energyDelta": -33,
+        "id": "LOW_SWEEP",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -632,6 +663,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2100,
         "energyDelta": -33,
+        "id": "AQUA_JET",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -652,6 +684,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1650,
         "energyDelta": -33,
+        "id": "AQUA_TAIL",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -672,6 +705,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1900,
         "energyDelta": -33,
+        "id": "SEED_BOMB",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -692,6 +726,7 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 2600,
         "energyDelta": -33,
+        "id": "PSYSHOCK",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -712,6 +747,7 @@
         "damageWindowStartMs": 2850,
         "damageWindowEndMs": 3100,
         "energyDelta": -33,
+        "id": "ANCIENT_POWER",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -732,6 +768,7 @@
         "damageWindowStartMs": 2250,
         "damageWindowEndMs": 3000,
         "energyDelta": -50,
+        "id": "ROCK_TOMB",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -752,6 +789,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 2600,
         "energyDelta": -50,
+        "id": "ROCK_SLIDE",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -772,6 +810,7 @@
         "damageWindowStartMs": 1950,
         "damageWindowEndMs": 2700,
         "energyDelta": -50,
+        "id": "POWER_GEM",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -792,6 +831,7 @@
         "damageWindowStartMs": 2200,
         "damageWindowEndMs": 2700,
         "energyDelta": -33,
+        "id": "SHADOW_SNEAK",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -812,6 +852,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 1500,
         "energyDelta": -33,
+        "id": "SHADOW_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -832,6 +873,7 @@
         "damageWindowStartMs": 1850,
         "damageWindowEndMs": 2100,
         "energyDelta": -33,
+        "id": "OMINOUS_WIND",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -852,6 +894,7 @@
         "damageWindowStartMs": 2400,
         "damageWindowEndMs": 2800,
         "energyDelta": -50,
+        "id": "SHADOW_BALL",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -872,6 +915,7 @@
         "damageWindowStartMs": 2200,
         "damageWindowEndMs": 2600,
         "energyDelta": -33,
+        "id": "MAGNET_BOMB",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -892,6 +936,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 1700,
         "energyDelta": -50,
+        "id": "IRON_HEAD",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -912,6 +957,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 2400,
         "energyDelta": -50,
+        "id": "PARABOLIC_CHARGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -932,6 +978,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 1550,
         "energyDelta": -33,
+        "id": "THUNDER_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -952,6 +999,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 2200,
         "energyDelta": -100,
+        "id": "THUNDER",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -972,6 +1020,7 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2300,
         "energyDelta": -50,
+        "id": "THUNDERBOLT",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -992,6 +1041,7 @@
         "damageWindowStartMs": 950,
         "damageWindowEndMs": 2600,
         "energyDelta": -33,
+        "id": "TWISTER",
         "pokemonType": {
             "id": "POKEMON_TYPE_DRAGON",
             "name": "Dragon"
@@ -1012,6 +1062,7 @@
         "damageWindowStartMs": 2150,
         "damageWindowEndMs": 3300,
         "energyDelta": -50,
+        "id": "DRAGON_PULSE",
         "pokemonType": {
             "id": "POKEMON_TYPE_DRAGON",
             "name": "Dragon"
@@ -1032,6 +1083,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1300,
         "energyDelta": -33,
+        "id": "DRAGON_CLAW",
         "pokemonType": {
             "id": "POKEMON_TYPE_DRAGON",
             "name": "Dragon"
@@ -1052,6 +1104,7 @@
         "damageWindowStartMs": 3200,
         "damageWindowEndMs": 3500,
         "energyDelta": -33,
+        "id": "DISARMING_VOICE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FAIRY",
             "name": "Fairy"
@@ -1072,6 +1125,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1300,
         "energyDelta": -50,
+        "id": "DRAINING_KISS",
         "pokemonType": {
             "id": "POKEMON_TYPE_FAIRY",
             "name": "Fairy"
@@ -1092,6 +1146,7 @@
         "damageWindowStartMs": 2100,
         "damageWindowEndMs": 3300,
         "energyDelta": -50,
+        "id": "DAZZLING_GLEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_FAIRY",
             "name": "Fairy"
@@ -1112,6 +1167,7 @@
         "damageWindowStartMs": 2200,
         "damageWindowEndMs": 3700,
         "energyDelta": -100,
+        "id": "MOONBLAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FAIRY",
             "name": "Fairy"
@@ -1132,6 +1188,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 2700,
         "energyDelta": -50,
+        "id": "PLAY_ROUGH",
         "pokemonType": {
             "id": "POKEMON_TYPE_FAIRY",
             "name": "Fairy"
@@ -1152,6 +1209,7 @@
         "damageWindowStartMs": 900,
         "damageWindowEndMs": 1300,
         "energyDelta": -33,
+        "id": "CROSS_POISON",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -1172,6 +1230,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 2100,
         "energyDelta": -50,
+        "id": "SLUDGE_BOMB",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -1192,6 +1251,7 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 3000,
         "energyDelta": -100,
+        "id": "SLUDGE_WAVE",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -1212,6 +1272,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2700,
         "energyDelta": -100,
+        "id": "GUNK_SHOT",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -1232,6 +1293,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1400,
         "energyDelta": -33,
+        "id": "BONE_CLUB",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -1252,6 +1314,7 @@
         "damageWindowStartMs": 2600,
         "damageWindowEndMs": 3100,
         "energyDelta": -50,
+        "id": "BULLDOZE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -1272,6 +1335,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2100,
         "energyDelta": -33,
+        "id": "MUD_BOMB",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -1292,6 +1356,7 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2600,
         "energyDelta": -50,
+        "id": "SIGNAL_BEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -1312,6 +1377,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1400,
         "energyDelta": -33,
+        "id": "X_SCISSOR",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -1332,6 +1398,7 @@
         "damageWindowStartMs": 2900,
         "damageWindowEndMs": 3450,
         "energyDelta": -33,
+        "id": "FLAME_CHARGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -1352,6 +1419,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2100,
         "energyDelta": -50,
+        "id": "FLAME_BURST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -1372,6 +1440,7 @@
         "damageWindowStartMs": 3100,
         "damageWindowEndMs": 3900,
         "energyDelta": -100,
+        "id": "FIRE_BLAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -1392,6 +1461,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 2100,
         "energyDelta": -50,
+        "id": "BRINE",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -1412,6 +1482,7 @@
         "damageWindowStartMs": 2200,
         "damageWindowEndMs": 2900,
         "energyDelta": -50,
+        "id": "WATER_PULSE",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -1432,6 +1503,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 3400,
         "energyDelta": -50,
+        "id": "SCALD",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -1452,6 +1524,7 @@
         "damageWindowStartMs": 900,
         "damageWindowEndMs": 3000,
         "energyDelta": -100,
+        "id": "HYDRO_PUMP",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -1472,6 +1545,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 2600,
         "energyDelta": -50,
+        "id": "PSYCHIC",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -1492,6 +1566,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2000,
         "energyDelta": -50,
+        "id": "PSYSTRIKE",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -1512,6 +1587,7 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 2800,
         "energyDelta": -33,
+        "id": "ICY_WIND",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -1532,6 +1608,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 2200,
         "energyDelta": -100,
+        "id": "GIGA_DRAIN",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -1552,6 +1629,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1900,
         "energyDelta": -33,
+        "id": "FIRE_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -1572,6 +1650,7 @@
         "damageWindowStartMs": 2700,
         "damageWindowEndMs": 4700,
         "energyDelta": -100,
+        "id": "SOLAR_BEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -1592,6 +1671,7 @@
         "damageWindowStartMs": 1250,
         "damageWindowEndMs": 2200,
         "energyDelta": -33,
+        "id": "LEAF_BLADE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -1611,6 +1691,7 @@
         "damageWindowStartMs": 1250,
         "damageWindowEndMs": 2350,
         "energyDelta": -50,
+        "id": "POWER_WHIP",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -1631,6 +1712,7 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2500,
         "energyDelta": -50,
+        "id": "AIR_CUTTER",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -1651,6 +1733,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 2400,
         "energyDelta": -100,
+        "id": "HURRICANE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -1671,6 +1754,7 @@
         "damageWindowStartMs": 800,
         "damageWindowEndMs": 1400,
         "energyDelta": -33,
+        "id": "BRICK_BREAK",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -1691,6 +1775,7 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 2600,
         "energyDelta": -50,
+        "id": "SWIFT",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1711,6 +1796,7 @@
         "damageWindowStartMs": 800,
         "damageWindowEndMs": 1650,
         "energyDelta": -33,
+        "id": "HORN_ATTACK",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1731,6 +1817,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1500,
         "energyDelta": -50,
+        "id": "STOMP",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1751,6 +1838,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 2000,
         "energyDelta": -50,
+        "id": "HYPER_FANG",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1771,6 +1859,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1700,
         "energyDelta": -33,
+        "id": "BODY_SLAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1789,6 +1878,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1700,
         "energyDelta": -33,
+        "id": "REST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1807,6 +1897,7 @@
         "durationMs": 2200,
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 2000,
+        "id": "STRUGGLE",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1827,6 +1918,7 @@
         "damageWindowStartMs": 2500,
         "damageWindowEndMs": 4600,
         "energyDelta": -100,
+        "id": "SCALD_BLASTOISE",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -1847,6 +1939,7 @@
         "damageWindowStartMs": 2200,
         "damageWindowEndMs": 4300,
         "energyDelta": -100,
+        "id": "HYDRO_PUMP_BLASTOISE",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -1867,6 +1960,7 @@
         "damageWindowStartMs": 2050,
         "damageWindowEndMs": 2700,
         "energyDelta": -33,
+        "id": "WRAP_GREEN",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1887,6 +1981,7 @@
         "damageWindowStartMs": 2050,
         "damageWindowEndMs": 2700,
         "energyDelta": -33,
+        "id": "WRAP_PINK",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -1906,6 +2001,7 @@
         "damageWindowStartMs": 100,
         "damageWindowEndMs": 400,
         "energyDelta": 6,
+        "id": "FURY_CUTTER_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -1925,6 +2021,7 @@
         "damageWindowStartMs": 250,
         "damageWindowEndMs": 450,
         "energyDelta": 6,
+        "id": "BUG_BITE_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -1944,6 +2041,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 500,
         "energyDelta": 4,
+        "id": "BITE_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -1963,6 +2061,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 700,
         "energyDelta": 8,
+        "id": "SUCKER_PUNCH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -1982,6 +2081,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 500,
         "energyDelta": 4,
+        "id": "DRAGON_BREATH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_DRAGON",
             "name": "Dragon"
@@ -2001,6 +2101,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 600,
         "energyDelta": 8,
+        "id": "THUNDER_SHOCK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -2020,6 +2121,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 700,
         "energyDelta": 9,
+        "id": "SPARK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -2039,6 +2141,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 600,
         "energyDelta": 6,
+        "id": "LOW_KICK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -2058,6 +2161,7 @@
         "damageWindowStartMs": 600,
         "damageWindowEndMs": 800,
         "energyDelta": 10,
+        "id": "KARATE_CHOP_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -2077,6 +2181,7 @@
         "damageWindowStartMs": 600,
         "damageWindowEndMs": 800,
         "energyDelta": 10,
+        "id": "EMBER_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -2096,6 +2201,7 @@
         "damageWindowStartMs": 550,
         "damageWindowEndMs": 750,
         "energyDelta": 9,
+        "id": "WING_ATTACK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -2115,6 +2221,7 @@
         "damageWindowStartMs": 450,
         "damageWindowEndMs": 900,
         "energyDelta": 10,
+        "id": "PECK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -2134,6 +2241,7 @@
         "damageWindowStartMs": 200,
         "damageWindowEndMs": 500,
         "energyDelta": 6,
+        "id": "LICK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -2153,6 +2261,7 @@
         "damageWindowStartMs": 250,
         "damageWindowEndMs": 500,
         "energyDelta": 6,
+        "id": "SHADOW_CLAW_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -2172,6 +2281,7 @@
         "damageWindowStartMs": 350,
         "damageWindowEndMs": 600,
         "energyDelta": 6,
+        "id": "VINE_WHIP_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -2191,6 +2301,7 @@
         "damageWindowStartMs": 600,
         "damageWindowEndMs": 850,
         "energyDelta": 7,
+        "id": "RAZOR_LEAF_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -2210,6 +2321,7 @@
         "damageWindowStartMs": 350,
         "damageWindowEndMs": 550,
         "energyDelta": 7,
+        "id": "MUD_SHOT_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -2229,6 +2341,7 @@
         "damageWindowStartMs": 600,
         "damageWindowEndMs": 900,
         "energyDelta": 12,
+        "id": "ICE_SHARD_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -2248,6 +2361,7 @@
         "damageWindowStartMs": 450,
         "damageWindowEndMs": 750,
         "energyDelta": 8,
+        "id": "FROST_BREATH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -2267,6 +2381,7 @@
         "damageWindowStartMs": 250,
         "damageWindowEndMs": 550,
         "energyDelta": 10,
+        "id": "QUICK_ATTACK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -2286,6 +2401,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 500,
         "energyDelta": 4,
+        "id": "SCRATCH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -2305,6 +2421,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 500,
         "energyDelta": 5,
+        "id": "TACKLE_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -2324,6 +2441,7 @@
         "damageWindowStartMs": 340,
         "damageWindowEndMs": 540,
         "energyDelta": 6,
+        "id": "POUND_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -2343,6 +2461,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 500,
         "energyDelta": 5,
+        "id": "CUT_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -2362,6 +2481,7 @@
         "damageWindowStartMs": 200,
         "damageWindowEndMs": 800,
         "energyDelta": 7,
+        "id": "POISON_JAB_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -2381,6 +2501,7 @@
         "damageWindowStartMs": 400,
         "damageWindowEndMs": 600,
         "energyDelta": 8,
+        "id": "ACID_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -2400,6 +2521,7 @@
         "damageWindowStartMs": 370,
         "damageWindowEndMs": 570,
         "energyDelta": 8,
+        "id": "PSYCHO_CUT_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -2419,6 +2541,7 @@
         "damageWindowStartMs": 500,
         "damageWindowEndMs": 800,
         "energyDelta": 7,
+        "id": "ROCK_THROW_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -2438,6 +2561,7 @@
         "damageWindowStartMs": 430,
         "damageWindowEndMs": 630,
         "energyDelta": 7,
+        "id": "METAL_CLAW_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -2457,6 +2581,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 900,
         "energyDelta": 10,
+        "id": "BULLET_PUNCH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -2476,6 +2601,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 500,
         "energyDelta": 5,
+        "id": "WATER_GUN_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -2494,6 +2620,7 @@
         "damageWindowStartMs": 1030,
         "damageWindowEndMs": 1230,
         "energyDelta": 20,
+        "id": "SPLASH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -2513,6 +2640,7 @@
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 500,
         "energyDelta": 6,
+        "id": "WATER_GUN_FAST_BLASTOISE",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -2532,6 +2660,7 @@
         "damageWindowStartMs": 1150,
         "damageWindowEndMs": 1350,
         "energyDelta": 12,
+        "id": "MUD_SLAP_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -2551,6 +2680,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 10,
+        "id": "ZEN_HEADBUTT_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -2570,6 +2700,7 @@
         "damageWindowStartMs": 600,
         "damageWindowEndMs": 1600,
         "energyDelta": 15,
+        "id": "CONFUSION_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -2589,6 +2720,7 @@
         "damageWindowStartMs": 375,
         "damageWindowEndMs": 575,
         "energyDelta": 7,
+        "id": "POISON_STING_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -2608,6 +2740,7 @@
         "damageWindowStartMs": 750,
         "damageWindowEndMs": 1000,
         "energyDelta": 14,
+        "id": "BUBBLE_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -2627,6 +2760,7 @@
         "damageWindowStartMs": 750,
         "damageWindowEndMs": 900,
         "energyDelta": 9,
+        "id": "FEINT_ATTACK_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -2646,6 +2780,7 @@
         "damageWindowStartMs": 500,
         "damageWindowEndMs": 800,
         "energyDelta": 6,
+        "id": "STEEL_WING_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -2665,6 +2800,7 @@
         "damageWindowStartMs": 640,
         "damageWindowEndMs": 840,
         "energyDelta": 8,
+        "id": "FIRE_FANG_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -2684,6 +2820,7 @@
         "damageWindowStartMs": 550,
         "damageWindowEndMs": 800,
         "energyDelta": 10,
+        "id": "ROCK_SMASH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -2701,6 +2838,7 @@
         "durationMs": 2230,
         "damageWindowStartMs": 300,
         "damageWindowEndMs": 700,
+        "id": "TRANSFORM_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -2720,6 +2858,7 @@
         "damageWindowStartMs": 700,
         "damageWindowEndMs": 900,
         "energyDelta": 8,
+        "id": "COUNTER_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -2739,6 +2878,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1000,
         "energyDelta": 15,
+        "id": "POWDER_SNOW_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -2759,6 +2899,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2300,
         "energyDelta": -100,
+        "id": "CLOSE_COMBAT",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -2779,6 +2920,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 2700,
         "energyDelta": -50,
+        "id": "DYNAMIC_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -2799,6 +2941,7 @@
         "damageWindowStartMs": 3000,
         "damageWindowEndMs": 3500,
         "energyDelta": -100,
+        "id": "FOCUS_BLAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -2819,6 +2962,7 @@
         "damageWindowStartMs": 3350,
         "damageWindowEndMs": 3550,
         "energyDelta": -50,
+        "id": "AURORA_BEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -2838,6 +2982,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 15,
+        "id": "CHARGE_BEAM_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -2857,6 +3002,7 @@
         "damageWindowStartMs": 700,
         "damageWindowEndMs": 900,
         "energyDelta": 21,
+        "id": "VOLT_SWITCH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -2877,6 +3023,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2100,
         "energyDelta": -50,
+        "id": "WILD_CHARGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -2897,6 +3044,7 @@
         "damageWindowStartMs": 3000,
         "damageWindowEndMs": 3500,
         "energyDelta": -100,
+        "id": "ZAP_CANNON",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -2916,6 +3064,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 9,
+        "id": "DRAGON_TAIL_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_DRAGON",
             "name": "Dragon"
@@ -2936,6 +3085,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2100,
         "energyDelta": -50,
+        "id": "AVALANCHE",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -2955,6 +3105,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1200,
         "energyDelta": 10,
+        "id": "AIR_SLASH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -2975,6 +3126,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1600,
         "energyDelta": -100,
+        "id": "BRAVE_BIRD",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -2995,6 +3147,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1700,
         "energyDelta": -50,
+        "id": "SKY_ATTACK",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -3015,6 +3168,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 4000,
         "energyDelta": -33,
+        "id": "SAND_TOMB",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -3035,6 +3189,7 @@
         "damageWindowStartMs": 1600,
         "damageWindowEndMs": 2000,
         "energyDelta": -33,
+        "id": "ROCK_BLAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -3054,6 +3209,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 14,
+        "id": "INFESTATION_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -3073,6 +3229,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1500,
         "energyDelta": 15,
+        "id": "STRUGGLE_BUG_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -3093,6 +3250,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 3500,
         "energyDelta": -33,
+        "id": "SILVER_WIND",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -3112,6 +3270,7 @@
         "damageWindowStartMs": 700,
         "damageWindowEndMs": 1050,
         "energyDelta": 14,
+        "id": "ASTONISH_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -3131,6 +3290,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1200,
         "energyDelta": 16,
+        "id": "HEX_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -3151,6 +3311,7 @@
         "damageWindowStartMs": 2100,
         "damageWindowEndMs": 2500,
         "energyDelta": -50,
+        "id": "NIGHT_SHADE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -3170,6 +3331,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 7,
+        "id": "IRON_TAIL_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -3190,6 +3352,7 @@
         "damageWindowStartMs": 3000,
         "damageWindowEndMs": 3300,
         "energyDelta": -50,
+        "id": "GYRO_BALL",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -3210,6 +3373,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1900,
         "energyDelta": -50,
+        "id": "HEAVY_SLAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -3229,6 +3393,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 10,
+        "id": "FIRE_SPIN_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -3249,6 +3414,7 @@
         "damageWindowStartMs": 2600,
         "damageWindowEndMs": 3800,
         "energyDelta": -100,
+        "id": "OVERHEAT",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -3268,6 +3434,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 14,
+        "id": "BULLET_SEED_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -3288,6 +3455,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2600,
         "energyDelta": -50,
+        "id": "GRASS_KNOT",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -3308,6 +3476,7 @@
         "damageWindowStartMs": 3000,
         "damageWindowEndMs": 3800,
         "energyDelta": -50,
+        "id": "ENERGY_BALL",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -3327,6 +3496,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 12,
+        "id": "EXTRASENSORY_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -3347,6 +3517,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 2700,
         "energyDelta": -100,
+        "id": "FUTURESIGHT",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -3367,6 +3538,7 @@
         "damageWindowStartMs": 2300,
         "damageWindowEndMs": 2500,
         "energyDelta": -50,
+        "id": "MIRROR_COAT",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -3387,6 +3559,7 @@
         "damageWindowStartMs": 2500,
         "damageWindowEndMs": 3700,
         "energyDelta": -50,
+        "id": "OUTRAGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_DRAGON",
             "name": "Dragon"
@@ -3406,6 +3579,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1050,
         "energyDelta": 14,
+        "id": "SNARL_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -3426,6 +3600,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 3000,
         "energyDelta": -33,
+        "id": "CRUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -3446,6 +3621,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 1900,
         "energyDelta": -50,
+        "id": "FOUL_PLAY",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -3466,6 +3642,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1400,
         "energyDelta": 15,
+        "id": "HIDDEN_POWER_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -3485,6 +3662,7 @@
         "damageWindowStartMs": 950,
         "damageWindowEndMs": 1100,
         "energyDelta": 10,
+        "id": "TAKE_DOWN_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -3504,6 +3682,7 @@
         "damageWindowStartMs": 950,
         "damageWindowEndMs": 1100,
         "energyDelta": 8,
+        "id": "WATERFALL_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -3523,6 +3702,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 1600,
         "energyDelta": -50,
+        "id": "SURF",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -3542,6 +3722,7 @@
         "damageWindowStartMs": 3000,
         "damageWindowEndMs": 3500,
         "energyDelta": -100,
+        "id": "DRACO_METEOR",
         "pokemonType": {
             "id": "POKEMON_TYPE_DRAGON",
             "name": "Dragon"
@@ -3561,6 +3742,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 1600,
         "energyDelta": -33,
+        "id": "DOOM_DESIRE",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -3579,6 +3761,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 1600,
         "energyDelta": 15,
+        "id": "YAWN_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -3598,6 +3781,7 @@
         "damageWindowStartMs": 3500,
         "damageWindowEndMs": 4000,
         "energyDelta": -50,
+        "id": "PSYCHO_BOOST",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -3617,6 +3801,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 1600,
         "energyDelta": -100,
+        "id": "ORIGIN_PULSE",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -3636,6 +3821,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 1600,
         "energyDelta": -100,
+        "id": "PRECIPICE_BLADES",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -3655,6 +3841,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1300,
         "energyDelta": 20,
+        "id": "PRESENT_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -3674,6 +3861,7 @@
         "damageWindowStartMs": 1350,
         "damageWindowEndMs": 1600,
         "energyDelta": -33,
+        "id": "WEATHER_BALL_FIRE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -3693,6 +3881,7 @@
         "damageWindowStartMs": 1350,
         "damageWindowEndMs": 1600,
         "energyDelta": -33,
+        "id": "WEATHER_BALL_ICE",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -3712,6 +3901,7 @@
         "damageWindowStartMs": 1350,
         "damageWindowEndMs": 1600,
         "energyDelta": -33,
+        "id": "WEATHER_BALL_ROCK",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -3731,6 +3921,7 @@
         "damageWindowStartMs": 1350,
         "damageWindowEndMs": 1600,
         "energyDelta": -33,
+        "id": "WEATHER_BALL_WATER",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -3750,6 +3941,7 @@
         "damageWindowStartMs": 2145,
         "damageWindowEndMs": 2550,
         "energyDelta": -50,
+        "id": "FRENZY_PLANT",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -3769,6 +3961,7 @@
         "damageWindowStartMs": 800,
         "damageWindowEndMs": 1100,
         "energyDelta": 8,
+        "id": "SMACK_DOWN_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -3788,6 +3981,7 @@
         "damageWindowStartMs": 2750,
         "damageWindowEndMs": 3200,
         "energyDelta": -50,
+        "id": "BLAST_BURN",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -3808,6 +4002,7 @@
         "damageWindowStartMs": 500,
         "damageWindowEndMs": 1600,
         "energyDelta": -50,
+        "id": "HYDRO_CANNON",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -3828,6 +4023,7 @@
         "damageWindowStartMs": 2700,
         "damageWindowEndMs": 2850,
         "energyDelta": -50,
+        "id": "LAST_RESORT",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -3848,6 +4044,7 @@
         "damageWindowStartMs": 2300,
         "damageWindowEndMs": 2500,
         "energyDelta": -50,
+        "id": "METEOR_MASH",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -3867,6 +4064,7 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2300,
         "energyDelta": -100,
+        "id": "SKULL_BASH",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -3886,6 +4084,7 @@
         "damageWindowStartMs": 2100,
         "damageWindowEndMs": 2800,
         "energyDelta": -50,
+        "id": "ACID_SPRAY",
         "pokemonType": {
             "id": "POKEMON_TYPE_POISON",
             "name": "Poison"
@@ -3905,6 +4104,7 @@
         "damageWindowStartMs": 2700,
         "damageWindowEndMs": 3400,
         "energyDelta": -50,
+        "id": "EARTH_POWER",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -3924,6 +4124,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1750,
         "energyDelta": -50,
+        "id": "CRABHAMMER",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -3943,6 +4144,7 @@
         "damageWindowStartMs": 2400,
         "damageWindowEndMs": 2700,
         "energyDelta": -33,
+        "id": "LUNGE",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -3960,6 +4162,7 @@
         "durationMs": 1900,
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1700,
+        "id": "CRUSH_CLAW",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -3979,6 +4182,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 1600,
         "energyDelta": -50,
+        "id": "OCTAZOOKA",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -3998,6 +4202,7 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2200,
         "energyDelta": -33,
+        "id": "MIRROR_SHOT",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -4017,6 +4222,7 @@
         "damageWindowStartMs": 2100,
         "damageWindowEndMs": 2800,
         "energyDelta": -50,
+        "id": "SUPER_POWER",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -4036,6 +4242,7 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2000,
         "energyDelta": -33,
+        "id": "FELL_STINGER",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -4055,6 +4262,7 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 2600,
         "energyDelta": -33,
+        "id": "LEAF_TORNADO",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -4072,6 +4280,7 @@
         "durationMs": 2500,
         "damageWindowStartMs": 1150,
         "damageWindowEndMs": 1400,
+        "id": "LEECH_LIFE",
         "pokemonType": {
             "id": "POKEMON_TYPE_BUG",
             "name": "Bug"
@@ -4089,6 +4298,7 @@
         "durationMs": 2400,
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1500,
+        "id": "DRAIN_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -4108,6 +4318,7 @@
         "damageWindowStartMs": 2250,
         "damageWindowEndMs": 2700,
         "energyDelta": -50,
+        "id": "SHADOW_BONE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
@@ -4127,6 +4338,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1900,
         "energyDelta": -33,
+        "id": "MUDDY_WATER",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -4146,6 +4358,7 @@
         "damageWindowStartMs": 450,
         "damageWindowEndMs": 800,
         "energyDelta": -33,
+        "id": "BLAZE_KICK",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -4163,6 +4376,7 @@
         "durationMs": 1300,
         "damageWindowStartMs": 650,
         "damageWindowEndMs": 1000,
+        "id": "RAZOR_SHELL",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -4182,6 +4396,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 1900,
         "energyDelta": -33,
+        "id": "POWER_UP_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -4201,6 +4416,7 @@
         "damageWindowStartMs": 900,
         "damageWindowEndMs": 1200,
         "energyDelta": 11,
+        "id": "CHARM_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FAIRY",
             "name": "Fairy"
@@ -4220,6 +4436,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2400,
         "energyDelta": -100,
+        "id": "GIGA_IMPACT",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -4239,6 +4456,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1800,
         "energyDelta": -33,
+        "id": "FRUSTRATION",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -4258,6 +4476,7 @@
         "damageWindowStartMs": 100,
         "damageWindowEndMs": 350,
         "energyDelta": -33,
+        "id": "RETURN",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -4277,6 +4496,7 @@
         "damageWindowStartMs": 850,
         "damageWindowEndMs": 1600,
         "energyDelta": -50,
+        "id": "SYNCHRONOISE",
         "pokemonType": {
             "id": "POKEMON_TYPE_PSYCHIC",
             "name": "Psychic"
@@ -4296,6 +4516,7 @@
         "damageWindowStartMs": 170,
         "damageWindowEndMs": 300,
         "energyDelta": 6,
+        "id": "LOCK_ON_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -4315,6 +4536,7 @@
         "damageWindowStartMs": 400,
         "damageWindowEndMs": 900,
         "energyDelta": 16,
+        "id": "THUNDER_FANG_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -4334,6 +4556,7 @@
         "damageWindowStartMs": 400,
         "damageWindowEndMs": 1000,
         "energyDelta": 20,
+        "id": "ICE_FANG_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -4351,6 +4574,7 @@
         "durationMs": 1900,
         "damageWindowStartMs": 500,
         "damageWindowEndMs": 1500,
+        "id": "HORN_DRILL",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -4368,6 +4592,7 @@
         "durationMs": 2800,
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2300,
+        "id": "FISSURE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
@@ -4387,6 +4612,7 @@
         "damageWindowStartMs": 500,
         "damageWindowEndMs": 1000,
         "energyDelta": -33,
+        "id": "SACRED_SWORD",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -4406,6 +4632,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2000,
         "energyDelta": -50,
+        "id": "FLYING_PRESS",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -4425,6 +4652,7 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1600,
         "energyDelta": -50,
+        "id": "AURA_SPHERE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
@@ -4444,6 +4672,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 2000,
         "energyDelta": -100,
+        "id": "PAYBACK",
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
             "name": "Dark"
@@ -4463,6 +4692,7 @@
         "damageWindowStartMs": 2000,
         "damageWindowEndMs": 2700,
         "energyDelta": -50,
+        "id": "ROCK_WRECKER",
         "pokemonType": {
             "id": "POKEMON_TYPE_ROCK",
             "name": "Rock"
@@ -4482,6 +4712,7 @@
         "damageWindowStartMs": 3200,
         "damageWindowEndMs": 3400,
         "energyDelta": -100,
+        "id": "AEROBLAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -4498,6 +4729,7 @@
         "damageWindowStartMs": 1600,
         "damageWindowEndMs": 2000,
         "energyDelta": -100,
+        "id": "TECHNO_BLAST_NORMAL",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -4514,6 +4746,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 2000,
         "energyDelta": -100,
+        "id": "TECHNO_BLAST_BURN",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -4530,6 +4763,7 @@
         "damageWindowStartMs": 1400,
         "damageWindowEndMs": 2000,
         "energyDelta": -100,
+        "id": "TECHNO_BLAST_CHILL",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -4546,6 +4780,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 2000,
         "energyDelta": -100,
+        "id": "TECHNO_BLAST_WATER",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -4562,6 +4797,7 @@
         "damageWindowStartMs": 1600,
         "damageWindowEndMs": 2000,
         "energyDelta": -100,
+        "id": "TECHNO_BLAST_SHOCK",
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
             "name": "Electric"
@@ -4581,6 +4817,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1500,
         "energyDelta": -50,
+        "id": "FLY",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -4600,6 +4837,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2500,
         "energyDelta": -33,
+        "id": "V_CREATE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -4619,6 +4857,7 @@
         "damageWindowStartMs": 1100,
         "damageWindowEndMs": 1250,
         "energyDelta": -100,
+        "id": "LEAF_STORM",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -4638,6 +4877,7 @@
         "damageWindowStartMs": 1300,
         "damageWindowEndMs": 2400,
         "energyDelta": -50,
+        "id": "TRI_ATTACK",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
             "name": "Normal"
@@ -4657,6 +4897,7 @@
         "damageWindowStartMs": 900,
         "damageWindowEndMs": 2000,
         "energyDelta": 20,
+        "id": "GUST_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -4676,6 +4917,7 @@
         "damageWindowStartMs": 500,
         "damageWindowEndMs": 2300,
         "energyDelta": 20,
+        "id": "INCINERATE_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIRE",
             "name": "Fire"
@@ -4695,6 +4937,7 @@
         "damageWindowStartMs": 1700,
         "damageWindowEndMs": 2500,
         "energyDelta": -50,
+        "id": "FEATHER_DANCE",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"

@@ -507,7 +507,7 @@ export interface LimitedPurchaseSkuSettings {
   version?: number;
 }
 export interface Item {
-  uniqueId: string;
+  itemId: string;
   itemType: string;
   category: string;
   dropTrainerLevel?: number;

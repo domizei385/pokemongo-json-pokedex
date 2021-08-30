@@ -24,7 +24,7 @@ export class GenericPropertyMapper implements IComponent {
     move.damageWindowStartMs = moveStgs.damageWindowStartMs;
     move.damageWindowEndMs = moveStgs.damageWindowEndMs;
     move.energyDelta = moveStgs.energyDelta;
-    move.id = moveStgs.uniqueId;
+    move.id = moveStgs.movementId;
     return move;
   }
 }
