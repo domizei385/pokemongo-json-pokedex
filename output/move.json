@@ -3852,7 +3852,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 60,
+        "power": 55,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -3872,7 +3872,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 60,
+        "power": 55,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -3892,7 +3892,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 60,
+        "power": 55,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -3912,7 +3912,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 60,
+        "power": 55,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,

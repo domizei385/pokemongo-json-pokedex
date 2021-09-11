@@ -12197,6 +12197,10 @@
             {
                 "name": "Earth Power",
                 "id": "EARTH_POWER"
+            },
+            {
+                "name": "Sand Tomb",
+                "id": "SAND_TOMB"
             }
         ],
         "quickMoves": [
@@ -12324,6 +12328,10 @@
             {
                 "name": "Earth Power",
                 "id": "EARTH_POWER"
+            },
+            {
+                "name": "Sand Tomb",
+                "id": "SAND_TOMB"
             }
         ],
         "quickMoves": [
@@ -12451,6 +12459,10 @@
             {
                 "name": "Earth Power",
                 "id": "EARTH_POWER"
+            },
+            {
+                "name": "Sand Tomb",
+                "id": "SAND_TOMB"
             }
         ],
         "quickMoves": [
@@ -21253,6 +21265,10 @@
             {
                 "name": "Power Up Punch",
                 "id": "POWER_UP_PUNCH"
+            },
+            {
+                "name": "Scald",
+                "id": "SCALD"
             }
         ],
         "quickMoves": [
@@ -21384,6 +21400,10 @@
             {
                 "name": "Power Up Punch",
                 "id": "POWER_UP_PUNCH"
+            },
+            {
+                "name": "Scald",
+                "id": "SCALD"
             }
         ],
         "quickMoves": [
@@ -21515,6 +21535,10 @@
             {
                 "name": "Power Up Punch",
                 "id": "POWER_UP_PUNCH"
+            },
+            {
+                "name": "Scald",
+                "id": "SCALD"
             }
         ],
         "quickMoves": [
@@ -27069,7 +27093,7 @@
                     "name": "Rapidash Purified",
                     "id": "RAPIDASH_PURIFIED",
                     "costToEvolve": {
-                        "candyCost": 50
+                        "candyCost": 45
                     }
                 }
             ]
@@ -27565,7 +27589,7 @@
                 "id": "PONYTA_PURIFIED"
             },
             "costToEvolve": {
-                "candyCost": 50
+                "candyCost": 45
             }
         },
         "id": "RAPIDASH_PURIFIED",
@@ -61809,6 +61833,10 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             }
         ],
         "quickMoves": [
@@ -73964,7 +73992,7 @@
                     "name": "Linoone Purified",
                     "id": "LINOONE_PURIFIED",
                     "costToEvolve": {
-                        "candyCost": 50
+                        "candyCost": 45
                     }
                 }
             ]
@@ -74449,7 +74477,7 @@
                 "id": "ZIGZAGOON_PURIFIED"
             },
             "costToEvolve": {
-                "candyCost": 50
+                "candyCost": 45
             }
         },
         "id": "LINOONE_PURIFIED",
@@ -83098,6 +83126,10 @@
             {
                 "name": "Flame Burst",
                 "id": "FLAME_BURST"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
@@ -83108,6 +83140,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Thunder Fang Fast",
+                "id": "THUNDER_FANG_FAST"
             }
         ],
         "family": {
@@ -83211,6 +83247,10 @@
             {
                 "name": "Flame Burst",
                 "id": "FLAME_BURST"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
@@ -83221,6 +83261,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Thunder Fang Fast",
+                "id": "THUNDER_FANG_FAST"
             }
         ],
         "family": {
@@ -83324,6 +83368,10 @@
             {
                 "name": "Flame Burst",
                 "id": "FLAME_BURST"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
@@ -83334,6 +83382,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Thunder Fang Fast",
+                "id": "THUNDER_FANG_FAST"
             }
         ],
         "family": {
@@ -131343,7 +131395,7 @@
                     "name": "Cofagrigus Purified",
                     "id": "COFAGRIGUS_PURIFIED",
                     "costToEvolve": {
-                        "candyCost": 50
+                        "candyCost": 45
                     }
                 }
             ]
@@ -131533,6 +131585,10 @@
             {
                 "name": "Zen Headbutt Fast",
                 "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
             }
         ],
         "family": {
@@ -131645,6 +131701,10 @@
             {
                 "name": "Zen Headbutt Fast",
                 "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
             }
         ],
         "family": {
@@ -131693,7 +131753,7 @@
                 "id": "YAMASK_PURIFIED"
             },
             "costToEvolve": {
-                "candyCost": 50
+                "candyCost": 45
             }
         },
         "id": "COFAGRIGUS_PURIFIED",
@@ -131757,6 +131817,10 @@
             {
                 "name": "Zen Headbutt Fast",
                 "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
             }
         ],
         "family": {
@@ -145802,7 +145866,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 3.5,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.2,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -145898,7 +145962,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.35,
             "dodgeProbability": 0.2,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -146174,7 +146238,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -146315,7 +146379,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -146456,7 +146520,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -146597,7 +146661,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -146738,7 +146802,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -146879,7 +146943,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -147020,7 +147084,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -147161,7 +147225,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -147302,7 +147366,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -147443,7 +147507,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -147584,7 +147648,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -148727,7 +148791,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.1,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -149566,8 +149630,8 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "cameraDistance": 3.75,
+            "collisionRadius": 0.3,
             "dodgeProbability": 0.2,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -149607,8 +149671,8 @@
         "modelScale": 0.63,
         "maxCP": 3128,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -149666,8 +149730,8 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "cameraDistance": 5,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.2,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -149761,7 +149825,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.3,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -149798,8 +149862,8 @@
         "modelScale": 0.6,
         "maxCP": 2802,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -149861,13 +149925,16 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 5,
-            "collisionRadius": 0.1,
+            "cameraDistance": 5.25,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
             "gender": {
                 "malePercent": 0.5,
                 "femalePercent": 0.5
@@ -151766,7 +151833,7 @@
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
-            "baseFleeRate": 1,
+            "baseCaptureRate": 1,
             "cameraDistance": 4,
             "collisionRadius": 0.1,
             "jumpTime": 0.9,
@@ -151860,7 +151927,7 @@
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
-            "baseFleeRate": 1,
+            "baseCaptureRate": 1,
             "cameraDistance": 2.5,
             "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
@@ -151956,7 +152023,7 @@
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
-            "baseFleeRate": 1,
+            "baseCaptureRate": 1,
             "cameraDistance": 5.55,
             "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
