@@ -127,6 +127,7 @@
     },
     "f_glasses_newyearglasses2020_0": {},
     "f_glasses_newyearglasses2021_0": {},
+    "f_glasses_roundsunglasses_0": {},
     "f_glasses_teardrop_0": {
         "name": "Flieger-\\nSonnenbrille"
     },
@@ -173,6 +174,7 @@
     "f_gloves_gymleader_0": {
         "name": "Arenaleiter-\\nHandschuhe"
     },
+    "f_gloves_hoopabangle_0": {},
     "f_gloves_korrina_0": {},
     "f_gloves_megabangle_0": {},
     "f_gloves_megabangleblue_0": {},
@@ -248,6 +250,7 @@
     "f_hat_frlg_0": {
         "name": "Blattgrüner Hut"
     },
+    "f_hat_furfrouwig_0": {},
     "f_hat_galarfarfetchditems_0": {},
     "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
@@ -363,6 +366,7 @@
     "f_pants_frlg_0": {
         "name": "Blattgrüner Rock"
     },
+    "f_pants_genderlessskirt_0": {},
     "f_pants_giovanni_0": {},
     "f_pants_green_0": {},
     "f_pants_gymleader_0": {
@@ -557,6 +561,7 @@
         "name": "Blattgrünes Oberteil"
     },
     "f_shirt_galarfarfetchditems_0": {},
+    "f_shirt_genderlessskirt_0": {},
     "f_shirt_gengar_0": {},
     "f_shirt_gengaronesie_0": {},
     "f_shirt_giovanni_0": {},
@@ -975,6 +980,7 @@
     },
     "m_glasses_newyearglasses2020_0": {},
     "m_glasses_newyearglasses2021_0": {},
+    "m_glasses_roundsunglasses_0": {},
     "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
         "name": "Fokus-Brille"
@@ -1016,6 +1022,7 @@
     "m_gloves_gymleader_0": {
         "name": "Arenaleiter-Handschuhe"
     },
+    "m_gloves_hoopabangle_0": {},
     "m_gloves_jogger": {
         "name": "Jogger-Uhr"
     },
@@ -1107,6 +1114,7 @@
     "m_hat_frlg_0": {
         "name": "Feuerrote Kappe"
     },
+    "m_hat_furfrouwig_0": {},
     "m_hat_galarfarfetchditems_0": {},
     "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
@@ -1191,6 +1199,7 @@
     "m_pants_frlg_0": {
         "name": "Feuerrote Hose"
     },
+    "m_pants_genderlessskirt_0": {},
     "m_pants_giovanni_0": {},
     "m_pants_green_0": {},
     "m_pants_gymleader_0": {
@@ -1322,6 +1331,7 @@
         "name": "Feuerrotes Oberteil"
     },
     "m_shirt_galarfarfetchditems_0": {},
+    "m_shirt_genderlessskirt_0": {},
     "m_shirt_gengar_0": {},
     "m_shirt_gengaronesie_0": {},
     "m_shirt_giovanni_0": {},

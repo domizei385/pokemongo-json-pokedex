@@ -704,7 +704,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Glasses"
+        "category": "Seasonal"
     },
     {
         "name": "Glasses Empty",
@@ -794,6 +794,17 @@
             "Glasses"
         ],
         "category": "Glasses"
+    },
+    {
+        "name": "Glasses Roundsunglasses",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_glasses_roundsunglasses_0",
+        "iconName": "f_glasses_roundsunglasses_00_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Glasses Teardrop 0",
@@ -997,6 +1008,17 @@
             "Gloves"
         ],
         "category": "Gloves"
+    },
+    {
+        "name": "Gloves Hoopabangle",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_hoopabangle_0",
+        "iconName": "f_gloves_hoopabangle_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Gloves Korrina",
@@ -1672,6 +1694,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Furfrouwig",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_furfrouwig_0",
+        "iconName": "f_hat_furfrouwig_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Galarfarfetchditems",
         "gender": "Female",
         "enabled": true,
@@ -1680,7 +1713,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Genesecteventitem",
@@ -1869,7 +1902,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Meltanearrings",
@@ -1924,7 +1957,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Munnapack 1",
@@ -1935,7 +1968,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Newyearhat2021",
@@ -2503,6 +2536,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Genderlessskirt",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_genderlessskirt_0",
+        "iconName": "f_pants_genderlessskirt_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Giovanni",
         "gender": "Female",
         "enabled": true,
@@ -2604,7 +2648,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Miniskirt 0",
@@ -2957,7 +3001,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Teamcandela",
@@ -2968,7 +3012,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Teammagma",
@@ -3001,7 +3045,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Turbine 0",
@@ -3674,7 +3718,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Detectivepikachu",
@@ -3752,7 +3796,18 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
+    },
+    {
+        "name": "Shirt Genderlessskirt",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_genderlessskirt_0",
+        "iconName": "f_shirt_genderlessskirt_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Gengar 0",
@@ -4155,7 +4210,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Mew 0",
@@ -4177,7 +4232,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Misty",
@@ -4387,7 +4442,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Pkmnshirts 238",
@@ -4398,7 +4453,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Poloshirt",
@@ -6682,7 +6737,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Glasses"
+        "category": "Seasonal"
     },
     {
         "name": "Glasses Empty",
@@ -6784,6 +6839,17 @@
             "Glasses"
         ],
         "category": "Glasses"
+    },
+    {
+        "name": "Glasses Roundsunglasses",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_roundsunglasses_0",
+        "iconName": "m_glasses_roundsunglasses_00_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Glasses Teardrop 0",
@@ -6975,6 +7041,17 @@
             "Gloves"
         ],
         "category": "Gloves"
+    },
+    {
+        "name": "Gloves Hoopabangle",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_hoopabangle_0",
+        "iconName": "m_gloves_hoopabangle_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Gloves Jogger 0",
@@ -7652,6 +7729,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Furfrouwig",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_furfrouwig_0",
+        "iconName": "m_hat_furfrouwig_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Galarfarfetchditems",
         "gender": "Male",
         "enabled": true,
@@ -7660,7 +7748,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Genesecteventitem",
@@ -7839,7 +7927,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Mewtwo",
@@ -7883,7 +7971,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Munnapack 1",
@@ -7894,7 +7982,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Newyearhat2021",
@@ -8386,6 +8474,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Genderlessskirt",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_genderlessskirt_0",
+        "iconName": "m_pants_genderlessskirt_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Giovanni",
         "gender": "Male",
         "enabled": true,
@@ -8510,7 +8609,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Munnapack",
@@ -8764,7 +8863,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Teamcandela",
@@ -8775,7 +8874,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Teammagma",
@@ -8808,7 +8907,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Ultra 0",
@@ -9449,7 +9548,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Detectivepikachu",
@@ -9539,7 +9638,18 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
+    },
+    {
+        "name": "Shirt Genderlessskirt",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_genderlessskirt_0",
+        "iconName": "m_shirt_genderlessskirt_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Gengar 0",
@@ -10020,7 +10130,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Mew 0",
@@ -10042,7 +10152,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Movie2020jessiejames",
@@ -10241,7 +10351,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Pkmnshirts 238",
@@ -10252,7 +10362,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Poloshirt",

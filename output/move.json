@@ -4369,6 +4369,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
+        "power": 45,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4376,6 +4377,7 @@
         "durationMs": 1300,
         "damageWindowStartMs": 650,
         "damageWindowEndMs": 1000,
+        "energyDelta": -33,
         "id": "RAZOR_SHELL",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",

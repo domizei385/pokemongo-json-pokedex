@@ -124464,6 +124464,10 @@
             {
                 "name": "Megahorn",
                 "id": "MEGAHORN"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
