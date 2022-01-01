@@ -88,6 +88,8 @@
         "name": "精靈球",
         "description": "捕捉野生寶可夢的道具。朝寶可夢投擲精靈球，精靈球就會像膠囊一樣打開，捕捉寶可夢。"
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "傷藥",
         "description": "噴霧式傷藥。能讓1隻寶可夢的HP回復{1}。"

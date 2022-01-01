@@ -88,6 +88,8 @@
         "name": "Pokéball",
         "description": "Damit fängst du wilde Pokémon. Du wirfst ihn wie einen normalen Ball. Das Design ähnelt dem einer Kapsel."
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "Trank",
         "description": "Hilft bei Wunden. Füllt {1} der KP eines Pokémon wieder auf."

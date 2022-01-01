@@ -88,6 +88,8 @@
         "name": "モンスターボール",
         "description": "野生のポケモンに投げて捕まえるためのボール。カプセル式になっている。"
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "キズぐすり",
         "description": "スプレー式のキズぐすり。ポケモン1匹のHPを{1}だけ回復する。"

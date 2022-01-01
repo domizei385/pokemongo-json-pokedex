@@ -88,6 +88,8 @@
         "name": "Poké Bola",
         "description": "Um dispositivo para pegar Pokémon selvagens, que é jogado como uma bola os encapsulando."
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "Poção",
         "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."

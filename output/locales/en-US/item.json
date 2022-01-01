@@ -88,6 +88,8 @@
         "name": "Poké Ball",
         "description": "A device for catching wild Pokémon. It's thrown like a ball, comfortably encapsulating its target."
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "Potion",
         "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."

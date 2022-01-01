@@ -4,6 +4,7 @@
     "f_backpack_cute_0": {
         "name": "Mochila con pajarita"
     },
+    "f_backpack_dedenneitems_0": {},
     "f_backpack_default_0": {
         "name": "Mochila Ball"
     },
@@ -34,6 +35,8 @@
     },
     "f_backpack_longchampbp_00": {},
     "f_backpack_mimikyubp_0": {},
+    "f_backpack_movie2020_0": {},
+    "f_backpack_nike2021_0": {},
     "f_backpack_pkmnhoodie001": {},
     "f_backpack_pkmnhoodie004": {},
     "f_backpack_pkmnhoodie007": {},
@@ -44,6 +47,7 @@
     "f_backpack_swshdlccostume_0": {},
     "f_backpack_togepibackpack_0": {},
     "f_backpack_ultra": {},
+    "f_backpack_verizon2021_0": {},
     "f_backpack_zubatbp_0": {},
     "f_belt_acetrainerbw_0": {},
     "f_belt_default_0": {
@@ -105,6 +109,7 @@
     "f_face_banettemask_0": {},
     "f_face_defaultmask_0": {},
     "f_face_empty": {},
+    "f_face_facestickerghostpika_0": {},
     "f_face_facestickerpikachu_0": {},
     "f_face_facestickerpokeball_0": {},
     "f_face_pikachumask_0": {},
@@ -125,6 +130,7 @@
     "f_glasses_mask_1": {
         "name": "Antifaz misterioso"
     },
+    "f_glasses_newyearglasses2022_0": {},
     "f_glasses_newyearglasses2020_0": {},
     "f_glasses_newyearglasses2021_0": {},
     "f_glasses_roundsunglasses_0": {},
@@ -176,6 +182,7 @@
     },
     "f_gloves_hoopabangle_0": {},
     "f_gloves_korrina_0": {},
+    "f_gloves_lysandre_0": {},
     "f_gloves_megabangle_0": {},
     "f_gloves_megabangleblue_0": {},
     "f_gloves_megabanglered_0": {},
@@ -224,6 +231,7 @@
         "name": "Gorro de repartidor"
     },
     "f_hat_cubonehat_0": {},
+    "f_hat_dedenneitems_0": {},
     "f_hat_default_A_0": {},
     "f_hat_default_A_1": {},
     "f_hat_default_A_2": {},
@@ -232,8 +240,10 @@
     "f_hat_default_A_5": {},
     "f_hat_default_B_0": {},
     "f_hat_default_B_1": {},
+    "f_hat_deino_0": {},
     "f_hat_delibird_0": {},
     "f_hat_detectivepikachu_0": {},
+    "f_hat_dp_0": {},
     "f_hat_drifloon_0": {},
     "f_hat_eeveecap_0": {},
     "f_hat_elesa_0": {},
@@ -254,12 +264,15 @@
     "f_hat_galarfarfetchditems_0": {},
     "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
+    "f_hat_goomy_0": {},
+    "f_hat_greencoat_0": {},
     "f_hat_guccihat_0": {},
     "f_hat_gyaradoscap_0": {},
     "f_hat_hgss_0": {
         "name": "Gorro\\nde Johto"
     },
     "f_hat_holidaybeanie_0": {},
+    "f_hat_hoopaearmuffs_0": {},
     "f_hat_kantotourcapgreen_0": {},
     "f_hat_kantotourcapred_0": {},
     "f_hat_knitted_0": {
@@ -281,14 +294,17 @@
     "f_hat_mewtwo_0": {},
     "f_hat_mimikyu_0": {},
     "f_hat_mismagius_0": {},
+    "f_hat_movie2020_0": {},
     "f_hat_munnapack_0": {},
     "f_hat_munnapack_1": {},
+    "f_hat_newyear2022_0": {},
     "f_hat_newyearhat2021_0": {},
     "f_hat_pikachucap_0": {},
     "f_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
     },
     "f_hat_pikachulibre_0": {},
+    "f_hat_pikachupumpkinhead_0": {},
     "f_hat_pkmncap_0": {},
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
@@ -317,10 +333,12 @@
         "name": "Sombrero de copa"
     },
     "f_hat_ultra_0": {},
+    "f_hat_verizon2021_0": {},
     "f_hat_whimsicottearmuff_0": {},
     "f_hat_willowglasses_0": {},
     "f_hat_woobatearrings_0": {},
     "f_hat_yamaskhat_0": {},
+    "f_shirt_newyear2022_0": {},
     "f_necklace_default_0": {
         "name": "Gargantilla lazo"
     },
@@ -363,12 +381,14 @@
     "f_pants_default_5": {
         "name": "Body pantalón corto"
     },
+    "f_pants_dp_0": {},
     "f_pants_frlg_0": {
         "name": "Falda\\nVerde Hoja"
     },
     "f_pants_genderlessskirt_0": {},
     "f_pants_giovanni_0": {},
     "f_pants_green_0": {},
+    "f_pants_greencoat_0": {},
     "f_pants_gymleader_0": {
         "name": "Falda\\nde Líder de Gimnasio"
     },
@@ -383,6 +403,7 @@
     },
     "f_pants_loosepants_0": {},
     "f_pants_luvdiscpack_0": {},
+    "f_pants_lysandre_0": {},
     "f_pants_mewtwo_0": {},
     "f_pants_miniskirt_0": {
         "name": "Minifalda con rayas"
@@ -422,10 +443,12 @@
     "f_pants_neon_stripes_1": {
         "name": "Mallas ajustadas"
     },
+    "f_pants_newyear2022_0": {},
     "f_pants_pikachufan_0": {
         "name": "Pantalones Fan de Pikachu"
     },
     "f_pants_pikachulibre_0": {},
+    "f_pants_pumpkabooitems_0": {},
     "f_pants_regiicejersies_0": {},
     "f_pants_regirockjersies_0": {},
     "f_pants_registeeljersies_0": {},
@@ -500,6 +523,8 @@
     "pose_29": {},
     "pose_30": {},
     "pose_31": {},
+    "pose_32": {},
+    "pose_33": {},
     "pose_empty": {},
     "f_shirt_acetrainerbw_0": {},
     "f_shirt_acetrainersm_0": {},
@@ -520,7 +545,9 @@
     "f_shirt_celebi_0": {
         "name": "Camiseta\\nde Celebi"
     },
+    "f_shirt_chimcharonesie_0": {},
     "f_shirt_cowichansweater_0": {},
+    "f_shirt_dayofdead_0": {},
     "f_shirt_default_0": {
         "name": "Chaqueta corta"
     },
@@ -551,6 +578,8 @@
     "f_shirt_delibird_0": {},
     "f_shirt_denimjacket_0": {},
     "f_shirt_detectivepikachu_0": {},
+    "f_shirt_diwali2021_0": {},
+    "f_shirt_dp_0": {},
     "f_shirt_drifblim_0": {},
     "f_shirt_earthday_2018": {
         "name": "Camiseta Surf Blue"
@@ -573,6 +602,7 @@
     "f_shirt_goteamrocketsierra_0": {},
     "f_shirt_greedentsweater_0": {},
     "f_shirt_green_0": {},
+    "f_shirt_greencoat_0": {},
     "f_shirt_guccitshirts_0": {},
     "f_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
@@ -591,6 +621,7 @@
     },
     "f_shirt_holifestival2021black_0": {},
     "f_shirt_holifestival2021white_0": {},
+    "f_shirt_hoopaunboundtshirt_0": {},
     "f_shirt_ingress_0": {},
     "f_shirt_ingress_e_0": {},
     "f_shirt_ingress_r_0": {},
@@ -603,6 +634,7 @@
     "f_shirt_luvdiscpack_0": {},
     "f_shirt_lvl50_0": {},
     "f_shirt_lvl50_1": {},
+    "f_shirt_lysandre_0": {},
     "f_shirt_megalopunnyitems_0": {},
     "f_shirt_melmetaljacket_0": {},
     "f_shirt_melmetalvest_0": {},
@@ -615,6 +647,7 @@
     "f_shirt_misty_0": {},
     "f_shirt_movie2020jessiejames_0": {},
     "f_shirt_munnapack_0": {},
+    "f_shirt_nike2021_0": {},
     "f_shirt_ocshirt_045": {},
     "f_shirt_ocshirt_108": {},
     "f_shirt_ocshirt_129": {},
@@ -624,6 +657,7 @@
     },
     "f_shirt_pikachulibre_0": {},
     "f_shirt_pikachuonesie_0": {},
+    "f_shirt_pipluponesie_0": {},
     "f_shirt_pkmnhoodie001": {},
     "f_shirt_pkmnhoodie004": {},
     "f_shirt_pkmnhoodie007": {},
@@ -637,6 +671,8 @@
     "f_shirt_poloshirt_0": {},
     "f_shirt_poloshirt_1": {},
     "f_shirt_poloshirt_2": {},
+    "f_shirt_projectguitar_0": {},
+    "f_shirt_pumpkabooitems_0": {},
     "f_shirt_regiicejersies_0": {},
     "f_shirt_regirockjersies_0": {},
     "f_shirt_registeeljersies_0": {},
@@ -755,6 +791,7 @@
     "f_shirt_tshirt_pikachu_6": {
         "name": "Camiseta Pikachu"
     },
+    "f_shirt_turtwigonesie_0": {},
     "f_shirt_ultra_0": {},
     "f_shirt_uniqlotshirts_0": {},
     "f_shirt_uniqlotshirts_1": {},
@@ -773,6 +810,7 @@
     },
     "f_shoes_bwn_0": {},
     "f_shoes_coolboots_0": {},
+    "f_shoes_dedenneitems_0": {},
     "f_shoes_default_0": {
         "name": "Zapatos de correr"
     },
@@ -795,6 +833,7 @@
         "name": "Zapatos de correr"
     },
     "f_shoes_delibird_0": {},
+    "f_shoes_dp_0": {},
     "f_shoes_elesa_0": {},
     "f_shoes_empty": {
         "name": "Sin calzado"
@@ -822,10 +861,13 @@
     "f_shoes_loosepants_2": {},
     "f_shoes_loosepants_3": {},
     "f_shoes_luvdiscpack_0": {},
+    "f_shoes_lysandre_0": {},
     "f_shoes_megalopunnyitems_0": {},
     "f_shoes_melmetalshoes_0": {},
     "f_shoes_mewtwo_0": {},
     "f_shoes_misty_0": {},
+    "f_shoes_newyear2022_0": {},
+    "f_shoes_nike2021_0": {},
     "f_shoes_pikachufan_0": {
         "name": "Zapatillas Fan de Pikachu"
     },
@@ -897,6 +939,7 @@
     },
     "m_backpack_animegou_0": {},
     "m_backpack_backpacker_0": {},
+    "m_backpack_dedenneitems_0": {},
     "m_backpack_default_0": {
         "name": "Mochila Ball"
     },
@@ -915,6 +958,7 @@
     "m_backpack_default_5": {
         "name": "Mochila Ball"
     },
+    "m_backpack_bd_0": {},
     "m_backpack_eggbackpack_0": {},
     "m_backpack_eggbackpack_1": {},
     "m_backpack_eggbackpack_2": {},
@@ -933,6 +977,8 @@
     },
     "m_backpack_longchampbp_00": {},
     "m_backpack_mimikyubp_0": {},
+    "m_backpack_movie2020_0": {},
+    "m_backpack_nike2021_0": {},
     "m_backpack_pkmnhoodie001": {},
     "m_backpack_pkmnhoodie004": {},
     "m_backpack_pkmnhoodie007": {},
@@ -943,6 +989,7 @@
     "m_backpack_swshdlccostume_0": {},
     "m_backpack_togepibackpack_0": {},
     "m_backpack_ultra": {},
+    "m_backpack_verizon2021_0": {},
     "m_backpack_zubatbp_0": {},
     "m_eyes_0": {},
     "m_eyes_1": {},
@@ -955,6 +1002,7 @@
     "m_face_banettemask_0": {},
     "m_face_defaultmask_0": {},
     "m_face_empty": {},
+    "m_face_facestickerghostpika_0": {},
     "m_face_facestickerpikachu_0": {},
     "m_face_facestickerpokeball_0": {},
     "m_face_pikachumask_0": {},
@@ -978,6 +1026,7 @@
     "m_glasses_mask_1": {
         "name": "Antifaz misterioso"
     },
+    "m_glasses_newyearglasses2022_0": {},
     "m_glasses_newyearglasses2020_0": {},
     "m_glasses_newyearglasses2021_0": {},
     "m_glasses_roundsunglasses_0": {},
@@ -1027,6 +1076,7 @@
         "name": "Reloj de corredor"
     },
     "m_gloves_korrina_0": {},
+    "m_gloves_lysandre_0": {},
     "m_gloves_megabangle_0": {},
     "m_gloves_megabangleblue_0": {},
     "m_gloves_megabanglered_0": {},
@@ -1075,6 +1125,7 @@
         "name": "Gorro de repartidor"
     },
     "m_hat_cubonehat_0": {},
+    "m_hat_dedenneitems_0": {},
     "m_hat_default_0": {
         "name": "Visera"
     },
@@ -1093,8 +1144,10 @@
     "m_hat_default_5": {
         "name": "Visera"
     },
+    "m_hat_deino_0": {},
     "m_hat_delibird_0": {},
     "m_hat_detectivepikachu_0": {},
+    "m_hat_dp_0": {},
     "m_hat_drifloon_0": {},
     "m_hat_eeveecap_0": {},
     "m_hat_elesa_0": {},
@@ -1118,12 +1171,15 @@
     "m_hat_galarfarfetchditems_0": {},
     "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
+    "m_hat_goomy_0": {},
+    "m_hat_greencoat_0": {},
     "m_hat_guccihat_0": {},
     "m_hat_gyaradoscap_0": {},
     "m_hat_hgss_0": {
         "name": "Gorra\\nde Johto"
     },
     "m_hat_holidaybeanie_0": {},
+    "m_hat_hoopaearmuffs_0": {},
     "m_hat_jogger_0": {
         "name": "Visera de corredor"
     },
@@ -1141,14 +1197,17 @@
     "m_hat_mewtwo_0": {},
     "m_hat_mimikyu_0": {},
     "m_hat_mismagius_0": {},
+    "m_hat_movie2020_0": {},
     "m_hat_munnapack_0": {},
     "m_hat_munnapack_1": {},
+    "m_hat_newyear2022_0": {},
     "m_hat_newyearhat2021_0": {},
     "m_hat_pikachucap_0": {},
     "m_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
     },
     "m_hat_pikachulibre_0": {},
+    "m_hat_pikachupumpkinhead_0": {},
     "m_hat_pkmncap_0": {},
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
@@ -1177,10 +1236,12 @@
         "name": "Sombrero de copa"
     },
     "m_hat_ultra_0": {},
+    "m_hat_verizon2021_0": {},
     "m_hat_whimsicottearmuff_0": {},
     "m_hat_willowglasses_0": {},
     "m_hat_woobatearrings_0": {},
     "m_hat_yamaskhat_0": {},
+    "m_shirt_newyear2022_0": {},
     "m_pants_acetrainerbw_0": {},
     "m_pants_acetrainersm_0": {},
     "m_pants_animegou_0": {},
@@ -1192,6 +1253,7 @@
     "m_pants_default_0": {
         "name": "Pantalón de chándal corto"
     },
+    "m_pants_dp_0": {},
     "m_pants_elesa_0": {},
     "m_pants_fisher_0": {
         "name": "Pantalones de pescador"
@@ -1202,6 +1264,7 @@
     "m_pants_genderlessskirt_0": {},
     "m_pants_giovanni_0": {},
     "m_pants_green_0": {},
+    "m_pants_greencoat_0": {},
     "m_pants_gymleader_0": {
         "name": "Pantalones\\nde Líder de Gimnasio"
     },
@@ -1220,12 +1283,15 @@
     "m_pants_korrina_0": {},
     "m_pants_loosepants_0": {},
     "m_pants_luvdiscpack_0": {},
+    "m_pants_lysandre_0": {},
     "m_pants_mewtwo_0": {},
     "m_pants_munnapack_0": {},
+    "m_pants_newyear2022_0": {},
     "m_pants_pikachufan_0": {
         "name": "Pantalones Fan de Pikachu"
     },
     "m_pants_pikachulibre_0": {},
+    "m_pants_pumpkabooitems_0": {},
     "m_pants_regiicejersies_0": {},
     "m_pants_regirockjersies_0": {},
     "m_pants_registeeljersies_0": {},
@@ -1287,7 +1353,9 @@
     "m_shirt_celebi_0": {
         "name": "Camiseta\\nde Celebi"
     },
+    "m_shirt_chimcharonesie_0": {},
     "m_shirt_cowichansweater_0": {},
+    "m_shirt_dayofdead_0": {},
     "m_shirt_default_0": {
         "name": "Sudadera diagonal"
     },
@@ -1318,6 +1386,8 @@
     "m_shirt_delibird_0": {},
     "m_shirt_denimjacket_0": {},
     "m_shirt_detectivepikachu_0": {},
+    "m_shirt_diwali2021_0": {},
+    "m_shirt_dp_0": {},
     "m_shirt_drifblim_0": {},
     "m_shirt_earthday_2018": {
         "name": "Camiseta Surf Blue"
@@ -1343,6 +1413,7 @@
     "m_shirt_goteamrocketsierra_0": {},
     "m_shirt_greedentsweater_0": {},
     "m_shirt_green_0": {},
+    "m_shirt_greencoat_0": {},
     "m_shirt_guccitshirts_0": {},
     "m_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
@@ -1361,6 +1432,7 @@
     },
     "m_shirt_holifestival2021black_0": {},
     "m_shirt_holifestival2021white_0": {},
+    "m_shirt_hoopaunboundtshirt_0": {},
     "m_shirt_ingress_0": {},
     "m_shirt_ingress_e_0": {},
     "m_shirt_ingress_r_0": {},
@@ -1394,6 +1466,7 @@
     "m_shirt_luvdiscpack_0": {},
     "m_shirt_lvl50_0": {},
     "m_shirt_lvl50_1": {},
+    "m_shirt_lysandre_0": {},
     "m_shirt_megalopunnyitems_0": {},
     "m_shirt_melmetaljacket_0": {},
     "m_shirt_melmetalvest_0": {},
@@ -1405,6 +1478,7 @@
     "m_shirt_mewtwo_0": {},
     "m_shirt_movie2020jessiejames_0": {},
     "m_shirt_munnapack_0": {},
+    "m_shirt_nike2021_0": {},
     "m_shirt_ocshirt_045": {},
     "m_shirt_ocshirt_108": {},
     "m_shirt_ocshirt_129": {},
@@ -1414,6 +1488,7 @@
     },
     "m_shirt_pikachulibre_0": {},
     "m_shirt_pikachuonesie_0": {},
+    "m_shirt_pipluponesie_0": {},
     "m_shirt_pkmnhoodie001": {},
     "m_shirt_pkmnhoodie004": {},
     "m_shirt_pkmnhoodie007": {},
@@ -1427,6 +1502,8 @@
     "m_shirt_poloshirt_0": {},
     "m_shirt_poloshirt_1": {},
     "m_shirt_poloshirt_2": {},
+    "m_shirt_projectguitar_0": {},
+    "m_shirt_pumpkabooitems_0": {},
     "m_shirt_regiicejersies_0": {},
     "m_shirt_regirockjersies_0": {},
     "m_shirt_registeeljersies_0": {},
@@ -1524,6 +1601,7 @@
     "m_shirt_turtleneck_30_3": {
         "name": "Cuello vuelto 30"
     },
+    "m_shirt_turtwigonesie_0": {},
     "m_shirt_ultra_0": {},
     "m_shirt_uniqlotshirts_0": {},
     "m_shirt_uniqlotshirts_1": {},
@@ -1540,6 +1618,7 @@
     "m_shoes_brock_0": {},
     "m_shoes_bwn_0": {},
     "m_shoes_coolboots_0": {},
+    "m_shoes_dedenneitems_0": {},
     "m_shoes_default_0": {
         "name": "Zapatos de correr"
     },
@@ -1562,6 +1641,7 @@
         "name": "Zapatos de correr"
     },
     "m_shoes_delibird_0": {},
+    "m_shoes_dp_0": {},
     "m_shoes_elesa_0": {},
     "m_shoes_empty": {
         "name": "Sin calzado"
@@ -1595,9 +1675,12 @@
     "m_shoes_loosepants_2": {},
     "m_shoes_loosepants_3": {},
     "m_shoes_luvdiscpack_0": {},
+    "m_shoes_lysandre_0": {},
     "m_shoes_megalopunnyitems_0": {},
     "m_shoes_melmetalshoes_0": {},
     "m_shoes_mewtwo_0": {},
+    "m_shoes_newyear2022_0": {},
+    "m_shoes_nike2021_0": {},
     "m_shoes_pikachufan_0": {
         "name": "Zapatillas Fan de Pikachu"
     },

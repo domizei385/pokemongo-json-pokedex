@@ -88,6 +88,8 @@
         "name": "몬스터볼",
         "description": "야생 포켓몬에게 던져서 잡기 위한 볼. 캡슐식으로 되어 있다."
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "상처약",
         "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다."

@@ -527,7 +527,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 90,
+        "power": 100,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.09,
         "trainerLevelMin": 1,
@@ -4966,5 +4966,25 @@
         },
         "name": "Weather Ball Normal",
         "internalId": 352
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 30,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "psychic_fangs",
+        "durationMs": 1200,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 1100,
+        "energyDelta": -33,
+        "id": "PSYCHIC_FANGS",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_PSYCHIC",
+            "name": "Psychic"
+        },
+        "name": "Psychic Fangs",
+        "internalId": 353
     }
 ]

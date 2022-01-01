@@ -88,6 +88,8 @@
         "name": "Poké Ball",
         "description": "Un objet semblable à une capsule, qui capture les Pokémon sauvages. Se jette comme une balle."
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "Potion",
         "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."

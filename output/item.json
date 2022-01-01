@@ -612,6 +612,39 @@
         "dropTrainerLevel": 1
     },
     {
+        "id": "POSTCARD_INVENTORY",
+        "name": "Postcard Inventory",
+        "category": {
+            "name": "Postcard Inventory",
+            "id": "POSTCARD_INVENTORY"
+        },
+        "type": {
+            "name": "Postcard Inventory",
+            "id": "POSTCARD_INVENTORY"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
+        "id": "POSTCARD_STORAGE_UPGRADE",
+        "name": "Postcard Storage Upgrade",
+        "category": {
+            "name": "Inventory Upgrade",
+            "id": "INVENTORY_UPGRADE"
+        },
+        "type": {
+            "name": "Inventory Upgrade",
+            "id": "INVENTORY_UPGRADE"
+        },
+        "dropTrainerLevel": 100,
+        "inventoryUpgrade": {
+            "additionalStorage": 50,
+            "type": {
+                "name": "Increase Item Storage",
+                "id": "INCREASE_ITEM_STORAGE"
+            }
+        }
+    },
+    {
         "id": "POTION",
         "name": "Potion",
         "category": {

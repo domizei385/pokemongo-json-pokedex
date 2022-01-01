@@ -88,6 +88,8 @@
         "name": "Poké Ball",
         "description": "Strumento dotato di capsula usato per catturare Pokémon selvatici. Si lancia contro il bersaglio come una palla."
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "Pozione",
         "description": "Rimedio spray per le ferite. Restituisce {1} dei PS a un Pokémon."

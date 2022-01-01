@@ -88,6 +88,8 @@
         "name": "Poké Ball",
         "description": "Dispositivo con diseño capsular que captura Pokémon salvajes. Se lanza como una bola contra el blanco."
     },
+    "POSTCARD_INVENTORY": {},
+    "POSTCARD_STORAGE_UPGRADE": {},
     "POTION": {
         "name": "Poción",
         "description": "Medicina en espray que cura heridas y restaura {1} de los PS de un Pokémon."
