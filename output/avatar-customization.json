@@ -200,6 +200,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Hououbackpack",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_hououbackpack_0",
+        "iconName": "f_backpack_hououbackpack_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Longchampbp",
         "gender": "Female",
         "enabled": true,
@@ -789,6 +800,17 @@
         "enabled": true,
         "id": "f_glasses_grandoakglasses",
         "iconName": "f_glasses_grandoakglasses_00_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Lugiaglasses",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_glasses_lugiaglasses_0",
+        "iconName": "f_glasses_lugiaglasses_00_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1781,6 +1803,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Flabebepack",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_flabebepack_0",
+        "iconName": "f_hat_flabebepack_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Fragment 0",
         "gender": "Female",
         "enabled": true,
@@ -1981,6 +2014,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Legendofarceus",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_legendofarceus_0",
+        "iconName": "f_hat_legendofarceus_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Litwickhat",
         "gender": "Female",
         "enabled": true,
@@ -2111,7 +2155,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Munnapack 1",
@@ -2122,7 +2166,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Newyear2022",
@@ -2141,6 +2185,17 @@
         "enabled": true,
         "id": "f_hat_newyearhat2021_0",
         "iconName": "f_hat_newyearhat2021_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Noibat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_noibat_0",
+        "iconName": "f_hat_noibat_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2733,6 +2788,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Flabebepack",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_flabebepack_0",
+        "iconName": "f_pants_flabebepack_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Frlg 0",
         "gender": "Female",
         "enabled": true,
@@ -2857,7 +2923,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Lysandre",
@@ -2978,7 +3044,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Neon Solid 0",
@@ -3776,6 +3842,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Ballguy",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ballguy_0",
+        "iconName": "f_shirt_ballguy_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Battlegirl 0",
         "gender": "Female",
         "enabled": true,
@@ -4084,6 +4161,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Flabebepack",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_flabebepack_0",
+        "iconName": "f_shirt_flabebepack_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Fragment 0",
         "gender": "Female",
         "enabled": true,
@@ -4256,6 +4344,28 @@
         "enabled": true,
         "id": "f_shirt_greencoat_0",
         "iconName": "f_shirt_greencoat_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gtrtshirt2022 00",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gtrtshirt2022_0",
+        "iconName": "f_shirt_gtrtshirt2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gtrtshirt2022 01",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gtrtshirt2022_1",
+        "iconName": "f_shirt_gtrtshirt2022_01_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -4464,6 +4574,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Legendofarceus",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_legendofarceus_0",
+        "iconName": "f_shirt_legendofarceus_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Luvdiscpack",
         "gender": "Female",
         "enabled": true,
@@ -4472,7 +4593,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Lvl50",
@@ -4617,7 +4738,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Nike2021",
@@ -5055,6 +5176,28 @@
         "enabled": true,
         "id": "f_shirt_sukajancharizard_0",
         "iconName": "f_shirt_sukajancharizard_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanhouou",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_sukajanhouou_0",
+        "iconName": "f_shirt_sukajanhouou_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanlugia",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_sukajanlugia_0",
+        "iconName": "f_shirt_sukajanlugia_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -5988,6 +6131,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Legendofarceus",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_legendofarceus_0",
+        "iconName": "f_shoes_legendofarceus_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Loosepants",
         "gender": "Female",
         "enabled": true,
@@ -6040,7 +6194,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Lysandre",
@@ -6628,6 +6782,28 @@
         "category": "Socks"
     },
     {
+        "name": "Socks Sneakersocks 0",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_socks_sneakersocks_0",
+        "iconName": "f_socks_sneakersocks_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
+    },
+    {
+        "name": "Socks Sneakersocks 1",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_socks_sneakersocks_1",
+        "iconName": "f_socks_sneakersocks_01_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Socks Swshuniformdefault",
         "gender": "Female",
         "enabled": true,
@@ -6888,6 +7064,17 @@
         "id": "m_backpack_hgss_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_backpack_hgss_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Hououbackpack",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_hououbackpack_0",
+        "iconName": "m_backpack_hououbackpack_00_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -7307,6 +7494,17 @@
         "id": "m_glasses_jogger_0",
         "unlockBadgeLevel": 10,
         "iconName": "m_glasses_jogger_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Lugiaglasses",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_lugiaglasses_0",
+        "iconName": "m_glasses_lugiaglasses_00_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -8289,6 +8487,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Flabebepack",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_flabebepack_0",
+        "iconName": "m_hat_flabebepack_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Fragment 0",
         "gender": "Male",
         "enabled": true,
@@ -8479,6 +8688,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Legendofarceus",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_legendofarceus_0",
+        "iconName": "m_hat_legendofarceus_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Litwickhat",
         "gender": "Male",
         "enabled": true,
@@ -8598,7 +8818,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Munnapack 1",
@@ -8609,7 +8829,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Newyear2022",
@@ -8628,6 +8848,17 @@
         "enabled": true,
         "id": "m_hat_newyearhat2021_0",
         "iconName": "m_hat_newyearhat2021_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Noibat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_noibat_0",
+        "iconName": "m_hat_noibat_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -9144,6 +9375,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Flabebepack",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_flabebepack_0",
+        "iconName": "m_pants_flabebepack_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Frlg 0",
         "gender": "Male",
         "enabled": true,
@@ -9291,7 +9533,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Lysandre",
@@ -9324,7 +9566,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Newyear2022",
@@ -10079,6 +10321,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Ballguy",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ballguy_0",
+        "iconName": "m_shirt_ballguy_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Blazer 0",
         "gender": "Male",
         "enabled": true,
@@ -10399,6 +10652,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Flabebepack",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_flabebepack_0",
+        "iconName": "m_shirt_flabebepack_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Fragment 0",
         "gender": "Male",
         "enabled": true,
@@ -10571,6 +10835,28 @@
         "enabled": true,
         "id": "m_shirt_greencoat_0",
         "iconName": "m_shirt_greencoat_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gtrtshirt2022 00",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gtrtshirt2022_0",
+        "iconName": "m_shirt_gtrtshirt2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gtrtshirt2022 01",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gtrtshirt2022_1",
+        "iconName": "m_shirt_gtrtshirt2022_01_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -10791,6 +11077,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Legendofarceus",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_legendofarceus_0",
+        "iconName": "m_shirt_legendofarceus_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Longsleeves Charizard 0",
         "gender": "Male",
         "enabled": true,
@@ -10865,7 +11162,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Lvl50",
@@ -10999,7 +11296,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Nike2021",
@@ -11437,6 +11734,28 @@
         "enabled": true,
         "id": "m_shirt_sukajancharizard_0",
         "iconName": "m_shirt_sukajancharizard_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanhouou",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_sukajanhouou_0",
+        "iconName": "m_shirt_sukajanhouou_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Sukajanlugia",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_sukajanlugia_0",
+        "iconName": "m_shirt_sukajanlugia_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -12317,6 +12636,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Legendofarceus",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_legendofarceus_0",
+        "iconName": "m_shoes_legendofarceus_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Loosepants",
         "gender": "Male",
         "enabled": true,
@@ -12369,7 +12699,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Lysandre",
@@ -12943,6 +13273,28 @@
             "Socks"
         ],
         "category": "Socks"
+    },
+    {
+        "name": "Socks Sneakersocks 0",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_socks_sneakersocks_0",
+        "iconName": "m_socks_sneakersocks_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
+    },
+    {
+        "name": "Socks Sneakersocks 1",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_socks_sneakersocks_1",
+        "iconName": "m_socks_sneakersocks_01_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Socks Swshuniformdefault",

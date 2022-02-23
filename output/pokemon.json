@@ -215,7 +215,9 @@
             "diskRadius": 0.5723,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "BULBASAUR_FALL_2019",
         "forms": [
             {
@@ -781,7 +783,9 @@
             "diskRadius": 0.4688,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "CHARMANDER_FALL_2019",
         "forms": [
             {
@@ -1343,7 +1347,9 @@
             "diskRadius": 0.5738,
             "shoulderModeScale": 0.1
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "SQUIRTLE_FALL_2019",
         "forms": [
             {
@@ -3514,7 +3520,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -3662,7 +3668,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -3808,7 +3814,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -3958,7 +3964,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.3,
             "jumpTime": 0.9,
@@ -4104,7 +4110,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -4254,7 +4260,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.3,
             "jumpTime": 0.9,
@@ -4400,7 +4406,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -4545,7 +4551,7 @@
             "attackTimer": 29,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -4690,7 +4696,7 @@
             "attackTimer": 29,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -4835,7 +4841,7 @@
             "attackTimer": 29,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -4981,7 +4987,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
-            "collisionRadius": 0.185,
+            "collisionRadius": 0.16,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
@@ -12996,6 +13002,17 @@
                     "costToEvolve": {
                         "candyCost": 50
                     }
+                },
+                {
+                    "name": "Slowking 2022",
+                    "id": "SLOWKING_2022",
+                    "costToEvolve": {
+                        "candyCost": 50,
+                        "evolutionItem": {
+                            "id": "ITEM_KINGS_ROCK",
+                            "name": "Kings Rock"
+                        }
+                    }
                 }
             ]
         },
@@ -16022,7 +16039,126 @@
             "futureBranches": []
         },
         "id": "VOLTORB",
-        "forms": []
+        "forms": [
+            {
+                "id": "VOLTORB",
+                "name": "Voltorb"
+            },
+            {
+                "id": "VOLTORB_HISUIAN",
+                "name": "Voltorb Hisuian"
+            }
+        ]
+    },
+    {
+        "dex": 100,
+        "name": "Voltorb Hisuian",
+        "animationTime": [
+            2.6667,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            2.3333,
+            2,
+            2
+        ],
+        "height": 0.5,
+        "modelHeight": 0.5,
+        "kmBuddyDistance": 3,
+        "weight": 13,
+        "modelScale": 1.35,
+        "maxCP": 1010,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Charge Beam Fast",
+                "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_VOLTORB",
+            "name": "Voltorb"
+        },
+        "stats": {
+            "baseAttack": 109,
+            "baseDefense": 111,
+            "baseStamina": 120
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            },
+            {
+                "id": "POKEMON_TYPE_GRASS",
+                "name": "Grass"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 3,
+            "collisionRadius": 0.3375,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.5063,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Electrode Hisuian",
+                    "id": "ELECTRODE_HISUIAN",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "VOLTORB_HISUIAN",
+        "forms": [
+            {
+                "id": "VOLTORB",
+                "name": "Voltorb"
+            },
+            {
+                "id": "VOLTORB_HISUIAN",
+                "name": "Voltorb Hisuian"
+            }
+        ]
     },
     {
         "dex": 101,
@@ -16113,7 +16249,124 @@
         },
         "evolution": {},
         "id": "ELECTRODE",
-        "forms": []
+        "forms": [
+            {
+                "id": "ELECTRODE",
+                "name": "Electrode"
+            },
+            {
+                "id": "ELECTRODE_HISUIAN",
+                "name": "Electrode Hisuian"
+            }
+        ]
+    },
+    {
+        "dex": 101,
+        "name": "Electrode Hisuian",
+        "animationTime": [
+            2.3333,
+            0.6667,
+            1.6667,
+            1.8333,
+            0,
+            2.3333,
+            3,
+            0
+        ],
+        "height": 1.2,
+        "modelHeight": 1.2,
+        "kmBuddyDistance": 3,
+        "weight": 71,
+        "modelScale": 0.92,
+        "maxCP": 2149,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_VOLTORB",
+            "name": "Voltorb"
+        },
+        "stats": {
+            "baseAttack": 176,
+            "baseDefense": 176,
+            "baseStamina": 155
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            },
+            {
+                "id": "POKEMON_TYPE_GRASS",
+                "name": "Grass"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 23,
+            "baseFleeRate": 0.06,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 5,
+            "collisionRadius": 0.552,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.828,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "pastBranch": {
+                "name": "Voltorb Hisuian",
+                "id": "VOLTORB_HISUIAN"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
+        "id": "ELECTRODE_HISUIAN",
+        "forms": [
+            {
+                "id": "ELECTRODE",
+                "name": "Electrode"
+            },
+            {
+                "id": "ELECTRODE_HISUIAN",
+                "name": "Electrode Hisuian"
+            }
+        ]
     },
     {
         "dex": 102,
@@ -22095,7 +22348,12 @@
             "futureBranches": []
         },
         "id": "CHIKORITA",
-        "forms": []
+        "forms": [
+            {
+                "id": "CHIKORITA",
+                "name": "Chikorita"
+            }
+        ]
     },
     {
         "dex": 153,
@@ -22188,7 +22446,12 @@
             "futureBranches": []
         },
         "id": "BAYLEEF",
-        "forms": []
+        "forms": [
+            {
+                "id": "BAYLEEF",
+                "name": "Bayleef"
+            }
+        ]
     },
     {
         "dex": 154,
@@ -22279,7 +22542,12 @@
         },
         "evolution": {},
         "id": "MEGANIUM",
-        "forms": []
+        "forms": [
+            {
+                "id": "MEGANIUM",
+                "name": "Meganium"
+            }
+        ]
     },
     {
         "dex": 155,
@@ -22372,7 +22640,12 @@
             "futureBranches": []
         },
         "id": "CYNDAQUIL",
-        "forms": []
+        "forms": [
+            {
+                "id": "CYNDAQUIL",
+                "name": "Cyndaquil"
+            }
+        ]
     },
     {
         "dex": 156,
@@ -22465,7 +22738,12 @@
             "futureBranches": []
         },
         "id": "QUILAVA",
-        "forms": []
+        "forms": [
+            {
+                "id": "QUILAVA",
+                "name": "Quilava"
+            }
+        ]
     },
     {
         "dex": 157,
@@ -22560,7 +22838,12 @@
         },
         "evolution": {},
         "id": "TYPHLOSION",
-        "forms": []
+        "forms": [
+            {
+                "id": "TYPHLOSION",
+                "name": "Typhlosion"
+            }
+        ]
     },
     {
         "dex": 158,
@@ -22653,7 +22936,12 @@
             "futureBranches": []
         },
         "id": "TOTODILE",
-        "forms": []
+        "forms": [
+            {
+                "id": "TOTODILE",
+                "name": "Totodile"
+            }
+        ]
     },
     {
         "dex": 159,
@@ -22746,7 +23034,12 @@
             "futureBranches": []
         },
         "id": "CROCONAW",
-        "forms": []
+        "forms": [
+            {
+                "id": "CROCONAW",
+                "name": "Croconaw"
+            }
+        ]
     },
     {
         "dex": 160,
@@ -22841,7 +23134,12 @@
         },
         "evolution": {},
         "id": "FERALIGATR",
-        "forms": []
+        "forms": [
+            {
+                "id": "FERALIGATR",
+                "name": "Feraligatr"
+            }
+        ]
     },
     {
         "dex": 161,
@@ -26928,7 +27226,19 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Slowpoke 2020",
+                "id": "SLOWPOKE_2020"
+            },
+            "costToEvolve": {
+                "candyCost": 50,
+                "evolutionItem": {
+                    "id": "ITEM_KINGS_ROCK",
+                    "name": "Kings Rock"
+                }
+            }
+        },
         "id": "SLOWKING_2022",
         "forms": [
             {
@@ -31759,6 +32069,110 @@
             {
                 "id": "RAIKOU",
                 "name": "Raikou"
+            },
+            {
+                "id": "RAIKOU_S",
+                "name": "Raikou S"
+            }
+        ]
+    },
+    {
+        "dex": 243,
+        "name": "Raikou S",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 1.91,
+        "modelHeight": 1.8,
+        "kmBuddyDistance": 20,
+        "weight": 178,
+        "modelScale": 0.78,
+        "maxCP": 3452,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Volt Switch Fast",
+                "id": "VOLT_SWITCH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_RAIKOU",
+            "name": "Raikou"
+        },
+        "stats": {
+            "baseAttack": 241,
+            "baseDefense": 195,
+            "baseStamina": 207
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 5.25,
+            "collisionRadius": 0.55,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "RAIKOU_S",
+        "forms": [
+            {
+                "id": "RAIKOU",
+                "name": "Raikou"
+            },
+            {
+                "id": "RAIKOU_S",
+                "name": "Raikou S"
             }
         ]
     },
@@ -31859,6 +32273,114 @@
             {
                 "id": "ENTEI",
                 "name": "Entei"
+            },
+            {
+                "id": "ENTEI_S",
+                "name": "Entei S"
+            }
+        ]
+    },
+    {
+        "dex": 244,
+        "name": "Entei S",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 2.11,
+        "modelHeight": 2.1,
+        "kmBuddyDistance": 20,
+        "weight": 198,
+        "modelScale": 0.73,
+        "maxCP": 3473,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Fire Spin Fast",
+                "id": "FIRE_SPIN_FAST"
+            },
+            {
+                "name": "Fire Fang Fast",
+                "id": "FIRE_FANG_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ENTEI",
+            "name": "Entei"
+        },
+        "stats": {
+            "baseAttack": 235,
+            "baseDefense": 171,
+            "baseStamina": 251
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 5.25,
+            "collisionRadius": 0.55,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "ENTEI_S",
+        "forms": [
+            {
+                "id": "ENTEI",
+                "name": "Entei"
+            },
+            {
+                "id": "ENTEI_S",
+                "name": "Entei S"
             }
         ]
     },
@@ -31959,6 +32481,114 @@
             {
                 "id": "SUICUNE",
                 "name": "Suicune"
+            },
+            {
+                "id": "SUICUNE_S",
+                "name": "Suicune S"
+            }
+        ]
+    },
+    {
+        "dex": 245,
+        "name": "Suicune S",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 2.01,
+        "modelHeight": 2.1,
+        "kmBuddyDistance": 20,
+        "weight": 187,
+        "modelScale": 0.73,
+        "maxCP": 2983,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Extrasensory Fast",
+                "id": "EXTRASENSORY_FAST"
+            },
+            {
+                "name": "Snarl Fast",
+                "id": "SNARL_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_SUICUNE",
+            "name": "Suicune"
+        },
+        "stats": {
+            "baseAttack": 180,
+            "baseDefense": 235,
+            "baseStamina": 225
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_WATER",
+                "name": "Water"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 5.25,
+            "collisionRadius": 0.65,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "SUICUNE_S",
+        "forms": [
+            {
+                "id": "SUICUNE",
+                "name": "Suicune"
+            },
+            {
+                "id": "SUICUNE_S",
+                "name": "Suicune S"
             }
         ]
     },
@@ -32406,6 +33036,110 @@
             {
                 "id": "LUGIA",
                 "name": "Lugia"
+            },
+            {
+                "id": "LUGIA_S",
+                "name": "Lugia S"
+            }
+        ]
+    },
+    {
+        "dex": 249,
+        "name": "Lugia S",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 5.21,
+        "modelHeight": 4.85,
+        "kmBuddyDistance": 20,
+        "weight": 216,
+        "modelScale": 0.42,
+        "maxCP": 3703,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Sky Attack",
+                "id": "SKY_ATTACK"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Futuresight",
+                "id": "FUTURESIGHT"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Extrasensory Fast",
+                "id": "EXTRASENSORY_FAST"
+            },
+            {
+                "name": "Dragon Tail Fast",
+                "id": "DRAGON_TAIL_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_LUGIA",
+            "name": "Lugia"
+        },
+        "stats": {
+            "baseAttack": 193,
+            "baseDefense": 310,
+            "baseStamina": 235
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_PSYCHIC",
+                "name": "Psychic"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 5,
+            "collisionRadius": 1.6,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "LUGIA_S",
+        "forms": [
+            {
+                "id": "LUGIA",
+                "name": "Lugia"
+            },
+            {
+                "id": "LUGIA_S",
+                "name": "Lugia S"
             }
         ]
     },
@@ -32510,6 +33244,118 @@
             {
                 "id": "HO_OH",
                 "name": "Ho Oh"
+            },
+            {
+                "id": "HO_OH_S",
+                "name": "Ho Oh S"
+            }
+        ]
+    },
+    {
+        "dex": 250,
+        "name": "Ho Oh S",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 3.81,
+        "modelHeight": 5.26,
+        "kmBuddyDistance": 20,
+        "weight": 199,
+        "modelScale": 0.53,
+        "maxCP": 3863,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Extrasensory Fast",
+                "id": "EXTRASENSORY_FAST"
+            },
+            {
+                "name": "Steel Wing Fast",
+                "id": "STEEL_WING_FAST"
+            },
+            {
+                "name": "Hidden Power Fast",
+                "id": "HIDDEN_POWER_FAST"
+            },
+            {
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_HO_OH",
+            "name": "Ho Oh"
+        },
+        "stats": {
+            "baseAttack": 239,
+            "baseDefense": 244,
+            "baseStamina": 214
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.04,
+            "baseCaptureRate": 0.02,
+            "cameraDistance": 4.5,
+            "collisionRadius": 1.2,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "HO_OH_S",
+        "forms": [
+            {
+                "id": "HO_OH",
+                "name": "Ho Oh"
+            },
+            {
+                "id": "HO_OH_S",
+                "name": "Ho Oh S"
             }
         ]
     },
@@ -37159,7 +38005,12 @@
             "futureBranches": []
         },
         "id": "WHISMUR",
-        "forms": []
+        "forms": [
+            {
+                "id": "WHISMUR",
+                "name": "Whismur"
+            }
+        ]
     },
     {
         "dex": 294,
@@ -37252,7 +38103,12 @@
             "futureBranches": []
         },
         "id": "LOUDRED",
-        "forms": []
+        "forms": [
+            {
+                "id": "LOUDRED",
+                "name": "Loudred"
+            }
+        ]
     },
     {
         "dex": 295,
@@ -37343,7 +38199,12 @@
         },
         "evolution": {},
         "id": "EXPLOUD",
-        "forms": []
+        "forms": [
+            {
+                "id": "EXPLOUD",
+                "name": "Exploud"
+            }
+        ]
     },
     {
         "dex": 296,
@@ -55323,7 +56184,7 @@
             0
         ],
         "height": 1.3,
-        "modelHeight": 1.2,
+        "modelHeight": 1.6,
         "kmBuddyDistance": 5,
         "weight": 61.5,
         "modelScale": 1.26,
@@ -84709,8 +85570,8 @@
             "attackTimer": 29,
             "baseFleeRate": 0.15,
             "baseCaptureRate": 0.5,
-            "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "cameraDistance": 2,
+            "collisionRadius": 0.12,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -84726,10 +85587,678 @@
         },
         "camera": {},
         "evolution": {
-            "futureBranches": []
+            "futureBranches": [
+                {
+                    "name": "Floette Red",
+                    "id": "FLOETTE_RED",
+                    "futureBranches": [
+                        {
+                            "name": "Florges Red",
+                            "id": "FLORGES_RED",
+                            "costToEvolve": {
+                                "candyCost": 100
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25
+                    }
+                }
+            ]
         },
         "id": "FLABEBE",
-        "forms": []
+        "forms": [
+            {
+                "id": "FLABEBE_RED",
+                "name": "Flabebe Red"
+            },
+            {
+                "id": "FLABEBE_BLUE",
+                "name": "Flabebe Blue"
+            },
+            {
+                "id": "FLABEBE_ORANGE",
+                "name": "Flabebe Orange"
+            },
+            {
+                "id": "FLABEBE_YELLOW",
+                "name": "Flabebe Yellow"
+            },
+            {
+                "id": "FLABEBE_WHITE",
+                "name": "Flabebe White"
+            }
+        ]
+    },
+    {
+        "dex": 669,
+        "name": "Flabebe Blue",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.1,
+        "modelHeight": 0.2,
+        "kmBuddyDistance": 3,
+        "weight": 0.1,
+        "modelScale": 2,
+        "maxCP": 1063,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 108,
+            "baseDefense": 120,
+            "baseStamina": 127
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.15,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2,
+            "collisionRadius": 0.12,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Floette Blue",
+                    "id": "FLOETTE_BLUE",
+                    "futureBranches": [
+                        {
+                            "name": "Florges Blue",
+                            "id": "FLORGES_BLUE",
+                            "costToEvolve": {
+                                "candyCost": 100
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25
+                    }
+                }
+            ]
+        },
+        "id": "FLABEBE_BLUE",
+        "forms": [
+            {
+                "id": "FLABEBE_RED",
+                "name": "Flabebe Red"
+            },
+            {
+                "id": "FLABEBE_BLUE",
+                "name": "Flabebe Blue"
+            },
+            {
+                "id": "FLABEBE_ORANGE",
+                "name": "Flabebe Orange"
+            },
+            {
+                "id": "FLABEBE_YELLOW",
+                "name": "Flabebe Yellow"
+            },
+            {
+                "id": "FLABEBE_WHITE",
+                "name": "Flabebe White"
+            }
+        ]
+    },
+    {
+        "dex": 669,
+        "name": "Flabebe Orange",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.1,
+        "modelHeight": 0.2,
+        "kmBuddyDistance": 3,
+        "weight": 0.1,
+        "modelScale": 2,
+        "maxCP": 1063,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 108,
+            "baseDefense": 120,
+            "baseStamina": 127
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.15,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2,
+            "collisionRadius": 0.12,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Floette Orange",
+                    "id": "FLOETTE_ORANGE",
+                    "futureBranches": [
+                        {
+                            "name": "Florges Orange",
+                            "id": "FLORGES_ORANGE",
+                            "costToEvolve": {
+                                "candyCost": 100
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25
+                    }
+                }
+            ]
+        },
+        "id": "FLABEBE_ORANGE",
+        "forms": [
+            {
+                "id": "FLABEBE_RED",
+                "name": "Flabebe Red"
+            },
+            {
+                "id": "FLABEBE_BLUE",
+                "name": "Flabebe Blue"
+            },
+            {
+                "id": "FLABEBE_ORANGE",
+                "name": "Flabebe Orange"
+            },
+            {
+                "id": "FLABEBE_YELLOW",
+                "name": "Flabebe Yellow"
+            },
+            {
+                "id": "FLABEBE_WHITE",
+                "name": "Flabebe White"
+            }
+        ]
+    },
+    {
+        "dex": 669,
+        "name": "Flabebe Red",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.1,
+        "modelHeight": 0.2,
+        "kmBuddyDistance": 3,
+        "weight": 0.1,
+        "modelScale": 2,
+        "maxCP": 1063,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 108,
+            "baseDefense": 120,
+            "baseStamina": 127
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.15,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2,
+            "collisionRadius": 0.12,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Floette Red",
+                    "id": "FLOETTE_RED",
+                    "futureBranches": [
+                        {
+                            "name": "Florges Red",
+                            "id": "FLORGES_RED",
+                            "costToEvolve": {
+                                "candyCost": 100
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25
+                    }
+                }
+            ]
+        },
+        "id": "FLABEBE_RED",
+        "forms": [
+            {
+                "id": "FLABEBE_RED",
+                "name": "Flabebe Red"
+            },
+            {
+                "id": "FLABEBE_BLUE",
+                "name": "Flabebe Blue"
+            },
+            {
+                "id": "FLABEBE_ORANGE",
+                "name": "Flabebe Orange"
+            },
+            {
+                "id": "FLABEBE_YELLOW",
+                "name": "Flabebe Yellow"
+            },
+            {
+                "id": "FLABEBE_WHITE",
+                "name": "Flabebe White"
+            }
+        ]
+    },
+    {
+        "dex": 669,
+        "name": "Flabebe White",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.1,
+        "modelHeight": 0.2,
+        "kmBuddyDistance": 3,
+        "weight": 0.1,
+        "modelScale": 2,
+        "maxCP": 1063,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 108,
+            "baseDefense": 120,
+            "baseStamina": 127
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.15,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2,
+            "collisionRadius": 0.12,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Floette White",
+                    "id": "FLOETTE_WHITE",
+                    "futureBranches": [
+                        {
+                            "name": "Florges White",
+                            "id": "FLORGES_WHITE",
+                            "costToEvolve": {
+                                "candyCost": 100
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25
+                    }
+                }
+            ]
+        },
+        "id": "FLABEBE_WHITE",
+        "forms": [
+            {
+                "id": "FLABEBE_RED",
+                "name": "Flabebe Red"
+            },
+            {
+                "id": "FLABEBE_BLUE",
+                "name": "Flabebe Blue"
+            },
+            {
+                "id": "FLABEBE_ORANGE",
+                "name": "Flabebe Orange"
+            },
+            {
+                "id": "FLABEBE_YELLOW",
+                "name": "Flabebe Yellow"
+            },
+            {
+                "id": "FLABEBE_WHITE",
+                "name": "Flabebe White"
+            }
+        ]
+    },
+    {
+        "dex": 669,
+        "name": "Flabebe Yellow",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.1,
+        "modelHeight": 0.2,
+        "kmBuddyDistance": 3,
+        "weight": 0.1,
+        "modelScale": 2,
+        "maxCP": 1063,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 108,
+            "baseDefense": 120,
+            "baseStamina": 127
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.15,
+            "baseCaptureRate": 0.5,
+            "cameraDistance": 2,
+            "collisionRadius": 0.12,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Floette Yellow",
+                    "id": "FLOETTE_YELLOW",
+                    "futureBranches": [
+                        {
+                            "name": "Florges Yellow",
+                            "id": "FLORGES_YELLOW",
+                            "costToEvolve": {
+                                "candyCost": 100
+                            }
+                        }
+                    ],
+                    "costToEvolve": {
+                        "candyCost": 25
+                    }
+                }
+            ]
+        },
+        "id": "FLABEBE_YELLOW",
+        "forms": [
+            {
+                "id": "FLABEBE_RED",
+                "name": "Flabebe Red"
+            },
+            {
+                "id": "FLABEBE_BLUE",
+                "name": "Flabebe Blue"
+            },
+            {
+                "id": "FLABEBE_ORANGE",
+                "name": "Flabebe Orange"
+            },
+            {
+                "id": "FLABEBE_YELLOW",
+                "name": "Flabebe Yellow"
+            },
+            {
+                "id": "FLABEBE_WHITE",
+                "name": "Flabebe White"
+            }
+        ]
     },
     {
         "dex": 670,
@@ -84797,7 +86326,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.25,
-            "cameraDistance": 4,
+            "cameraDistance": 2.5,
             "collisionRadius": 0.1,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
@@ -84814,10 +86343,659 @@
         },
         "camera": {},
         "evolution": {
-            "futureBranches": []
+            "futureBranches": [
+                {
+                    "name": "Florges Red",
+                    "id": "FLORGES_RED",
+                    "costToEvolve": {
+                        "candyCost": 100
+                    }
+                }
+            ]
         },
         "id": "FLOETTE",
-        "forms": []
+        "forms": [
+            {
+                "id": "FLOETTE_RED",
+                "name": "Floette Red"
+            },
+            {
+                "id": "FLOETTE_BLUE",
+                "name": "Floette Blue"
+            },
+            {
+                "id": "FLOETTE_ORANGE",
+                "name": "Floette Orange"
+            },
+            {
+                "id": "FLOETTE_YELLOW",
+                "name": "Floette Yellow"
+            },
+            {
+                "id": "FLOETTE_WHITE",
+                "name": "Floette White"
+            }
+        ]
+    },
+    {
+        "dex": 670,
+        "name": "Floette Blue",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.36,
+        "kmBuddyDistance": 3,
+        "weight": 0.9,
+        "modelScale": 1.55,
+        "maxCP": 1532,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 136,
+            "baseDefense": 151,
+            "baseStamina": 144
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.25,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Flabebe Blue",
+                "id": "FLABEBE_BLUE"
+            },
+            "costToEvolve": {
+                "candyCost": 25
+            },
+            "futureBranches": [
+                {
+                    "name": "Florges Blue",
+                    "id": "FLORGES_BLUE",
+                    "costToEvolve": {
+                        "candyCost": 100
+                    }
+                }
+            ]
+        },
+        "id": "FLOETTE_BLUE",
+        "forms": [
+            {
+                "id": "FLOETTE_RED",
+                "name": "Floette Red"
+            },
+            {
+                "id": "FLOETTE_BLUE",
+                "name": "Floette Blue"
+            },
+            {
+                "id": "FLOETTE_ORANGE",
+                "name": "Floette Orange"
+            },
+            {
+                "id": "FLOETTE_YELLOW",
+                "name": "Floette Yellow"
+            },
+            {
+                "id": "FLOETTE_WHITE",
+                "name": "Floette White"
+            }
+        ]
+    },
+    {
+        "dex": 670,
+        "name": "Floette Orange",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.36,
+        "kmBuddyDistance": 3,
+        "weight": 0.9,
+        "modelScale": 1.55,
+        "maxCP": 1532,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 136,
+            "baseDefense": 151,
+            "baseStamina": 144
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.25,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Flabebe Orange",
+                "id": "FLABEBE_ORANGE"
+            },
+            "costToEvolve": {
+                "candyCost": 25
+            },
+            "futureBranches": [
+                {
+                    "name": "Florges Orange",
+                    "id": "FLORGES_ORANGE",
+                    "costToEvolve": {
+                        "candyCost": 100
+                    }
+                }
+            ]
+        },
+        "id": "FLOETTE_ORANGE",
+        "forms": [
+            {
+                "id": "FLOETTE_RED",
+                "name": "Floette Red"
+            },
+            {
+                "id": "FLOETTE_BLUE",
+                "name": "Floette Blue"
+            },
+            {
+                "id": "FLOETTE_ORANGE",
+                "name": "Floette Orange"
+            },
+            {
+                "id": "FLOETTE_YELLOW",
+                "name": "Floette Yellow"
+            },
+            {
+                "id": "FLOETTE_WHITE",
+                "name": "Floette White"
+            }
+        ]
+    },
+    {
+        "dex": 670,
+        "name": "Floette Red",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.36,
+        "kmBuddyDistance": 3,
+        "weight": 0.9,
+        "modelScale": 1.55,
+        "maxCP": 1532,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 136,
+            "baseDefense": 151,
+            "baseStamina": 144
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.25,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Flabebe",
+                "id": "FLABEBE"
+            },
+            "costToEvolve": {
+                "candyCost": 25
+            },
+            "futureBranches": [
+                {
+                    "name": "Florges Red",
+                    "id": "FLORGES_RED",
+                    "costToEvolve": {
+                        "candyCost": 100
+                    }
+                }
+            ]
+        },
+        "id": "FLOETTE_RED",
+        "forms": [
+            {
+                "id": "FLOETTE_RED",
+                "name": "Floette Red"
+            },
+            {
+                "id": "FLOETTE_BLUE",
+                "name": "Floette Blue"
+            },
+            {
+                "id": "FLOETTE_ORANGE",
+                "name": "Floette Orange"
+            },
+            {
+                "id": "FLOETTE_YELLOW",
+                "name": "Floette Yellow"
+            },
+            {
+                "id": "FLOETTE_WHITE",
+                "name": "Floette White"
+            }
+        ]
+    },
+    {
+        "dex": 670,
+        "name": "Floette White",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.36,
+        "kmBuddyDistance": 3,
+        "weight": 0.9,
+        "modelScale": 1.55,
+        "maxCP": 1532,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 136,
+            "baseDefense": 151,
+            "baseStamina": 144
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.25,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Flabebe White",
+                "id": "FLABEBE_WHITE"
+            },
+            "costToEvolve": {
+                "candyCost": 25
+            },
+            "futureBranches": [
+                {
+                    "name": "Florges White",
+                    "id": "FLORGES_WHITE",
+                    "costToEvolve": {
+                        "candyCost": 100
+                    }
+                }
+            ]
+        },
+        "id": "FLOETTE_WHITE",
+        "forms": [
+            {
+                "id": "FLOETTE_RED",
+                "name": "Floette Red"
+            },
+            {
+                "id": "FLOETTE_BLUE",
+                "name": "Floette Blue"
+            },
+            {
+                "id": "FLOETTE_ORANGE",
+                "name": "Floette Orange"
+            },
+            {
+                "id": "FLOETTE_YELLOW",
+                "name": "Floette Yellow"
+            },
+            {
+                "id": "FLOETTE_WHITE",
+                "name": "Floette White"
+            }
+        ]
+    },
+    {
+        "dex": 670,
+        "name": "Floette Yellow",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 0.2,
+        "modelHeight": 0.36,
+        "kmBuddyDistance": 3,
+        "weight": 0.9,
+        "modelScale": 1.55,
+        "maxCP": 1532,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 136,
+            "baseDefense": 151,
+            "baseStamina": 144
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.25,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Flabebe Yellow",
+                "id": "FLABEBE_YELLOW"
+            },
+            "costToEvolve": {
+                "candyCost": 25
+            },
+            "futureBranches": [
+                {
+                    "name": "Florges Yellow",
+                    "id": "FLORGES_YELLOW",
+                    "costToEvolve": {
+                        "candyCost": 100
+                    }
+                }
+            ]
+        },
+        "id": "FLOETTE_YELLOW",
+        "forms": [
+            {
+                "id": "FLOETTE_RED",
+                "name": "Floette Red"
+            },
+            {
+                "id": "FLOETTE_BLUE",
+                "name": "Floette Blue"
+            },
+            {
+                "id": "FLOETTE_ORANGE",
+                "name": "Floette Orange"
+            },
+            {
+                "id": "FLOETTE_YELLOW",
+                "name": "Floette Yellow"
+            },
+            {
+                "id": "FLOETTE_WHITE",
+                "name": "Floette White"
+            }
+        ]
     },
     {
         "dex": 671,
@@ -84893,8 +87071,8 @@
             "attackTimer": 29,
             "baseFleeRate": 0.05,
             "baseCaptureRate": 0.125,
-            "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "cameraDistance": 3,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -84911,7 +87089,671 @@
         "camera": {},
         "evolution": {},
         "id": "FLORGES",
-        "forms": []
+        "forms": [
+            {
+                "id": "FLORGES_RED",
+                "name": "Florges Red"
+            },
+            {
+                "id": "FLORGES_BLUE",
+                "name": "Florges Blue"
+            },
+            {
+                "id": "FLORGES_ORANGE",
+                "name": "Florges Orange"
+            },
+            {
+                "id": "FLORGES_YELLOW",
+                "name": "Florges Yellow"
+            },
+            {
+                "id": "FLORGES_WHITE",
+                "name": "Florges White"
+            }
+        ]
+    },
+    {
+        "dex": 671,
+        "name": "Florges Blue",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 1.1,
+        "modelHeight": 1.28,
+        "kmBuddyDistance": 3,
+        "weight": 10,
+        "modelScale": 0.9,
+        "maxCP": 3234,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 212,
+            "baseDefense": 244,
+            "baseStamina": 186
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.05,
+            "baseCaptureRate": 0.125,
+            "cameraDistance": 3,
+            "collisionRadius": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Floette Blue",
+                "id": "FLOETTE_BLUE",
+                "pastBranch": {
+                    "name": "Flabebe Blue",
+                    "id": "FLABEBE_BLUE"
+                },
+                "costToEvolve": {
+                    "candyCost": 25
+                }
+            },
+            "costToEvolve": {
+                "candyCost": 100
+            }
+        },
+        "id": "FLORGES_BLUE",
+        "forms": [
+            {
+                "id": "FLORGES_RED",
+                "name": "Florges Red"
+            },
+            {
+                "id": "FLORGES_BLUE",
+                "name": "Florges Blue"
+            },
+            {
+                "id": "FLORGES_ORANGE",
+                "name": "Florges Orange"
+            },
+            {
+                "id": "FLORGES_YELLOW",
+                "name": "Florges Yellow"
+            },
+            {
+                "id": "FLORGES_WHITE",
+                "name": "Florges White"
+            }
+        ]
+    },
+    {
+        "dex": 671,
+        "name": "Florges Orange",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 1.1,
+        "modelHeight": 1.28,
+        "kmBuddyDistance": 3,
+        "weight": 10,
+        "modelScale": 0.9,
+        "maxCP": 3234,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 212,
+            "baseDefense": 244,
+            "baseStamina": 186
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.05,
+            "baseCaptureRate": 0.125,
+            "cameraDistance": 3,
+            "collisionRadius": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Floette Orange",
+                "id": "FLOETTE_ORANGE",
+                "pastBranch": {
+                    "name": "Flabebe Orange",
+                    "id": "FLABEBE_ORANGE"
+                },
+                "costToEvolve": {
+                    "candyCost": 25
+                }
+            },
+            "costToEvolve": {
+                "candyCost": 100
+            }
+        },
+        "id": "FLORGES_ORANGE",
+        "forms": [
+            {
+                "id": "FLORGES_RED",
+                "name": "Florges Red"
+            },
+            {
+                "id": "FLORGES_BLUE",
+                "name": "Florges Blue"
+            },
+            {
+                "id": "FLORGES_ORANGE",
+                "name": "Florges Orange"
+            },
+            {
+                "id": "FLORGES_YELLOW",
+                "name": "Florges Yellow"
+            },
+            {
+                "id": "FLORGES_WHITE",
+                "name": "Florges White"
+            }
+        ]
+    },
+    {
+        "dex": 671,
+        "name": "Florges Red",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 1.1,
+        "modelHeight": 1.28,
+        "kmBuddyDistance": 3,
+        "weight": 10,
+        "modelScale": 0.9,
+        "maxCP": 3234,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 212,
+            "baseDefense": 244,
+            "baseStamina": 186
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.05,
+            "baseCaptureRate": 0.125,
+            "cameraDistance": 3,
+            "collisionRadius": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Floette",
+                "id": "FLOETTE"
+            },
+            "costToEvolve": {
+                "candyCost": 100
+            }
+        },
+        "id": "FLORGES_RED",
+        "forms": [
+            {
+                "id": "FLORGES_RED",
+                "name": "Florges Red"
+            },
+            {
+                "id": "FLORGES_BLUE",
+                "name": "Florges Blue"
+            },
+            {
+                "id": "FLORGES_ORANGE",
+                "name": "Florges Orange"
+            },
+            {
+                "id": "FLORGES_YELLOW",
+                "name": "Florges Yellow"
+            },
+            {
+                "id": "FLORGES_WHITE",
+                "name": "Florges White"
+            }
+        ]
+    },
+    {
+        "dex": 671,
+        "name": "Florges White",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 1.1,
+        "modelHeight": 1.28,
+        "kmBuddyDistance": 3,
+        "weight": 10,
+        "modelScale": 0.9,
+        "maxCP": 3234,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 212,
+            "baseDefense": 244,
+            "baseStamina": 186
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.05,
+            "baseCaptureRate": 0.125,
+            "cameraDistance": 3,
+            "collisionRadius": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Floette White",
+                "id": "FLOETTE_WHITE",
+                "pastBranch": {
+                    "name": "Flabebe White",
+                    "id": "FLABEBE_WHITE"
+                },
+                "costToEvolve": {
+                    "candyCost": 25
+                }
+            },
+            "costToEvolve": {
+                "candyCost": 100
+            }
+        },
+        "id": "FLORGES_WHITE",
+        "forms": [
+            {
+                "id": "FLORGES_RED",
+                "name": "Florges Red"
+            },
+            {
+                "id": "FLORGES_BLUE",
+                "name": "Florges Blue"
+            },
+            {
+                "id": "FLORGES_ORANGE",
+                "name": "Florges Orange"
+            },
+            {
+                "id": "FLORGES_YELLOW",
+                "name": "Florges Yellow"
+            },
+            {
+                "id": "FLORGES_WHITE",
+                "name": "Florges White"
+            }
+        ]
+    },
+    {
+        "dex": 671,
+        "name": "Florges Yellow",
+        "animationTime": [
+            1.9,
+            0.6666,
+            1.7666,
+            0,
+            2.4,
+            0.08667,
+            0
+        ],
+        "height": 1.1,
+        "modelHeight": 1.28,
+        "kmBuddyDistance": 3,
+        "weight": 10,
+        "modelScale": 0.9,
+        "maxCP": 3234,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Petal Blizzard",
+                "id": "PETAL_BLIZZARD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Vine Whip Fast",
+                "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_FLABEBE",
+            "name": "Flabebe"
+        },
+        "stats": {
+            "baseAttack": 212,
+            "baseDefense": 244,
+            "baseStamina": 186
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.05,
+            "baseCaptureRate": 0.125,
+            "cameraDistance": 3,
+            "collisionRadius": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {},
+        "evolution": {
+            "pastBranch": {
+                "name": "Floette Yellow",
+                "id": "FLOETTE_YELLOW",
+                "pastBranch": {
+                    "name": "Flabebe Yellow",
+                    "id": "FLABEBE_YELLOW"
+                },
+                "costToEvolve": {
+                    "candyCost": 25
+                }
+            },
+            "costToEvolve": {
+                "candyCost": 100
+            }
+        },
+        "id": "FLORGES_YELLOW",
+        "forms": [
+            {
+                "id": "FLORGES_RED",
+                "name": "Florges Red"
+            },
+            {
+                "id": "FLORGES_BLUE",
+                "name": "Florges Blue"
+            },
+            {
+                "id": "FLORGES_ORANGE",
+                "name": "Florges Orange"
+            },
+            {
+                "id": "FLORGES_YELLOW",
+                "name": "Florges Yellow"
+            },
+            {
+                "id": "FLORGES_WHITE",
+                "name": "Florges White"
+            }
+        ]
     },
     {
         "dex": 672,
@@ -88516,8 +91358,8 @@
                 "id": "BULLDOZE"
             },
             {
-                "name": "Discharge",
-                "id": "DISCHARGE"
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
@@ -88555,7 +91397,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.5,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.14,
             "dodgeProbability": 0.2,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -88655,7 +91497,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 3,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.3,
             "dodgeProbability": 0.25,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -89400,7 +92242,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.175,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -89891,8 +92733,8 @@
         "modelScale": 0.84,
         "maxCP": 2559,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -91228,7 +94070,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.4,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -91268,8 +94110,8 @@
         "modelScale": 0.46,
         "maxCP": 3198,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -91324,7 +94166,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
-            "collisionRadius": 0.1,
+            "collisionRadius": 0.6,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
@@ -92096,8 +94938,8 @@
         "modelScale": 1.17,
         "maxCP": 4006,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {

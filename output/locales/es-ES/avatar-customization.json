@@ -33,6 +33,7 @@
     "f_backpack_hgss_0": {
         "name": "Bolso\\nde Johto"
     },
+    "f_backpack_hououbackpack_0": {},
     "f_backpack_longchampbp_00": {},
     "f_backpack_mimikyubp_0": {},
     "f_backpack_movie2020_0": {},
@@ -123,6 +124,7 @@
     },
     "f_glasses_goteamrocketarlo": {},
     "f_glasses_grandoakglasses": {},
+    "f_glasses_lugiaglasses_0": {},
     "f_glasses_lv40glasses_00": {},
     "f_glasses_mask_0": {
         "name": "Antifaz misterioso"
@@ -256,6 +258,7 @@
     "f_hat_fedora_1": {
         "name": "Sombrero de fieltro"
     },
+    "f_hat_flabebepack_0": {},
     "f_hat_fragment_0": {},
     "f_hat_frlg_0": {
         "name": "Sombrero\\nVerde Hoja"
@@ -282,6 +285,7 @@
         "name": "Gorro de lana"
     },
     "f_hat_korrina_0": {},
+    "f_hat_legendofarceus_0": {},
     "f_hat_litwickhat_0": {},
     "f_hat_loneearrings_0": {},
     "f_hat_lvl50cap_0": {},
@@ -299,6 +303,7 @@
     "f_hat_munnapack_1": {},
     "f_hat_newyear2022_0": {},
     "f_hat_newyearhat2021_0": {},
+    "f_hat_noibat_0": {},
     "f_hat_pikachucap_0": {},
     "f_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
@@ -382,6 +387,7 @@
         "name": "Body pantalón corto"
     },
     "f_pants_dp_0": {},
+    "f_pants_flabebepack_0": {},
     "f_pants_frlg_0": {
         "name": "Falda\\nVerde Hoja"
     },
@@ -531,6 +537,7 @@
     "f_shirt_animegou_0": {},
     "f_shirt_aseries_0": {},
     "f_shirt_backpacker_0": {},
+    "f_shirt_ballguy_0": {},
     "f_shirt_battlegirl_0": {
         "name": "Camiseta de luchadora"
     },
@@ -585,6 +592,7 @@
         "name": "Camiseta Surf Blue"
     },
     "f_shirt_elesa_0": {},
+    "f_shirt_flabebepack_0": {},
     "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "Camiseta\\nVerde Hoja"
@@ -603,6 +611,8 @@
     "f_shirt_greedentsweater_0": {},
     "f_shirt_green_0": {},
     "f_shirt_greencoat_0": {},
+    "f_shirt_gtrtshirt2022_0": {},
+    "f_shirt_gtrtshirt2022_1": {},
     "f_shirt_guccitshirts_0": {},
     "f_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
@@ -631,6 +641,7 @@
     "f_shirt_latias_latios_0": {
         "name": "Camisa de Latios e Latias"
     },
+    "f_shirt_legendofarceus_0": {},
     "f_shirt_luvdiscpack_0": {},
     "f_shirt_lvl50_0": {},
     "f_shirt_lvl50_1": {},
@@ -689,6 +700,8 @@
     "f_shirt_steven_0": {},
     "f_shirt_sukajanblastoise_0": {},
     "f_shirt_sukajancharizard_0": {},
+    "f_shirt_sukajanhouou_0": {},
+    "f_shirt_sukajanlugia_0": {},
     "f_shirt_sukajanvenusaur_0": {},
     "f_shirt_sustainability2021_0": {},
     "f_shirt_sweater_30_0": {
@@ -856,6 +869,7 @@
         "name": "Zapatos\\nde Johto"
     },
     "f_shoes_korrina_0": {},
+    "f_shoes_legendofarceus_0": {},
     "f_shoes_loosepants_0": {},
     "f_shoes_loosepants_1": {},
     "f_shoes_loosepants_2": {},
@@ -931,6 +945,8 @@
     "f_socks_hgss_0": {
         "name": "Calcetines\\nde Johto"
     },
+    "f_socks_sneakersocks_0": {},
+    "f_socks_sneakersocks_1": {},
     "f_socks_swshuniformdefault_0": {},
     "f_socks_swshuniformdragon_0": {},
     "f_socks_teamaqua_0": {},
@@ -975,6 +991,7 @@
     "m_backpack_hgss_0": {
         "name": "Bolsa\\nde Johto"
     },
+    "m_backpack_hououbackpack_0": {},
     "m_backpack_longchampbp_00": {},
     "m_backpack_mimikyubp_0": {},
     "m_backpack_movie2020_0": {},
@@ -1019,6 +1036,7 @@
     "m_glasses_jogger_0": {
         "name": "Gafas de sol de corredor"
     },
+    "m_glasses_lugiaglasses_0": {},
     "m_glasses_lv40glasses_00": {},
     "m_glasses_mask_0": {
         "name": "Antifaz misterioso"
@@ -1163,6 +1181,7 @@
     "m_hat_fisher_0": {
         "name": "Gorra de pescador"
     },
+    "m_hat_flabebepack_0": {},
     "m_hat_fragment_0": {},
     "m_hat_frlg_0": {
         "name": "Gorra\\nRojo Fuego"
@@ -1186,6 +1205,7 @@
     "m_hat_kantotourcapgreen_0": {},
     "m_hat_kantotourcapred_0": {},
     "m_hat_korrina_0": {},
+    "m_hat_legendofarceus_0": {},
     "m_hat_litwickhat_0": {},
     "m_hat_loneearrings_0": {},
     "m_hat_lvl50cap_0": {},
@@ -1202,6 +1222,7 @@
     "m_hat_munnapack_1": {},
     "m_hat_newyear2022_0": {},
     "m_hat_newyearhat2021_0": {},
+    "m_hat_noibat_0": {},
     "m_hat_pikachucap_0": {},
     "m_hat_pikachufan_0": {
         "name": "Orejas Fan de Pikachu"
@@ -1258,6 +1279,7 @@
     "m_pants_fisher_0": {
         "name": "Pantalones de pescador"
     },
+    "m_pants_flabebepack_0": {},
     "m_pants_frlg_0": {
         "name": "Pantalones\\nRojo Fuego"
     },
@@ -1341,6 +1363,7 @@
     "m_shirt_animegou_0": {},
     "m_shirt_aseries_0": {},
     "m_shirt_backpacker_0": {},
+    "m_shirt_ballguy_0": {},
     "m_shirt_blazer_0": {
         "name": "Blazer"
     },
@@ -1396,6 +1419,7 @@
     "m_shirt_fisher_0": {
         "name": "Chaleco de pescador"
     },
+    "m_shirt_flabebepack_0": {},
     "m_shirt_fragment_0": {},
     "m_shirt_frlg_0": {
         "name": "Camiseta\\nRojo Fuego"
@@ -1414,6 +1438,8 @@
     "m_shirt_greedentsweater_0": {},
     "m_shirt_green_0": {},
     "m_shirt_greencoat_0": {},
+    "m_shirt_gtrtshirt2022_0": {},
+    "m_shirt_gtrtshirt2022_1": {},
     "m_shirt_guccitshirts_0": {},
     "m_shirt_gymleader_0": {
         "name": "Camiseta\\nde Líder de Gimnasio"
@@ -1445,6 +1471,7 @@
     "m_shirt_latias_latios_0": {
         "name": "Camisa de Latios e Latias"
     },
+    "m_shirt_legendofarceus_0": {},
     "m_shirt_longsleeves_charizard_0": {
         "name": "Jersey Charizard"
     },
@@ -1520,6 +1547,8 @@
     "m_shirt_steven_0": {},
     "m_shirt_sukajanblastoise_0": {},
     "m_shirt_sukajancharizard_0": {},
+    "m_shirt_sukajanhouou_0": {},
+    "m_shirt_sukajanlugia_0": {},
     "m_shirt_sukajanvenusaur_0": {},
     "m_shirt_sustainability2021_0": {},
     "m_shirt_sweatshirt_sporty_0": {
@@ -1670,6 +1699,7 @@
         "name": "Zapatos de corredor"
     },
     "m_shoes_korrina_0": {},
+    "m_shoes_legendofarceus_0": {},
     "m_shoes_loosepants_0": {},
     "m_shoes_loosepants_1": {},
     "m_shoes_loosepants_2": {},
@@ -1744,6 +1774,8 @@
     "m_socks_empty": {
         "name": "Sin medias"
     },
+    "m_socks_sneakersocks_0": {},
+    "m_socks_sneakersocks_1": {},
     "m_socks_swshuniformdefault_0": {},
     "m_socks_swshuniformdragon_0": {}
 }

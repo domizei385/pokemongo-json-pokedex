@@ -947,7 +947,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 25,
+        "power": 65,
         "criticalChance": 0.05,
         "staminaLossScalar": 0.05,
         "trainerLevelMin": 1,
@@ -4986,5 +4986,165 @@
         },
         "name": "Psychic Fangs",
         "internalId": 353
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 16,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "magical_leaf_fast",
+        "durationMs": 1400,
+        "damageWindowStartMs": 750,
+        "damageWindowEndMs": 1300,
+        "energyDelta": 16,
+        "id": "MAGICAL_LEAF_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "name": "Magical Leaf Fast",
+        "internalId": 357
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 120,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "sacred_fire",
+        "durationMs": 2600,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "energyDelta": -100,
+        "id": "SACRED_FIRE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Sacred Fire",
+        "internalId": 358
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 60,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "icicle_spear",
+        "durationMs": 2200,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1800,
+        "energyDelta": -33,
+        "id": "ICICLE_SPEAR",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ICE",
+            "name": "Ice"
+        },
+        "name": "Icicle Spear",
+        "internalId": 359
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 200,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "aeroblast",
+        "durationMs": 3400,
+        "damageWindowStartMs": 3200,
+        "damageWindowEndMs": 3400,
+        "energyDelta": -100,
+        "id": "AEROBLAST_PLUS",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Aeroblast Plus",
+        "internalId": 360
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 225,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "aeroblast",
+        "durationMs": 3400,
+        "damageWindowStartMs": 3200,
+        "damageWindowEndMs": 3400,
+        "energyDelta": -100,
+        "id": "AEROBLAST_PLUS_PLUS",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Aeroblast Plus Plus",
+        "internalId": 361
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 135,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "sacred_fire",
+        "durationMs": 2600,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "energyDelta": -100,
+        "id": "SACRED_FIRE_PLUS",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Sacred Fire Plus",
+        "internalId": 362
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 155,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "sacred_fire",
+        "durationMs": 2600,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 2400,
+        "energyDelta": -100,
+        "id": "SACRED_FIRE_PLUS_PLUS",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Sacred Fire Plus Plus",
+        "internalId": 363
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 100,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "acrobatics",
+        "durationMs": 2000,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -100,
+        "id": "ACROBATICS",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Acrobatics",
+        "internalId": 364
     }
 ]
