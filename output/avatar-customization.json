@@ -1811,7 +1811,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Fragment 0",
@@ -1967,7 +1967,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Kantotourcapred",
@@ -1978,7 +1978,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Knitted 0",
@@ -2155,7 +2155,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Munnapack 1",
@@ -2166,7 +2166,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Newyear2022",
@@ -2796,7 +2796,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Frlg 0",
@@ -2923,7 +2923,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Lysandre",
@@ -3044,7 +3044,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Neon Solid 0",
@@ -3850,7 +3850,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Battlegirl 0",
@@ -4169,7 +4169,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Fragment 0",
@@ -4593,7 +4593,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Lvl50",
@@ -4738,7 +4738,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Nike2021",
@@ -5168,7 +5168,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajancharizard",
@@ -5179,7 +5179,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajanhouou",
@@ -5190,7 +5190,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajanlugia",
@@ -5201,7 +5201,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajanvenusaur",
@@ -5212,7 +5212,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sustainability2021",
@@ -6194,7 +6194,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Lysandre",
@@ -6790,7 +6790,7 @@
         "slot": [
             "Socks"
         ],
-        "category": "Seasonal"
+        "category": "Socks"
     },
     {
         "name": "Socks Sneakersocks 1",
@@ -6801,7 +6801,7 @@
         "slot": [
             "Socks"
         ],
-        "category": "Seasonal"
+        "category": "Socks"
     },
     {
         "name": "Socks Swshuniformdefault",
@@ -8495,7 +8495,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Fragment 0",
@@ -8663,7 +8663,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Kantotourcapred",
@@ -8674,7 +8674,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Korrina",
@@ -8818,7 +8818,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Munnapack 1",
@@ -8829,7 +8829,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Newyear2022",
@@ -9383,7 +9383,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Frlg 0",
@@ -9533,7 +9533,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Lysandre",
@@ -9566,7 +9566,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Newyear2022",
@@ -10329,7 +10329,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Blazer 0",
@@ -10660,7 +10660,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Fragment 0",
@@ -11162,7 +11162,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Lvl50",
@@ -11296,7 +11296,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Nike2021",
@@ -11726,7 +11726,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajancharizard",
@@ -11737,7 +11737,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajanhouou",
@@ -11748,7 +11748,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajanlugia",
@@ -11759,7 +11759,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sukajanvenusaur",
@@ -11770,7 +11770,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Sustainability2021",
@@ -12699,7 +12699,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Lysandre",
@@ -13283,7 +13283,7 @@
         "slot": [
             "Socks"
         ],
-        "category": "Seasonal"
+        "category": "Socks"
     },
     {
         "name": "Socks Sneakersocks 1",
@@ -13294,7 +13294,7 @@
         "slot": [
             "Socks"
         ],
-        "category": "Seasonal"
+        "category": "Socks"
     },
     {
         "name": "Socks Swshuniformdefault",

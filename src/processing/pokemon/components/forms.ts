@@ -38,19 +38,20 @@ export class Forms implements IComponent {
         });
 
     const forms: PokemonForm[] = [];
-    //console.log("Forms: " + itemTemplate);
+
     if (itemTemplate && itemTemplate.formSettings && itemTemplate.formSettings.forms) {
-
       itemTemplate.formSettings.forms.forEach(f => {
+        //console.log("Form: " + f.form);
+        if (f.form) {
+          const formName = this.removeSuffixIfNeeded(f.form);
 
-        const formName = this.removeSuffixIfNeeded(f.form);
-
-        forms.push({
-          id: formName,
-          name: Util.SnakeCase2HumanReadable(formName),
-          assetBundleValue: f.assetBundleValue,
-          assetBundleSuffix: f.assetBundleSuffix
-        });
+          forms.push({
+            id: formName,
+            name: Util.SnakeCase2HumanReadable(formName),
+            assetBundleValue: f.assetBundleValue,
+            assetBundleSuffix: f.assetBundleSuffix
+          });
+        }
       });
     }
 
