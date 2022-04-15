@@ -7,6 +7,7 @@
         "name": "りゅうのウロコ",
         "description": "ある特定のポケモンを進化させるウロコ。固くて丈夫。"
     },
+    "EVENT_TICKET_GRAY": {},
     "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},

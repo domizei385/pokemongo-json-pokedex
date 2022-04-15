@@ -96546,6 +96546,491 @@
         "forms": []
     },
     {
+        "dex": 741,
+        "name": "Oricorio",
+        "height": 0.6,
+        "modelHeight": 0.73,
+        "kmBuddyDistance": 3,
+        "weight": 3.4,
+        "maxCP": 2333,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Pound Fast",
+                "id": "POUND_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ORICORIO",
+            "name": "Oricorio"
+        },
+        "stats": {
+            "baseAttack": 196,
+            "baseDefense": 145,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 4,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
+            }
+        },
+        "camera": {},
+        "evolution": {},
+        "id": "ORICORIO",
+        "forms": [
+            {
+                "id": "ORICORIO_BAILE",
+                "name": "Oricorio Baile"
+            },
+            {
+                "id": "ORICORIO_POMPOM",
+                "name": "Oricorio Pompom"
+            },
+            {
+                "id": "ORICORIO_PAU",
+                "name": "Oricorio Pau"
+            },
+            {
+                "id": "ORICORIO_SENSU",
+                "name": "Oricorio Sensu"
+            }
+        ]
+    },
+    {
+        "dex": 741,
+        "name": "Oricorio Baile",
+        "height": 0.6,
+        "modelHeight": 0.73,
+        "kmBuddyDistance": 3,
+        "weight": 3.4,
+        "maxCP": 2333,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Pound Fast",
+                "id": "POUND_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ORICORIO",
+            "name": "Oricorio"
+        },
+        "stats": {
+            "baseAttack": 196,
+            "baseDefense": 145,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 4,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
+            }
+        },
+        "camera": {},
+        "evolution": {},
+        "id": "ORICORIO_BAILE",
+        "forms": [
+            {
+                "id": "ORICORIO_BAILE",
+                "name": "Oricorio Baile"
+            },
+            {
+                "id": "ORICORIO_POMPOM",
+                "name": "Oricorio Pompom"
+            },
+            {
+                "id": "ORICORIO_PAU",
+                "name": "Oricorio Pau"
+            },
+            {
+                "id": "ORICORIO_SENSU",
+                "name": "Oricorio Sensu"
+            }
+        ]
+    },
+    {
+        "dex": 741,
+        "name": "Oricorio Pau",
+        "height": 0.6,
+        "modelHeight": 0.73,
+        "kmBuddyDistance": 3,
+        "weight": 3.4,
+        "maxCP": 2333,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Pound Fast",
+                "id": "POUND_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ORICORIO",
+            "name": "Oricorio"
+        },
+        "stats": {
+            "baseAttack": 196,
+            "baseDefense": 145,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_PSYCHIC",
+                "name": "Psychic"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 4,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
+            }
+        },
+        "camera": {},
+        "evolution": {},
+        "id": "ORICORIO_PAU",
+        "forms": [
+            {
+                "id": "ORICORIO_BAILE",
+                "name": "Oricorio Baile"
+            },
+            {
+                "id": "ORICORIO_POMPOM",
+                "name": "Oricorio Pompom"
+            },
+            {
+                "id": "ORICORIO_PAU",
+                "name": "Oricorio Pau"
+            },
+            {
+                "id": "ORICORIO_SENSU",
+                "name": "Oricorio Sensu"
+            }
+        ]
+    },
+    {
+        "dex": 741,
+        "name": "Oricorio Pompom",
+        "height": 0.6,
+        "modelHeight": 0.73,
+        "kmBuddyDistance": 3,
+        "weight": 3.4,
+        "maxCP": 2333,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Pound Fast",
+                "id": "POUND_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ORICORIO",
+            "name": "Oricorio"
+        },
+        "stats": {
+            "baseAttack": 196,
+            "baseDefense": 145,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 4,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
+            }
+        },
+        "camera": {},
+        "evolution": {},
+        "id": "ORICORIO_POMPOM",
+        "forms": [
+            {
+                "id": "ORICORIO_BAILE",
+                "name": "Oricorio Baile"
+            },
+            {
+                "id": "ORICORIO_POMPOM",
+                "name": "Oricorio Pompom"
+            },
+            {
+                "id": "ORICORIO_PAU",
+                "name": "Oricorio Pau"
+            },
+            {
+                "id": "ORICORIO_SENSU",
+                "name": "Oricorio Sensu"
+            }
+        ]
+    },
+    {
+        "dex": 741,
+        "name": "Oricorio Sensu",
+        "height": 0.6,
+        "modelHeight": 0.6,
+        "kmBuddyDistance": 3,
+        "weight": 3.4,
+        "maxCP": 2333,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Air Cutter",
+                "id": "AIR_CUTTER"
+            },
+            {
+                "name": "Hurricane",
+                "id": "HURRICANE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Pound Fast",
+                "id": "POUND_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ORICORIO",
+            "name": "Oricorio"
+        },
+        "stats": {
+            "baseAttack": 196,
+            "baseDefense": 145,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GHOST",
+                "name": "Ghost"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 4,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 0.5,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.25,
+                "femalePercent": 0.75
+            }
+        },
+        "camera": {},
+        "evolution": {},
+        "id": "ORICORIO_SENSU",
+        "forms": [
+            {
+                "id": "ORICORIO_BAILE",
+                "name": "Oricorio Baile"
+            },
+            {
+                "id": "ORICORIO_POMPOM",
+                "name": "Oricorio Pompom"
+            },
+            {
+                "id": "ORICORIO_PAU",
+                "name": "Oricorio Pau"
+            },
+            {
+                "id": "ORICORIO_SENSU",
+                "name": "Oricorio Sensu"
+            }
+        ]
+    },
+    {
         "dex": 742,
         "name": "Cutiefly",
         "height": 0.1,
@@ -97604,7 +98089,7 @@
         "dex": 751,
         "name": "Dewpider",
         "height": 0.3,
-        "modelHeight": 1,
+        "modelHeight": 0.52,
         "kmBuddyDistance": 3,
         "weight": 4,
         "maxCP": 714,
@@ -97614,14 +98099,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Infestation Fast",
+                "id": "INFESTATION_FAST"
+            },
+            {
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
             }
         ],
         "family": {
@@ -97647,9 +98144,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 2,
+            "collisionRadius": 0.19,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97677,19 +98176,31 @@
         "weight": 82,
         "maxCP": 1827,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Bubble Beam",
+                "id": "BUBBLE_BEAM"
+            },
+            {
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Infestation Fast",
+                "id": "INFESTATION_FAST"
+            },
+            {
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
             }
         ],
         "family": {
@@ -97715,9 +98226,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 7,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97738,7 +98251,7 @@
         "dex": 753,
         "name": "Fomantis",
         "height": 0.3,
-        "modelHeight": 1,
+        "modelHeight": 0.4,
         "kmBuddyDistance": 3,
         "weight": 1.5,
         "maxCP": 741,
@@ -97748,14 +98261,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Leaf Blade",
+                "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Fury Cutter Fast",
+                "id": "FURY_CUTTER_FAST"
             }
         ],
         "family": {
@@ -97777,9 +98302,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 2,
+            "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97802,7 +98329,7 @@
         "dex": 754,
         "name": "Lurantis",
         "height": 0.9,
-        "modelHeight": 1,
+        "modelHeight": 0.9,
         "kmBuddyDistance": 3,
         "weight": 18.5,
         "maxCP": 2398,
@@ -97812,14 +98339,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Leaf Blade",
+                "id": "LEAF_BLADE"
+            },
+            {
+                "name": "Leaf Storm",
+                "id": "LEAF_STORM"
+            },
+            {
+                "name": "Super Power",
+                "id": "SUPER_POWER"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Fury Cutter Fast",
+                "id": "FURY_CUTTER_FAST"
             }
         ],
         "family": {
@@ -97841,9 +98384,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 3,
+            "collisionRadius": 0.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97998,7 +98543,7 @@
         "dex": 757,
         "name": "Salandit",
         "height": 0.6,
-        "modelHeight": 1,
+        "modelHeight": 0.24,
         "kmBuddyDistance": 3,
         "weight": 4.8,
         "maxCP": 1122,
@@ -98008,14 +98553,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Ember Fast",
+                "id": "EMBER_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -98041,9 +98598,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -98066,7 +98625,7 @@
         "dex": 758,
         "name": "Salazzle",
         "height": 1.2,
-        "modelHeight": 1,
+        "modelHeight": 0.6,
         "kmBuddyDistance": 3,
         "weight": 22.2,
         "maxCP": 2479,
@@ -98076,14 +98635,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
+            },
+            {
+                "name": "Fire Blast",
+                "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -98110,8 +98685,10 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
+            "collisionRadius": 0.25,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -98132,7 +98709,7 @@
         "dex": 759,
         "name": "Stufful",
         "height": 0.5,
-        "modelHeight": 1,
+        "modelHeight": 0.673,
         "kmBuddyDistance": 1,
         "weight": 6.8,
         "maxCP": 1352,
@@ -98142,14 +98719,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Super Power",
+                "id": "SUPER_POWER"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -98176,8 +98765,10 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.5,
             "cameraDistance": 4,
+            "collisionRadius": 0.15,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -98200,24 +98791,40 @@
         "dex": 760,
         "name": "Bewear",
         "height": 2.1,
-        "modelHeight": 1,
+        "modelHeight": 2.2,
         "kmBuddyDistance": 1,
         "weight": 135,
         "maxCP": 3117,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Super Power",
+                "id": "SUPER_POWER"
+            },
+            {
+                "name": "Payback",
+                "id": "PAYBACK"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Low Kick Fast",
+                "id": "LOW_KICK_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
             }
         ],
         "family": {
@@ -98243,9 +98850,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.06,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 4.5,
+            "collisionRadius": 0.7,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -98541,14 +99150,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Foul Play",
+                "id": "FOUL_PLAY"
+            },
+            {
+                "name": "Futuresight",
+                "id": "FUTURESIGHT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Yawn Fast",
+                "id": "YAWN_FAST"
             }
         ],
         "family": {
@@ -98575,8 +99200,10 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
+            "collisionRadius": 0.6,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -101786,10 +102413,6 @@
         "id": "MINIOR",
         "forms": [
             {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
-            {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
             },
@@ -101880,10 +102503,6 @@
         "evolution": {},
         "id": "MINIOR_BLUE",
         "forms": [
-            {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
             {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
@@ -101976,10 +102595,6 @@
         "id": "MINIOR_GREEN",
         "forms": [
             {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
-            {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
             },
@@ -102070,105 +102685,6 @@
         "evolution": {},
         "id": "MINIOR_INDIGO",
         "forms": [
-            {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
-            {
-                "id": "MINIOR_BLUE",
-                "name": "Minior Blue"
-            },
-            {
-                "id": "MINIOR_GREEN",
-                "name": "Minior Green"
-            },
-            {
-                "id": "MINIOR_INDIGO",
-                "name": "Minior Indigo"
-            },
-            {
-                "id": "MINIOR_ORANGE",
-                "name": "Minior Orange"
-            },
-            {
-                "id": "MINIOR_RED",
-                "name": "Minior Red"
-            },
-            {
-                "id": "MINIOR_VIOLET",
-                "name": "Minior Violet"
-            },
-            {
-                "id": "MINIOR_YELLOW",
-                "name": "Minior Yellow"
-            }
-        ]
-    },
-    {
-        "dex": 774,
-        "name": "Minior Meteor",
-        "height": 0.3,
-        "modelHeight": 1,
-        "kmBuddyDistance": 3,
-        "weight": 40,
-        "maxCP": 1542,
-        "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
-        },
-        "cinematicMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
-        "quickMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
-        "family": {
-            "id": "FAMILY_MINIOR",
-            "name": "Minior"
-        },
-        "stats": {
-            "baseAttack": 116,
-            "baseDefense": 194,
-            "baseStamina": 155
-        },
-        "types": [
-            {
-                "id": "POKEMON_TYPE_ROCK",
-                "name": "Rock"
-            },
-            {
-                "id": "POKEMON_TYPE_FLYING",
-                "name": "Flying"
-            }
-        ],
-        "encounter": {
-            "attackProbability": 0.1,
-            "baseFleeRate": 0.1,
-            "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
-            "dodgeDistance": 0.5,
-            "dodgeProbability": 0.15,
-            "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
-            "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
-            }
-        },
-        "camera": {},
-        "evolution": {},
-        "id": "MINIOR_METEOR",
-        "forms": [
-            {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
             {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
@@ -102261,10 +102777,6 @@
         "id": "MINIOR_ORANGE",
         "forms": [
             {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
-            {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
             },
@@ -102355,10 +102867,6 @@
         "evolution": {},
         "id": "MINIOR_RED",
         "forms": [
-            {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
             {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
@@ -102451,10 +102959,6 @@
         "id": "MINIOR_VIOLET",
         "forms": [
             {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
-            {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
             },
@@ -102545,10 +103049,6 @@
         "evolution": {},
         "id": "MINIOR_YELLOW",
         "forms": [
-            {
-                "id": "MINIOR_METEOR",
-                "name": "Minior Meteor"
-            },
             {
                 "id": "MINIOR_BLUE",
                 "name": "Minior Blue"
@@ -103522,14 +104022,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Futuresight",
+                "id": "FUTURESIGHT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
             }
         ],
         "family": {
@@ -103559,6 +104075,7 @@
             "collisionRadius": 0.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -103585,14 +104102,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Megahorn",
+                "id": "MEGAHORN"
+            },
+            {
+                "name": "Solar Beam",
+                "id": "SOLAR_BEAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
             }
         ],
         "family": {
@@ -103622,6 +104155,7 @@
             "collisionRadius": 0.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -103648,14 +104182,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Hidden Power Fast",
+                "id": "HIDDEN_POWER_FAST"
             }
         ],
         "family": {
@@ -103685,6 +104235,7 @@
             "collisionRadius": 0.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {

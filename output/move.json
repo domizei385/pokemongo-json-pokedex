@@ -4291,6 +4291,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
+        "power": 50,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4298,6 +4299,7 @@
         "durationMs": 2400,
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1500,
+        "energyDelta": -33,
         "id": "DRAIN_PUNCH",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",

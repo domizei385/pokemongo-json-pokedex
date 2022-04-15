@@ -7,6 +7,7 @@
         "name": "Écaille Draco",
         "description": "Une écaille qui fait évoluer certaines espèces de Pokémon. C’est une écaille épaisse et dure."
     },
+    "EVENT_TICKET_GRAY": {},
     "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},

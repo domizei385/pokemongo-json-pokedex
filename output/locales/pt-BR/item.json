@@ -7,6 +7,7 @@
         "name": "Escama de Dragão",
         "description": "Escama que faz com que certas espécies de Pokémon evoluam. É robusta e resistente."
     },
+    "EVENT_TICKET_GRAY": {},
     "EVENT_TICKET_PINK": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},

@@ -729,6 +729,39 @@
         "category": "Face"
     },
     {
+        "name": "Face Festofcolors 00",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_festOfColors_0",
+        "iconName": "f_face_festofcolors_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Festofcolors 01",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_festOfColors_1",
+        "iconName": "f_face_festofcolors_01_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Festofcolors 02",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_festOfColors_2",
+        "iconName": "f_face_festofcolors_02_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Face Pikachumask",
         "gender": "Female",
         "enabled": true,
@@ -749,6 +782,17 @@
             "Face"
         ],
         "category": "Face"
+    },
+    {
+        "name": "Face Teamskull",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_teamskull_0",
+        "iconName": "f_face_teamskull_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Face Verizon2020mask",
@@ -1881,6 +1925,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Gladion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_gladion_0",
+        "iconName": "f_hat_gladion_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Goomy",
         "gender": "Female",
         "enabled": true,
@@ -1967,7 +2022,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Kantotourcapred",
@@ -1978,7 +2033,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Knitted 0",
@@ -2489,6 +2544,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Teamskull",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_teamskull_0",
+        "iconName": "f_hat_teamskull_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Tophat 0",
         "gender": "Female",
         "enabled": true,
@@ -2828,6 +2894,17 @@
         "id": "f_pants_giovanni_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_pants_giovanni_0_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Gladion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_gladion_0",
+        "iconName": "f_pants_gladion_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -3356,6 +3433,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Teamskull",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_teamskull_0",
+        "iconName": "f_pants_teamskull_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Teamspark",
         "gender": "Female",
         "enabled": true,
@@ -3774,6 +3862,28 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 34",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_34",
+        "iconName": "pose_34",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 35",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_35",
+        "iconName": "pose_35",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -3807,6 +3917,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shirt Alolacomfey",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_alolacomfey_0",
+        "iconName": "f_shirt_alolacomfey_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Animegou",
@@ -4245,6 +4366,17 @@
         "id": "f_shirt_giovanni_0",
         "unlockBadgeLevel": 20,
         "iconName": "f_shirt_giovanni_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gladion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gladion_0",
+        "iconName": "f_shirt_gladion_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -5168,7 +5300,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajancharizard",
@@ -5179,7 +5311,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajanhouou",
@@ -5190,7 +5322,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajanlugia",
@@ -5201,7 +5333,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajanvenusaur",
@@ -5212,7 +5344,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sustainability2021",
@@ -5537,6 +5669,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Teamskull",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_teamskull_0",
+        "iconName": "f_shirt_teamskull_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Teamspark",
         "gender": "Female",
         "enabled": true,
@@ -5813,6 +5956,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Wcs2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2022_0",
+        "iconName": "f_shirt_wcs2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Whitecoat",
         "gender": "Female",
         "enabled": true,
@@ -6055,6 +6209,17 @@
         "id": "f_shoes_giovanni_0",
         "unlockBadgeLevel": 5,
         "iconName": "f_shoes_giovanni_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Gladion",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_gladion_0",
+        "iconName": "f_shoes_gladion_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -6526,6 +6691,17 @@
             "Shoes"
         ],
         "category": "Shoes"
+    },
+    {
+        "name": "Shoes Teamskull",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_teamskull_0",
+        "iconName": "f_shoes_teamskull_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Teamspark",
@@ -7411,6 +7587,39 @@
         "category": "Face"
     },
     {
+        "name": "Face Festofcolors 00",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_festOfColors_0",
+        "iconName": "m_face_festofcolors_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Festofcolors 01",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_festOfColors_1",
+        "iconName": "m_face_festofcolors_01_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Festofcolors 02",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_festOfColors_2",
+        "iconName": "m_face_festofcolors_02_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Face Pikachumask",
         "gender": "Male",
         "enabled": true,
@@ -7431,6 +7640,17 @@
             "Face"
         ],
         "category": "Face"
+    },
+    {
+        "name": "Face Teamskull",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_teamskull_0",
+        "iconName": "m_face_teamskull_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Face Verizon2020mask",
@@ -8565,6 +8785,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Gladion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_gladion_0",
+        "iconName": "m_hat_gladion_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Goomy",
         "gender": "Male",
         "enabled": true,
@@ -8663,7 +8894,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Kantotourcapred",
@@ -8674,7 +8905,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Korrina",
@@ -9152,6 +9383,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Teamskull",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_teamskull_0",
+        "iconName": "m_hat_teamskull_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Tophat 0",
         "gender": "Male",
         "enabled": true,
@@ -9415,6 +9657,17 @@
         "id": "m_pants_giovanni_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_pants_giovanni_0_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Gladion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_gladion_0",
+        "iconName": "m_pants_gladion_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -9867,6 +10120,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Teamskull",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_teamskull_0",
+        "iconName": "m_pants_teamskull_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Teamspark",
         "gender": "Male",
         "enabled": true,
@@ -10253,6 +10517,28 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 34",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_34",
+        "iconName": "pose_34",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 35",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_35",
+        "iconName": "pose_35",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -10286,6 +10572,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shirt Alolacomfey",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_alolacomfey_0",
+        "iconName": "m_shirt_alolacomfey_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Animegou",
@@ -10736,6 +11033,17 @@
         "id": "m_shirt_giovanni_0",
         "unlockBadgeLevel": 20,
         "iconName": "m_shirt_giovanni_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gladion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gladion_0",
+        "iconName": "m_shirt_gladion_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -11726,7 +12034,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajancharizard",
@@ -11737,7 +12045,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajanhouou",
@@ -11748,7 +12056,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajanlugia",
@@ -11759,7 +12067,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sukajanvenusaur",
@@ -11770,7 +12078,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Sustainability2021",
@@ -12024,6 +12332,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shirt Teamskull",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_teamskull_0",
+        "iconName": "m_shirt_teamskull_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Teamspark",
@@ -12295,6 +12614,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Wcs2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2022_0",
+        "iconName": "m_shirt_wcs2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Whitecoat",
         "gender": "Male",
         "enabled": true,
@@ -12548,6 +12878,17 @@
         "id": "m_shoes_giovanni_0",
         "unlockBadgeLevel": 5,
         "iconName": "m_shoes_giovanni_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Gladion",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_gladion_0",
+        "iconName": "m_shoes_gladion_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -13020,6 +13361,17 @@
             "Shoes"
         ],
         "category": "Shoes"
+    },
+    {
+        "name": "Shoes Teamskull",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_teamskull_0",
+        "iconName": "m_shoes_teamskull_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Teamspark",
