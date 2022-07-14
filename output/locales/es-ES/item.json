@@ -1,4 +1,5 @@
 {
+    "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Baya Oram",
         "description": "SIN DEFINIR"
@@ -9,12 +10,14 @@
     },
     "EVENT_TICKET_GRAY": {},
     "EVENT_TICKET_PINK": {},
+    "EVENT_TICKET_PINK_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
     "GIOVANNI_MAP": {},
     "GLOBAL_EVENT_TICKET": {},
+    "GLOBAL_EVENT_TICKET_TO_GIFT": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "Baya Pinia plateada",
         "description": "Al usarla con un Pokémon, recibirás más Caramelos si lo capturas y se captura con más facilidad en tu próximo lanzamiento."

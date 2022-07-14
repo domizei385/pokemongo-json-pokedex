@@ -1,4 +1,5 @@
 {
+    "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "墨莓果",
         "description": "未定"
@@ -9,12 +10,14 @@
     },
     "EVENT_TICKET_GRAY": {},
     "EVENT_TICKET_PINK": {},
+    "EVENT_TICKET_PINK_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
     "GIOVANNI_MAP": {},
     "GLOBAL_EVENT_TICKET": {},
+    "GLOBAL_EVENT_TICKET_TO_GIFT": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "銀色凰梨果",
         "description": "寶可夢吃下這種樹果後，會變得更容易捕捉，而且會掉更多糖果。"

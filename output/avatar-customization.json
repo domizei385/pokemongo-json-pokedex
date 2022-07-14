@@ -1,5 +1,38 @@
 [
     {
+        "name": "Backpack Alolaitemslittenbp",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_alolaitemslittenbp_0",
+        "iconName": "f_backpack_alolaitemslittenbp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Alolaitemspoppliobp",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_alolaitemspoppliobp_0",
+        "iconName": "f_backpack_alolaitemspoppliobp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Alolaitemsrowletbp",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_alolaitemsrowletbp_0",
+        "iconName": "f_backpack_alolaitemsrowletbp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Animegou",
         "gender": "Female",
         "enabled": true,
@@ -762,6 +795,17 @@
         "category": "Face"
     },
     {
+        "name": "Face Gracidea",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_gracidea_0",
+        "iconName": "f_face_gracidea_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Face Pikachumask",
         "gender": "Female",
         "enabled": true,
@@ -792,7 +836,7 @@
         "slot": [
             "Face"
         ],
-        "category": "Seasonal"
+        "category": "Face"
     },
     {
         "name": "Face Verizon2020mask",
@@ -1023,6 +1067,17 @@
         "id": "f_gloves_battlegirl_0",
         "unlockBadgeLevel": 10,
         "iconName": "f_gloves_battlegirl_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Bea",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_bea_0",
+        "iconName": "f_gloves_bea_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1560,6 +1615,17 @@
         "category": "Hair"
     },
     {
+        "name": "Hat 6thanniversary",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_6thanniversary_0",
+        "iconName": "f_hat_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Acetrainersm",
         "gender": "Female",
         "enabled": true,
@@ -1592,6 +1658,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Bea",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_bea_0",
+        "iconName": "f_hat_bea_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Bidoofhat",
@@ -2069,6 +2146,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Laprasbandana",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_laprasbandana_0",
+        "iconName": "f_hat_laprasbandana_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Legendofarceus",
         "gender": "Female",
         "enabled": true,
@@ -2257,6 +2345,50 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Oricoriopink",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_oricorioPink_0",
+        "iconName": "f_hat_oricoriopink_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Oricoriopurple",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_oricorioPurple_0",
+        "iconName": "f_hat_oricoriopurple_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Oricoriored",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_oricorioRed_0",
+        "iconName": "f_hat_oricoriored_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Oricorioyellow",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_oricorioYellow_0",
+        "iconName": "f_hat_oricorioyellow_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Pikachucap",
         "gender": "Female",
         "enabled": true,
@@ -2401,6 +2533,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Hat Shayminhat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_shayminhat_0",
+        "iconName": "f_hat_shayminhat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Slowpoketailshirts",
         "gender": "Female",
         "enabled": true,
@@ -2472,6 +2615,17 @@
         "enabled": true,
         "id": "f_hat_sylveonitems_0",
         "iconName": "f_hat_sylveonitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Tcgcollabtshirtandcap",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_tcgcollabtshirtandcap_0",
+        "iconName": "f_hat_tcgcollabtshirtandcap_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2552,7 +2706,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Tophat 0",
@@ -2696,6 +2850,17 @@
             "Necklace"
         ],
         "category": "Necklace"
+    },
+    {
+        "name": "Pants 6thanniversary",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_6thanniversary_0",
+        "iconName": "f_pants_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Acetrainerbw",
@@ -3441,7 +3606,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Teamspark",
@@ -3884,6 +4049,28 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 36",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_36",
+        "iconName": "pose_36",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 37",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_37",
+        "iconName": "pose_37",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -3893,6 +4080,17 @@
             "Pose"
         ],
         "category": "Poses"
+    },
+    {
+        "name": "Shirt 6thanniversary",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_6thanniversary_0",
+        "iconName": "f_shirt_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Acetrainerbw",
@@ -3927,7 +4125,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Animegou",
@@ -3980,6 +4178,17 @@
         "id": "f_shirt_battlegirl_0",
         "unlockBadgeLevel": 1000,
         "iconName": "f_shirt_battlegirl_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Bea",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_bea_0",
+        "iconName": "f_shirt_bea_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -4377,6 +4586,17 @@
         "enabled": true,
         "id": "f_shirt_gladion_0",
         "iconName": "f_shirt_gladion_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gofest2022_0",
+        "iconName": "f_shirt_gofest2022_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -5204,6 +5424,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Shirt Shayminlandtshirt",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_shayminlandtshirt_0",
+        "iconName": "f_shirt_shayminlandtshirt_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Shinymewtshirts",
         "gender": "Female",
         "enabled": true,
@@ -5603,6 +5834,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Tcgcollabtshirtandcap",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_tcgcollabtshirtandcap_0",
+        "iconName": "f_shirt_tcgcollabtshirtandcap_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Teamaqua",
         "gender": "Female",
         "enabled": true,
@@ -5677,7 +5919,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Teamspark",
@@ -5976,6 +6218,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shoes 6thanniversary",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_6thanniversary_0",
+        "iconName": "f_shoes_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Acetrainerbw",
@@ -6701,7 +6954,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Teamspark",
@@ -7022,6 +7275,39 @@
             "Socks"
         ],
         "category": "Socks"
+    },
+    {
+        "name": "Backpack Alolaitemslittenbp",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_alolaitemslittenbp_0",
+        "iconName": "m_backpack_alolaitemslittenbp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Alolaitemspoppliobp",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_alolaitemspoppliobp_0",
+        "iconName": "m_backpack_alolaitemspoppliobp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Alolaitemsrowletbp",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_alolaitemsrowletbp_0",
+        "iconName": "m_backpack_alolaitemsrowletbp_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
     },
     {
         "name": "Backpack Animegou",
@@ -7620,6 +7906,17 @@
         "category": "Face"
     },
     {
+        "name": "Face Gracidea",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_gracidea_0",
+        "iconName": "m_face_gracidea_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Face Pikachumask",
         "gender": "Male",
         "enabled": true,
@@ -7650,7 +7947,7 @@
         "slot": [
             "Face"
         ],
-        "category": "Seasonal"
+        "category": "Face"
     },
     {
         "name": "Face Verizon2020mask",
@@ -7881,6 +8178,17 @@
         "id": "m_gloves_acetrainersm_0",
         "unlockBadgeLevel": 50,
         "iconName": "m_gloves_acetrainersm_0_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Bea",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_bea_0",
+        "iconName": "m_gloves_bea_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -8430,6 +8738,17 @@
         "category": "Hair"
     },
     {
+        "name": "Hat 6thanniversary",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_6thanniversary_0",
+        "iconName": "m_hat_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Acetrainersm",
         "gender": "Male",
         "enabled": true,
@@ -8462,6 +8781,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Bea",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_bea_0",
+        "iconName": "m_hat_bea_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Bidoofhat",
@@ -8919,6 +9249,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Laprasbandana",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_laprasbandana_0",
+        "iconName": "m_hat_laprasbandana_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Legendofarceus",
         "gender": "Male",
         "enabled": true,
@@ -9096,6 +9437,50 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Oricoriopink",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_oricorioPink_0",
+        "iconName": "m_hat_oricoriopink_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Oricoriopurple",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_oricorioPurple_0",
+        "iconName": "m_hat_oricoriopurple_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Oricoriored",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_oricorioRed_0",
+        "iconName": "m_hat_oricoriored_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Oricorioyellow",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_oricorioYellow_0",
+        "iconName": "m_hat_oricorioyellow_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Pikachucap",
         "gender": "Male",
         "enabled": true,
@@ -9240,6 +9625,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Hat Shayminhat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_shayminhat_0",
+        "iconName": "m_hat_shayminhat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Slowpoketailshirts",
         "gender": "Male",
         "enabled": true,
@@ -9311,6 +9707,17 @@
         "enabled": true,
         "id": "m_hat_sylveonitems_0",
         "iconName": "m_hat_sylveonitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Tcgcollabtshirtandcap",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_tcgcollabtshirtandcap_0",
+        "iconName": "m_hat_tcgcollabtshirtandcap_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -9391,7 +9798,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Tophat 0",
@@ -9480,6 +9887,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Pants 6thanniversary",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_6thanniversary_0",
+        "iconName": "m_pants_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Acetrainerbw",
@@ -10128,7 +10546,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Teamspark",
@@ -10539,6 +10957,28 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 36",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_36",
+        "iconName": "pose_36",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 37",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_37",
+        "iconName": "pose_37",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -10548,6 +10988,17 @@
             "Pose"
         ],
         "category": "Poses"
+    },
+    {
+        "name": "Shirt 6thanniversary",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_6thanniversary_0",
+        "iconName": "m_shirt_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Acetrainerbw",
@@ -10582,7 +11033,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Animegou",
@@ -10623,6 +11074,17 @@
         "enabled": true,
         "id": "m_shirt_ballguy_0",
         "iconName": "m_shirt_ballguy_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Bea",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_bea_0",
+        "iconName": "m_shirt_bea_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -11044,6 +11506,17 @@
         "enabled": true,
         "id": "m_shirt_gladion_0",
         "iconName": "m_shirt_gladion_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gofest2022_0",
+        "iconName": "m_shirt_gofest2022_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -11938,6 +12411,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Shirt Shayminlandtshirt",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_shayminlandtshirt_0",
+        "iconName": "m_shirt_shayminlandtshirt_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Shinymewtshirts",
         "gender": "Male",
         "enabled": true,
@@ -12268,6 +12752,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Tcgcollabtshirtandcap",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_tcgcollabtshirtandcap_0",
+        "iconName": "m_shirt_tcgcollabtshirtandcap_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Teamaqua",
         "gender": "Male",
         "enabled": true,
@@ -12342,7 +12837,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Teamspark",
@@ -12634,6 +13129,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shoes 6thanniversary",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_6thanniversary_0",
+        "iconName": "m_shoes_6thanniversary_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Acetrainerbw",
@@ -13371,7 +13877,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Teamspark",

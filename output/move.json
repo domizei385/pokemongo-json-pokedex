@@ -4571,6 +4571,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
+        "power": 9000,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4578,6 +4579,7 @@
         "durationMs": 1900,
         "damageWindowStartMs": 500,
         "damageWindowEndMs": 1500,
+        "energyDelta": -25,
         "id": "HORN_DRILL",
         "pokemonType": {
             "id": "POKEMON_TYPE_NORMAL",
@@ -4589,6 +4591,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
+        "power": 9001,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -4596,6 +4599,7 @@
         "durationMs": 2800,
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 2300,
+        "energyDelta": -25,
         "id": "FISSURE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
@@ -5148,5 +5152,105 @@
         },
         "name": "Acrobatics",
         "internalId": 364
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 100,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "luster_purge",
+        "durationMs": 1500,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1500,
+        "energyDelta": -100,
+        "id": "LUSTER_PURGE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_PSYCHIC",
+            "name": "Psychic"
+        },
+        "name": "Luster Purge",
+        "internalId": 365
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 105,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "mist_ball",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -100,
+        "id": "MIST_BALL",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_PSYCHIC",
+            "name": "Psychic"
+        },
+        "name": "Mist Ball",
+        "internalId": 366
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 65,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "brutal_swing",
+        "durationMs": 1900,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -33,
+        "id": "BRUTAL_SWING",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DARK",
+            "name": "Dark"
+        },
+        "name": "Brutal Swing",
+        "internalId": 367
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 14,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "rollout_fast",
+        "durationMs": 1400,
+        "damageWindowStartMs": 960,
+        "damageWindowEndMs": 1200,
+        "energyDelta": 18,
+        "id": "ROLLOUT_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ROCK",
+            "name": "Rock"
+        },
+        "name": "Rollout Fast",
+        "internalId": 368
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 120,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "seed_flare",
+        "durationMs": 2700,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -100,
+        "id": "SEED_FLARE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "name": "Seed Flare",
+        "internalId": 369
     }
 ]

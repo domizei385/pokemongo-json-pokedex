@@ -3597,6 +3597,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -3743,6 +3747,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -3889,6 +3897,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -4039,6 +4051,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -4185,6 +4201,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -4335,6 +4355,164 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Flying Okinawa",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 29,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.16,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.3,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "PIKACHU_FLYING_OKINAWA",
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
+            },
+            {
+                "id": "PIKACHU_ADVENTURE_HAT_2020",
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
+            },
+            {
+                "id": "PIKACHU_WINTER_2020",
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
+            },
+            {
+                "id": "PIKACHU_KARIYUSHI",
+                "name": "Pikachu Kariyushi",
+                "assetBundleSuffix": "pm0025_00_pikachu_pgo_kariyushi"
+            },
+            {
+                "id": "PIKACHU_POP_STAR",
+                "name": "Pikachu Pop Star",
+                "assetBundleSuffix": "pm0025_00_pgo_popstar"
+            },
+            {
+                "id": "PIKACHU_ROCK_STAR",
+                "name": "Pikachu Rock Star",
+                "assetBundleSuffix": "pm0025_00_pgo_rockstar"
+            },
+            {
+                "id": "PIKACHU_FLYING_5TH_ANNIV",
+                "name": "Pikachu Flying 5th Anniv",
+                "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -4481,6 +4659,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -4626,6 +4808,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -4771,6 +4957,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -4916,6 +5106,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -5062,6 +5256,10 @@
                 "id": "PIKACHU_FLYING_5TH_ANNIV",
                 "name": "Pikachu Flying 5th Anniv",
                 "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
             }
         ]
     },
@@ -18183,7 +18381,9 @@
             "diskRadius": 0.864,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "KANGASKHAN",
         "forms": [
             {
@@ -19958,6 +20158,118 @@
             {
                 "id": "LAPRAS",
                 "name": "Lapras"
+            },
+            {
+                "id": "LAPRAS_COSTUME_2020",
+                "name": "Lapras Costume 2020"
+            }
+        ]
+    },
+    {
+        "dex": 131,
+        "name": "Lapras Costume 2020",
+        "animationTime": [
+            2.6667,
+            0.6667,
+            1.6667,
+            1.9,
+            0,
+            2.4,
+            3,
+            2.666667
+        ],
+        "height": 2.5,
+        "modelHeight": 2.57,
+        "kmBuddyDistance": 5,
+        "weight": 220,
+        "modelScale": 0.7,
+        "maxCP": 2641,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
+            },
+            {
+                "name": "Skull Bash",
+                "id": "SKULL_BASH"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Frost Breath Fast",
+                "id": "FROST_BREATH_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_LAPRAS",
+            "name": "Lapras"
+        },
+        "stats": {
+            "baseAttack": 165,
+            "baseDefense": 174,
+            "baseStamina": 277
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_WATER",
+                "name": "Water"
+            },
+            {
+                "id": "POKEMON_TYPE_ICE",
+                "name": "Ice"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.15,
+            "attackTimer": 8,
+            "baseFleeRate": 0.09,
+            "baseCaptureRate": 0.05,
+            "cameraDistance": 6.5625,
+            "collisionRadius": 0.525,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.1,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 1.05,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "LAPRAS_COSTUME_2020",
+        "forms": [
+            {
+                "id": "LAPRAS",
+                "name": "Lapras"
+            },
+            {
+                "id": "LAPRAS_COSTUME_2020",
+                "name": "Lapras Costume 2020"
             }
         ]
     },
@@ -21249,6 +21561,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 8,
@@ -21349,6 +21665,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 8,
@@ -21449,6 +21769,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 8,
@@ -21900,6 +22224,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 3,
@@ -22001,6 +22329,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 3,
@@ -22234,6 +22566,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackTimer": 8,
             "baseCaptureRate": 100,
@@ -28715,7 +29051,12 @@
         },
         "evolution": {},
         "id": "QWILFISH",
-        "forms": []
+        "forms": [
+            {
+                "id": "QWILFISH",
+                "name": "Qwilfish"
+            }
+        ]
     },
     {
         "dex": 212,
@@ -32042,6 +32383,10 @@
                 "name": "Electric"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -32142,6 +32487,10 @@
                 "name": "Electric"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -32245,6 +32594,10 @@
                 "name": "Fire"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -32349,6 +32702,10 @@
                 "name": "Fire"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -32452,6 +32809,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -32556,6 +32917,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -33006,6 +33371,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -33106,6 +33475,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -33214,6 +33587,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -33322,6 +33699,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -33430,6 +33811,10 @@
                 "name": "Grass"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47032,6 +47417,10 @@
                 "name": "Rock"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 20,
@@ -47123,6 +47512,10 @@
                 "name": "Ice"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 20,
@@ -47214,6 +47607,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 20,
@@ -47309,6 +47706,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47334,7 +47735,9 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "LATIAS",
         "forms": []
     },
@@ -47404,6 +47807,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47429,7 +47836,9 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "LATIOS",
         "forms": []
     },
@@ -47495,6 +47904,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47582,6 +47995,10 @@
                 "name": "Ground"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47670,6 +48087,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47761,6 +48182,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47847,6 +48272,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -47955,6 +48384,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -48063,6 +48496,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -48171,6 +48608,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 20,
@@ -59089,7 +59530,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.3,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4.5,
             "collisionRadius": 0.189,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -59211,7 +59652,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.3,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4,
             "collisionRadius": 0.189,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -59333,7 +59774,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.3,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4.5,
             "collisionRadius": 0.189,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -59455,7 +59896,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.3,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4.5,
             "collisionRadius": 0.189,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -59577,7 +60018,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.3,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4.5,
             "collisionRadius": 0.189,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -59699,7 +60140,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.3,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4.5,
             "collisionRadius": 0.189,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -59812,6 +60253,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.05,
             "attackTimer": 29,
@@ -59898,6 +60343,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.05,
             "attackTimer": 29,
@@ -59984,6 +60433,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.05,
             "attackTimer": 29,
@@ -60074,6 +60527,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -60169,6 +60626,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -60264,6 +60725,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 29,
@@ -60355,6 +60820,10 @@
                 "name": "Normal"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 29,
@@ -60443,6 +60912,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 29,
@@ -60545,6 +61018,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 29,
@@ -60647,6 +61124,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 29,
@@ -60745,6 +61226,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -60836,6 +61321,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -60922,6 +61411,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -61008,6 +61501,10 @@
                 "name": "Dark"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -61067,6 +61564,10 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Seed Flare",
+                "id": "SEED_FLARE"
             }
         ],
         "quickMoves": [
@@ -61094,11 +61595,15 @@
                 "name": "Grass"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
-            "baseCaptureRate": 0.02,
-            "cameraDistance": 2.25,
+            "baseCaptureRate": 100,
+            "cameraDistance": 1.8,
             "collisionRadius": 0.08,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -61164,6 +61669,10 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Seed Flare",
+                "id": "SEED_FLARE"
             }
         ],
         "quickMoves": [
@@ -61191,11 +61700,15 @@
                 "name": "Grass"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
-            "baseCaptureRate": 0.02,
-            "cameraDistance": 2.25,
+            "baseCaptureRate": 100,
+            "cameraDistance": 1.8,
             "collisionRadius": 0.12,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -61261,6 +61774,10 @@
             {
                 "name": "Solar Beam",
                 "id": "SOLAR_BEAM"
+            },
+            {
+                "name": "Seed Flare",
+                "id": "SEED_FLARE"
             }
         ],
         "quickMoves": [
@@ -61292,11 +61809,15 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
-            "baseCaptureRate": 0.02,
-            "cameraDistance": 2.25,
+            "baseCaptureRate": 100,
+            "cameraDistance": 1.8,
             "collisionRadius": 0.189,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -61389,6 +61910,10 @@
                 "name": "Normal"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -61566,6 +62091,10 @@
                 "name": "Bug"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -61743,6 +62272,10 @@
                 "name": "Dark"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -61920,6 +62453,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -62097,6 +62634,10 @@
                 "name": "Electric"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -62274,6 +62815,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -62451,6 +62996,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -62628,6 +63177,10 @@
                 "name": "Fire"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -62805,6 +63358,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -62982,6 +63539,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -63159,6 +63720,10 @@
                 "name": "Grass"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -63336,6 +63901,10 @@
                 "name": "Ground"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -63513,6 +64082,10 @@
                 "name": "Ice"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -63690,6 +64263,10 @@
                 "name": "Poison"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -63867,6 +64444,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -64044,6 +64625,10 @@
                 "name": "Rock"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -64221,6 +64806,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -64398,6 +64987,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -64583,6 +65176,10 @@
                 "name": "Fire"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -80697,6 +81294,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -80788,6 +81389,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -80879,6 +81484,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -80970,6 +81579,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81076,6 +81689,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81182,6 +81799,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81292,6 +81913,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81402,6 +82027,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81512,6 +82141,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81622,6 +82255,10 @@
                 "name": "Fire"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81717,6 +82354,10 @@
                 "name": "Electric"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81812,6 +82453,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -81922,6 +82567,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82032,6 +82681,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82138,6 +82791,10 @@
                 "name": "Ice"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82249,6 +82906,10 @@
                 "name": "Ice"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82360,6 +83021,10 @@
                 "name": "Ice"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82471,6 +83136,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82577,6 +83246,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82683,6 +83356,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -82733,7 +83410,7 @@
             0
         ],
         "height": 0.6,
-        "modelHeight": 0.4,
+        "modelHeight": 0.5,
         "kmBuddyDistance": 20,
         "weight": 6.5,
         "modelScale": 1.26,
@@ -82789,11 +83466,15 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
             "baseCaptureRate": 100,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4,
             "collisionRadius": 0.1,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -82838,7 +83519,7 @@
             0
         ],
         "height": 0.6,
-        "modelHeight": 0.4,
+        "modelHeight": 0.5,
         "kmBuddyDistance": 20,
         "weight": 6.5,
         "modelScale": 1.26,
@@ -82894,11 +83575,15 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
             "baseCaptureRate": 100,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4,
             "collisionRadius": 0.1,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -82943,7 +83628,7 @@
             0
         ],
         "height": 0.6,
-        "modelHeight": 0.4,
+        "modelHeight": 0.5,
         "kmBuddyDistance": 20,
         "weight": 6.5,
         "modelScale": 1.26,
@@ -82999,11 +83684,15 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
             "baseCaptureRate": 100,
-            "cameraDistance": 2.25,
+            "cameraDistance": 4,
             "collisionRadius": 0.05,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -83100,6 +83789,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -83217,6 +83910,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -83334,6 +84031,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -83451,6 +84152,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -83568,6 +84273,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -85081,8 +85790,8 @@
         "modelScale": 0.92,
         "maxCP": 1855,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {
@@ -91594,8 +92303,8 @@
                 "id": "MOVEMENT_JUMP"
             },
             "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {},
@@ -91694,8 +92403,8 @@
                 "id": "MOVEMENT_JUMP"
             },
             "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {},
@@ -91785,8 +92494,8 @@
             "minPokemonActionFrequency": 0.2,
             "movementType": null,
             "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {},
@@ -91889,8 +92598,8 @@
                 "id": "MOVEMENT_JUMP"
             },
             "gender": {
-                "malePercent": 0.5,
-                "femalePercent": 0.5
+                "malePercent": 0.875,
+                "femalePercent": 0.125
             }
         },
         "camera": {},
@@ -94435,6 +95144,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.15,
             "attackTimer": 29,
@@ -94533,6 +95246,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "attackTimer": 29,
@@ -94626,6 +95343,10 @@
                 "name": "Ground"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -94709,6 +95430,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -94791,6 +95516,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -94885,6 +95614,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -94981,6 +95714,10 @@
                 "name": "Dark"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -95084,6 +95821,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "attackTimer": 29,
@@ -96124,6 +96865,7 @@
             "collisionRadius": 0.15,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -96201,6 +96943,7 @@
             "collisionRadius": 0.25,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -96221,7 +96964,7 @@
         "dex": 736,
         "name": "Grubbin",
         "height": 0.4,
-        "modelHeight": 1,
+        "modelHeight": 0.4,
         "kmBuddyDistance": 1,
         "weight": 4.4,
         "maxCP": 984,
@@ -96231,14 +96974,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Vice Grip",
+                "id": "VICE_GRIP"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
             }
         ],
         "family": {
@@ -96260,9 +97015,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.2,
             "baseCaptureRate": 0.5,
-            "cameraDistance": 4,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -96285,7 +97042,7 @@
         "dex": 737,
         "name": "Charjabug",
         "height": 0.5,
-        "modelHeight": 1,
+        "modelHeight": 0.5,
         "kmBuddyDistance": 1,
         "weight": 10.5,
         "maxCP": 1697,
@@ -96295,14 +97052,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
             }
         ],
         "family": {
@@ -96328,9 +97097,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.09,
             "baseCaptureRate": 0.25,
-            "cameraDistance": 4,
+            "cameraDistance": 3,
+            "collisionRadius": 0.28,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -96353,24 +97124,40 @@
         "dex": 738,
         "name": "Vikavolt",
         "height": 1.5,
-        "modelHeight": 1,
+        "modelHeight": 1.5,
         "kmBuddyDistance": 1,
         "weight": 45,
         "maxCP": 3117,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
+            },
+            {
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
             }
         ],
         "family": {
@@ -96397,13 +97184,15 @@
             "baseFleeRate": 0.05,
             "baseCaptureRate": 0.125,
             "cameraDistance": 4,
+            "collisionRadius": 0.7,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
             },
             "gender": {
                 "malePercent": 0.5,
@@ -96429,14 +97218,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Up Punch",
+                "id": "POWER_UP_PUNCH"
+            },
+            {
+                "name": "Crabhammer",
+                "id": "CRABHAMMER"
+            },
+            {
+                "name": "Payback",
+                "id": "PAYBACK"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Bubble Fast",
+                "id": "BUBBLE_FAST"
             }
         ],
         "family": {
@@ -96493,14 +97294,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Up Punch",
+                "id": "POWER_UP_PUNCH"
+            },
+            {
+                "name": "Crabhammer",
+                "id": "CRABHAMMER"
+            },
+            {
+                "name": "Payback",
+                "id": "PAYBACK"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Bubble Fast",
+                "id": "BUBBLE_FAST"
             }
         ],
         "family": {
@@ -97034,24 +97851,32 @@
         "dex": 742,
         "name": "Cutiefly",
         "height": 0.1,
-        "modelHeight": 1,
+        "modelHeight": 0.225,
         "kmBuddyDistance": 1,
         "weight": 0.2,
         "maxCP": 888,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            },
+            {
+                "name": "Struggle Bug Fast",
+                "id": "STRUGGLE_BUG_FAST"
             }
         ],
         "family": {
@@ -97077,14 +97902,16 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.2,
             "baseCaptureRate": 0.5,
-            "cameraDistance": 4,
+            "cameraDistance": 2,
+            "collisionRadius": 0.05,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
             },
             "gender": {
                 "malePercent": 0.5,
@@ -97102,24 +97929,32 @@
         "dex": 743,
         "name": "Ribombee",
         "height": 0.2,
-        "modelHeight": 1,
+        "modelHeight": 0.21,
         "kmBuddyDistance": 1,
         "weight": 0.5,
         "maxCP": 2200,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            },
+            {
+                "name": "Struggle Bug Fast",
+                "id": "STRUGGLE_BUG_FAST"
             }
         ],
         "family": {
@@ -97145,14 +97980,16 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.15,
-            "cameraDistance": 4,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.05,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
             },
             "gender": {
                 "malePercent": 0.5,
@@ -97223,6 +98060,7 @@
             "collisionRadius": 0.2,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97315,6 +98153,7 @@
             "collisionRadius": 0.35,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97358,14 +98197,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
+            },
+            {
+                "name": "Rock Throw Fast",
+                "id": "ROCK_THROW_FAST"
             }
         ],
         "family": {
@@ -97391,6 +98246,7 @@
             "collisionRadius": 0.35,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97479,6 +98335,7 @@
             "collisionRadius": 0.35,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97575,6 +98432,7 @@
             "collisionRadius": 0.45,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97626,14 +98484,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Brine",
+                "id": "BRINE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Iron Tail Fast",
+                "id": "IRON_TAIL_FAST"
             }
         ],
         "family": {
@@ -97697,14 +98571,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Brine",
+                "id": "BRINE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Iron Tail Fast",
+                "id": "IRON_TAIL_FAST"
             }
         ],
         "family": {
@@ -97768,14 +98658,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Brine",
+                "id": "BRINE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Iron Tail Fast",
+                "id": "IRON_TAIL_FAST"
             }
         ],
         "family": {
@@ -97839,14 +98745,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Poison Sting Fast",
+                "id": "POISON_STING_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -97872,9 +98790,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 3,
+            "collisionRadius": 0.35,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97907,14 +98827,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -97941,8 +98873,10 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
+            "collisionRadius": 0.6,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -97973,14 +98907,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
             }
         ],
         "family": {
@@ -98037,14 +98983,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
             }
         ],
         "family": {
@@ -98419,14 +99381,22 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Giga Drain",
+                "id": "GIGA_DRAIN"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
             }
         ],
         "family": {
@@ -98487,14 +99457,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Giga Drain",
+                "id": "GIGA_DRAIN"
+            },
+            {
+                "name": "Moonblast",
+                "id": "MOONBLAST"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
             }
         ],
         "family": {
@@ -98875,7 +99857,7 @@
         "dex": 761,
         "name": "Bounsweet",
         "height": 0.3,
-        "modelHeight": 1,
+        "modelHeight": 0.2,
         "kmBuddyDistance": 3,
         "weight": 3.2,
         "maxCP": 470,
@@ -98885,14 +99867,22 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Draining Kiss",
+                "id": "DRAINING_KISS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -98914,9 +99904,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.2,
             "baseCaptureRate": 0.5,
-            "cameraDistance": 4,
+            "cameraDistance": 3,
+            "collisionRadius": 0.15,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.85,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -98939,7 +99931,7 @@
         "dex": 762,
         "name": "Steenee",
         "height": 0.7,
-        "modelHeight": 1,
+        "modelHeight": 0.4,
         "kmBuddyDistance": 3,
         "weight": 8.2,
         "maxCP": 757,
@@ -98949,14 +99941,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Draining Kiss",
+                "id": "DRAINING_KISS"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -98979,8 +99983,10 @@
             "baseFleeRate": 0.09,
             "baseCaptureRate": 0.25,
             "cameraDistance": 4,
+            "collisionRadius": 0.2,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -99003,7 +100009,7 @@
         "dex": 763,
         "name": "Tsareena",
         "height": 1.2,
-        "modelHeight": 1,
+        "modelHeight": 0.7,
         "kmBuddyDistance": 3,
         "weight": 21.4,
         "maxCP": 2964,
@@ -99013,14 +100019,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Draining Kiss",
+                "id": "DRAINING_KISS"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Stomp",
+                "id": "STOMP"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -99045,6 +100071,7 @@
             "cameraDistance": 4,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -99120,6 +100147,7 @@
             "collisionRadius": 0.35,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -99140,7 +100168,7 @@
         "dex": 765,
         "name": "Oranguru",
         "height": 1.5,
-        "modelHeight": 1,
+        "modelHeight": 3.5,
         "kmBuddyDistance": 3,
         "weight": 76,
         "maxCP": 2450,
@@ -99234,14 +100262,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Super Power",
+                "id": "SUPER_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -99264,8 +100308,10 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
+            "collisionRadius": 0.4,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.5,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -99286,7 +100332,7 @@
         "dex": 767,
         "name": "Wimpod",
         "height": 0.5,
-        "modelHeight": 1,
+        "modelHeight": 0.5,
         "kmBuddyDistance": 1,
         "weight": 12,
         "maxCP": 502,
@@ -99296,14 +100342,14 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Struggle Bug Fast",
+                "id": "STRUGGLE_BUG_FAST"
             }
         ],
         "family": {
@@ -99327,11 +100373,13 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
-            "baseFleeRate": 0.1,
+            "baseFleeRate": 0.7,
             "baseCaptureRate": 0.5,
-            "cameraDistance": 4,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.2,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -99354,24 +100402,40 @@
         "dex": 768,
         "name": "Golisopod",
         "height": 2,
-        "modelHeight": 1,
+        "modelHeight": 2,
         "kmBuddyDistance": 1,
         "weight": 108,
         "maxCP": 3162,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Fury Cutter Fast",
+                "id": "FURY_CUTTER_FAST"
+            },
+            {
+                "name": "Metal Claw Fast",
+                "id": "METAL_CLAW_FAST"
+            },
+            {
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
             }
         ],
         "family": {
@@ -99395,11 +100459,13 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
-            "baseFleeRate": 0.06,
+            "baseFleeRate": 0.7,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -99430,14 +100496,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Sand Tomb",
+                "id": "SAND_TOMB"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Earth Power",
+                "id": "EARTH_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -99498,14 +100576,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Sand Tomb",
+                "id": "SAND_TOMB"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Earth Power",
+                "id": "EARTH_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -99554,7 +100644,7 @@
         "dex": 771,
         "name": "Pyukumuku",
         "height": 0.3,
-        "modelHeight": 1,
+        "modelHeight": 0.2,
         "kmBuddyDistance": 3,
         "weight": 1.2,
         "maxCP": 1372,
@@ -99564,14 +100654,14 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
             }
         ],
         "family": {
@@ -99594,8 +100684,10 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
+            "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.75,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -99626,14 +100718,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -99693,14 +100797,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -99849,14 +100973,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -99997,14 +101141,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -100145,14 +101309,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -100293,14 +101477,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -100441,14 +101645,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -100589,14 +101813,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -100737,14 +101981,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -100885,14 +102149,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -101033,14 +102317,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -101181,14 +102485,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -101329,14 +102653,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -101477,14 +102821,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -101625,14 +102989,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -101773,14 +103157,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -101921,14 +103325,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -102069,14 +103493,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -102217,14 +103661,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tri Attack",
+                "id": "TRI_ATTACK"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -102365,14 +103829,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -102456,14 +103932,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -102547,14 +104035,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -102638,14 +104138,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -102729,14 +104241,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -102820,14 +104344,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -102911,14 +104447,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -103002,14 +104550,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -103093,14 +104653,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
+            },
+            {
+                "name": "Payback",
+                "id": "PAYBACK"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
+            },
+            {
+                "name": "Yawn Fast",
+                "id": "YAWN_FAST"
             }
         ],
         "family": {
@@ -103155,14 +104727,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Ember Fast",
+                "id": "EMBER_FAST"
+            },
+            {
+                "name": "Fire Spin Fast",
+                "id": "FIRE_SPIN_FAST"
             }
         ],
         "family": {
@@ -103221,14 +104805,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Fell Stinger",
+                "id": "FELL_STINGER"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
             }
         ],
         "family": {
@@ -103287,14 +104883,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -103362,14 +104970,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -103437,14 +105057,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -103512,14 +105144,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Psychic Fangs",
+                "id": "PSYCHIC_FANGS"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -103546,8 +105194,10 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.2,
             "cameraDistance": 4,
+            "collisionRadius": 0.45,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.7,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -103578,14 +105228,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Dragon Pulse",
+                "id": "DRAGON_PULSE"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dragon Breath Fast",
+                "id": "DRAGON_BREATH_FAST"
+            },
+            {
+                "name": "Extrasensory Fast",
+                "id": "EXTRASENSORY_FAST"
             }
         ],
         "family": {
@@ -103644,14 +105306,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Whip",
+                "id": "POWER_WHIP"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
             }
         ],
         "family": {
@@ -103751,6 +105425,7 @@
             "collisionRadius": 0.18,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -103832,6 +105507,7 @@
             "collisionRadius": 0.3,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -103913,6 +105589,7 @@
             "collisionRadius": 0.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -103988,6 +105665,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -103996,6 +105677,7 @@
             "collisionRadius": 0.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -104067,6 +105749,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104147,6 +105833,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104227,6 +105917,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104287,6 +105981,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104347,6 +106045,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104372,7 +106074,7 @@
         "dex": 791,
         "name": "Solgaleo",
         "height": 3.4,
-        "modelHeight": 1,
+        "modelHeight": 1.5,
         "kmBuddyDistance": 20,
         "weight": 230,
         "maxCP": 4042,
@@ -104411,13 +106113,19 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
-            "cameraDistance": 4,
+            "cameraDistance": 12,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -104434,7 +106142,7 @@
         "dex": 792,
         "name": "Lunala",
         "height": 4,
-        "modelHeight": 1,
+        "modelHeight": 1.5,
         "kmBuddyDistance": 20,
         "weight": 120,
         "maxCP": 4042,
@@ -104473,13 +106181,19 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
-            "cameraDistance": 4,
+            "cameraDistance": 17,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -104496,24 +106210,40 @@
         "dex": 793,
         "name": "Nihilego",
         "height": 1.2,
-        "modelHeight": 1,
+        "modelHeight": 1.2,
         "kmBuddyDistance": 20,
         "weight": 55.5,
         "maxCP": 3949,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Acid Fast",
+                "id": "ACID_FAST"
+            },
+            {
+                "name": "Pound Fast",
+                "id": "POUND_FAST"
             }
         ],
         "family": {
@@ -104535,18 +106265,24 @@
                 "name": "Poison"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
             "cameraDistance": 4,
+            "collisionRadius": 0.3,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
             }
         },
         "camera": {},
@@ -104558,24 +106294,40 @@
         "dex": 794,
         "name": "Buzzwole",
         "height": 2.4,
-        "modelHeight": 1,
+        "modelHeight": 2.4,
         "kmBuddyDistance": 20,
         "weight": 333.6,
         "maxCP": 3461,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Power Up Punch",
+                "id": "POWER_UP_PUNCH"
+            },
+            {
+                "name": "Fell Stinger",
+                "id": "FELL_STINGER"
+            },
+            {
+                "name": "Lunge",
+                "id": "LUNGE"
+            },
+            {
+                "name": "Super Power",
+                "id": "SUPER_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -104597,13 +106349,19 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
-            "cameraDistance": 4,
+            "cameraDistance": 6,
+            "collisionRadius": 0.9,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.85,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -104620,24 +106378,40 @@
         "dex": 795,
         "name": "Pheromosa",
         "height": 1.8,
-        "modelHeight": 1,
+        "modelHeight": 1.65,
         "kmBuddyDistance": 20,
         "weight": 25,
         "maxCP": 2842,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Lunge",
+                "id": "LUNGE"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Low Kick Fast",
+                "id": "LOW_KICK_FAST"
             }
         ],
         "family": {
@@ -104659,13 +106433,19 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
             "cameraDistance": 4,
+            "collisionRadius": 0.2,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.85,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -104682,24 +106462,40 @@
         "dex": 796,
         "name": "Xurkitree",
         "height": 3.8,
-        "modelHeight": 1,
+        "modelHeight": 3.8,
         "kmBuddyDistance": 20,
         "weight": 100,
         "maxCP": 3937,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunder",
+                "id": "THUNDER"
+            },
+            {
+                "name": "Power Whip",
+                "id": "POWER_WHIP"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
             }
         ],
         "family": {
@@ -104717,13 +106513,19 @@
                 "name": "Electric"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
-            "cameraDistance": 4,
+            "cameraDistance": 5,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -104779,6 +106581,10 @@
                 "name": "Flying"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104841,6 +106647,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104903,6 +106713,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -104961,6 +106775,10 @@
                 "name": "Psychic"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105040,6 +106858,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105119,6 +106941,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105198,6 +107024,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105277,6 +107107,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105348,6 +107182,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105419,6 +107257,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105477,6 +107319,10 @@
                 "name": "Poison"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseCaptureRate": 0.3,
@@ -105540,6 +107386,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseCaptureRate": 0.3,
@@ -105601,6 +107451,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105663,6 +107517,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_ULTRA_BEAST",
+            "name": "Pokemon Class Ultra Beast"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105721,6 +107579,10 @@
                 "name": "Electric"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -105794,6 +107656,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -105886,6 +107752,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "attackTimer": 29,
@@ -113048,6 +114918,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -113145,6 +115019,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -113238,6 +115116,10 @@
                 "name": "Fairy"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -113335,6 +115217,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -113432,6 +115318,10 @@
                 "name": "Steel"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -113525,6 +115415,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -113610,6 +115504,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "baseFleeRate": 0.1,
@@ -113697,6 +115595,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.4,
             "baseFleeRate": 0.1,
@@ -113776,6 +115678,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "baseFleeRate": 0.1,
@@ -113867,6 +115773,10 @@
                 "name": "Fighting"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "baseFleeRate": 0.1,
@@ -113962,6 +115872,10 @@
                 "name": "Water"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "baseFleeRate": 0.1,
@@ -114065,6 +115979,10 @@
                 "name": "Dark"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "baseFleeRate": 0.1,
@@ -114160,6 +116078,10 @@
                 "name": "Grass"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_MYTHIC",
+            "name": "Pokemon Class Mythic"
+        },
         "encounter": {
             "attackProbability": 0.2,
             "baseCaptureRate": 0.1,
@@ -114231,6 +116153,10 @@
                 "name": "Electric"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -114297,6 +116223,10 @@
                 "name": "Dragon"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "baseFleeRate": 0.1,
@@ -114367,6 +116297,10 @@
                 "name": "Ice"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "baseFleeRate": 0.1,
@@ -114437,6 +116371,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.3,
             "baseFleeRate": 0.1,
@@ -114511,6 +116449,10 @@
                 "name": "Grass"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
@@ -114602,6 +116544,10 @@
                 "name": "Ice"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.4,
             "baseFleeRate": 0.1,
@@ -114693,6 +116639,10 @@
                 "name": "Ghost"
             }
         ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
         "encounter": {
             "attackProbability": 0.4,
             "baseFleeRate": 0.1,

@@ -1,4 +1,5 @@
 {
+    "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "ブリーのみ",
         "description": "不明"
@@ -9,12 +10,14 @@
     },
     "EVENT_TICKET_GRAY": {},
     "EVENT_TICKET_PINK": {},
+    "EVENT_TICKET_PINK_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
     "GEN5_EVOLUTION_STONE": {},
     "GIOVANNI_MAP": {},
     "GLOBAL_EVENT_TICKET": {},
+    "GLOBAL_EVENT_TICKET_TO_GIFT": {},
     "GOLDEN_PINAP_BERRY": {
         "name": "ぎんのパイルのみ",
         "description": "ポケモンに与えると捕まえやすくなり、捕まえたときにアメがかなり多めに手に入るきのみ。"

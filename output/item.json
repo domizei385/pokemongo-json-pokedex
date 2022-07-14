@@ -1,5 +1,18 @@
 [
     {
+        "id": "BEAST_BALL",
+        "name": "Beast Ball",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "type": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 100
+    },
+    {
         "id": "BLUK_BERRY",
         "name": "Bluk Berry",
         "category": {
@@ -50,6 +63,18 @@
     {
         "id": "EVENT_TICKET_PINK",
         "name": "Event Ticket Pink",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_PINK_TO_GIFT",
+        "name": "Event Ticket Pink To Gift",
         "category": {
             "name": "Global Event Ticket",
             "id": "GLOBAL_EVENT_TICKET"
@@ -127,6 +152,18 @@
     {
         "id": "GLOBAL_EVENT_TICKET",
         "name": "Global Event Ticket",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "GLOBAL_EVENT_TICKET_TO_GIFT",
+        "name": "Global Event Ticket To Gift",
         "category": {
             "name": "Global Event Ticket",
             "id": "GLOBAL_EVENT_TICKET"
@@ -265,7 +302,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.5,
+            "distanceMultiplier": 1,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -285,7 +322,7 @@
         },
         "dropTrainerLevel": 100,
         "eggIncubinator": {
-            "distanceMultiplier": 0.5,
+            "distanceMultiplier": 1,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -306,7 +343,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.33333334,
+            "distanceMultiplier": 0.6666667,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -398,7 +435,7 @@
         },
         "dropTrainerLevel": 1,
         "xpBoost": {
-            "boostDurationMs": 3600000,
+            "boostDurationMs": 1800000,
             "xpMultiplier": 2
         }
     },
