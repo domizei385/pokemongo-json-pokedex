@@ -1623,7 +1623,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Acetrainersm",
@@ -2165,7 +2165,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Litwickhat",
@@ -2860,7 +2860,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Acetrainerbw",
@@ -4090,7 +4090,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Acetrainerbw",
@@ -4934,7 +4934,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Luvdiscpack",
@@ -6228,7 +6228,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Acetrainerbw",
@@ -6557,7 +6557,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Loosepants",
@@ -8746,7 +8746,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Acetrainersm",
@@ -9268,7 +9268,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Litwickhat",
@@ -9897,7 +9897,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Acetrainerbw",
@@ -10998,7 +10998,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Acetrainerbw",
@@ -11866,7 +11866,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Longsleeves Charizard 0",
@@ -13139,7 +13139,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Acetrainerbw",
@@ -13491,7 +13491,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Loosepants",

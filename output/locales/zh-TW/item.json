@@ -32,6 +32,7 @@
         "description": "噴霧式傷藥。能讓1隻寶可夢的HP回復{1}。"
     },
     "INCENSE_BELUGA_BOX": {},
+    "INCENSE_DAILY_ADVENTURE": {},
     "INCENSE_ORDINARY": {
         "name": "薰香",
         "description": "擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。"

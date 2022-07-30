@@ -32,6 +32,7 @@
         "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."
     },
     "INCENSE_BELUGA_BOX": {},
+    "INCENSE_DAILY_ADVENTURE": {},
     "INCENSE_ORDINARY": {
         "name": "Encens",
         "description": "Une senteur qui attire les Pokémon vers toi pendant 30 minutes."

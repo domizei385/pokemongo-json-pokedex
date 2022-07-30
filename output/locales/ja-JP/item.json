@@ -32,6 +32,7 @@
         "description": "スプレー式のキズぐすり。ポケモン1匹のHPを{1}だけ回復する。"
     },
     "INCENSE_BELUGA_BOX": {},
+    "INCENSE_DAILY_ADVENTURE": {},
     "INCENSE_ORDINARY": {
         "name": "おこう",
         "description": "不思議な香りのおこう。30分香りを出し野生のポケモンを呼び寄せる。"

@@ -276,6 +276,19 @@
         "dropTrainerLevel": 1
     },
     {
+        "id": "INCENSE_DAILY_ADVENTURE",
+        "name": "Incense Daily Adventure",
+        "category": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "type": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "dropTrainerLevel": 6
+    },
+    {
         "id": "INCENSE_ORDINARY",
         "name": "Incense Ordinary",
         "category": {

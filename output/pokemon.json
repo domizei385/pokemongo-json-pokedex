@@ -10039,6 +10039,124 @@
             {
                 "id": "GROWLITHE",
                 "name": "Growlithe"
+            },
+            {
+                "id": "GROWLITHE_HISUIAN",
+                "name": "Growlithe Hisuian"
+            }
+        ]
+    },
+    {
+        "dex": 58,
+        "name": "Growlithe Hisuian",
+        "animationTime": [
+            2.0333,
+            0.6667,
+            1.8,
+            1.5,
+            0,
+            2.2667,
+            0.8,
+            1.8
+        ],
+        "height": 0.8,
+        "modelHeight": 0.8,
+        "kmBuddyDistance": 3,
+        "weight": 22.7,
+        "modelScale": 1.17,
+        "maxCP": 1322,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Ember Fast",
+                "id": "EMBER_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_GROWLITHE",
+            "name": "Growlithe"
+        },
+        "stats": {
+            "baseAttack": 142,
+            "baseDefense": 92,
+            "baseStamina": 155
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            },
+            {
+                "id": "POKEMON_TYPE_ROCK",
+                "name": "Rock"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 4.125,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
+            }
+        },
+        "camera": {
+            "diskRadius": 0.8775,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": [
+                {
+                    "name": "Arcanine Hisuian",
+                    "id": "ARCANINE_HISUIAN",
+                    "costToEvolve": {
+                        "candyCost": 50
+                    }
+                }
+            ]
+        },
+        "id": "GROWLITHE_HISUIAN",
+        "forms": [
+            {
+                "id": "GROWLITHE",
+                "name": "Growlithe"
+            },
+            {
+                "id": "GROWLITHE_HISUIAN",
+                "name": "Growlithe Hisuian"
             }
         ]
     },
@@ -10151,6 +10269,130 @@
             {
                 "id": "ARCANINE",
                 "name": "Arcanine"
+            },
+            {
+                "id": "ARCANINE_HISUIAN",
+                "name": "Arcanine Hisuian"
+            }
+        ]
+    },
+    {
+        "dex": 59,
+        "name": "Arcanine Hisuian",
+        "animationTime": [
+            2.1333,
+            0.6667,
+            1.7333,
+            1.8333,
+            0,
+            1.8667,
+            1.7333,
+            2
+        ],
+        "height": 2,
+        "modelHeight": 2,
+        "kmBuddyDistance": 3,
+        "weight": 168,
+        "modelScale": 0.74,
+        "maxCP": 3145,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Fire Fang Fast",
+                "id": "FIRE_FANG_FAST"
+            },
+            {
+                "name": "Snarl Fast",
+                "id": "SNARL_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_GROWLITHE",
+            "name": "Growlithe"
+        },
+        "stats": {
+            "baseAttack": 232,
+            "baseDefense": 165,
+            "baseStamina": 216
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            },
+            {
+                "id": "POKEMON_TYPE_ROCK",
+                "name": "Rock"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 11,
+            "baseFleeRate": 0.06,
+            "baseCaptureRate": 0.1,
+            "cameraDistance": 5.55,
+            "collisionRadius": 0.78,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.25,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.75,
+                "femalePercent": 0.25
+            }
+        },
+        "camera": {
+            "diskRadius": 0.999,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "pastBranch": {
+                "name": "Growlithe Hisuian",
+                "id": "GROWLITHE_HISUIAN"
+            },
+            "costToEvolve": {
+                "candyCost": 50
+            }
+        },
+        "id": "ARCANINE_HISUIAN",
+        "forms": [
+            {
+                "id": "ARCANINE",
+                "name": "Arcanine"
+            },
+            {
+                "id": "ARCANINE_HISUIAN",
+                "name": "Arcanine Hisuian"
             }
         ]
     },
@@ -21592,6 +21834,116 @@
             {
                 "id": "ARTICUNO",
                 "name": "Articuno"
+            },
+            {
+                "id": "ARTICUNO_GALARIAN",
+                "name": "Articuno Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 144,
+        "name": "Articuno Galarian",
+        "animationTime": [
+            2.0667,
+            1,
+            1.6667,
+            0.6667,
+            0,
+            2.4,
+            1.3333,
+            1.333333
+        ],
+        "height": 1.7,
+        "modelHeight": 2.6,
+        "kmBuddyDistance": 20,
+        "weight": 50.9,
+        "modelScale": 0.66,
+        "maxCP": 3590,
+        "buddySize": {
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Futuresight",
+                "id": "FUTURESIGHT"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Psycho Cut Fast",
+                "id": "PSYCHO_CUT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ARTICUNO",
+            "name": "Articuno"
+        },
+        "stats": {
+            "baseAttack": 250,
+            "baseDefense": 197,
+            "baseStamina": 207
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_PSYCHIC",
+                "name": "Psychic"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 8,
+            "baseFleeRate": 0.9,
+            "baseCaptureRate": 0.003,
+            "cameraDistance": 3.7125,
+            "collisionRadius": 0.43,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.594,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "ARTICUNO_GALARIAN",
+        "forms": [
+            {
+                "id": "ARTICUNO",
+                "name": "Articuno"
+            },
+            {
+                "id": "ARTICUNO_GALARIAN",
+                "name": "Articuno Galarian",
+                "assetBundleValue": 31
             }
         ]
     },
@@ -21696,6 +22048,112 @@
             {
                 "id": "ZAPDOS",
                 "name": "Zapdos"
+            },
+            {
+                "id": "ZAPDOS_GALARIAN",
+                "name": "Zapdos Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 145,
+        "name": "Zapdos Galarian",
+        "animationTime": [
+            1.6,
+            0.8333,
+            1.5,
+            0.8333,
+            0,
+            2,
+            1,
+            1.666667
+        ],
+        "height": 1.6,
+        "modelHeight": 2.36,
+        "kmBuddyDistance": 20,
+        "weight": 58.2,
+        "modelScale": 0.69,
+        "maxCP": 3548,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ZAPDOS",
+            "name": "Zapdos"
+        },
+        "stats": {
+            "baseAttack": 252,
+            "baseDefense": 189,
+            "baseStamina": 207
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIGHTING",
+                "name": "Fighting"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 8,
+            "baseFleeRate": 0.9,
+            "baseCaptureRate": 0.003,
+            "cameraDistance": 3.88125,
+            "collisionRadius": 0.4485,
+            "dodgeDistance": 0.125,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.7763,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "ZAPDOS_GALARIAN",
+        "forms": [
+            {
+                "id": "ZAPDOS",
+                "name": "Zapdos"
+            },
+            {
+                "id": "ZAPDOS_GALARIAN",
+                "name": "Zapdos Galarian",
+                "assetBundleValue": 31
             }
         ]
     },
@@ -21800,6 +22258,116 @@
             {
                 "id": "MOLTRES",
                 "name": "Moltres"
+            },
+            {
+                "id": "MOLTRES_GALARIAN",
+                "name": "Moltres Galarian",
+                "assetBundleValue": 31
+            }
+        ]
+    },
+    {
+        "dex": 146,
+        "name": "Moltres Galarian",
+        "animationTime": [
+            2.7333,
+            1.3333,
+            2,
+            1.1667,
+            0,
+            2.5,
+            1.8,
+            1.8
+        ],
+        "height": 2,
+        "modelHeight": 3,
+        "kmBuddyDistance": 20,
+        "weight": 66,
+        "modelScale": 0.62,
+        "maxCP": 3167,
+        "buddySize": {
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Payback",
+                "id": "PAYBACK"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Wing Attack Fast",
+                "id": "WING_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_MOLTRES",
+            "name": "Moltres"
+        },
+        "stats": {
+            "baseAttack": 202,
+            "baseDefense": 231,
+            "baseStamina": 207
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_DARK",
+                "name": "Dark"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 8,
+            "baseFleeRate": 0.9,
+            "baseCaptureRate": 0.003,
+            "cameraDistance": 5.23125,
+            "collisionRadius": 0.403,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            }
+        },
+        "camera": {
+            "diskRadius": 0.93,
+            "shoulderModeScale": 0.25
+        },
+        "evolution": {},
+        "id": "MOLTRES_GALARIAN",
+        "forms": [
+            {
+                "id": "MOLTRES",
+                "name": "Moltres"
+            },
+            {
+                "id": "MOLTRES_GALARIAN",
+                "name": "Moltres Galarian",
+                "assetBundleValue": 31
             }
         ]
     },
@@ -29055,6 +29623,124 @@
             {
                 "id": "QWILFISH",
                 "name": "Qwilfish"
+            },
+            {
+                "id": "QWILFISH_HISUIAN",
+                "name": "Qwilfish Hisuian"
+            }
+        ]
+    },
+    {
+        "dex": 211,
+        "name": "Qwilfish Hisuian",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 0.51,
+        "modelHeight": 0.5,
+        "kmBuddyDistance": 3,
+        "weight": 3.9,
+        "modelScale": 1.35,
+        "maxCP": 2136,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Poison Sting Fast",
+                "id": "POISON_STING_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_QWILFISH",
+            "name": "Qwilfish"
+        },
+        "stats": {
+            "baseAttack": 184,
+            "baseDefense": 151,
+            "baseStamina": 163
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_DARK",
+                "name": "Dark"
+            },
+            {
+                "id": "POKEMON_TYPE_POISON",
+                "name": "Poison"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.08,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 4.125,
+            "collisionRadius": 0.21,
+            "dodgeDistance": 0.8,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": []
+        },
+        "id": "QWILFISH_HISUIAN",
+        "forms": [
+            {
+                "id": "QWILFISH",
+                "name": "Qwilfish"
+            },
+            {
+                "id": "QWILFISH_HISUIAN",
+                "name": "Qwilfish Hisuian"
             }
         ]
     },
@@ -29480,6 +30166,116 @@
             {
                 "id": "SNEASEL",
                 "name": "Sneasel"
+            },
+            {
+                "id": "SNEASEL_HISUIAN",
+                "name": "Sneasel Hisuian"
+            }
+        ]
+    },
+    {
+        "dex": 215,
+        "name": "Sneasel Hisuian",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 0.9,
+        "modelHeight": 0.8,
+        "kmBuddyDistance": 3,
+        "weight": 27,
+        "modelScale": 1.1,
+        "maxCP": 2051,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_SNEASEL",
+            "name": "Sneasel"
+        },
+        "stats": {
+            "baseAttack": 189,
+            "baseDefense": 146,
+            "baseStamina": 146
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIGHTING",
+                "name": "Fighting"
+            },
+            {
+                "id": "POKEMON_TYPE_POISON",
+                "name": "Poison"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.2,
+            "attackTimer": 20,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 3.42,
+            "collisionRadius": 0.25,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.2,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": []
+        },
+        "id": "SNEASEL_HISUIAN",
+        "forms": [
+            {
+                "id": "SNEASEL",
+                "name": "Sneasel"
+            },
+            {
+                "id": "SNEASEL_HISUIAN",
+                "name": "Sneasel Hisuian"
             }
         ]
     },
@@ -80359,7 +81155,124 @@
         },
         "evolution": {},
         "id": "BRAVIARY",
-        "forms": []
+        "forms": [
+            {
+                "id": "BRAVIARY",
+                "name": "Braviary"
+            },
+            {
+                "id": "BRAVIARY_HISUIAN",
+                "name": "Braviary Hisuian"
+            }
+        ]
+    },
+    {
+        "dex": 628,
+        "name": "Braviary Hisuian",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 1.7,
+        "modelHeight": 2.29,
+        "kmBuddyDistance": 5,
+        "weight": 43.4,
+        "modelScale": 1.26,
+        "maxCP": 2814,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Ominous Wind",
+                "id": "OMINOUS_WIND"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_RUFFLET",
+            "name": "Rufflet"
+        },
+        "stats": {
+            "baseAttack": 213,
+            "baseDefense": 137,
+            "baseStamina": 242
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_PSYCHIC",
+                "name": "Psychic"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.05,
+            "baseCaptureRate": 0.15,
+            "cameraDistance": 5,
+            "collisionRadius": 0.8,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
+            }
+        },
+        "camera": {
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "BRAVIARY_HISUIAN",
+        "forms": [
+            {
+                "id": "BRAVIARY",
+                "name": "Braviary"
+            },
+            {
+                "id": "BRAVIARY_HISUIAN",
+                "name": "Braviary Hisuian"
+            }
+        ]
     },
     {
         "dex": 629,
@@ -95767,8 +96680,8 @@
         "modelScale": 0.7,
         "maxCP": 3628,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -95830,7 +96743,7 @@
             "attackTimer": 29,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
-            "cameraDistance": 4,
+            "cameraDistance": 5,
             "collisionRadius": 0.1,
             "dodgeProbability": 0.15,
             "jumpTime": 0.9,
@@ -98529,9 +99442,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 2,
+            "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -98566,8 +99481,8 @@
         "weight": 78.6,
         "maxCP": 3232,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -98616,9 +99531,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 10,
+            "collisionRadius": 1.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -98703,9 +99620,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
-            "cameraDistance": 4,
+            "cameraDistance": 2,
+            "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -105946,7 +106865,7 @@
         "dex": 789,
         "name": "Cosmog",
         "height": 0.2,
-        "modelHeight": 1,
+        "modelHeight": 0.3,
         "kmBuddyDistance": 20,
         "weight": 0.1,
         "maxCP": 432,
@@ -105989,14 +106908,16 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
-            "cameraDistance": 4,
+            "cameraDistance": 2,
+            "collisionRadius": 0.19,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
             }
         },
         "camera": {},
@@ -106674,13 +107595,13 @@
         "dex": 799,
         "name": "Guzzlord",
         "height": 5.5,
-        "modelHeight": 1,
+        "modelHeight": 5.59,
         "kmBuddyDistance": 20,
         "weight": 888,
         "maxCP": 2887,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -106722,8 +107643,10 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
             "cameraDistance": 4,
+            "collisionRadius": 2.89,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.6,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -116674,5 +117597,207 @@
                 "name": "Calyrex Shadow Rider"
             }
         ]
+    },
+    {
+        "dex": 903,
+        "name": "Sneasler",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 1.3,
+        "modelHeight": 1.3,
+        "kmBuddyDistance": 5,
+        "weight": 43,
+        "modelScale": 1.26,
+        "maxCP": 3222,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_SNEASEL",
+            "name": "Sneasel"
+        },
+        "stats": {
+            "baseAttack": 259,
+            "baseDefense": 158,
+            "baseStamina": 190
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIGHTING",
+                "name": "Fighting"
+            },
+            {
+                "id": "POKEMON_TYPE_POISON",
+                "name": "Poison"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 4,
+            "collisionRadius": 0.15,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "SNEASLER",
+        "forms": []
+    },
+    {
+        "dex": 904,
+        "name": "Overqwil",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 2.5,
+        "modelHeight": 2.5,
+        "kmBuddyDistance": 5,
+        "weight": 60.5,
+        "modelScale": 1.26,
+        "maxCP": 2946,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
+            },
+            {
+                "name": "Ice Beam",
+                "id": "ICE_BEAM"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Poison Sting Fast",
+                "id": "POISON_STING_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_QWILFISH",
+            "name": "Qwilfish"
+        },
+        "stats": {
+            "baseAttack": 222,
+            "baseDefense": 171,
+            "baseStamina": 198
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_DARK",
+                "name": "Dark"
+            },
+            {
+                "id": "POKEMON_TYPE_POISON",
+                "name": "Poison"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.3,
+            "cameraDistance": 5,
+            "collisionRadius": 1,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "OVERQWIL",
+        "forms": []
     }
 ]

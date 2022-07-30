@@ -32,6 +32,7 @@
         "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."
     },
     "INCENSE_BELUGA_BOX": {},
+    "INCENSE_DAILY_ADVENTURE": {},
     "INCENSE_ORDINARY": {
         "name": "Incense",
         "description": "Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes."

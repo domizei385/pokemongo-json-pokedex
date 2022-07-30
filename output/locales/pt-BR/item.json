@@ -32,6 +32,7 @@
         "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."
     },
     "INCENSE_BELUGA_BOX": {},
+    "INCENSE_DAILY_ADVENTURE": {},
     "INCENSE_ORDINARY": {
         "name": "Incenso",
         "description": "Incenso de fragrância misteriosa que atrai Pokémon selvagens até você por 30 minutos."
