@@ -4071,6 +4071,39 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 38",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_38",
+        "iconName": "pose_38",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 39",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_39",
+        "iconName": "pose_39",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 40",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_40",
+        "iconName": "pose_40",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -10973,6 +11006,39 @@
         "enabled": true,
         "id": "pose_37",
         "iconName": "pose_37",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 38",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_38",
+        "iconName": "pose_38",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 39",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_39",
+        "iconName": "pose_39",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 40",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_40",
+        "iconName": "pose_40",
         "slot": [
             "Pose"
         ],

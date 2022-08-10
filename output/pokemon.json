@@ -3601,6 +3601,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -3751,6 +3755,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -3901,6 +3909,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -4055,6 +4067,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -4205,6 +4221,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -4359,6 +4379,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -4513,6 +4537,166 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Gofest 2022",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_SHOULDER",
+            "name": "Shoulder"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "baseFleeRate": 0.1,
+            "baseCaptureRate": 0.2,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.16,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": []
+        },
+        "id": "PIKACHU_GOFEST_2022",
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
+            },
+            {
+                "id": "PIKACHU_ADVENTURE_HAT_2020",
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
+            },
+            {
+                "id": "PIKACHU_WINTER_2020",
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
+            },
+            {
+                "id": "PIKACHU_KARIYUSHI",
+                "name": "Pikachu Kariyushi",
+                "assetBundleSuffix": "pm0025_00_pikachu_pgo_kariyushi"
+            },
+            {
+                "id": "PIKACHU_POP_STAR",
+                "name": "Pikachu Pop Star",
+                "assetBundleSuffix": "pm0025_00_pgo_popstar"
+            },
+            {
+                "id": "PIKACHU_ROCK_STAR",
+                "name": "Pikachu Rock Star",
+                "assetBundleSuffix": "pm0025_00_pgo_rockstar"
+            },
+            {
+                "id": "PIKACHU_FLYING_5TH_ANNIV",
+                "name": "Pikachu Flying 5th Anniv",
+                "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -4663,6 +4847,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -4812,6 +5000,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -4961,6 +5153,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -5110,6 +5306,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -5260,6 +5460,10 @@
             {
                 "id": "PIKACHU_FLYING_OKINAWA",
                 "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
             }
         ]
     },
@@ -19558,6 +19762,7 @@
                 {
                     "name": "Scizor",
                     "id": "SCIZOR",
+                    "futureBranches": [],
                     "costToEvolve": {
                         "candyCost": 50,
                         "evolutionItem": {
@@ -29846,7 +30051,8 @@
                     "id": "ITEM_METAL_COAT",
                     "name": "Metal Coat"
                 }
-            }
+            },
+            "futureBranches": []
         },
         "id": "SCIZOR",
         "forms": [
