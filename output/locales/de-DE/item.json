@@ -1,4 +1,5 @@
 {
+    "BATTLE_PASS_TICKET": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Morbbeere",
@@ -110,6 +111,7 @@
         "name": "Beleber",
         "description": "Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die Hälfte der maximalen KP wird wiederhergestellt. "
     },
+    "ROUTE_MAKER": {},
     "SPECIAL_CAMERA": {
         "name": "Kamera",
         "description": "Wenn du einem wilden Pokémon begegnest, kannst du es mit deiner Kamera fotografieren."

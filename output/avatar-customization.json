@@ -872,6 +872,17 @@
         "category": "Glasses"
     },
     {
+        "name": "Glasses Fw2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_glasses_fw2022_0",
+        "iconName": "f_glasses_fw2022_00_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Glasses Goteamrocketarlo",
         "gender": "Female",
         "enabled": true,
@@ -966,6 +977,17 @@
         "enabled": true,
         "id": "f_glasses_newyearglasses2021_0",
         "iconName": "f_glasses_newyearglasses2021_00_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Obstagoonitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_glasses_obstagoonitems_0",
+        "iconName": "f_glasses_obstagoonitems_00_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -1185,6 +1207,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Guzma",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_guzma_0",
+        "iconName": "f_gloves_guzma_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Gymleader 0",
         "gender": "Female",
         "enabled": true,
@@ -1268,6 +1301,17 @@
         "enabled": true,
         "id": "f_gloves_megabangleyellow_0",
         "iconName": "f_gloves_megabangleyellow_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Obstagoonitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_obstagoonitems_0",
+        "iconName": "f_gloves_obstagoonitems_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -1704,6 +1748,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Cosmog",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_cosmog_0",
+        "iconName": "f_hat_cosmog_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Cubonehat",
         "gender": "Female",
         "enabled": true,
@@ -1969,6 +2024,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Fw2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_fw2022_0",
+        "iconName": "f_hat_fw2022_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Galarfarfetchditems",
         "gender": "Female",
         "enabled": true,
@@ -2044,6 +2110,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Guzma",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_guzma_0",
+        "iconName": "f_hat_guzma_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Gyaradoscap",
@@ -2165,7 +2242,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Litwickhat",
@@ -2211,6 +2288,17 @@
             "Hat"
         ],
         "category": "Hat"
+    },
+    {
+        "name": "Hat Mareaniehat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_mareaniehat_0",
+        "iconName": "f_hat_mareaniehat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Hat Megalopunnyitems",
@@ -2334,11 +2422,33 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Nihilegoitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_nihilegoitems_0",
+        "iconName": "f_hat_nihilegoitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Noibat",
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_noibat_0",
         "iconName": "f_hat_noibat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Obstagoonitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_obstagoonitems_0",
+        "iconName": "f_hat_obstagoonitems_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2720,6 +2830,28 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Ultrareconsquad",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_ultraReconSquad_0",
+        "iconName": "f_hat_ultrareconsquad_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Ultrareconsquadb",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_ultraReconSquadB_0",
+        "iconName": "f_hat_ultrareconsquadb_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Ultra 0",
         "gender": "Female",
         "enabled": true,
@@ -2740,6 +2872,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Wcs2022winnersitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_wcs2022winnersitems_0",
+        "iconName": "f_hat_wcs2022winnersitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Whimsicottearmuff",
@@ -3019,6 +3162,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Fashionweek2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_fashionWeek2022_0",
+        "iconName": "f_pants_fashionweek2022_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Flabebepack",
         "gender": "Female",
         "enabled": true,
@@ -3040,6 +3194,17 @@
             "Pants"
         ],
         "category": "Pants"
+    },
+    {
+        "name": "Pants Fw2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_fw2022_0",
+        "iconName": "f_pants_fw2022_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Genderlessskirt",
@@ -3092,6 +3257,17 @@
         "enabled": true,
         "id": "f_pants_greencoat_0",
         "iconName": "f_pants_greencoat_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Guzma",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_guzma_0",
+        "iconName": "f_pants_guzma_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -3676,6 +3852,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Wcs2022winnersitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_wcs2022winnersitems_0",
+        "iconName": "f_pants_wcs2022winnersitems_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pose 01",
         "gender": "Female",
         "id": "pose_01",
@@ -4104,6 +4291,39 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 41",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_41",
+        "iconName": "pose_41",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 43",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_43",
+        "iconName": "pose_43",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 44",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_44",
+        "iconName": "pose_44",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -4238,6 +4458,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Buzzwoleitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_buzzwoleitems_0",
+        "iconName": "f_shirt_buzzwoleitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Bwn",
         "gender": "Female",
         "enabled": true,
@@ -4309,6 +4540,17 @@
         "enabled": true,
         "id": "f_shirt_chimcharonesie_0",
         "iconName": "f_shirt_chimcharonesie_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Cosmog",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_cosmog_0",
+        "iconName": "f_shirt_cosmog_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -4524,6 +4766,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Fashionweek2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_fashionWeek2022_0",
+        "iconName": "f_shirt_fashionweek2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Flabebepack",
         "gender": "Female",
         "enabled": true,
@@ -4556,6 +4809,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shirt Fw2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_fw2022_0",
+        "iconName": "f_shirt_fw2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Galarfarfetchditems",
@@ -4768,6 +5032,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Shirt Guzma",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_guzma_0",
+        "iconName": "f_shirt_guzma_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Gymleader 0",
         "gender": "Female",
         "enabled": true,
@@ -4967,7 +5242,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Luvdiscpack",
@@ -5462,6 +5737,17 @@
         "enabled": true,
         "id": "f_shirt_shayminlandtshirt_0",
         "iconName": "f_shirt_shayminlandtshirt_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Shayminskytshirt",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_shayminskytshirt_0",
+        "iconName": "f_shirt_shayminskytshirt_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6142,6 +6428,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Ultrareconsquad",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ultraReconSquad_0",
+        "iconName": "f_shirt_ultrareconsquad_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Ultra 0",
         "gender": "Female",
         "enabled": true,
@@ -6236,6 +6533,39 @@
         "enabled": true,
         "id": "f_shirt_wcs2022_0",
         "iconName": "f_shirt_wcs2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2022tshirtbulu",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2022tshirtbulu_0",
+        "iconName": "f_shirt_wcs2022tshirtbulu_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2022tshirtred",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2022tshirtred_0",
+        "iconName": "f_shirt_wcs2022tshirtred_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2022winnersitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2022winnersitems_0",
+        "iconName": "f_shirt_wcs2022winnersitems_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6477,6 +6807,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Fashionweek2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_fashionWeek2022_0",
+        "iconName": "f_shoes_fashionweek2022_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shoes Frlg 0",
         "gender": "Female",
         "enabled": true,
@@ -6487,6 +6828,17 @@
             "Shoes"
         ],
         "category": "Shoes"
+    },
+    {
+        "name": "Shoes Fw2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_fw2022_0",
+        "iconName": "f_shoes_fw2022_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Giovanni",
@@ -6590,7 +6942,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Loosepants",
@@ -7001,6 +7353,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Ultrareconsquad",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_ultraReconSquad_0",
+        "iconName": "f_shoes_ultrareconsquad_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Ultra 0",
         "gender": "Female",
         "enabled": true,
@@ -7018,6 +7381,17 @@
         "id": "f_shoes_veterantrainerxy_0",
         "unlockBadgeLevel": 200,
         "iconName": "f_shoes_veterantrainerxy_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Wcs2022winnersitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_wcs2022winnersitems_0",
+        "iconName": "f_shoes_wcs2022winnersitems_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -7230,6 +7604,17 @@
             "Socks"
         ],
         "category": "Socks"
+    },
+    {
+        "name": "Socks Fw2022",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_socks_fw2022_0",
+        "iconName": "f_socks_fw2022_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Socks Hgss 0",
@@ -8016,6 +8401,17 @@
         "category": "Glasses"
     },
     {
+        "name": "Glasses Fw2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_fw2022_0",
+        "iconName": "m_glasses_fw2022_00_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Glasses Goteamrocketarlo",
         "gender": "Male",
         "enabled": true,
@@ -8122,6 +8518,17 @@
         "enabled": true,
         "id": "m_glasses_newyearglasses2021_0",
         "iconName": "m_glasses_newyearglasses2021_00_bundle_icon",
+        "slot": [
+            "Glasses"
+        ],
+        "category": "Glasses"
+    },
+    {
+        "name": "Glasses Obstagoonitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_glasses_obstagoonitems_0",
+        "iconName": "m_glasses_obstagoonitems_00_bundle_icon",
         "slot": [
             "Glasses"
         ],
@@ -8329,6 +8736,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Guzma",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_guzma_0",
+        "iconName": "m_gloves_guzma_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
         "name": "Gloves Gymleader 0",
         "gender": "Male",
         "enabled": true,
@@ -8424,6 +8842,17 @@
         "enabled": true,
         "id": "m_gloves_megabangleyellow_0",
         "iconName": "m_gloves_megabangleyellow_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Obstagoonitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_obstagoonitems_0",
+        "iconName": "m_gloves_obstagoonitems_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -8860,6 +9289,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Cosmog",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_cosmog_0",
+        "iconName": "m_hat_cosmog_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Cubonehat",
         "gender": "Male",
         "enabled": true,
@@ -9115,6 +9555,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Fw2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_fw2022_0",
+        "iconName": "m_hat_fw2022_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Galarfarfetchditems",
         "gender": "Male",
         "enabled": true,
@@ -9190,6 +9641,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Guzma",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_guzma_0",
+        "iconName": "m_hat_guzma_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Gyaradoscap",
@@ -9301,7 +9763,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Litwickhat",
@@ -9347,6 +9809,17 @@
             "Hat"
         ],
         "category": "Hat"
+    },
+    {
+        "name": "Hat Mareaniehat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_mareaniehat_0",
+        "iconName": "m_hat_mareaniehat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Hat Megalopunnyitems",
@@ -9459,11 +9932,33 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Nihilegoitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_nihilegoitems_0",
+        "iconName": "m_hat_nihilegoitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Noibat",
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_noibat_0",
         "iconName": "m_hat_noibat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Obstagoonitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_obstagoonitems_0",
+        "iconName": "m_hat_obstagoonitems_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -9845,6 +10340,28 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Ultrareconsquad",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_ultraReconSquad_0",
+        "iconName": "m_hat_ultrareconsquad_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Ultrareconsquadb",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_ultraReconSquadB_0",
+        "iconName": "m_hat_ultrareconsquadb_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Ultra 0",
         "gender": "Male",
         "enabled": true,
@@ -9865,6 +10382,17 @@
             "Hat"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Hat Wcs2022winnersitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_wcs2022winnersitems_0",
+        "iconName": "m_hat_wcs2022winnersitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
     },
     {
         "name": "Hat Whimsicottearmuff",
@@ -10056,6 +10584,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Fashionweek2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_fashionWeek2022_0",
+        "iconName": "m_pants_fashionweek2022_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Pants Fisher 0",
         "gender": "Male",
         "enabled": true,
@@ -10089,6 +10628,17 @@
             "Pants"
         ],
         "category": "Pants"
+    },
+    {
+        "name": "Pants Fw2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_fw2022_0",
+        "iconName": "m_pants_fw2022_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Genderlessskirt",
@@ -10141,6 +10691,17 @@
         "enabled": true,
         "id": "m_pants_greencoat_0",
         "iconName": "m_pants_greencoat_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
+        "name": "Pants Guzma",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_guzma_0",
+        "iconName": "m_pants_guzma_00_bundle_icon",
         "slot": [
             "Pants"
         ],
@@ -10616,6 +11177,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Wcs2022winnersitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_wcs2022winnersitems_0",
+        "iconName": "m_pants_wcs2022winnersitems_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pose 01",
         "gender": "Male",
         "enabled": true,
@@ -11045,6 +11617,39 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 41",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_41",
+        "iconName": "pose_41",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 43",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_43",
+        "iconName": "pose_43",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 44",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_44",
+        "iconName": "pose_44",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -11179,6 +11784,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Buzzwoleitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_buzzwoleitems_0",
+        "iconName": "m_shirt_buzzwoleitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Bwn",
         "gender": "Male",
         "enabled": true,
@@ -11250,6 +11866,17 @@
         "enabled": true,
         "id": "m_shirt_chimcharonesie_0",
         "iconName": "m_shirt_chimcharonesie_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Cosmog",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_cosmog_0",
+        "iconName": "m_shirt_cosmog_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -11465,6 +12092,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Fashionweek2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_fashionWeek2022_0",
+        "iconName": "m_shirt_fashionweek2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Fisher 0",
         "gender": "Male",
         "enabled": true,
@@ -11509,6 +12147,17 @@
             "Shirt"
         ],
         "category": "Shirt"
+    },
+    {
+        "name": "Shirt Fw2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_fw2022_0",
+        "iconName": "m_shirt_fw2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Galarfarfetchditems",
@@ -11719,6 +12368,17 @@
             "Shirt"
         ],
         "category": "Sponsor"
+    },
+    {
+        "name": "Shirt Guzma",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_guzma_0",
+        "iconName": "m_shirt_guzma_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
     },
     {
         "name": "Shirt Gymleader 0",
@@ -11932,7 +12592,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Longsleeves Charizard 0",
@@ -12482,6 +13142,17 @@
         "enabled": true,
         "id": "m_shirt_shayminlandtshirt_0",
         "iconName": "m_shirt_shayminlandtshirt_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Shayminskytshirt",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_shayminskytshirt_0",
+        "iconName": "m_shirt_shayminskytshirt_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -13086,6 +13757,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Ultrareconsquad",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ultraReconSquad_0",
+        "iconName": "m_shirt_ultrareconsquad_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Ultra 0",
         "gender": "Male",
         "enabled": true,
@@ -13180,6 +13862,39 @@
         "enabled": true,
         "id": "m_shirt_wcs2022_0",
         "iconName": "m_shirt_wcs2022_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2022tshirtbulu",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2022tshirtbulu_0",
+        "iconName": "m_shirt_wcs2022tshirtbulu_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2022tshirtred",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2022tshirtred_0",
+        "iconName": "m_shirt_wcs2022tshirtred_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2022winnersitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2022winnersitems_0",
+        "iconName": "m_shirt_wcs2022winnersitems_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -13420,6 +14135,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Fashionweek2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_fashionWeek2022_0",
+        "iconName": "m_shoes_fashionweek2022_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shoes Fisher 0",
         "gender": "Male",
         "enabled": true,
@@ -13442,6 +14168,17 @@
             "Shoes"
         ],
         "category": "Shoes"
+    },
+    {
+        "name": "Shoes Fw2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_fw2022_0",
+        "iconName": "m_shoes_fw2022_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Giovanni",
@@ -13557,7 +14294,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Loosepants",
@@ -13957,6 +14694,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Ultrareconsquad",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_ultraReconSquad_0",
+        "iconName": "m_shoes_ultrareconsquad_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Ultra 0",
         "gender": "Male",
         "enabled": true,
@@ -13974,6 +14722,17 @@
         "id": "m_shoes_veterantrainerxy_0",
         "unlockBadgeLevel": 200,
         "iconName": "m_shoes_veterantrainerxy_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Wcs2022winnersitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_wcs2022winnersitems_0",
+        "iconName": "m_shoes_wcs2022winnersitems_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -14197,6 +14956,17 @@
             "Socks"
         ],
         "category": "Socks"
+    },
+    {
+        "name": "Socks Fw2022",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_socks_fw2022_0",
+        "iconName": "m_socks_fw2022_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Socks Sneakersocks 0",

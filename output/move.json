@@ -4955,6 +4955,26 @@
     },
     {
         "accuracyChance": 1,
+        "animationId": 4,
+        "power": 9,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "fairy_wind_fast",
+        "durationMs": 970,
+        "damageWindowStartMs": 600,
+        "damageWindowEndMs": 970,
+        "energyDelta": 13,
+        "id": "FAIRY_WIND_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FAIRY",
+            "name": "Fairy"
+        },
+        "name": "Fairy Wind Fast",
+        "internalId": 350
+    },
+    {
+        "accuracyChance": 1,
         "animationId": 5,
         "power": 55,
         "staminaLossScalar": 0.01,
@@ -4992,6 +5012,26 @@
         },
         "name": "Psychic Fangs",
         "internalId": 353
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 10,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "double_kick_fast",
+        "durationMs": 1000,
+        "damageWindowStartMs": 300,
+        "damageWindowEndMs": 800,
+        "energyDelta": 13,
+        "id": "DOUBLE_KICK_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIGHTING",
+            "name": "Fighting"
+        },
+        "name": "Double Kick Fast",
+        "internalId": 356
     },
     {
         "accuracyChance": 1,
@@ -5252,5 +5292,65 @@
         },
         "name": "Seed Flare",
         "internalId": 369
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 20,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "obstruct",
+        "durationMs": 1700,
+        "damageWindowStartMs": 500,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -33,
+        "id": "OBSTRUCT",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DARK",
+            "name": "Dark"
+        },
+        "name": "Obstruct",
+        "internalId": 370
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "meteor_beam",
+        "durationMs": 1900,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -100,
+        "id": "METEOR_BEAM",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ROCK",
+            "name": "Rock"
+        },
+        "name": "Meteor Beam",
+        "internalId": 372
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "poltergeist",
+        "durationMs": 3600,
+        "damageWindowStartMs": 2800,
+        "damageWindowEndMs": 3000,
+        "energyDelta": -100,
+        "id": "POLTERGEIST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GHOST",
+            "name": "Ghost"
+        },
+        "name": "Poltergeist",
+        "internalId": 376
     }
 ]

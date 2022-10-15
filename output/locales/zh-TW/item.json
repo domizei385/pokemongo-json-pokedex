@@ -1,4 +1,5 @@
 {
+    "BATTLE_PASS_TICKET": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "墨莓果",
@@ -110,6 +111,7 @@
         "name": "活力碎片",
         "description": "讓瀕死的寶可夢重獲生機，並回復一半HP。"
     },
+    "ROUTE_MAKER": {},
     "SPECIAL_CAMERA": {
         "name": "照相機",
         "description": "可用照相機拍攝野生寶可夢。"

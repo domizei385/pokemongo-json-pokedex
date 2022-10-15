@@ -130,6 +130,7 @@
     "f_glasses_empty": {
         "name": "Senza occhiali"
     },
+    "f_glasses_fw2022_0": {},
     "f_glasses_goteamrocketarlo": {},
     "f_glasses_grandoakglasses": {},
     "f_glasses_lugiaglasses_0": {},
@@ -143,6 +144,7 @@
     "f_glasses_newyearglasses2022_0": {},
     "f_glasses_newyearglasses2020_0": {},
     "f_glasses_newyearglasses2021_0": {},
+    "f_glasses_obstagoonitems_0": {},
     "f_glasses_roundsunglasses_0": {},
     "f_glasses_teardrop_0": {
         "name": "Occhiali da sole a goccia"
@@ -188,6 +190,7 @@
         "name": "Polsini Verde Foglia"
     },
     "f_gloves_giovanni_0": {},
+    "f_gloves_guzma_0": {},
     "f_gloves_gymleader_0": {
         "name": "Guanti Capopalestra"
     },
@@ -198,6 +201,7 @@
     "f_gloves_megabangleblue_0": {},
     "f_gloves_megabanglered_0": {},
     "f_gloves_megabangleyellow_0": {},
+    "f_gloves_obstagoonitems_0": {},
     "f_gloves_swshdlc2costume_0": {},
     "f_gloves_swshdlccostume_0": {},
     "f_gloves_swshuniformchampion_0": {},
@@ -243,6 +247,7 @@
     "f_hat_casket_0": {
         "name": "Berretto"
     },
+    "f_hat_cosmog_0": {},
     "f_hat_cubonehat_0": {},
     "f_hat_dedenneitems_0": {},
     "f_hat_default_A_0": {},
@@ -275,6 +280,7 @@
         "name": "Cappello Verde Foglia"
     },
     "f_hat_furfrouwig_0": {},
+    "f_hat_fw2022_0": {},
     "f_hat_galarfarfetchditems_0": {},
     "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
@@ -282,6 +288,7 @@
     "f_hat_goomy_0": {},
     "f_hat_greencoat_0": {},
     "f_hat_guccihat_0": {},
+    "f_hat_guzma_0": {},
     "f_hat_gyaradoscap_0": {},
     "f_hat_hgss_0": {
         "name": "Berretto Johto"
@@ -305,6 +312,7 @@
     "f_hat_magikarp": {
         "name": "Cappello Magikarp"
     },
+    "f_hat_mareaniehat_0": {},
     "f_hat_megalopunnyitems_0": {},
     "f_hat_meltan_0": {},
     "f_hat_meltanearrings_0": {},
@@ -316,7 +324,9 @@
     "f_hat_munnapack_1": {},
     "f_hat_newyear2022_0": {},
     "f_hat_newyearhat2021_0": {},
+    "f_hat_nihilegoitems_0": {},
     "f_hat_noibat_0": {},
+    "f_hat_obstagoonitems_0": {},
     "f_hat_oricorioPink_0": {},
     "f_hat_oricorioPurple_0": {},
     "f_hat_oricorioRed_0": {},
@@ -357,8 +367,11 @@
     "f_hat_tophat_0": {
         "name": "Cilindro"
     },
+    "f_hat_ultraReconSquad_0": {},
+    "f_hat_ultraReconSquadB_0": {},
     "f_hat_ultra_0": {},
     "f_hat_verizon2021_0": {},
+    "f_hat_wcs2022winnersitems_0": {},
     "f_hat_whimsicottearmuff_0": {},
     "f_hat_willowglasses_0": {},
     "f_hat_woobatearrings_0": {},
@@ -408,15 +421,18 @@
         "name": "Tutina sportiva"
     },
     "f_pants_dp_0": {},
+    "f_pants_fashionWeek2022_0": {},
     "f_pants_flabebepack_0": {},
     "f_pants_frlg_0": {
         "name": "Gonna Verde Foglia"
     },
+    "f_pants_fw2022_0": {},
     "f_pants_genderlessskirt_0": {},
     "f_pants_giovanni_0": {},
     "f_pants_gladion_0": {},
     "f_pants_green_0": {},
     "f_pants_greencoat_0": {},
+    "f_pants_guzma_0": {},
     "f_pants_gymleader_0": {
         "name": "Gonna Capopalestra"
     },
@@ -521,6 +537,7 @@
     },
     "f_pants_ultra_0": {},
     "f_pants_veterantrainerxy_0": {},
+    "f_pants_wcs2022winnersitems_0": {},
     "pose_01": {},
     "pose_02": {},
     "pose_03": {},
@@ -561,6 +578,9 @@
     "pose_38": {},
     "pose_39": {},
     "pose_40": {},
+    "pose_41": {},
+    "pose_43": {},
+    "pose_44": {},
     "pose_empty": {},
     "f_shirt_6thanniversary_0": {},
     "f_shirt_acetrainerbw_0": {},
@@ -577,6 +597,7 @@
     "f_shirt_buttondown_0": {
         "name": "Maglia attillata"
     },
+    "f_shirt_buzzwoleitems_0": {},
     "f_shirt_bwn_0": {},
     "f_shirt_casual_0": {},
     "f_shirt_casual_1": {},
@@ -586,6 +607,7 @@
         "name": "T-shirt Celebi"
     },
     "f_shirt_chimcharonesie_0": {},
+    "f_shirt_cosmog_0": {},
     "f_shirt_cowichansweater_0": {},
     "f_shirt_dayofdead_0": {},
     "f_shirt_default_0": {
@@ -625,11 +647,13 @@
         "name": "T-shirt Surf Blue"
     },
     "f_shirt_elesa_0": {},
+    "f_shirt_fashionWeek2022_0": {},
     "f_shirt_flabebepack_0": {},
     "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
         "name": "Top Verde Foglia"
     },
+    "f_shirt_fw2022_0": {},
     "f_shirt_galarfarfetchditems_0": {},
     "f_shirt_genderlessskirt_0": {},
     "f_shirt_gengar_0": {},
@@ -649,6 +673,7 @@
     "f_shirt_gtrtshirt2022_0": {},
     "f_shirt_gtrtshirt2022_1": {},
     "f_shirt_guccitshirts_0": {},
+    "f_shirt_guzma_0": {},
     "f_shirt_gymleader_0": {
         "name": "Maglia Capopalestra"
     },
@@ -726,6 +751,7 @@
     "f_shirt_safarizone2020_0": {},
     "f_shirt_samsungsummer2020_0": {},
     "f_shirt_shayminlandtshirt_0": {},
+    "f_shirt_shayminskytshirt_0": {},
     "f_shirt_shinymewtshirts_0": {},
     "f_shirt_slowpokeshirts_0": {},
     "f_shirt_slowpoketailshirts_0": {},
@@ -843,6 +869,7 @@
         "name": "T-shirt Pikachu"
     },
     "f_shirt_turtwigonesie_0": {},
+    "f_shirt_ultraReconSquad_0": {},
     "f_shirt_ultra_0": {},
     "f_shirt_uniqlotshirts_0": {},
     "f_shirt_uniqlotshirts_1": {},
@@ -852,6 +879,9 @@
     "f_shirt_veterantrainerxy_0": {},
     "f_shirt_victinitshirts_0": {},
     "f_shirt_wcs2022_0": {},
+    "f_shirt_wcs2022tshirtbulu_0": {},
+    "f_shirt_wcs2022tshirtred_0": {},
+    "f_shirt_wcs2022winnersitems_0": {},
     "f_shirt_whitecoat_0": {},
     "f_shoes_6thanniversary_0": {},
     "f_shoes_acetrainerbw_0": {},
@@ -891,9 +921,11 @@
     "f_shoes_empty": {
         "name": "Senza scarpe"
     },
+    "f_shoes_fashionWeek2022_0": {},
     "f_shoes_frlg_0": {
         "name": "Scarpe Verde Foglia"
     },
+    "f_shoes_fw2022_0": {},
     "f_shoes_giovanni_0": {},
     "f_shoes_gladion_0": {},
     "f_shoes_green_0": {},
@@ -954,8 +986,10 @@
     },
     "f_shoes_teamskull_0": {},
     "f_shoes_teamspark_0": {},
+    "f_shoes_ultraReconSquad_0": {},
     "f_shoes_ultra_0": {},
     "f_shoes_veterantrainerxy_0": {},
+    "f_shoes_wcs2022winnersitems_0": {},
     "f_shoes_winterboots_0": {},
     "f_shoes_winterboots_1": {},
     "f_shoes_winterboots_2": {},
@@ -984,6 +1018,7 @@
     "f_socks_empty": {
         "name": "Senza calze"
     },
+    "f_socks_fw2022_0": {},
     "f_socks_hgss_0": {
         "name": "Calze Johto"
     },
@@ -1081,6 +1116,7 @@
     "m_glasses_empty": {
         "name": "Senza occhiali"
     },
+    "m_glasses_fw2022_0": {},
     "m_glasses_goteamrocketarlo": {},
     "m_glasses_grandoakglasses": {},
     "m_glasses_jogger_0": {
@@ -1097,6 +1133,7 @@
     "m_glasses_newyearglasses2022_0": {},
     "m_glasses_newyearglasses2020_0": {},
     "m_glasses_newyearglasses2021_0": {},
+    "m_glasses_obstagoonitems_0": {},
     "m_glasses_roundsunglasses_0": {},
     "m_glasses_teardrop_0": {},
     "m_glasses_thick_0": {
@@ -1137,6 +1174,7 @@
         "name": "Polsini Rosso Fuoco"
     },
     "m_gloves_giovanni_0": {},
+    "m_gloves_guzma_0": {},
     "m_gloves_gymleader_0": {
         "name": "Guanti Capopalestra"
     },
@@ -1150,6 +1188,7 @@
     "m_gloves_megabangleblue_0": {},
     "m_gloves_megabanglered_0": {},
     "m_gloves_megabangleyellow_0": {},
+    "m_gloves_obstagoonitems_0": {},
     "m_gloves_swshdlc2costume_0": {},
     "m_gloves_swshdlccostume_0": {},
     "m_gloves_swshuniformchampion_0": {},
@@ -1195,6 +1234,7 @@
     "m_hat_casket_0": {
         "name": "Berretto"
     },
+    "m_hat_cosmog_0": {},
     "m_hat_cubonehat_0": {},
     "m_hat_dedenneitems_0": {},
     "m_hat_default_0": {
@@ -1240,6 +1280,7 @@
         "name": "Berretto Rosso Fuoco"
     },
     "m_hat_furfrouwig_0": {},
+    "m_hat_fw2022_0": {},
     "m_hat_galarfarfetchditems_0": {},
     "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
@@ -1247,6 +1288,7 @@
     "m_hat_goomy_0": {},
     "m_hat_greencoat_0": {},
     "m_hat_guccihat_0": {},
+    "m_hat_guzma_0": {},
     "m_hat_gyaradoscap_0": {},
     "m_hat_hgss_0": {
         "name": "Berretto Johto"
@@ -1267,6 +1309,7 @@
     "m_hat_magikarp": {
         "name": "Cappello Magikarp"
     },
+    "m_hat_mareaniehat_0": {},
     "m_hat_megalopunnyitems_0": {},
     "m_hat_meltan_0": {},
     "m_hat_mewtwo_0": {},
@@ -1277,7 +1320,9 @@
     "m_hat_munnapack_1": {},
     "m_hat_newyear2022_0": {},
     "m_hat_newyearhat2021_0": {},
+    "m_hat_nihilegoitems_0": {},
     "m_hat_noibat_0": {},
+    "m_hat_obstagoonitems_0": {},
     "m_hat_oricorioPink_0": {},
     "m_hat_oricorioPurple_0": {},
     "m_hat_oricorioRed_0": {},
@@ -1318,8 +1363,11 @@
     "m_hat_tophat_0": {
         "name": "Cilindro"
     },
+    "m_hat_ultraReconSquad_0": {},
+    "m_hat_ultraReconSquadB_0": {},
     "m_hat_ultra_0": {},
     "m_hat_verizon2021_0": {},
+    "m_hat_wcs2022winnersitems_0": {},
     "m_hat_whimsicottearmuff_0": {},
     "m_hat_willowglasses_0": {},
     "m_hat_woobatearrings_0": {},
@@ -1339,6 +1387,7 @@
     },
     "m_pants_dp_0": {},
     "m_pants_elesa_0": {},
+    "m_pants_fashionWeek2022_0": {},
     "m_pants_fisher_0": {
         "name": "Pantaloni Pescatore"
     },
@@ -1346,11 +1395,13 @@
     "m_pants_frlg_0": {
         "name": "Pantaloni Rosso Fuoco"
     },
+    "m_pants_fw2022_0": {},
     "m_pants_genderlessskirt_0": {},
     "m_pants_giovanni_0": {},
     "m_pants_gladion_0": {},
     "m_pants_green_0": {},
     "m_pants_greencoat_0": {},
+    "m_pants_guzma_0": {},
     "m_pants_gymleader_0": {
         "name": "Pantaloncini Capopalestra"
     },
@@ -1423,6 +1474,7 @@
     "m_pants_teamspark_0": {},
     "m_pants_ultra_0": {},
     "m_pants_veterantrainerxy_0": {},
+    "m_pants_wcs2022winnersitems_0": {},
     "m_shirt_6thanniversary_0": {},
     "m_shirt_acetrainerbw_0": {},
     "m_shirt_acetrainersm_0": {},
@@ -1436,6 +1488,7 @@
         "name": "Giacca"
     },
     "m_shirt_brock_0": {},
+    "m_shirt_buzzwoleitems_0": {},
     "m_shirt_bwn_0": {},
     "m_shirt_casual_0": {},
     "m_shirt_casual_1": {},
@@ -1445,6 +1498,7 @@
         "name": "T-shirt Celebi"
     },
     "m_shirt_chimcharonesie_0": {},
+    "m_shirt_cosmog_0": {},
     "m_shirt_cowichansweater_0": {},
     "m_shirt_dayofdead_0": {},
     "m_shirt_default_0": {
@@ -1484,6 +1538,7 @@
         "name": "T-shirt Surf Blue"
     },
     "m_shirt_elesa_0": {},
+    "m_shirt_fashionWeek2022_0": {},
     "m_shirt_fisher_0": {
         "name": "Gilet Pescatore"
     },
@@ -1492,6 +1547,7 @@
     "m_shirt_frlg_0": {
         "name": "Maglia Rosso Fuoco"
     },
+    "m_shirt_fw2022_0": {},
     "m_shirt_galarfarfetchditems_0": {},
     "m_shirt_genderlessskirt_0": {},
     "m_shirt_gengar_0": {},
@@ -1511,6 +1567,7 @@
     "m_shirt_gtrtshirt2022_0": {},
     "m_shirt_gtrtshirt2022_1": {},
     "m_shirt_guccitshirts_0": {},
+    "m_shirt_guzma_0": {},
     "m_shirt_gymleader_0": {
         "name": "Maglia Capopalestra"
     },
@@ -1608,6 +1665,7 @@
     "m_shirt_safarizone2020_0": {},
     "m_shirt_samsungsummer2020_0": {},
     "m_shirt_shayminlandtshirt_0": {},
+    "m_shirt_shayminskytshirt_0": {},
     "m_shirt_shinymewtshirts_0": {},
     "m_shirt_slowpokeshirts_0": {},
     "m_shirt_slowpoketailshirts_0": {},
@@ -1704,6 +1762,7 @@
         "name": "Maglia 30"
     },
     "m_shirt_turtwigonesie_0": {},
+    "m_shirt_ultraReconSquad_0": {},
     "m_shirt_ultra_0": {},
     "m_shirt_uniqlotshirts_0": {},
     "m_shirt_uniqlotshirts_1": {},
@@ -1713,6 +1772,9 @@
     "m_shirt_veterantrainerxy_0": {},
     "m_shirt_victinitshirts_0": {},
     "m_shirt_wcs2022_0": {},
+    "m_shirt_wcs2022tshirtbulu_0": {},
+    "m_shirt_wcs2022tshirtred_0": {},
+    "m_shirt_wcs2022winnersitems_0": {},
     "m_shirt_whitecoat_0": {},
     "m_shoes_6thanniversary_0": {},
     "m_shoes_acetrainerbw_0": {},
@@ -1750,12 +1812,14 @@
     "m_shoes_empty": {
         "name": "Senza scarpe"
     },
+    "m_shoes_fashionWeek2022_0": {},
     "m_shoes_fisher_0": {
         "name": "Stivali Pescatore"
     },
     "m_shoes_frlg_0": {
         "name": "Scarpe Rosso Fuoco"
     },
+    "m_shoes_fw2022_0": {},
     "m_shoes_giovanni_0": {},
     "m_shoes_gladion_0": {},
     "m_shoes_green_0": {},
@@ -1818,8 +1882,10 @@
     },
     "m_shoes_teamskull_0": {},
     "m_shoes_teamspark_0": {},
+    "m_shoes_ultraReconSquad_0": {},
     "m_shoes_ultra_0": {},
     "m_shoes_veterantrainerxy_0": {},
+    "m_shoes_wcs2022winnersitems_0": {},
     "m_shoes_winterboots_0": {},
     "m_shoes_winterboots_1": {},
     "m_shoes_winterboots_2": {},
@@ -1851,6 +1917,7 @@
     "m_socks_empty": {
         "name": "Senza calze"
     },
+    "m_socks_fw2022_0": {},
     "m_socks_sneakersocks_0": {},
     "m_socks_sneakersocks_1": {},
     "m_socks_swshuniformdefault_0": {},

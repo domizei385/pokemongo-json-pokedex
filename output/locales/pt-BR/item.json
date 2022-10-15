@@ -1,4 +1,5 @@
 {
+    "BATTLE_PASS_TICKET": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Fruta Roama",
@@ -110,6 +111,7 @@
         "name": "Reviver",
         "description": "Remédio para reanimar Pokémon desmaiados e que também restaura metade de seus PS."
     },
+    "ROUTE_MAKER": {},
     "SPECIAL_CAMERA": {
         "name": "Câmera",
         "description": "Você poderá usar a sua câmera para fotografar Pokémon selvagens quando os encontrar."

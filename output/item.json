@@ -1,5 +1,17 @@
 [
     {
+        "id": "BATTLE_PASS_TICKET",
+        "name": "Battle Pass Ticket",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "BEAST_BALL",
         "name": "Beast Ball",
         "category": {
@@ -801,6 +813,19 @@
         "revive": {
             "staminaPercent": 0.5
         }
+    },
+    {
+        "id": "ROUTE_MAKER",
+        "name": "Route Maker",
+        "category": {
+            "name": "Route Maker",
+            "id": "ROUTE_MAKER"
+        },
+        "type": {
+            "name": "Route Maker",
+            "id": "ROUTE_MAKER"
+        },
+        "dropTrainerLevel": 100
     },
     {
         "id": "SPECIAL_CAMERA",

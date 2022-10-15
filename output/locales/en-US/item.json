@@ -1,4 +1,5 @@
 {
+    "BATTLE_PASS_TICKET": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Bluk Berry",
@@ -110,6 +111,7 @@
         "name": "Revive",
         "description": "A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP."
     },
+    "ROUTE_MAKER": {},
     "SPECIAL_CAMERA": {
         "name": "Camera",
         "description": "When you encounter Pokémon in the wild, you can use your camera to photograph them."

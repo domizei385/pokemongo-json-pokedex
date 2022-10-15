@@ -1,4 +1,5 @@
 {
+    "BATTLE_PASS_TICKET": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Baccamora",
@@ -110,6 +111,7 @@
         "name": "Revitalizzante",
         "description": "Rimedio che rianima un Pokémon esausto e gli restituisce metà dei suoi PS."
     },
+    "ROUTE_MAKER": {},
     "SPECIAL_CAMERA": {
         "name": "Fotocamera",
         "description": "Quando incontri un Pokémon selvatico, puoi usare la tua fotocamera per scattargli una foto."

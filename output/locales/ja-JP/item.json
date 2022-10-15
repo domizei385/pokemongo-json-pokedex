@@ -1,4 +1,5 @@
 {
+    "BATTLE_PASS_TICKET": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "ブリーのみ",
@@ -110,6 +111,7 @@
         "name": "げんきのかけら",
         "description": "ひんしになってしまったポケモン1匹のHPを半分回復する。"
     },
+    "ROUTE_MAKER": {},
     "SPECIAL_CAMERA": {
         "name": "カメラ",
         "description": "野生のポケモンの姿を撮影できるカメラ。"
