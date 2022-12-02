@@ -10,6 +10,7 @@
         "description": "A scale that can make certain species of Pokémon evolve. It is very tough and inflexible."
     },
     "EVENT_TICKET_GRAY": {},
+    "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
@@ -83,6 +84,7 @@
         "name": "Nanab Berry",
         "description": "Feed this to a Pokémon to calm it down, making it less erratic."
     },
+    "OTHER_EVOLUTION_STONE_A": {},
     "PAID_RAID_TICKET": {},
     "PINAP_BERRY": {
         "name": "Pinap Berry",

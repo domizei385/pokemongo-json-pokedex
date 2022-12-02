@@ -10,6 +10,7 @@
         "description": "又硬又堅固的鱗片，可讓特定寶可夢進化。"
     },
     "EVENT_TICKET_GRAY": {},
+    "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
@@ -83,6 +84,7 @@
         "name": "蕉香果",
         "description": "寶可夢吃下這種樹果後，會冷靜下來。"
     },
+    "OTHER_EVOLUTION_STONE_A": {},
     "PAID_RAID_TICKET": {},
     "PINAP_BERRY": {
         "name": "凰梨果",

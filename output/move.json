@@ -5320,6 +5320,26 @@
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
+        "vfxName": "shadow_force",
+        "durationMs": 1900,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -100,
+        "id": "SHADOW_FORCE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GHOST",
+            "name": "Ghost"
+        },
+        "name": "Shadow Force",
+        "internalId": 371
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
         "vfxName": "meteor_beam",
         "durationMs": 1900,
         "damageWindowStartMs": 1000,
@@ -5352,5 +5372,25 @@
         },
         "name": "Poltergeist",
         "internalId": 376
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 110,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "high_horsepower",
+        "durationMs": 1600,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1200,
+        "energyDelta": -100,
+        "id": "HIGH_HORSEPOWER",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GROUND",
+            "name": "Ground"
+        },
+        "name": "High Horsepower",
+        "internalId": 377
     }
 ]

@@ -255,6 +255,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Backpack Lunalaitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_lunalaitems_0",
+        "iconName": "f_backpack_lunalaitems_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Backpack Mimikyubp",
         "gender": "Female",
         "enabled": true,
@@ -348,6 +359,28 @@
         "enabled": true,
         "id": "f_backpack_ss_0",
         "iconName": "f_backpack_ss_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Svcostumescarletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_svcostumescarletschool_0",
+        "iconName": "f_backpack_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Svcostumevioletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_svcostumevioletschool_0",
+        "iconName": "f_backpack_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -707,6 +740,17 @@
         "category": "Face"
     },
     {
+        "name": "Face Dayofthedead",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_dayofthedead_0",
+        "iconName": "f_face_dayofthedead_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
         "name": "Face Defaultmask",
         "gender": "Female",
         "enabled": true,
@@ -880,7 +924,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Seasonal"
+        "category": "Glasses"
     },
     {
         "name": "Glasses Goteamrocketarlo",
@@ -1316,6 +1360,17 @@
             "Gloves"
         ],
         "category": "Gloves"
+    },
+    {
+        "name": "Gloves Stevenfirst",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_stevenfirst_0",
+        "iconName": "f_gloves_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Gloves Swshdlc2costume",
@@ -1756,7 +1811,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Cubonehat",
@@ -1924,6 +1979,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Dusclopsmummy",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_dusclopsmummy_0",
+        "iconName": "f_hat_dusclopsmummy_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Eeveecap",
         "gender": "Female",
         "enabled": true,
@@ -2032,7 +2098,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Galarfarfetchditems",
@@ -2298,7 +2364,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Megalopunnyitems",
@@ -2665,6 +2731,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Solgaleoitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_solgaleoitems_0",
+        "iconName": "f_hat_solgaleoitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Ss",
         "gender": "Female",
         "enabled": true,
@@ -2692,6 +2769,28 @@
         "enabled": true,
         "id": "f_hat_strawhat_0",
         "iconName": "f_hat_strawhat_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Svcostumescarletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_svcostumescarletschool_0",
+        "iconName": "f_hat_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Svcostumevioletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_svcostumevioletschool_0",
+        "iconName": "f_hat_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2923,6 +3022,17 @@
         "enabled": true,
         "id": "f_hat_yamaskhat_0",
         "iconName": "f_hat_yamaskhat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Zubathat",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_zubathat_0",
+        "iconName": "f_hat_zubathat_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -3170,7 +3280,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Flabebepack",
@@ -3204,7 +3314,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Genderlessskirt",
@@ -3331,6 +3441,17 @@
             "Pants"
         ],
         "category": "Pants"
+    },
+    {
+        "name": "Pants Lunalaitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_lunalaitems_0",
+        "iconName": "f_pants_lunalaitems_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Luvdiscpack",
@@ -3662,6 +3783,17 @@
             "Pants"
         ],
         "category": "Pants"
+    },
+    {
+        "name": "Pants Stevenfirst",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_stevenfirst_0",
+        "iconName": "f_pants_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Swshdlc2costume",
@@ -4324,6 +4456,17 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 45",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_45",
+        "iconName": "pose_45",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -4554,7 +4697,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Cowichansweater",
@@ -4744,6 +4887,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Dusclopsmummy",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_dusclopsmummy_0",
+        "iconName": "f_shirt_dusclopsmummy_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Earthday 2018",
         "gender": "Female",
         "enabled": true,
@@ -4774,7 +4928,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Flabebepack",
@@ -4819,7 +4973,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Galarfarfetchditems",
@@ -5842,6 +5996,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Stevenfirst",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_stevenfirst_0",
+        "iconName": "f_shirt_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Sukajanblastoise",
         "gender": "Female",
         "enabled": true,
@@ -5902,6 +6067,28 @@
         "enabled": true,
         "id": "f_shirt_sustainability2021_0",
         "iconName": "f_shirt_sustainability2021_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Svcostumescarletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_svcostumescarletschool_0",
+        "iconName": "f_shirt_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Svcostumevioletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_svcostumevioletschool_0",
+        "iconName": "f_shirt_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6583,6 +6770,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Zoruaonesie",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_zoruaonesie_0",
+        "iconName": "f_shirt_zoruaonesie_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shoes 6thanniversary",
         "gender": "Female",
         "enabled": true,
@@ -6815,7 +7013,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Frlg 0",
@@ -6838,7 +7036,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Giovanni",
@@ -7177,6 +7375,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Solgaleoitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_solgaleoitems_0",
+        "iconName": "f_shoes_solgaleoitems_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shoes Ss",
         "gender": "Female",
         "enabled": true,
@@ -7193,6 +7402,39 @@
         "enabled": true,
         "id": "f_shoes_steven_0",
         "iconName": "f_shoes_steven_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Stevenfirst",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_stevenfirst_0",
+        "iconName": "f_shoes_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
+    },
+    {
+        "name": "Shoes Svcostumescarletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_svcostumescarletschool_0",
+        "iconName": "f_shoes_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Svcostumevioletschool",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_svcostumevioletschool_0",
+        "iconName": "f_shoes_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -7614,7 +7856,7 @@
         "slot": [
             "Socks"
         ],
-        "category": "Seasonal"
+        "category": "Socks"
     },
     {
         "name": "Socks Hgss 0",
@@ -7649,6 +7891,17 @@
             "Socks"
         ],
         "category": "Socks"
+    },
+    {
+        "name": "Socks Sollunaitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_socks_sollunaitems_0",
+        "iconName": "f_socks_sollunaitems_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Socks Swshuniformdefault",
@@ -7972,6 +8225,17 @@
         "category": "Sponsor"
     },
     {
+        "name": "Backpack Lunalaitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_lunalaitems_0",
+        "iconName": "m_backpack_lunalaitems_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Backpack Mimikyubp",
         "gender": "Male",
         "enabled": true,
@@ -8065,6 +8329,28 @@
         "enabled": true,
         "id": "m_backpack_ss_0",
         "iconName": "m_backpack_ss_0_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Svcostumescarletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_svcostumescarletschool_0",
+        "iconName": "m_backpack_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Svcostumevioletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_svcostumevioletschool_0",
+        "iconName": "m_backpack_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -8230,6 +8516,17 @@
         "enabled": true,
         "id": "m_face_banettemask_0",
         "iconName": "m_face_banettemask_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Dayofthedead",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_dayofthedead_0",
+        "iconName": "m_face_dayofthedead_00_bundle_icon",
         "slot": [
             "Face"
         ],
@@ -8409,7 +8706,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Seasonal"
+        "category": "Glasses"
     },
     {
         "name": "Glasses Goteamrocketarlo",
@@ -8859,6 +9156,17 @@
         "category": "Gloves"
     },
     {
+        "name": "Gloves Stevenfirst",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_stevenfirst_0",
+        "iconName": "m_gloves_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Gloves Swshdlc2costume",
         "gender": "Male",
         "enabled": true,
@@ -9297,7 +9605,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Cubonehat",
@@ -9443,6 +9751,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Dusclopsmummy",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_dusclopsmummy_0",
+        "iconName": "m_hat_dusclopsmummy_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Eeveecap",
         "gender": "Male",
         "enabled": true,
@@ -9563,7 +9882,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Galarfarfetchditems",
@@ -9819,7 +10138,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Megalopunnyitems",
@@ -10175,6 +10494,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Solgaleoitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_solgaleoitems_0",
+        "iconName": "m_hat_solgaleoitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Hat Ss",
         "gender": "Male",
         "enabled": true,
@@ -10202,6 +10532,28 @@
         "enabled": true,
         "id": "m_hat_strawhat_0",
         "iconName": "m_hat_strawhat_0_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Svcostumescarletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_svcostumescarletschool_0",
+        "iconName": "m_hat_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Svcostumevioletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_svcostumevioletschool_0",
+        "iconName": "m_hat_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -10439,6 +10791,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Zubathat",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_zubathat_0",
+        "iconName": "m_hat_zubathat_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Jacket Newyear2022",
         "gender": "Male",
         "enabled": true,
@@ -10592,7 +10955,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Fisher 0",
@@ -10638,7 +11001,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Genderlessskirt",
@@ -10788,6 +11151,17 @@
             "Pants"
         ],
         "category": "Pants"
+    },
+    {
+        "name": "Pants Lunalaitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_lunalaitems_0",
+        "iconName": "m_pants_lunalaitems_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Luvdiscpack",
@@ -10965,6 +11339,17 @@
             "Pants"
         ],
         "category": "Pants"
+    },
+    {
+        "name": "Pants Stevenfirst",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_stevenfirst_0",
+        "iconName": "m_pants_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Pants Sweats 0",
@@ -11650,6 +12035,17 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 45",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_45",
+        "iconName": "pose_45",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -11880,7 +12276,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Cowichansweater",
@@ -12070,6 +12466,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Dusclopsmummy",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_dusclopsmummy_0",
+        "iconName": "m_shirt_dusclopsmummy_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Earthday 2018",
         "gender": "Male",
         "enabled": true,
@@ -12100,7 +12507,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Fisher 0",
@@ -12157,7 +12564,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Galarfarfetchditems",
@@ -13247,6 +13654,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Stevenfirst",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_stevenfirst_0",
+        "iconName": "m_shirt_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shirt Sukajanblastoise",
         "gender": "Male",
         "enabled": true,
@@ -13307,6 +13725,28 @@
         "enabled": true,
         "id": "m_shirt_sustainability2021_0",
         "iconName": "m_shirt_sustainability2021_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Svcostumescarletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_svcostumescarletschool_0",
+        "iconName": "m_shirt_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Svcostumevioletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_svcostumevioletschool_0",
+        "iconName": "m_shirt_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -13912,6 +14352,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Zoruaonesie",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_zoruaonesie_0",
+        "iconName": "m_shirt_zoruaonesie_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shoes 6thanniversary",
         "gender": "Male",
         "enabled": true,
@@ -14143,7 +14594,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Fisher 0",
@@ -14178,7 +14629,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Giovanni",
@@ -14518,6 +14969,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Solgaleoitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_solgaleoitems_0",
+        "iconName": "m_shoes_solgaleoitems_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
+    },
+    {
         "name": "Shoes Ss",
         "gender": "Male",
         "enabled": true,
@@ -14534,6 +14996,39 @@
         "enabled": true,
         "id": "m_shoes_steven_0",
         "iconName": "m_shoes_steven_0_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Stevenfirst",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_stevenfirst_0",
+        "iconName": "m_shoes_stevenfirst_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Seasonal"
+    },
+    {
+        "name": "Shoes Svcostumescarletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_svcostumescarletschool_0",
+        "iconName": "m_shoes_svcostumescarletschool_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Svcostumevioletschool",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_svcostumevioletschool_0",
+        "iconName": "m_shoes_svcostumevioletschool_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -14966,7 +15461,7 @@
         "slot": [
             "Socks"
         ],
-        "category": "Seasonal"
+        "category": "Socks"
     },
     {
         "name": "Socks Sneakersocks 0",
@@ -14989,6 +15484,17 @@
             "Socks"
         ],
         "category": "Socks"
+    },
+    {
+        "name": "Socks Sollunaitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_socks_sollunaitems_0",
+        "iconName": "m_socks_sollunaitems_00_bundle_icon",
+        "slot": [
+            "Socks"
+        ],
+        "category": "Seasonal"
     },
     {
         "name": "Socks Swshuniformdefault",

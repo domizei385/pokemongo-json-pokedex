@@ -4415,7 +4415,7 @@
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
             "collisionRadius": 0.16,
-            "dodgeDistance": 1,
+            "dodgeDistance": 0.5,
             "dodgeProbability": 0.3,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -4597,7 +4597,7 @@
             "baseCaptureRate": 0.2,
             "cameraDistance": 2.775,
             "collisionRadius": 0.16,
-            "dodgeDistance": 1,
+            "dodgeDistance": 0.5,
             "dodgeProbability": 0.3,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -14561,6 +14561,10 @@
             {
                 "name": "Megahorn",
                 "id": "MEGAHORN"
+            },
+            {
+                "name": "High Horsepower",
+                "id": "HIGH_HORSEPOWER"
             }
         ],
         "quickMoves": [
@@ -19464,6 +19468,10 @@
             {
                 "name": "Overheat",
                 "id": "OVERHEAT"
+            },
+            {
+                "name": "Brutal Swing",
+                "id": "BRUTAL_SWING"
             }
         ],
         "quickMoves": [
@@ -27532,6 +27540,10 @@
             {
                 "name": "Thunder Punch",
                 "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Brutal Swing",
+                "id": "BRUTAL_SWING"
             }
         ],
         "quickMoves": [
@@ -27959,6 +27971,10 @@
             {
                 "name": "Rock Tomb",
                 "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Meteor Beam",
+                "id": "METEOR_BEAM"
             }
         ],
         "quickMoves": [
@@ -32342,6 +32358,10 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "High Horsepower",
+                "id": "HIGH_HORSEPOWER"
             }
         ],
         "quickMoves": [
@@ -36414,7 +36434,9 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "SCEPTILE",
         "forms": []
     },
@@ -36514,6 +36536,7 @@
                         {
                             "name": "Blaziken",
                             "id": "BLAZIKEN",
+                            "futureBranches": [],
                             "costToEvolve": {
                                 "candyCost": 100
                             }
@@ -36636,6 +36659,7 @@
                 {
                     "name": "Blaziken",
                     "id": "BLAZIKEN",
+                    "futureBranches": [],
                     "costToEvolve": {
                         "candyCost": 100
                     }
@@ -36759,7 +36783,8 @@
             },
             "costToEvolve": {
                 "candyCost": 100
-            }
+            },
+            "futureBranches": []
         },
         "id": "BLAZIKEN",
         "forms": [
@@ -36865,6 +36890,7 @@
                         {
                             "name": "Swampert",
                             "id": "SWAMPERT",
+                            "futureBranches": [],
                             "costToEvolve": {
                                 "candyCost": 100
                             }
@@ -36987,6 +37013,7 @@
                 {
                     "name": "Swampert",
                     "id": "SWAMPERT",
+                    "futureBranches": [],
                     "costToEvolve": {
                         "candyCost": 100
                     }
@@ -37110,7 +37137,8 @@
             },
             "costToEvolve": {
                 "candyCost": 100
-            }
+            },
+            "futureBranches": []
         },
         "id": "SWAMPERT",
         "forms": [
@@ -42090,6 +42118,10 @@
             {
                 "name": "Rock Tomb",
                 "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Meteor Beam",
+                "id": "METEOR_BEAM"
             }
         ],
         "quickMoves": [
@@ -47549,6 +47581,10 @@
             {
                 "name": "Fire Punch",
                 "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -48184,7 +48220,9 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "GLALIE",
         "forms": []
     },
@@ -61142,6 +61180,10 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "High Horsepower",
+                "id": "HIGH_HORSEPOWER"
             }
         ],
         "quickMoves": [
@@ -61604,6 +61646,10 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -63454,7 +63500,7 @@
             "baseFleeRate": 0.04,
             "baseCaptureRate": 0.02,
             "cameraDistance": 5,
-            "collisionRadius": 0.189,
+            "collisionRadius": 1,
             "dodgeDistance": 1,
             "dodgeProbability": 0.05,
             "jumpTime": 0.9,
@@ -81991,7 +82037,7 @@
             "baseFleeRate": 0.07,
             "baseCaptureRate": 0.2,
             "cameraDistance": 8,
-            "collisionRadius": 0.5,
+            "collisionRadius": 0.8,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
             "jumpTime": 1.1,
@@ -82142,6 +82188,10 @@
             {
                 "name": "Earth Power",
                 "id": "EARTH_POWER"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -88386,6 +88436,10 @@
             {
                 "name": "Ember Fast",
                 "id": "EMBER_FAST"
+            },
+            {
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
             }
         ],
         "family": {
@@ -88502,6 +88556,10 @@
             {
                 "name": "Ember Fast",
                 "id": "EMBER_FAST"
+            },
+            {
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
             }
         ],
         "family": {
@@ -88614,6 +88672,14 @@
             {
                 "name": "Take Down Fast",
                 "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Ember Fast",
+                "id": "EMBER_FAST"
+            },
+            {
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
             }
         ],
         "family": {
@@ -94849,6 +94915,10 @@
             {
                 "name": "Earthquake",
                 "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Meteor Beam",
+                "id": "METEOR_BEAM"
             }
         ],
         "quickMoves": [
@@ -95044,6 +95114,10 @@
             {
                 "name": "Hyper Beam",
                 "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Meteor Beam",
+                "id": "METEOR_BEAM"
             }
         ],
         "quickMoves": [
@@ -96642,6 +96716,10 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -96756,6 +96834,10 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -96878,6 +96960,10 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -97000,6 +97086,10 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -97122,6 +97212,10 @@
             {
                 "name": "Fire Blast",
                 "id": "FIRE_BLAST"
+            },
+            {
+                "name": "Poltergeist",
+                "id": "POLTERGEIST"
             }
         ],
         "quickMoves": [
@@ -97781,8 +97875,10 @@
             0.08667,
             0
         ],
+        "height": 5,
         "modelHeight": 3.8,
         "kmBuddyDistance": 20,
+        "weight": 305,
         "modelScale": 0.56,
         "maxCP": null,
         "buddySize": {
@@ -98221,7 +98317,7 @@
             "baseFleeRate": 0.01,
             "baseCaptureRate": 0.06,
             "cameraDistance": 5.55,
-            "collisionRadius": 0.1,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -108515,7 +108611,9 @@
             }
         },
         "camera": {},
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "COSMOG",
         "forms": []
     },
@@ -108579,7 +108677,9 @@
             }
         },
         "camera": {},
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "COSMOEM",
         "forms": []
     },
@@ -108587,13 +108687,13 @@
         "dex": 791,
         "name": "Solgaleo",
         "height": 3.4,
-        "modelHeight": 3.4,
+        "modelHeight": 2.97,
         "kmBuddyDistance": 20,
         "weight": 230,
         "maxCP": 4042,
         "buddySize": {
-            "id": "BUDDY_BIG",
-            "name": "Big"
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
         },
         "cinematicMoves": [
             {
@@ -108650,11 +108750,11 @@
             "attackProbability": 0.1,
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
-            "cameraDistance": 12,
+            "cameraDistance": 3,
             "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
-            "jumpTime": 1,
+            "jumpTime": 0.8,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -108671,7 +108771,7 @@
         "dex": 792,
         "name": "Lunala",
         "height": 4,
-        "modelHeight": 8,
+        "modelHeight": 4,
         "kmBuddyDistance": 20,
         "weight": 120,
         "maxCP": 4042,
@@ -109268,14 +109368,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Brutal Swing",
+                "id": "BRUTAL_SWING"
+            },
+            {
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Snarl Fast",
+                "id": "SNARL_FAST"
+            },
+            {
+                "name": "Dragon Tail Fast",
+                "id": "DRAGON_TAIL_FAST"
             }
         ],
         "family": {
@@ -109293,8 +109409,8 @@
                 "name": "Dark"
             },
             {
-                "id": "POKEMON_TYPE_GHOST",
-                "name": "Ghost"
+                "id": "POKEMON_TYPE_DRAGON",
+                "name": "Dragon"
             }
         ],
         "pokemonClass": {
@@ -109306,7 +109422,7 @@
             "baseFleeRate": 0.1,
             "baseCaptureRate": 0.02,
             "cameraDistance": 8,
-            "collisionRadius": 2.89,
+            "collisionRadius": 6,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 0.6,
@@ -119269,6 +119385,101 @@
                 "name": "Calyrex Shadow Rider"
             }
         ]
+    },
+    {
+        "dex": 901,
+        "name": "Ursaluna",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 2.4,
+        "modelHeight": 2.4,
+        "kmBuddyDistance": 3,
+        "weight": 290,
+        "modelScale": 0.78,
+        "maxCP": 3854,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Fire Punch",
+                "id": "FIRE_PUNCH"
+            },
+            {
+                "name": "Thunder Punch",
+                "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_TEDDIURSA",
+            "name": "Teddiursa"
+        },
+        "stats": {
+            "baseAttack": 243,
+            "baseDefense": 181,
+            "baseStamina": 277
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_GROUND",
+                "name": "Ground"
+            },
+            {
+                "id": "POKEMON_TYPE_NORMAL",
+                "name": "Normal"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 20,
+            "baseFleeRate": 0.07,
+            "baseCaptureRate": 0.15,
+            "cameraDistance": 5.15,
+            "collisionRadius": 0.9,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "URSALUNA",
+        "forms": []
     },
     {
         "dex": 903,

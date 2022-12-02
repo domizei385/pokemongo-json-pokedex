@@ -73,6 +73,18 @@
         }
     },
     {
+        "id": "EVENT_TICKET_GRAY_TO_GIFT",
+        "name": "Event Ticket Gray To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "EVENT_TICKET_PINK",
         "name": "Event Ticket Pink",
         "category": {
@@ -598,6 +610,19 @@
             ],
             "growthPercent": 0.1
         }
+    },
+    {
+        "id": "OTHER_EVOLUTION_STONE_A",
+        "name": "Other Evolution Stone A",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
     },
     {
         "id": "PAID_RAID_TICKET",
