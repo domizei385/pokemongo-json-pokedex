@@ -5360,6 +5360,46 @@
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
+        "vfxName": "fusion_bolt",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1250,
+        "damageWindowEndMs": 1800,
+        "energyDelta": -100,
+        "id": "FUSION_BOLT",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ELECTRIC",
+            "name": "Electric"
+        },
+        "name": "Fusion Bolt",
+        "internalId": 374
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "fusion_flare",
+        "durationMs": 2200,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -100,
+        "id": "FUSION_FLARE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Fusion Flare",
+        "internalId": 375
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
         "vfxName": "poltergeist",
         "durationMs": 3600,
         "damageWindowStartMs": 2800,
@@ -5392,5 +5432,85 @@
         },
         "name": "High Horsepower",
         "internalId": 377
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 160,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "glaciate",
+        "durationMs": 2500,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -100,
+        "id": "GLACIATE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ICE",
+            "name": "Ice"
+        },
+        "name": "Glaciate",
+        "internalId": 378
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 35,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "breaking_swipe",
+        "durationMs": 800,
+        "damageWindowStartMs": 270,
+        "damageWindowEndMs": 700,
+        "energyDelta": -33,
+        "id": "BREAKING_SWIPE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "name": "Breaking Swipe",
+        "internalId": 379
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "boomburst",
+        "durationMs": 2300,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -100,
+        "id": "BOOMBURST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Boomburst",
+        "internalId": 380
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 70,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "double_iron_bash",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -33,
+        "id": "DOUBLE_IRON_BASH",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
+        "name": "Double Iron Bash",
+        "internalId": 381
     }
 ]

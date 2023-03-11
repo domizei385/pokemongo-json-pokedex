@@ -37,8 +37,10 @@
         "name": "Sac Johto"
     },
     "f_backpack_hououbackpack_0": {},
+    "f_backpack_kakureonpouch_0": {},
     "f_backpack_longchampbp_00": {},
     "f_backpack_lunalaitems_0": {},
+    "f_backpack_lunarNewYr_0": {},
     "f_backpack_mimikyubp_0": {},
     "f_backpack_movie2020_0": {},
     "f_backpack_nike2021_0": {},
@@ -124,6 +126,7 @@
     "f_face_festOfColors_1": {},
     "f_face_festOfColors_2": {},
     "f_face_gracidea_0": {},
+    "f_face_holiday2022santacostumes_0": {},
     "f_face_pikachumask_0": {},
     "f_face_sableyemask_0": {},
     "f_face_teamskull_0": {},
@@ -134,7 +137,9 @@
     "f_glasses_empty": {
         "name": "Aucunes lunettes"
     },
+    "f_glasses_frillishglasses_0": {},
     "f_glasses_fw2022_0": {},
+    "f_glasses_gimmighoulitems_0": {},
     "f_glasses_goteamrocketarlo": {},
     "f_glasses_grandoakglasses": {},
     "f_glasses_lugiaglasses_0": {},
@@ -206,6 +211,8 @@
     "f_gloves_megabanglered_0": {},
     "f_gloves_megabangleyellow_0": {},
     "f_gloves_obstagoonitems_0": {},
+    "f_gloves_palmer_0": {},
+    "f_gloves_profwillowoutfit_0": {},
     "f_gloves_stevenfirst_0": {},
     "f_gloves_swshdlc2costume_0": {},
     "f_gloves_swshdlccostume_0": {},
@@ -290,6 +297,7 @@
     "f_hat_galarfarfetchditems_0": {},
     "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
+    "f_hat_gimmighoulitems_0": {},
     "f_hat_gladion_0": {},
     "f_hat_goomy_0": {},
     "f_hat_greencoat_0": {},
@@ -299,6 +307,7 @@
     "f_hat_hgss_0": {
         "name": "Casquette Johto"
     },
+    "f_hat_holiday2022santacostumes_0": {},
     "f_hat_holidaybeanie_0": {},
     "f_hat_hoopaearmuffs_0": {},
     "f_hat_kantotourcapgreen_0": {},
@@ -330,9 +339,11 @@
     "f_hat_munnapack_1": {},
     "f_hat_newyear2022_0": {},
     "f_hat_newyearhat2021_0": {},
+    "f_hat_newyearhat2023_0": {},
     "f_hat_nihilegoitems_0": {},
     "f_hat_noibat_0": {},
     "f_hat_obstagoonitems_0": {},
+    "f_hat_oras_0": {},
     "f_hat_oricorioPink_0": {},
     "f_hat_oricorioPurple_0": {},
     "f_hat_oricorioRed_0": {},
@@ -346,6 +357,7 @@
     "f_hat_pkmncap_0": {},
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
+    "f_hat_profwillowoutfit_0": {},
     "f_hat_regiicejersies_0": {},
     "f_hat_regirockjersies_0": {},
     "f_hat_registeeljersies_0": {},
@@ -499,10 +511,15 @@
         "name": "Leggings fluos"
     },
     "f_pants_newyear2022_0": {},
+    "f_pants_oras_0": {},
+    "f_pants_pajamas2022_0": {},
+    "f_pants_pajamas2022_1": {},
+    "f_pants_palmer_0": {},
     "f_pants_pikachufan_0": {
         "name": "Short Fan de Pikachu"
     },
     "f_pants_pikachulibre_0": {},
+    "f_pants_profwillowoutfit_0": {},
     "f_pants_pumpkabooitems_0": {},
     "f_pants_regiicejersies_0": {},
     "f_pants_regirockjersies_0": {},
@@ -594,6 +611,10 @@
     "pose_43": {},
     "pose_44": {},
     "pose_45": {},
+    "pose_46": {},
+    "pose_47": {},
+    "pose_48": {},
+    "pose_49": {},
     "pose_empty": {},
     "f_shirt_6thanniversary_0": {},
     "f_shirt_acetrainerbw_0": {},
@@ -681,6 +702,7 @@
     "f_shirt_goteamrocketarlo_0": {},
     "f_shirt_goteamrocketcliff_0": {},
     "f_shirt_goteamrocketsierra_0": {},
+    "f_shirt_gotour2023_0": {},
     "f_shirt_greedentsweater_0": {},
     "f_shirt_green_0": {},
     "f_shirt_greencoat_0": {},
@@ -703,6 +725,7 @@
     "f_shirt_hgss_0": {
         "name": "Haut Johto"
     },
+    "f_shirt_holiday2022santacostumes_0": {},
     "f_shirt_holifestival2021black_0": {},
     "f_shirt_holifestival2021white_0": {},
     "f_shirt_hoopaunboundtshirt_0": {},
@@ -711,6 +734,7 @@
     "f_shirt_ingress_r_0": {},
     "f_shirt_jessie_0": {},
     "f_shirt_jirachi_0": {},
+    "f_shirt_keldeotshirt_0": {},
     "f_shirt_korrina_0": {},
     "f_shirt_latias_latios_0": {
         "name": "T-shirt Latias et Latios"
@@ -737,6 +761,10 @@
     "f_shirt_ocshirt_108": {},
     "f_shirt_ocshirt_129": {},
     "f_shirt_ocshirt_143": {},
+    "f_shirt_oras_0": {},
+    "f_shirt_pajamas2022_0": {},
+    "f_shirt_pajamas2022_1": {},
+    "f_shirt_palmer_0": {},
     "f_shirt_pikachufan_0": {
         "name": "T-shirt Fan de Pikachu"
     },
@@ -756,6 +784,7 @@
     "f_shirt_poloshirt_0": {},
     "f_shirt_poloshirt_1": {},
     "f_shirt_poloshirt_2": {},
+    "f_shirt_profwillowoutfit_0": {},
     "f_shirt_projectguitar_0": {},
     "f_shirt_pumpkabooitems_0": {},
     "f_shirt_regiicejersies_0": {},
@@ -849,6 +878,8 @@
     "f_shirt_teamskull_0": {},
     "f_shirt_teamspark_0": {},
     "f_shirt_togepihoodie_0": {},
+    "f_shirt_tracksuitsgroudon_0": {},
+    "f_shirt_tracksuitskyogre_0": {},
     "f_shirt_tshirt_cycling_0": {
         "name": "T-shirt sportif"
     },
@@ -892,6 +923,7 @@
     "f_shirt_uniqlotshirts_1": {},
     "f_shirt_uniqlotshirts_2": {},
     "f_shirt_unwto_0": {},
+    "f_shirt_valentine2023_0": {},
     "f_shirt_verizon2020sweater_0": {},
     "f_shirt_veterantrainerxy_0": {},
     "f_shirt_victinitshirts_0": {},
@@ -973,10 +1005,15 @@
     "f_shoes_misty_0": {},
     "f_shoes_newyear2022_0": {},
     "f_shoes_nike2021_0": {},
+    "f_shoes_oras_0": {},
+    "f_shoes_pajamas2022_0": {},
+    "f_shoes_pajamas2022_1": {},
+    "f_shoes_palmer_0": {},
     "f_shoes_pikachufan_0": {
         "name": "Chaussures Fan de Pikachu"
     },
     "f_shoes_pikachulibre_0": {},
+    "f_shoes_profwillowoutfit_0": {},
     "f_shoes_regiicejersies_0": {},
     "f_shoes_regirockjersies_0": {},
     "f_shoes_registeeljersies_0": {},
@@ -1095,8 +1132,10 @@
         "name": "Sac Johto"
     },
     "m_backpack_hououbackpack_0": {},
+    "m_backpack_kakureonpouch_0": {},
     "m_backpack_longchampbp_00": {},
     "m_backpack_lunalaitems_0": {},
+    "m_backpack_lunarNewYr_0": {},
     "m_backpack_mimikyubp_0": {},
     "m_backpack_movie2020_0": {},
     "m_backpack_nike2021_0": {},
@@ -1133,6 +1172,7 @@
     "m_face_festOfColors_1": {},
     "m_face_festOfColors_2": {},
     "m_face_gracidea_0": {},
+    "m_face_holiday2022santacostumes_0": {},
     "m_face_pikachumask_0": {},
     "m_face_sableyemask_0": {},
     "m_face_teamskull_0": {},
@@ -1143,7 +1183,9 @@
     "m_glasses_empty": {
         "name": "Aucunes lunettes"
     },
+    "m_glasses_frillishglasses_0": {},
     "m_glasses_fw2022_0": {},
+    "m_glasses_gimmighoulitems_0": {},
     "m_glasses_goteamrocketarlo": {},
     "m_glasses_grandoakglasses": {},
     "m_glasses_jogger_0": {
@@ -1216,6 +1258,8 @@
     "m_gloves_megabanglered_0": {},
     "m_gloves_megabangleyellow_0": {},
     "m_gloves_obstagoonitems_0": {},
+    "m_gloves_palmer_0": {},
+    "m_gloves_profwillowoutfit_0": {},
     "m_gloves_stevenfirst_0": {},
     "m_gloves_swshdlc2costume_0": {},
     "m_gloves_swshdlccostume_0": {},
@@ -1313,6 +1357,7 @@
     "m_hat_galarfarfetchditems_0": {},
     "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
+    "m_hat_gimmighoulitems_0": {},
     "m_hat_gladion_0": {},
     "m_hat_goomy_0": {},
     "m_hat_greencoat_0": {},
@@ -1322,6 +1367,7 @@
     "m_hat_hgss_0": {
         "name": "Casquette Johto"
     },
+    "m_hat_holiday2022santacostumes_0": {},
     "m_hat_holidaybeanie_0": {},
     "m_hat_hoopaearmuffs_0": {},
     "m_hat_jogger_0": {
@@ -1349,9 +1395,11 @@
     "m_hat_munnapack_1": {},
     "m_hat_newyear2022_0": {},
     "m_hat_newyearhat2021_0": {},
+    "m_hat_newyearhat2023_0": {},
     "m_hat_nihilegoitems_0": {},
     "m_hat_noibat_0": {},
     "m_hat_obstagoonitems_0": {},
+    "m_hat_oras_0": {},
     "m_hat_oricorioPink_0": {},
     "m_hat_oricorioPurple_0": {},
     "m_hat_oricorioRed_0": {},
@@ -1365,6 +1413,7 @@
     "m_hat_pkmncap_0": {},
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
+    "m_hat_profwillowoutfit_0": {},
     "m_hat_regiicejersies_0": {},
     "m_hat_regirockjersies_0": {},
     "m_hat_registeeljersies_0": {},
@@ -1458,10 +1507,15 @@
     "m_pants_mewtwo_0": {},
     "m_pants_munnapack_0": {},
     "m_pants_newyear2022_0": {},
+    "m_pants_oras_0": {},
+    "m_pants_pajamas2022_0": {},
+    "m_pants_pajamas2022_1": {},
+    "m_pants_palmer_0": {},
     "m_pants_pikachufan_0": {
         "name": "Short Fan de Pikachu"
     },
     "m_pants_pikachulibre_0": {},
+    "m_pants_profwillowoutfit_0": {},
     "m_pants_pumpkabooitems_0": {},
     "m_pants_regiicejersies_0": {},
     "m_pants_regirockjersies_0": {},
@@ -1597,6 +1651,7 @@
     "m_shirt_goteamrocketarlo_0": {},
     "m_shirt_goteamrocketcliff_0": {},
     "m_shirt_goteamrocketsierra_0": {},
+    "m_shirt_gotour2023_0": {},
     "m_shirt_greedentsweater_0": {},
     "m_shirt_green_0": {},
     "m_shirt_greencoat_0": {},
@@ -1619,6 +1674,7 @@
     "m_shirt_hgss_0": {
         "name": "Haut Johto"
     },
+    "m_shirt_holiday2022santacostumes_0": {},
     "m_shirt_holifestival2021black_0": {},
     "m_shirt_holifestival2021white_0": {},
     "m_shirt_hoopaunboundtshirt_0": {},
@@ -1630,6 +1686,7 @@
     "m_shirt_jogger_0": {
         "name": "Débardeur de joggeur"
     },
+    "m_shirt_keldeotshirt_0": {},
     "m_shirt_korrina_0": {},
     "m_shirt_latias_latios_0": {
         "name": "T-shirt Latias et Latios"
@@ -1673,6 +1730,10 @@
     "m_shirt_ocshirt_108": {},
     "m_shirt_ocshirt_129": {},
     "m_shirt_ocshirt_143": {},
+    "m_shirt_oras_0": {},
+    "m_shirt_pajamas2022_0": {},
+    "m_shirt_pajamas2022_1": {},
+    "m_shirt_palmer_0": {},
     "m_shirt_pikachufan_0": {
         "name": "T-shirt Fan de Pikachu"
     },
@@ -1692,6 +1753,7 @@
     "m_shirt_poloshirt_0": {},
     "m_shirt_poloshirt_1": {},
     "m_shirt_poloshirt_2": {},
+    "m_shirt_profwillowoutfit_0": {},
     "m_shirt_projectguitar_0": {},
     "m_shirt_pumpkabooitems_0": {},
     "m_shirt_regiicejersies_0": {},
@@ -1767,6 +1829,8 @@
     "m_shirt_teamskull_0": {},
     "m_shirt_teamspark_0": {},
     "m_shirt_togepihoodie_0": {},
+    "m_shirt_tracksuitsgroudon_0": {},
+    "m_shirt_tracksuitskyogre_0": {},
     "m_shirt_tshirt_fest_chicago_2017": {},
     "m_shirt_tshirt_fest_chicago_2018": {},
     "m_shirt_tshirt_geometric_0": {
@@ -1807,6 +1871,7 @@
     "m_shirt_uniqlotshirts_1": {},
     "m_shirt_uniqlotshirts_2": {},
     "m_shirt_unwto_0": {},
+    "m_shirt_valentine2023_0": {},
     "m_shirt_verizon2020sweater_0": {},
     "m_shirt_veterantrainerxy_0": {},
     "m_shirt_victinitshirts_0": {},
@@ -1891,10 +1956,15 @@
     "m_shoes_mewtwo_0": {},
     "m_shoes_newyear2022_0": {},
     "m_shoes_nike2021_0": {},
+    "m_shoes_oras_0": {},
+    "m_shoes_pajamas2022_0": {},
+    "m_shoes_pajamas2022_1": {},
+    "m_shoes_palmer_0": {},
     "m_shoes_pikachufan_0": {
         "name": "Chaussures Fan de Pikachu"
     },
     "m_shoes_pikachulibre_0": {},
+    "m_shoes_profwillowoutfit_0": {},
     "m_shoes_regiicejersies_0": {},
     "m_shoes_regirockjersies_0": {},
     "m_shoes_registeeljersies_0": {},
