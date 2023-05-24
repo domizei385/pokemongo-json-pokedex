@@ -5512,5 +5512,25 @@
         },
         "name": "Double Iron Bash",
         "internalId": 381
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 60,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "myst_fire",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2000,
+        "energyDelta": -33,
+        "id": "MYSTICAL_FIRE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Mystical Fire",
+        "internalId": 382
     }
 ]

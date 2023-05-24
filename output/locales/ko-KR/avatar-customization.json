@@ -255,6 +255,7 @@
     "f_hat_aseries_0": {},
     "f_hat_bea_0": {},
     "f_hat_bidoofhat_0": {},
+    "f_hat_bounsweetitems_0": {},
     "f_hat_bwn_0": {},
     "f_hat_casket_0": {
         "name": "뉴스보이 캡"
@@ -421,6 +422,7 @@
     "f_pants_battlegirl_0": {
         "name": "배틀걸쇼츠"
     },
+    "f_pants_bounsweetitems_0": {},
     "f_pants_bwn_0": {},
     "f_pants_casual_0": {},
     "f_pants_casual_1": {},
@@ -615,6 +617,9 @@
     "pose_47": {},
     "pose_48": {},
     "pose_49": {},
+    "pose_50": {},
+    "pose_51": {},
+    "pose_52": {},
     "pose_empty": {},
     "f_shirt_6thanniversary_0": {},
     "f_shirt_acetrainerbw_0": {},
@@ -628,6 +633,7 @@
         "name": "배틀걸셔츠"
     },
     "f_shirt_bea_0": {},
+    "f_shirt_bounsweetitems_0": {},
     "f_shirt_buttondown_0": {
         "name": "피티드 셔츠"
     },
@@ -770,6 +776,7 @@
     },
     "f_shirt_pikachulibre_0": {},
     "f_shirt_pikachuonesie_0": {},
+    "f_shirt_pinpukuhoodie_0": {},
     "f_shirt_pipluponesie_0": {},
     "f_shirt_pkmnhoodie001": {},
     "f_shirt_pkmnhoodie004": {},
@@ -931,6 +938,7 @@
     "f_shirt_wcs2022tshirtbulu_0": {},
     "f_shirt_wcs2022tshirtred_0": {},
     "f_shirt_wcs2022winnersitems_0": {},
+    "f_shirt_wcs2023_0": {},
     "f_shirt_whitecoat_0": {},
     "f_shirt_zoruaonesie_0": {},
     "f_shoes_6thanniversary_0": {},
@@ -1302,6 +1310,7 @@
     "m_hat_aseries_0": {},
     "m_hat_bea_0": {},
     "m_hat_bidoofhat_0": {},
+    "m_hat_bounsweetitems_0": {},
     "m_hat_bwn_0": {},
     "m_hat_casket_0": {
         "name": "뉴스보이 캡"
@@ -1460,6 +1469,7 @@
     "m_pants_acetrainersm_0": {},
     "m_pants_animegou_0": {},
     "m_pants_backpacker_0": {},
+    "m_pants_bounsweetitems_0": {},
     "m_pants_brock_0": {},
     "m_pants_bwn_0": {},
     "m_pants_casual_0": {},
@@ -1576,6 +1586,7 @@
     "m_shirt_blazer_0": {
         "name": "비지니스 블레이저"
     },
+    "m_shirt_bounsweetitems_0": {},
     "m_shirt_brock_0": {},
     "m_shirt_buzzwoleitems_0": {},
     "m_shirt_bwn_0": {},
@@ -1739,6 +1750,7 @@
     },
     "m_shirt_pikachulibre_0": {},
     "m_shirt_pikachuonesie_0": {},
+    "m_shirt_pinpukuhoodie_0": {},
     "m_shirt_pipluponesie_0": {},
     "m_shirt_pkmnhoodie001": {},
     "m_shirt_pkmnhoodie004": {},
@@ -1879,6 +1891,7 @@
     "m_shirt_wcs2022tshirtbulu_0": {},
     "m_shirt_wcs2022tshirtred_0": {},
     "m_shirt_wcs2022winnersitems_0": {},
+    "m_shirt_wcs2023_0": {},
     "m_shirt_whitecoat_0": {},
     "m_shirt_zoruaonesie_0": {},
     "m_shoes_6thanniversary_0": {},

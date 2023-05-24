@@ -252,7 +252,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Seasonal"
+        "category": "Backpack"
     },
     {
         "name": "Backpack Longchampbp",
@@ -979,7 +979,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Seasonal"
+        "category": "Glasses"
     },
     {
         "name": "Glasses Goteamrocketarlo",
@@ -1858,6 +1858,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Bounsweetitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_bounsweetitems_0",
+        "iconName": "f_hat_bounsweetitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Bwn",
         "gender": "Female",
         "enabled": true,
@@ -2219,7 +2230,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Gladion",
@@ -2507,7 +2518,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Mimikyu 0",
@@ -2639,7 +2650,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Oricoriopink",
@@ -3294,6 +3305,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Bounsweetitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_bounsweetitems_0",
+        "iconName": "f_pants_bounsweetitems_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Bwn",
         "gender": "Female",
         "enabled": true,
@@ -3616,7 +3638,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Miniskirt 0",
@@ -3792,7 +3814,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Pajamas2022 0",
@@ -4057,7 +4079,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Teamcandela",
@@ -4068,7 +4090,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Teammagma",
@@ -4112,7 +4134,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Turbine 0",
@@ -4698,6 +4720,39 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 50",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_50",
+        "iconName": "pose_50",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 51",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_51",
+        "iconName": "pose_51",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 52",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_52",
+        "iconName": "pose_52",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -4816,6 +4871,17 @@
         "enabled": true,
         "id": "f_shirt_bea_0",
         "iconName": "f_shirt_bea_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Bounsweetitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_bounsweetitems_0",
+        "iconName": "f_shirt_bounsweetitems_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -5359,7 +5425,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Greedentsweater",
@@ -5783,7 +5849,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Misty",
@@ -5882,7 +5948,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Pajamas2022 0",
@@ -5946,6 +6012,17 @@
         "enabled": true,
         "id": "f_shirt_pikachuonesie_0",
         "iconName": "f_shirt_pikachuonesie_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Pinpukuhoodie",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_pinpukuhoodie_0",
+        "iconName": "f_shirt_pinpukuhoodie_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6689,7 +6766,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Teamcandela",
@@ -6700,7 +6777,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Teammagma",
@@ -6755,7 +6832,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Togepihoodie",
@@ -6777,7 +6854,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Tracksuitskyogre",
@@ -6788,7 +6865,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Tshirt Cycling 0",
@@ -7105,6 +7182,17 @@
         "enabled": true,
         "id": "f_shirt_wcs2022winnersitems_0",
         "iconName": "f_shirt_wcs2022winnersitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2023",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2023_0",
+        "iconName": "f_shirt_wcs2023_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -7591,7 +7679,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Misty",
@@ -7635,7 +7723,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Pajamas2022 0",
@@ -7933,7 +8021,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Teamcandela",
@@ -7944,7 +8032,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Teammagma",
@@ -7999,7 +8087,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Ultrareconsquad",
@@ -8629,7 +8717,7 @@
         "slot": [
             "Backpack"
         ],
-        "category": "Seasonal"
+        "category": "Backpack"
     },
     {
         "name": "Backpack Longchampbp",
@@ -9168,7 +9256,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Seasonal"
+        "category": "Glasses"
     },
     {
         "name": "Glasses Goteamrocketarlo",
@@ -10059,6 +10147,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Bounsweetitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_bounsweetitems_0",
+        "iconName": "m_hat_bounsweetitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Bwn",
         "gender": "Male",
         "enabled": true,
@@ -10410,7 +10509,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Gladion",
@@ -10677,7 +10776,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Mimikyu 0",
@@ -10809,7 +10908,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Seasonal"
+        "category": "Hat"
     },
     {
         "name": "Hat Oricoriopink",
@@ -11409,6 +11508,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Bounsweetitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_bounsweetitems_0",
+        "iconName": "m_pants_bounsweetitems_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Brock",
         "gender": "Male",
         "enabled": true,
@@ -11733,7 +11843,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Munnapack",
@@ -11766,7 +11876,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Pajamas2022 0",
@@ -12075,7 +12185,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Teamcandela",
@@ -12086,7 +12196,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Teammagma",
@@ -12130,7 +12240,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Seasonal"
+        "category": "Pants"
     },
     {
         "name": "Pants Ultra 0",
@@ -12684,6 +12794,39 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 50",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_50",
+        "iconName": "pose_50",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 51",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_51",
+        "iconName": "pose_51",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 52",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_52",
+        "iconName": "pose_52",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -12801,6 +12944,17 @@
         "enabled": true,
         "id": "m_shirt_blazer_0",
         "iconName": "m_shirt_blazer_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Bounsweetitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_bounsweetitems_0",
+        "iconName": "m_shirt_bounsweetitems_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -13357,7 +13511,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Greedentsweater",
@@ -13859,7 +14013,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Movie2020jessiejames",
@@ -13947,7 +14101,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Pajamas2022 0",
@@ -14011,6 +14165,17 @@
         "enabled": true,
         "id": "m_shirt_pikachuonesie_0",
         "iconName": "m_shirt_pikachuonesie_0_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Pinpukuhoodie",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_pinpukuhoodie_0",
+        "iconName": "m_shirt_pinpukuhoodie_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -14685,7 +14850,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Teamcandela",
@@ -14696,7 +14861,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Teammagma",
@@ -14751,7 +14916,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Togepihoodie",
@@ -14773,7 +14938,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Tracksuitskyogre",
@@ -14784,7 +14949,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Tshirt Fest Chicago 2017",
@@ -14861,7 +15026,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Tshirt Mystic",
@@ -14872,7 +15037,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Tshirt Valor",
@@ -14883,7 +15048,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Seasonal"
+        "category": "Shirt"
     },
     {
         "name": "Shirt Turtleneck 30 0",
@@ -15094,6 +15259,17 @@
         "enabled": true,
         "id": "m_shirt_wcs2022winnersitems_0",
         "iconName": "m_shirt_wcs2022winnersitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2023",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2023_0",
+        "iconName": "m_shirt_wcs2023_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -15603,7 +15779,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Newyear2022",
@@ -15636,7 +15812,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Pajamas2022 0",
@@ -15934,7 +16110,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Teamcandela",
@@ -15945,7 +16121,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Teammagma",
@@ -16000,7 +16176,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Seasonal"
+        "category": "Shoes"
     },
     {
         "name": "Shoes Ultrareconsquad",
