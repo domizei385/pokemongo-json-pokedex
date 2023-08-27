@@ -12,7 +12,7 @@ export class StardustBoost implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is a stardustBoost
-    if (!rawItem.itemSettings.stardustBoost) {
+    if (!rawItem.itemSettings || !rawItem.itemSettings.stardustBoost) {
       return item;
     }
 

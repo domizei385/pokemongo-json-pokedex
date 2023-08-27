@@ -12,7 +12,7 @@ export class Revive implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is a xpBoost
-    if (!rawItem.itemSettings.xpBoost) {
+    if (!rawItem.itemSettings || !rawItem.itemSettings.xpBoost) {
       return item;
     }
 

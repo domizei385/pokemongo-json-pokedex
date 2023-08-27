@@ -12,7 +12,7 @@ export class EggIncubinator implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is an egg incubator
-    if (!rawItem.itemSettings.eggIncubator) {
+    if (!rawItem.itemSettings || !rawItem.itemSettings.eggIncubator) {
       return item;
     }
 

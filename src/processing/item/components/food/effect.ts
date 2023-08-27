@@ -17,7 +17,7 @@ export class Effect implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is a food
-    if (!rawItem.itemSettings.food) {
+    if (!rawItem.itemSettings || !rawItem.itemSettings.food) {
       return item;
     }
 

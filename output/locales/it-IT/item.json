@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Baccamora",
         "description": "UNDEFINED"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "Squama Drago",
         "description": "Squama che fa evolvere determinate specie di Pokémon. È molto spessa e dura."
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "Aroma",
         "description": "Un intenso profumo che attrae i Pokémon selvatici per 30 minuti."
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "Incubatrice Uova",
         "description": "Un dispositivo per mettere le Uova in incubazione mentre copri la distanza necessaria a farle schiudere. Si può usare tre volte."
@@ -48,6 +53,7 @@
         "description": "Un dispositivo per mettere le Uova in incubazione mentre copri la distanza necessaria a farle schiudere. Si può usare un numero infinito di volte."
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "Roccia di Re",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "Baccabana",
@@ -114,6 +121,8 @@
         "description": "Rimedio che rianima un Pokémon esausto e gli restituisce metà dei suoi PS."
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "Fotocamera",
         "description": "Quando incontri un Pokémon selvatico, puoi usare la tua fotocamera per scattargli una foto."
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "Ultra Ball",
         "description": "Poké Ball dalle prestazioni eccellenti: fornisce maggiori probabilità di cattura rispetto alla Mega Ball."

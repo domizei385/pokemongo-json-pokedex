@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Baya Oram",
         "description": "SIN DEFINIR"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "Escama Dragón",
         "description": "Escama que hace evolucionar a determinadas especies de Pokémon. Es gruesa y resistente."
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "Incienso",
         "description": "Incienso con una fragancia misteriosa que atrae a los Pokémon salvajes hacia donde estás durante 30 minutos."
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "Incubadora",
         "description": "Un aparato en el que se incuba un Huevo que eclosionará después de una cierta distancia. Se puede usar 3 veces."
@@ -48,6 +53,7 @@
         "description": "Un aparato en el que se incuba un Huevo que eclosionará cuando recorras una cierta distancia. ¡Uso ilimitado!"
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "Roca del Rey",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "Baya Latano",
@@ -114,6 +121,8 @@
         "description": "Medicina que revive a un Pokémon debilitado y le devuelve la mitad de sus PS."
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "Cámara",
         "description": "Cuando te encuentras con Pokémon salvajes, puedes usar tu cámara para sacarles fotos."
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "Ultra Ball",
         "description": "Poké Ball de rendimiento superior. Tiene un índice de éxito mayor al de la Super Ball."

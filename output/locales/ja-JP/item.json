@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "ブリーのみ",
         "description": "不明"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "りゅうのウロコ",
         "description": "ある特定のポケモンを進化させるウロコ。固くて丈夫。"
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "おこう",
         "description": "不思議な香りのおこう。30分香りを出し野生のポケモンを呼び寄せる。"
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "ふかそうち",
         "description": "タマゴを入れて歩くと、ポケモンがかえる。3回使うと壊れる。"
@@ -48,6 +53,7 @@
         "description": "タマゴを入れて歩くと、ポケモンがかえる。"
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "おうじゃのしるし",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "ナナのみ",
@@ -114,6 +121,8 @@
         "description": "ひんしになってしまったポケモン1匹のHPを半分回復する。"
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "カメラ",
         "description": "野生のポケモンの姿を撮影できるカメラ。"
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "ハイパーボール",
         "description": "スーパーボールよりもさらにポケモンを捕まえやすくなったすごく性能のいいボール。"

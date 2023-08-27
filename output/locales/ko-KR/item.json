@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "블리열매",
         "description": "UNDEFINED"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "용의비늘",
         "description": "어느 특정 포켓몬을 진화시키는 비늘. 단단하고 튼튼하다."
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "향로",
         "description": "이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다."
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "부화장치",
         "description": "알을 넣고 걸으면 포켓몬이 부화합니다. 3번 사용하면 부서집니다."
@@ -48,6 +53,7 @@
         "description": "알을 넣고 걸으면 포켓몬이 부화합니다."
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "왕의징표석",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "나나열매",
@@ -114,6 +121,8 @@
         "description": "기절해 버린 포켓몬 1마리의 HP를 절반 회복한다."
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "카메라",
         "description": "야생 포켓몬의 모습을 촬영할 수 있는 카메라."
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "하이퍼볼",
         "description": "수퍼볼보다도 더욱 포켓몬을 잡기 쉬워진 매우 성능이 좋은 볼."

@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Baie Remu",
         "description": "UNDEFINED"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "Écaille Draco",
         "description": "Une écaille qui fait évoluer certaines espèces de Pokémon. C’est une écaille épaisse et dure."
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "Encens",
         "description": "Une senteur qui attire les Pokémon vers toi pendant 30 minutes."
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "Incubateur",
         "description": "Ceci incube un œuf quand tu marches, jusqu’à ce qu’il soit prêt à éclore. Il se casse après 3 utilisations."
@@ -48,6 +53,7 @@
         "description": "Ceci incube un œuf quand tu marches, jusqu’à ce qu’il soit prêt à éclore. Usage illimité."
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "Roche Royale",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "Baie Nanab",
@@ -114,6 +121,8 @@
         "description": "Un médicament qui ranime un Pokémon KO. Restaure également la moitié de ses PV."
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "Appareil photo",
         "description": "Permet de prendre des photos des Pokémon que tu rencontres."
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "Hyper Ball",
         "description": "Une balle ultra-performante dont le taux de réussite est supérieur à celui de la Super Ball."

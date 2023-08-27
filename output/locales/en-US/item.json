@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Bluk Berry",
         "description": "UNDEFINED"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "Dragon Scale",
         "description": "A scale that can make certain species of Pokémon evolve. It is very tough and inflexible."
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "Incense",
         "description": "Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes."
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "Egg Incubator",
         "description": "A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses."
@@ -48,6 +53,7 @@
         "description": "A device that incubates an Egg as you walk until it's ready to hatch. Unlimited use!"
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "King's Rock",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "Nanab Berry",
@@ -114,6 +121,8 @@
         "description": "A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP."
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "Camera",
         "description": "When you encounter Pokémon in the wild, you can use your camera to photograph them."
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "Ultra Ball",
         "description": "An ultra-performance ball with a higher catch rate than a Great Ball."

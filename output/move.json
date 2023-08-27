@@ -5355,6 +5355,26 @@
     },
     {
         "accuracyChance": 1,
+        "animationId": 4,
+        "power": 10,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "water_shuriken_fast",
+        "durationMs": 1100,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1100,
+        "energyDelta": 15,
+        "id": "WATER_SHURIKEN_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Water Shuriken Fast",
+        "internalId": 373
+    },
+    {
+        "accuracyChance": 1,
         "animationId": 5,
         "power": 140,
         "staminaLossScalar": 0.01,
@@ -5532,5 +5552,125 @@
         },
         "name": "Mystical Fire",
         "internalId": 382
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 70,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "liquidation",
+        "durationMs": 3000,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -33,
+        "id": "LIQUIDATION",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Liquidation",
+        "internalId": 383
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "dragon_ascent",
+        "durationMs": 3500,
+        "damageWindowStartMs": 3250,
+        "damageWindowEndMs": 3400,
+        "energyDelta": -50,
+        "id": "DRAGON_ASCENT",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Dragon Ascent",
+        "internalId": 384
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 9,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "leafage_fast",
+        "durationMs": 700,
+        "damageWindowStartMs": 400,
+        "damageWindowEndMs": 900,
+        "energyDelta": 6,
+        "id": "LEAFAGE_FAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "name": "Leafage Fast",
+        "internalId": 385
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 75,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "magma_storm",
+        "durationMs": 2500,
+        "damageWindowStartMs": 1300,
+        "damageWindowEndMs": 2800,
+        "energyDelta": -33,
+        "id": "MAGMA_STORM",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Magma Storm",
+        "internalId": 386
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 20,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "geomancy_fast",
+        "durationMs": 1500,
+        "damageWindowStartMs": 1000,
+        "damageWindowEndMs": 1500,
+        "energyDelta": 14,
+        "id": 387,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FAIRY",
+            "name": "Fairy"
+        },
+        "name": "Geomancy Fast",
+        "internalId": 387
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 85,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "oblivion_wing",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -50,
+        "id": 389,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Oblivion Wing",
+        "internalId": 389
     }
 ]

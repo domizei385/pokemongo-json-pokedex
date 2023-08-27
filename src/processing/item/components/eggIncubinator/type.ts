@@ -16,7 +16,7 @@ export class Type implements IComponent {
    * The type of an egg incubinator
    */
   Process(item: Item, rawItem: Data): Item {
-    if (!rawItem.itemSettings.eggIncubator) {
+    if (!rawItem.itemSettings || !rawItem.itemSettings.eggIncubator) {
       return item;
     }
 

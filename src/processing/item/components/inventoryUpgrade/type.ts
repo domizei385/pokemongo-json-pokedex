@@ -16,7 +16,7 @@ export class Type implements IComponent {
    * The type of an inventoryUpgrade
    */
   Process(item: Item, rawItem: Data): Item {
-    if (!rawItem.itemSettings.inventoryUpgrade) {
+    if (!rawItem.itemSettings || !rawItem.itemSettings.inventoryUpgrade) {
       return item;
     }
 

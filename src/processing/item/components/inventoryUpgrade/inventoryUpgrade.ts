@@ -12,7 +12,7 @@ export class InventoryUpgrade implements IComponent {
    */
   Process(item: Item, rawItem: Data): Item {
     // Is an inventoryUpgrade
-    if (!rawItem.itemSettings.inventoryUpgrade) {
+    if (!rawItem.itemSettings || !rawItem.itemSettings.inventoryUpgrade) {
       return item;
     }
 

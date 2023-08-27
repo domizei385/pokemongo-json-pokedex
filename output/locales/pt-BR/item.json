@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Fruta Roama",
         "description": "INDEFINIDO"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "Escama de Dragão",
         "description": "Escama que faz com que certas espécies de Pokémon evoluam. É robusta e resistente."
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "Incenso",
         "description": "Incenso de fragrância misteriosa que atrai Pokémon selvagens até você por 30 minutos."
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "Incubadora de Ovo",
         "description": "Dispositivo de incubação que ajuda a chocar um Ovo conforme você anda. Pode ser usado 3 vezes."
@@ -48,6 +53,7 @@
         "description": "Dispositivo de incubação que choca um Ovo após uma certa distância caminhada. Uso ilimitado!"
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "Pedra do Rei",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "Fruta Anaba",
@@ -114,6 +121,8 @@
         "description": "Remédio para reanimar Pokémon desmaiados e que também restaura metade de seus PS."
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "Câmera",
         "description": "Você poderá usar a sua câmera para fotografar Pokémon selvagens quando os encontrar."
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "Ultra Bola",
         "description": "Poké Bola com desempenho superior. Tem um índice de êxito superior ao da Grande Bola."

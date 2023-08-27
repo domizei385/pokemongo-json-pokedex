@@ -1,10 +1,12 @@
 {
     "BATTLE_PASS_TICKET": {},
+    "BEANS": {},
     "BEAST_BALL": {},
     "BLUK_BERRY": {
         "name": "Morbbeere",
         "description": "Nicht definiert"
     },
+    "BREAKFAST": {},
     "DRAGON_SCALE": {
         "name": "Drachenhaut",
         "description": "Diese Haut löst bei bestimmten Pokémon-Arten die Entwicklung aus. Sie ist sehr dick und stark."
@@ -13,6 +15,8 @@
     "EVENT_TICKET_GRAY_TO_GIFT": {},
     "EVENT_TICKET_PINK": {},
     "EVENT_TICKET_PINK_TO_GIFT": {},
+    "EVERGREEN_TICKET": {},
+    "EVERGREEN_TICKET_TO_GIFT": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -39,6 +43,7 @@
         "name": "Rauch",
         "description": "Ein wohlriechender Rauch, der 30 Minuten lang wilde Pokémon zu dir lockt."
     },
+    "INCENSE_SPARKLY": {},
     "INCUBATOR_BASIC": {
         "name": "Ei-Brutmaschine",
         "description": "Eine Maschine, die ein Ei ausbrütet, bis es beim Herumlaufen schlüpft. Nach 3 Einsätzen geht sie kaputt."
@@ -48,6 +53,7 @@
         "description": "Eine Maschine, die ein Ei ausbrütet, bis es beim Herumlaufen schlüpft. Unbegrenzt einsetzbar!"
     },
     "INCUBATOR_SUPER": {},
+    "INVENTORY_UPDATE_SETTINGS": {},
     "ITEM_STORAGE_UPGRADE": {},
     "KINGS_ROCK": {
         "name": "King-Stein",
@@ -79,6 +85,7 @@
     "MOVE_REROLL_ELITE_FAST_ATTACK": {},
     "MOVE_REROLL_ELITE_SPECIAL_ATTACK": {},
     "MOVE_REROLL_FAST_ATTACK": {},
+    "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
     "NANAB_BERRY": {
         "name": "Nanabbeere",
@@ -114,6 +121,8 @@
         "description": "Eine Medizin, die ein kampfunfähiges Pokémon wiederbelebt. Die Hälfte der maximalen KP wird wiederhergestellt. "
     },
     "ROUTE_MAKER": {},
+    "SHADOW_GEM": {},
+    "SHADOW_GEM_FRAGMENT": {},
     "SPECIAL_CAMERA": {
         "name": "Kamera",
         "description": "Wenn du einem wilden Pokémon begegnest, kannst du es mit deiner Kamera fotografieren."
@@ -140,6 +149,7 @@
     "TROY_DISK_MAGNETIC": {},
     "TROY_DISK_MOSSY": {},
     "TROY_DISK_RAINY": {},
+    "TROY_DISK_SPARKLY": {},
     "ULTRA_BALL": {
         "name": "Hyperball",
         "description": "Ein Ball mit hoher Erfolgsquote. Dem Superball in allen Punkten überlegen."
