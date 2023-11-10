@@ -44,6 +44,7 @@
     "f_backpack_mimikyubp_0": {},
     "f_backpack_movie2020_0": {},
     "f_backpack_nike2021_0": {},
+    "f_backpack_pamobackpack_0": {},
     "f_backpack_pkmnhoodie001": {},
     "f_backpack_pkmnhoodie004": {},
     "f_backpack_pkmnhoodie007": {},
@@ -52,6 +53,7 @@
     "f_backpack_ss_0": {},
     "f_backpack_svcostumescarletschool_0": {},
     "f_backpack_svcostumevioletschool_0": {},
+    "f_backpack_svdlc1_0": {},
     "f_backpack_swshdlc2costume_0": {},
     "f_backpack_swshdlccostume_0": {},
     "f_backpack_togepibackpack_0": {},
@@ -199,6 +201,7 @@
     "f_gloves_frlg_0": {
         "name": "葉子手環"
     },
+    "f_gloves_geeta_0": {},
     "f_gloves_giovanni_0": {},
     "f_gloves_guzma_0": {},
     "f_gloves_gymleader_0": {
@@ -263,6 +266,7 @@
         "name": "鴨舌帽"
     },
     "f_hat_clay_0": {},
+    "f_hat_cofagrigusitems_0": {},
     "f_hat_cosmog_0": {},
     "f_hat_cubonehat_0": {},
     "f_hat_dedenneitems_0": {},
@@ -305,7 +309,9 @@
     "f_hat_gimmighoulitems_0": {},
     "f_hat_gladion_0": {},
     "f_hat_goomy_0": {},
+    "f_hat_greavardwig_0": {},
     "f_hat_greencoat_0": {},
+    "f_hat_growlithehelmet_0": {},
     "f_hat_guccihat_0": {},
     "f_hat_guzma_0": {},
     "f_hat_gyaradoscap_0": {},
@@ -354,6 +360,7 @@
     "f_hat_oricorioPurple_0": {},
     "f_hat_oricorioRed_0": {},
     "f_hat_oricorioYellow_0": {},
+    "f_hat_phantump_0": {},
     "f_hat_pikachucap_0": {},
     "f_hat_pikachufan_0": {
         "name": "皮卡丘頭飾"
@@ -406,6 +413,7 @@
     "f_hat_willowglasses_0": {},
     "f_hat_woobatearrings_0": {},
     "f_hat_yamaskhat_0": {},
+    "f_hat_yamaskmask_0": {},
     "f_hat_zubathat_0": {},
     "f_shirt_newyear2022_0": {},
     "f_necklace_default_0": {
@@ -461,6 +469,7 @@
         "name": "葉子短裙"
     },
     "f_pants_fw2022_0": {},
+    "f_pants_geeta_0": {},
     "f_pants_genderlessskirt_0": {},
     "f_pants_giovanni_0": {},
     "f_pants_gladion_0": {},
@@ -632,6 +641,8 @@
     "pose_52": {},
     "pose_53": {},
     "pose_54": {},
+    "pose_55": {},
+    "pose_56": {},
     "pose_empty": {},
     "f_shirt_6thanniversary_0": {},
     "f_shirt_7thanniversary_0": {},
@@ -661,6 +672,7 @@
     },
     "f_shirt_chimcharonesie_0": {},
     "f_shirt_clay_0": {},
+    "f_shirt_cofagrigusitems_0": {},
     "f_shirt_cosmog_0": {},
     "f_shirt_cowichansweater_0": {},
     "f_shirt_dayofdead_0": {},
@@ -703,8 +715,14 @@
     "f_shirt_earthday_2018": {
         "name": "藍海衝浪T"
     },
+    "f_shirt_eeveestshirt_00_0": {},
+    "f_shirt_eeveestshirt_01_0": {},
+    "f_shirt_eeveestshirt_02_0": {},
+    "f_shirt_eeveestshirt_03_0": {},
     "f_shirt_elesa_0": {},
     "f_shirt_fashionWeek2022_0": {},
+    "f_shirt_festivaloflights_00_0": {},
+    "f_shirt_festivaloflights_01_0": {},
     "f_shirt_flabebepack_0": {},
     "f_shirt_fragment_0": {},
     "f_shirt_frlg_0": {
@@ -712,6 +730,7 @@
     },
     "f_shirt_fw2022_0": {},
     "f_shirt_galarfarfetchditems_0": {},
+    "f_shirt_geeta_0": {},
     "f_shirt_genderlessskirt_0": {},
     "f_shirt_gengar_0": {},
     "f_shirt_gengaronesie_0": {},
@@ -840,6 +859,7 @@
     "f_shirt_sustainability2021_0": {},
     "f_shirt_svcostumescarletschool_0": {},
     "f_shirt_svcostumevioletschool_0": {},
+    "f_shirt_svdlc1_0": {},
     "f_shirt_sweater_30_0": {
         "name": "30紀念款"
     },
@@ -1012,6 +1032,7 @@
         "name": "葉子鞋"
     },
     "f_shoes_fw2022_0": {},
+    "f_shoes_geeta_0": {},
     "f_shoes_giovanni_0": {},
     "f_shoes_gladion_0": {},
     "f_shoes_green_0": {},
@@ -1063,6 +1084,7 @@
     "f_shoes_stevenfirst_0": {},
     "f_shoes_svcostumescarletschool_0": {},
     "f_shoes_svcostumevioletschool_0": {},
+    "f_shoes_svdlc1_0": {},
     "f_shoes_swshdlc2costume_0": {},
     "f_shoes_swshdlccostume_0": {},
     "f_shoes_swshuniformdark_0": {},
@@ -1176,6 +1198,7 @@
     "m_backpack_mimikyubp_0": {},
     "m_backpack_movie2020_0": {},
     "m_backpack_nike2021_0": {},
+    "m_backpack_pamobackpack_0": {},
     "m_backpack_pkmnhoodie001": {},
     "m_backpack_pkmnhoodie004": {},
     "m_backpack_pkmnhoodie007": {},
@@ -1184,6 +1207,7 @@
     "m_backpack_ss_0": {},
     "m_backpack_svcostumescarletschool_0": {},
     "m_backpack_svcostumevioletschool_0": {},
+    "m_backpack_svdlc1_0": {},
     "m_backpack_swshdlc2costume_0": {},
     "m_backpack_swshdlccostume_0": {},
     "m_backpack_togepibackpack_0": {},
@@ -1280,6 +1304,7 @@
     "m_gloves_frlg_0": {
         "name": "火焰手環"
     },
+    "m_gloves_geeta_0": {},
     "m_gloves_giovanni_0": {},
     "m_gloves_guzma_0": {},
     "m_gloves_gymleader_0": {
@@ -1347,6 +1372,7 @@
         "name": "鴨舌帽"
     },
     "m_hat_clay_0": {},
+    "m_hat_cofagrigusitems_0": {},
     "m_hat_cosmog_0": {},
     "m_hat_cubonehat_0": {},
     "m_hat_dedenneitems_0": {},
@@ -1402,7 +1428,9 @@
     "m_hat_gimmighoulitems_0": {},
     "m_hat_gladion_0": {},
     "m_hat_goomy_0": {},
+    "m_hat_greavardwig_0": {},
     "m_hat_greencoat_0": {},
+    "m_hat_growlithehelmet_0": {},
     "m_hat_guccihat_0": {},
     "m_hat_guzma_0": {},
     "m_hat_gyaradoscap_0": {},
@@ -1447,6 +1475,7 @@
     "m_hat_oricorioPurple_0": {},
     "m_hat_oricorioRed_0": {},
     "m_hat_oricorioYellow_0": {},
+    "m_hat_phantump_0": {},
     "m_hat_pikachucap_0": {},
     "m_hat_pikachufan_0": {
         "name": "皮卡丘頭飾"
@@ -1499,6 +1528,7 @@
     "m_hat_willowglasses_0": {},
     "m_hat_woobatearrings_0": {},
     "m_hat_yamaskhat_0": {},
+    "m_hat_yamaskmask_0": {},
     "m_hat_zubathat_0": {},
     "m_shirt_newyear2022_0": {},
     "m_pants_6thanniversary_0": {},
@@ -1527,6 +1557,7 @@
         "name": "火焰長褲"
     },
     "m_pants_fw2022_0": {},
+    "m_pants_geeta_0": {},
     "m_pants_genderlessskirt_0": {},
     "m_pants_giovanni_0": {},
     "m_pants_gladion_0": {},
@@ -1639,6 +1670,7 @@
     },
     "m_shirt_chimcharonesie_0": {},
     "m_shirt_clay_0": {},
+    "m_shirt_cofagrigusitems_0": {},
     "m_shirt_cosmog_0": {},
     "m_shirt_cowichansweater_0": {},
     "m_shirt_dayofdead_0": {},
@@ -1681,8 +1713,14 @@
     "m_shirt_earthday_2018": {
         "name": "藍海衝浪T"
     },
+    "m_shirt_eeveestshirt_00_0": {},
+    "m_shirt_eeveestshirt_01_0": {},
+    "m_shirt_eeveestshirt_02_0": {},
+    "m_shirt_eeveestshirt_03_0": {},
     "m_shirt_elesa_0": {},
     "m_shirt_fashionWeek2022_0": {},
+    "m_shirt_festivaloflights_00_0": {},
+    "m_shirt_festivaloflights_01_0": {},
     "m_shirt_fisher_0": {
         "name": "釣魚者背心"
     },
@@ -1693,6 +1731,7 @@
     },
     "m_shirt_fw2022_0": {},
     "m_shirt_galarfarfetchditems_0": {},
+    "m_shirt_geeta_0": {},
     "m_shirt_genderlessskirt_0": {},
     "m_shirt_gengar_0": {},
     "m_shirt_gengaronesie_0": {},
@@ -1841,6 +1880,7 @@
     "m_shirt_sustainability2021_0": {},
     "m_shirt_svcostumescarletschool_0": {},
     "m_shirt_svcostumevioletschool_0": {},
+    "m_shirt_svdlc1_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "運動連帽上衣"
     },
@@ -1993,6 +2033,7 @@
         "name": "火焰鞋"
     },
     "m_shoes_fw2022_0": {},
+    "m_shoes_geeta_0": {},
     "m_shoes_giovanni_0": {},
     "m_shoes_gladion_0": {},
     "m_shoes_green_0": {},
@@ -2046,6 +2087,7 @@
     "m_shoes_stevenfirst_0": {},
     "m_shoes_svcostumescarletschool_0": {},
     "m_shoes_svcostumevioletschool_0": {},
+    "m_shoes_svdlc1_0": {},
     "m_shoes_swshdlc2costume_0": {},
     "m_shoes_swshdlccostume_0": {},
     "m_shoes_swshuniformdark_0": {},

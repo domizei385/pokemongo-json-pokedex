@@ -41,7 +41,7 @@ export class Forms implements IComponent {
 
     if (itemTemplate && itemTemplate.formSettings && itemTemplate.formSettings.forms) {
       itemTemplate.formSettings.forms.forEach(f => {
-        console.log("Form: " + f.form);
+        //console.log("Form: " + f.form);
         if (f.form && f.form.indexOf) {
           const formName = this.removeSuffixIfNeeded(f.form);
 

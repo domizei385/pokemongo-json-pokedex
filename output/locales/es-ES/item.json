@@ -141,6 +141,9 @@
         "description": "Medicina en espray que cura heridas y restaura {1} de los PS de un Pokémon."
     },
     "TEAM_CHANGE": {},
+    "TICKET_CITY_SAFARI_00": {},
+    "TICKET_CITY_SAFARI_01": {},
+    "TICKET_CITY_SAFARI_02": {},
     "TROY_DISK": {
         "name": "Módulo Cebo",
         "description": "Atrae Pokémon a una Poképarada durante 30 min. Otra gente que esté cerca puede beneficiarse."

@@ -8971,20 +8971,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Rock Tomb",
-                "id": "ROCK_TOMB"
-            },
-            {
-                "name": "Bulldoze",
-                "id": "BULLDOZE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Metal Claw Fast",
@@ -10307,28 +10293,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Heat Wave",
-                "id": "HEAT_WAVE"
-            },
-            {
-                "name": "Overheat",
-                "id": "OVERHEAT"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            },
-            {
-                "name": "Psyshock",
-                "id": "PSYSHOCK"
-            },
-            {
-                "name": "Weather Ball Fire",
-                "id": "WEATHER_BALL_FIRE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Feint Attack Fast",
@@ -12402,20 +12366,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Night Slash",
-                "id": "NIGHT_SLASH"
-            },
-            {
-                "name": "Gyro Ball",
-                "id": "GYRO_BALL"
-            },
-            {
-                "name": "Dig",
-                "id": "DIG"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Scratch Fast",
@@ -13364,28 +13314,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Fire Blast",
-                "id": "FIRE_BLAST"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            },
-            {
-                "name": "Flamethrower",
-                "id": "FLAMETHROWER"
-            },
-            {
-                "name": "Psychic Fangs",
-                "id": "PSYCHIC_FANGS"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Fire Fang Fast",
@@ -16143,24 +16071,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Fire Blast",
-                "id": "FIRE_BLAST"
-            },
-            {
-                "name": "Drill Run",
-                "id": "DRILL_RUN"
-            },
-            {
-                "name": "Heat Wave",
-                "id": "HEAT_WAVE"
-            },
-            {
-                "name": "Flame Charge",
-                "id": "FLAME_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Low Kick Fast",
@@ -17104,6 +17014,10 @@
             {
                 "name": "Thunder Shock Fast",
                 "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Volt Switch Fast",
+                "id": "VOLT_SWITCH_FAST"
             }
         ],
         "family": {
@@ -17217,6 +17131,10 @@
             {
                 "name": "Thunder Shock Fast",
                 "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Volt Switch Fast",
+                "id": "VOLT_SWITCH_FAST"
             }
         ],
         "family": {
@@ -18358,6 +18276,10 @@
             {
                 "name": "Icy Wind",
                 "id": "ICY_WIND"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -18470,6 +18392,10 @@
             {
                 "name": "Liquidation",
                 "id": "LIQUIDATION"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -18992,6 +18918,10 @@
             {
                 "name": "Heavy Slam",
                 "id": "HEAVY_SLAM"
+            },
+            {
+                "name": "Breaking Swipe",
+                "id": "BREAKING_SWIPE"
             }
         ],
         "quickMoves": [
@@ -19323,6 +19253,10 @@
             {
                 "name": "Water Pulse",
                 "id": "WATER_PULSE"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -19431,6 +19365,10 @@
             {
                 "name": "Crabhammer",
                 "id": "CRABHAMMER"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -20593,6 +20531,10 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "Blaze Kick",
+                "id": "BLAZE_KICK"
             }
         ],
         "quickMoves": [
@@ -21331,6 +21273,10 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "Breaking Swipe",
+                "id": "BREAKING_SWIPE"
             }
         ],
         "quickMoves": [
@@ -22355,6 +22301,10 @@
             {
                 "name": "Zen Headbutt Fast",
                 "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -22436,20 +22386,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Psybeam",
-                "id": "PSYBEAM"
-            },
-            {
-                "name": "Psychic",
-                "id": "PSYCHIC"
-            },
-            {
-                "name": "Ice Punch",
-                "id": "ICE_PUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Confusion Fast",
@@ -22549,20 +22485,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Night Slash",
-                "id": "NIGHT_SLASH"
-            },
-            {
-                "name": "X Scissor",
-                "id": "X_SCISSOR"
-            },
-            {
-                "name": "Aerial Ace",
-                "id": "AERIAL_ACE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Fury Cutter Fast",
@@ -22867,20 +22789,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Fire Blast",
-                "id": "FIRE_BLAST"
-            },
-            {
-                "name": "Fire Punch",
-                "id": "FIRE_PUNCH"
-            },
-            {
-                "name": "Flamethrower",
-                "id": "FLAMETHROWER"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Ember Fast",
@@ -23079,20 +22987,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Horn Attack",
-                "id": "HORN_ATTACK"
-            },
-            {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -26338,6 +26232,10 @@
             {
                 "name": "Tackle Fast",
                 "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -26434,6 +26332,10 @@
             {
                 "name": "Tackle Fast",
                 "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -26530,6 +26432,10 @@
             {
                 "name": "Vine Whip Fast",
                 "id": "VINE_WHIP_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -28906,20 +28812,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Body Slam",
-                "id": "BODY_SLAM"
-            },
-            {
-                "name": "Thunderbolt",
-                "id": "THUNDERBOLT"
-            },
-            {
-                "name": "Discharge",
-                "id": "DISCHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -29020,20 +28912,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Power Gem",
-                "id": "POWER_GEM"
-            },
-            {
-                "name": "Thunderbolt",
-                "id": "THUNDERBOLT"
-            },
-            {
-                "name": "Discharge",
-                "id": "DISCHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -29132,32 +29010,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Zap Cannon",
-                "id": "ZAP_CANNON"
-            },
-            {
-                "name": "Focus Blast",
-                "id": "FOCUS_BLAST"
-            },
-            {
-                "name": "Thunder",
-                "id": "THUNDER"
-            },
-            {
-                "name": "Power Gem",
-                "id": "POWER_GEM"
-            },
-            {
-                "name": "Thunder Punch",
-                "id": "THUNDER_PUNCH"
-            },
-            {
-                "name": "Brutal Swing",
-                "id": "BRUTAL_SWING"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Charge Beam Fast",
@@ -29280,6 +29132,10 @@
             {
                 "name": "Bullet Seed Fast",
                 "id": "BULLET_SEED_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -29559,28 +29415,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
-            },
-            {
-                "name": "Rock Tomb",
-                "id": "ROCK_TOMB"
-            },
-            {
-                "name": "Meteor Beam",
-                "id": "METEOR_BEAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Rock Throw Fast",
@@ -30591,6 +30425,114 @@
             {
                 "id": "WOOPER",
                 "name": "Wooper"
+            },
+            {
+                "id": "WOOPER_PALDEA",
+                "name": "Wooper Paldea"
+            }
+        ]
+    },
+    {
+        "dex": 194,
+        "name": "Wooper Paldea",
+        "animationTime": [
+            1.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            2,
+            3,
+            3
+        ],
+        "height": 0.41,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 3,
+        "weight": 11,
+        "modelScale": 1.48,
+        "maxCP": 641,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_WOOPER",
+            "name": "Wooper"
+        },
+        "stats": {
+            "baseAttack": 75,
+            "baseDefense": 66,
+            "baseStamina": 146
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_POISON",
+                "name": "Poison"
+            },
+            {
+                "id": "POKEMON_TYPE_GROUND",
+                "name": "Ground"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 20,
+            "cameraDistance": 3.375,
+            "collisionRadius": 0.15,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.1,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {
+            "futureBranches": []
+        },
+        "id": "WOOPER_PALDEA",
+        "forms": [
+            {
+                "id": "WOOPER",
+                "name": "Wooper"
+            },
+            {
+                "id": "WOOPER_PALDEA",
+                "name": "Wooper Paldea"
             }
         ]
     },
@@ -31754,24 +31696,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Psychic",
-                "id": "PSYCHIC"
-            },
-            {
-                "name": "Thunderbolt",
-                "id": "THUNDERBOLT"
-            },
-            {
-                "name": "Mirror Coat",
-                "id": "MIRROR_COAT"
-            },
-            {
-                "name": "Psychic Fangs",
-                "id": "PSYCHIC_FANGS"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -32294,6 +32218,10 @@
             {
                 "name": "Psychic Fangs",
                 "id": "PSYCHIC_FANGS"
+            },
+            {
+                "name": "Breaking Swipe",
+                "id": "BREAKING_SWIPE"
             }
         ],
         "quickMoves": [
@@ -32825,20 +32753,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "X Scissor",
-                "id": "X_SCISSOR"
-            },
-            {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Night Slash",
-                "id": "NIGHT_SLASH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Bullet Punch Fast",
@@ -33131,20 +33045,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Avalanche",
-                "id": "AVALANCHE"
-            },
-            {
-                "name": "Ice Punch",
-                "id": "ICE_PUNCH"
-            },
-            {
-                "name": "Foul Play",
-                "id": "FOUL_PLAY"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Ice Shard Fast",
@@ -33351,20 +33251,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Cross Chop",
-                "id": "CROSS_CHOP"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            },
-            {
-                "name": "Play Rough",
-                "id": "PLAY_ROUGH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Scratch Fast",
@@ -33456,20 +33342,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Close Combat",
-                "id": "CLOSE_COMBAT"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            },
-            {
-                "name": "Play Rough",
-                "id": "PLAY_ROUGH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Metal Claw Fast",
@@ -35019,20 +34891,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Bulldoze",
-                "id": "BULLDOZE"
-            },
-            {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
-            },
-            {
-                "name": "Body Slam",
-                "id": "BODY_SLAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -35110,24 +34968,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Heavy Slam",
-                "id": "HEAVY_SLAM"
-            },
-            {
-                "name": "Play Rough",
-                "id": "PLAY_ROUGH"
-            },
-            {
-                "name": "Body Slam",
-                "id": "BODY_SLAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -35586,20 +35426,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Close Combat",
-                "id": "CLOSE_COMBAT"
-            },
-            {
-                "name": "Gyro Ball",
-                "id": "GYRO_BALL"
-            },
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Rock Smash Fast",
@@ -36346,28 +36172,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Flamethrower",
-                "id": "FLAMETHROWER"
-            },
-            {
-                "name": "Fire Blast",
-                "id": "FIRE_BLAST"
-            },
-            {
-                "name": "Overheat",
-                "id": "OVERHEAT"
-            },
-            {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Flame Charge",
-                "id": "FLAME_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Fire Spin Fast",
@@ -36452,28 +36256,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Flamethrower",
-                "id": "FLAMETHROWER"
-            },
-            {
-                "name": "Fire Blast",
-                "id": "FIRE_BLAST"
-            },
-            {
-                "name": "Overheat",
-                "id": "OVERHEAT"
-            },
-            {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Flame Charge",
-                "id": "FLAME_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Fire Spin Fast",
@@ -37845,6 +37627,10 @@
             {
                 "name": "Dragon Claw",
                 "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Breaking Swipe",
+                "id": "BREAKING_SWIPE"
             }
         ],
         "quickMoves": [
@@ -40868,20 +40654,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Psychic",
-                "id": "PSYCHIC"
-            },
-            {
-                "name": "Disarming Voice",
-                "id": "DISARMING_VOICE"
-            },
-            {
-                "name": "Shadow Sneak",
-                "id": "SHADOW_SNEAK"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Confusion Fast",
@@ -40890,6 +40662,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -40995,20 +40771,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Psychic",
-                "id": "PSYCHIC"
-            },
-            {
-                "name": "Dazzling Gleam",
-                "id": "DAZZLING_GLEAM"
-            },
-            {
-                "name": "Shadow Ball",
-                "id": "SHADOW_BALL"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Confusion Fast",
@@ -41021,6 +40783,10 @@
             {
                 "name": "Charm Fast",
                 "id": "CHARM_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -44392,6 +44158,10 @@
             {
                 "name": "Razor Leaf Fast",
                 "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -44582,6 +44352,10 @@
             {
                 "name": "Infestation Fast",
                 "id": "INFESTATION_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -45688,20 +45462,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Sand Tomb",
-                "id": "SAND_TOMB"
-            },
-            {
-                "name": "Dig",
-                "id": "DIG"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Mud Shot Fast",
@@ -45801,20 +45561,6 @@
             "id": "BUDDY_FLYING",
             "name": "Flying"
         },
-        "cinematicMoves": [
-            {
-                "name": "Sand Tomb",
-                "id": "SAND_TOMB"
-            },
-            {
-                "name": "Bulldoze",
-                "id": "BULLDOZE"
-            },
-            {
-                "name": "Bug Buzz",
-                "id": "BUG_BUZZ"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Mud Shot Fast",
@@ -45916,24 +45662,6 @@
             "id": "BUDDY_FLYING",
             "name": "Flying"
         },
-        "cinematicMoves": [
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Dragon Claw",
-                "id": "DRAGON_CLAW"
-            },
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Boomburst",
-                "id": "BOOMBURST"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Mud Shot Fast",
@@ -46997,6 +46725,10 @@
             {
                 "name": "Aqua Jet",
                 "id": "AQUA_JET"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -47092,6 +46824,10 @@
             {
                 "name": "Crabhammer",
                 "id": "CRABHAMMER"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -47264,36 +47000,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Gyro Ball",
-                "id": "GYRO_BALL"
-            },
-            {
-                "name": "Psychic",
-                "id": "PSYCHIC"
-            },
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Earth Power",
-                "id": "EARTH_POWER"
-            },
-            {
-                "name": "Ice Beam",
-                "id": "ICE_BEAM"
-            },
-            {
-                "name": "Shadow Ball",
-                "id": "SHADOW_BALL"
-            },
-            {
-                "name": "Rock Tomb",
-                "id": "ROCK_TOMB"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Extrasensory Fast",
@@ -54563,6 +54269,10 @@
             {
                 "name": "Razor Leaf Fast",
                 "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -57903,20 +57613,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Fire Punch",
-                "id": "FIRE_PUNCH"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            },
-            {
-                "name": "Focus Blast",
-                "id": "FOCUS_BLAST"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Pound Fast",
@@ -58020,6 +57716,10 @@
             {
                 "name": "Hex Fast",
                 "id": "HEX_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -58477,20 +58177,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            },
-            {
-                "name": "Flamethrower",
-                "id": "FLAMETHROWER"
-            },
-            {
-                "name": "Sludge Bomb",
-                "id": "SLUDGE_BOMB"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Scratch Fast",
@@ -58585,20 +58271,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            },
-            {
-                "name": "Flamethrower",
-                "id": "FLAMETHROWER"
-            },
-            {
-                "name": "Sludge Bomb",
-                "id": "SLUDGE_BOMB"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Poison Jab Fast",
@@ -59414,6 +59086,7 @@
                         {
                             "name": "Garchomp",
                             "id": "GARCHOMP",
+                            "futureBranches": [],
                             "costToEvolve": {
                                 "candyCost": 100
                             }
@@ -59534,6 +59207,7 @@
                 {
                     "name": "Garchomp",
                     "id": "GARCHOMP",
+                    "futureBranches": [],
                     "costToEvolve": {
                         "candyCost": 100
                     }
@@ -59655,7 +59329,8 @@
             },
             "costToEvolve": {
                 "candyCost": 100
-            }
+            },
+            "futureBranches": []
         },
         "id": "GARCHOMP",
         "forms": [
@@ -59791,6 +59466,10 @@
             {
                 "name": "Cross Chop",
                 "id": "CROSS_CHOP"
+            },
+            {
+                "name": "Blaze Kick",
+                "id": "BLAZE_KICK"
             }
         ],
         "quickMoves": [
@@ -59890,6 +59569,10 @@
             {
                 "name": "Aura Sphere",
                 "id": "AURA_SPHERE"
+            },
+            {
+                "name": "Blaze Kick",
+                "id": "BLAZE_KICK"
             }
         ],
         "quickMoves": [
@@ -60072,28 +59755,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Body Slam",
-                "id": "BODY_SLAM"
-            },
-            {
-                "name": "Earth Power",
-                "id": "EARTH_POWER"
-            },
-            {
-                "name": "Weather Ball Rock",
-                "id": "WEATHER_BALL_ROCK"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Fire Fang Fast",
@@ -60435,6 +60096,10 @@
             {
                 "name": "Poison Jab Fast",
                 "id": "POISON_JAB_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -60530,6 +60195,10 @@
             {
                 "name": "Counter Fast",
                 "id": "COUNTER_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -61190,20 +60859,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Avalanche",
-                "id": "AVALANCHE"
-            },
-            {
-                "name": "Focus Blast",
-                "id": "FOCUS_BLAST"
-            },
-            {
-                "name": "Foul Play",
-                "id": "FOUL_PLAY"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Ice Shard Fast",
@@ -61330,6 +60985,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Volt Switch Fast",
+                "id": "VOLT_SWITCH_FAST"
             }
         ],
         "family": {
@@ -61515,6 +61174,10 @@
             {
                 "name": "Super Power",
                 "id": "SUPER_POWER"
+            },
+            {
+                "name": "Breaking Swipe",
+                "id": "BREAKING_SWIPE"
             }
         ],
         "quickMoves": [
@@ -61844,24 +61507,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Brick Break",
-                "id": "BRICK_BREAK"
-            },
-            {
-                "name": "Fire Punch",
-                "id": "FIRE_PUNCH"
-            },
-            {
-                "name": "Fire Blast",
-                "id": "FIRE_BLAST"
-            },
-            {
-                "name": "Psychic",
-                "id": "PSYCHIC"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Fire Spin Fast",
@@ -72018,24 +71663,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
-            },
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Drill Run",
-                "id": "DRILL_RUN"
-            },
-            {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Metal Claw Fast",
@@ -73815,6 +73442,10 @@
             {
                 "name": "Hidden Power Fast",
                 "id": "HIDDEN_POWER_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -78083,20 +77714,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Seed Bomb",
-                "id": "SEED_BOMB"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -78197,20 +77814,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Seed Bomb",
-                "id": "SEED_BOMB"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -78321,20 +77924,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Seed Bomb",
-                "id": "SEED_BOMB"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -78445,20 +78034,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Seed Bomb",
-                "id": "SEED_BOMB"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -78569,20 +78144,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Seed Bomb",
-                "id": "SEED_BOMB"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -78693,24 +78254,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Megahorn",
-                "id": "MEGAHORN"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Feint Attack Fast",
@@ -78811,24 +78354,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Megahorn",
-                "id": "MEGAHORN"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Feint Attack Fast",
@@ -78937,24 +78462,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Megahorn",
-                "id": "MEGAHORN"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Feint Attack Fast",
@@ -79063,24 +78570,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Megahorn",
-                "id": "MEGAHORN"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Feint Attack Fast",
@@ -79189,24 +78678,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Megahorn",
-                "id": "MEGAHORN"
-            },
-            {
-                "name": "Solar Beam",
-                "id": "SOLAR_BEAM"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Feint Attack Fast",
@@ -82627,6 +82098,10 @@
             {
                 "name": "Infestation Fast",
                 "id": "INFESTATION_FAST"
+            },
+            {
+                "name": "Water Shuriken Fast",
+                "id": "WATER_SHURIKEN_FAST"
             }
         ],
         "family": {
@@ -83006,6 +82481,10 @@
             {
                 "name": "Stone Edge",
                 "id": "STONE_EDGE"
+            },
+            {
+                "name": "Blaze Kick",
+                "id": "BLAZE_KICK"
             }
         ],
         "quickMoves": [
@@ -88785,24 +88264,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Dig",
-                "id": "DIG"
-            },
-            {
-                "name": "Hyper Beam",
-                "id": "HYPER_BEAM"
-            },
-            {
-                "name": "Earthquake",
-                "id": "EARTHQUAKE"
-            },
-            {
-                "name": "Fire Punch",
-                "id": "FIRE_PUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Mud Shot Fast",
@@ -102829,10 +102290,6 @@
                 "id": "BRICK_BREAK"
             },
             {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
-            },
-            {
                 "name": "Seed Bomb",
                 "id": "SEED_BOMB"
             }
@@ -102913,10 +102370,6 @@
             {
                 "name": "Brick Break",
                 "id": "BRICK_BREAK"
-            },
-            {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
             },
             {
                 "name": "Leaf Blade",
@@ -104938,6 +104391,10 @@
             {
                 "name": "Charm Fast",
                 "id": "CHARM_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -105886,6 +105343,10 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -106438,6 +105899,10 @@
             {
                 "name": "Grass Knot",
                 "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Breaking Swipe",
+                "id": "BREAKING_SWIPE"
             }
         ],
         "quickMoves": [
@@ -110940,6 +110405,10 @@
             {
                 "name": "Leafage Fast",
                 "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -111024,6 +110493,10 @@
             {
                 "name": "Leafage Fast",
                 "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -111108,6 +110581,10 @@
             {
                 "name": "Leafage Fast",
                 "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -111328,6 +110805,10 @@
             {
                 "name": "Dark Pulse",
                 "id": "DARK_PULSE"
+            },
+            {
+                "name": "Blaze Kick",
+                "id": "BLAZE_KICK"
             }
         ],
         "quickMoves": [
@@ -113045,20 +112526,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Rock Tomb",
-                "id": "ROCK_TOMB"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -113136,20 +112603,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Drill Run",
-                "id": "DRILL_RUN"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Sucker Punch Fast",
@@ -113223,20 +112676,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Sucker Punch Fast",
@@ -113314,20 +112753,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Drill Run",
-                "id": "DRILL_RUN"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Sucker Punch Fast",
@@ -113409,20 +112834,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            },
-            {
-                "name": "Psychic Fangs",
-                "id": "PSYCHIC_FANGS"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Counter Fast",
@@ -114231,20 +113642,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Leaf Blade",
-                "id": "LEAF_BLADE"
-            },
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Razor Leaf Fast",
@@ -114311,24 +113708,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Leaf Blade",
-                "id": "LEAF_BLADE"
-            },
-            {
-                "name": "Leaf Storm",
-                "id": "LEAF_STORM"
-            },
-            {
-                "name": "Super Power",
-                "id": "SUPER_POWER"
-            },
-            {
-                "name": "X Scissor",
-                "id": "X_SCISSOR"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Razor Leaf Fast",
@@ -114934,20 +114313,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Draining Kiss",
-                "id": "DRAINING_KISS"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Razor Leaf Fast",
@@ -115010,24 +114375,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Energy Ball",
-                "id": "ENERGY_BALL"
-            },
-            {
-                "name": "Draining Kiss",
-                "id": "DRAINING_KISS"
-            },
-            {
-                "name": "Grass Knot",
-                "id": "GRASS_KNOT"
-            },
-            {
-                "name": "Stomp",
-                "id": "STOMP"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Razor Leaf Fast",
@@ -115410,6 +114757,10 @@
             {
                 "name": "Liquidation",
                 "id": "LIQUIDATION"
+            },
+            {
+                "name": "Razor Shell",
+                "id": "RAZOR_SHELL"
             }
         ],
         "quickMoves": [
@@ -115484,20 +114835,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Sand Tomb",
-                "id": "SAND_TOMB"
-            },
-            {
-                "name": "Shadow Ball",
-                "id": "SHADOW_BALL"
-            },
-            {
-                "name": "Earth Power",
-                "id": "EARTH_POWER"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Astonish Fast",
@@ -115563,20 +114900,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Sand Tomb",
-                "id": "SAND_TOMB"
-            },
-            {
-                "name": "Shadow Ball",
-                "id": "SHADOW_BALL"
-            },
-            {
-                "name": "Earth Power",
-                "id": "EARTH_POWER"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Astonish Fast",
@@ -123405,16 +122728,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Body Slam",
-                "id": "BODY_SLAM"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -123503,6 +122816,10 @@
             {
                 "name": "Bullet Seed Fast",
                 "id": "BULLET_SEED_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -127222,24 +126539,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Close Combat",
-                "id": "CLOSE_COMBAT"
-            },
-            {
-                "name": "Play Rough",
-                "id": "PLAY_ROUGH"
-            },
-            {
-                "name": "Foul Play",
-                "id": "FOUL_PLAY"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Metal Claw Fast",
@@ -127531,24 +126830,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Psybeam",
-                "id": "PSYBEAM"
-            },
-            {
-                "name": "Psychic",
-                "id": "PSYCHIC"
-            },
-            {
-                "name": "Ice Punch",
-                "id": "ICE_PUNCH"
-            },
-            {
-                "name": "Icy Wind",
-                "id": "ICY_WIND"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Confusion Fast",
@@ -130923,6 +130204,10 @@
             {
                 "name": "Lock On Fast",
                 "id": "LOCK_ON_FAST"
+            },
+            {
+                "name": "Volt Switch Fast",
+                "id": "VOLT_SWITCH_FAST"
             }
         ],
         "family": {
@@ -130987,6 +130272,10 @@
             {
                 "name": "Dragon Pulse",
                 "id": "DRAGON_PULSE"
+            },
+            {
+                "name": "Breaking Swipe",
+                "id": "BREAKING_SWIPE"
             }
         ],
         "quickMoves": [
@@ -131475,20 +130764,6 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "X Scissor",
-                "id": "X_SCISSOR"
-            },
-            {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
-            },
-            {
-                "name": "Stone Edge",
-                "id": "STONE_EDGE"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Quick Attack Fast",
@@ -131568,24 +130843,6 @@
             "id": "BUDDY_BIG",
             "name": "Big"
         },
-        "cinematicMoves": [
-            {
-                "name": "Fire Punch",
-                "id": "FIRE_PUNCH"
-            },
-            {
-                "name": "Thunder Punch",
-                "id": "THUNDER_PUNCH"
-            },
-            {
-                "name": "Aerial Ace",
-                "id": "AERIAL_ACE"
-            },
-            {
-                "name": "Ice Punch",
-                "id": "ICE_PUNCH"
-            }
-        ],
         "quickMoves": [
             {
                 "name": "Tackle Fast",
@@ -131854,14 +131111,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Leafage Fast",
+                "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -131918,14 +131187,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Leafage Fast",
+                "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -131982,14 +131263,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Leafage Fast",
+                "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -132048,14 +131345,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -132075,7 +131384,7 @@
         ],
         "encounter": {
             "attackProbability": 0.2,
-            "cameraDistance": 1.5,
+            "cameraDistance": 3.2,
             "collisionRadius": 0.1,
             "dodgeDistance": 1,
             "dodgeProbability": 0.15,
@@ -132112,14 +131421,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -132176,14 +131497,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Disarming Voice",
+                "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -132242,14 +131579,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Liquidation",
+                "id": "LIQUIDATION"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Wing Attack Fast",
+                "id": "WING_ATTACK_FAST"
             }
         ],
         "family": {
@@ -132306,14 +131655,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Liquidation",
+                "id": "LIQUIDATION"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Wing Attack Fast",
+                "id": "WING_ATTACK_FAST"
             }
         ],
         "family": {
@@ -132370,14 +131731,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Liquidation",
+                "id": "LIQUIDATION"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Wing Attack Fast",
+                "id": "WING_ATTACK_FAST"
             }
         ],
         "family": {
@@ -132434,16 +131811,14 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -132513,16 +131888,14 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -132592,16 +131965,14 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -132672,14 +132043,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Lunge",
+                "id": "LUNGE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Struggle Bug Fast",
+                "id": "STRUGGLE_BUG_FAST"
             }
         ],
         "family": {
@@ -132724,14 +132107,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Lunge",
+                "id": "LUNGE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
             }
         ],
         "family": {
@@ -132773,16 +132172,14 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Struggle Bug Fast",
+                "id": "STRUGGLE_BUG_FAST"
             }
         ],
         "family": {
@@ -132837,16 +132234,14 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
             }
         ],
         "family": {
@@ -132905,14 +132300,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
+            },
+            {
+                "name": "Charge Beam Fast",
+                "id": "CHARGE_BEAM_FAST"
             }
         ],
         "family": {
@@ -132969,14 +132376,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
+            },
+            {
+                "name": "Charge Beam Fast",
+                "id": "CHARGE_BEAM_FAST"
             }
         ],
         "family": {
@@ -133037,14 +132456,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Spark Fast",
+                "id": "SPARK_FAST"
+            },
+            {
+                "name": "Charge Beam Fast",
+                "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Low Kick Fast",
+                "id": "LOW_KICK_FAST"
             }
         ],
         "family": {
@@ -133102,14 +132541,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
             }
         ],
         "family": {
@@ -133165,14 +132620,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
             }
         ],
         "family": {
@@ -133220,14 +132691,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
             }
         ],
         "family": {
@@ -133283,14 +132770,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
             }
         ],
         "family": {
@@ -133346,14 +132849,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Psychic Fangs",
+                "id": "PSYCHIC_FANGS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -133398,14 +132913,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Psychic Fangs",
+                "id": "PSYCHIC_FANGS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -133439,6 +132966,7 @@
         "dex": 928,
         "name": "Smoliv",
         "height": 0.3,
+        "modelHeight": 0.3,
         "kmBuddyDistance": 3,
         "weight": 6.5,
         "maxCP": 854,
@@ -133448,14 +132976,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Earth Power",
+                "id": "EARTH_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
             }
         ],
         "family": {
@@ -133478,6 +133018,8 @@
             }
         ],
         "encounter": {
+            "cameraDistance": 2,
+            "collisionRadius": 0.1,
             "movementType": null,
             "gender": {
                 "malePercent": 0.5,
@@ -133495,6 +133037,7 @@
         "dex": 929,
         "name": "Dolliv",
         "height": 0.6,
+        "modelHeight": 0.6,
         "kmBuddyDistance": 3,
         "weight": 11.9,
         "maxCP": 1432,
@@ -133504,14 +133047,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Earth Power",
+                "id": "EARTH_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -133534,6 +133093,8 @@
             }
         ],
         "encounter": {
+            "cameraDistance": 3,
+            "collisionRadius": 0.15,
             "movementType": null,
             "gender": {
                 "malePercent": 0.5,
@@ -133551,6 +133112,7 @@
         "dex": 930,
         "name": "Arboliva",
         "height": 1.4,
+        "modelHeight": 1.4,
         "kmBuddyDistance": 3,
         "weight": 48.2,
         "maxCP": 2959,
@@ -133560,14 +133122,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Energy Ball",
+                "id": "ENERGY_BALL"
+            },
+            {
+                "name": "Earth Power",
+                "id": "EARTH_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -133590,6 +133168,8 @@
             }
         ],
         "encounter": {
+            "cameraDistance": 4,
+            "collisionRadius": 0.2,
             "movementType": null,
             "gender": {
                 "malePercent": 0.5,
@@ -133614,14 +133194,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
             }
         ],
         "family": {
@@ -133685,14 +133277,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
             }
         ],
         "family": {
@@ -133756,14 +133360,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
             }
         ],
         "family": {
@@ -133827,14 +133443,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
             }
         ],
         "family": {
@@ -133898,14 +133526,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
             }
         ],
         "family": {
@@ -133969,14 +133609,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Rock Throw Fast",
+                "id": "ROCK_THROW_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -134021,14 +133673,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Smack Down Fast",
+                "id": "SMACK_DOWN_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -134073,14 +133737,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Ancient Power",
+                "id": "ANCIENT_POWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Smack Down Fast",
+                "id": "SMACK_DOWN_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -134123,14 +133799,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Heat Wave",
+                "id": "HEAT_WAVE"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Ember Fast",
+                "id": "EMBER_FAST"
+            },
+            {
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
             }
         ],
         "family": {
@@ -134175,14 +133863,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Heat Wave",
+                "id": "HEAT_WAVE"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Ember Fast",
+                "id": "EMBER_FAST"
+            },
+            {
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
             }
         ],
         "family": {
@@ -134229,14 +133933,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            },
+            {
+                "name": "Heat Wave",
+                "id": "HEAT_WAVE"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Ember Fast",
+                "id": "EMBER_FAST"
+            },
+            {
+                "name": "Incinerate Fast",
+                "id": "INCINERATE_FAST"
             }
         ],
         "family": {
@@ -134274,6 +133994,7 @@
         "dex": 938,
         "name": "Tadbulb",
         "height": 0.3,
+        "modelHeight": 0.45,
         "kmBuddyDistance": 1,
         "weight": 0.4,
         "maxCP": 911,
@@ -134283,14 +134004,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Parabolic Charge",
+                "id": "PARABOLIC_CHARGE"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
             }
         ],
         "family": {
@@ -134309,7 +134042,12 @@
             }
         ],
         "encounter": {
-            "movementType": null,
+            "cameraDistance": 2,
+            "collisionRadius": 0.1,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
             "gender": {
                 "malePercent": 0.5,
                 "femalePercent": 0.5
@@ -134326,23 +134064,36 @@
         "dex": 939,
         "name": "Bellibolt",
         "height": 1.2,
+        "modelHeight": 1.2,
         "kmBuddyDistance": 1,
         "weight": 113,
         "maxCP": 2662,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Parabolic Charge",
+                "id": "PARABOLIC_CHARGE"
+            },
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Zap Cannon",
+                "id": "ZAP_CANNON"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
             }
         ],
         "family": {
@@ -134361,7 +134112,12 @@
             }
         ],
         "encounter": {
-            "movementType": null,
+            "cameraDistance": 3,
+            "collisionRadius": 0.65,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
             "gender": {
                 "malePercent": 0.5,
                 "femalePercent": 0.5
@@ -134385,14 +134141,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
             }
         ],
         "family": {
@@ -134441,14 +134209,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
             }
         ],
         "family": {
@@ -134495,14 +134275,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Payback",
+                "id": "PAYBACK"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Snarl Fast",
+                "id": "SNARL_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -134547,14 +134339,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Crunch",
+                "id": "CRUNCH"
+            },
+            {
+                "name": "Payback",
+                "id": "PAYBACK"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Snarl Fast",
+                "id": "SNARL_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -134597,14 +134401,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Acid Spray",
+                "id": "ACID_SPRAY"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -134653,14 +134469,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Acid Spray",
+                "id": "ACID_SPRAY"
+            },
+            {
+                "name": "Poison Fang",
+                "id": "POISON_FANG"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -134707,14 +134535,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Night Shade",
+                "id": "NIGHT_SHADE"
+            },
+            {
+                "name": "Power Whip",
+                "id": "POWER_WHIP"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
             }
         ],
         "family": {
@@ -134763,14 +134603,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Sneak",
+                "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Night Shade",
+                "id": "NIGHT_SHADE"
+            },
+            {
+                "name": "Power Whip",
+                "id": "POWER_WHIP"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Hex Fast",
+                "id": "HEX_FAST"
+            },
+            {
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
             }
         ],
         "family": {
@@ -134817,14 +134669,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Earth Power",
+                "id": "EARTH_POWER"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Wrap",
+                "id": "WRAP"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -134873,14 +134737,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Earth Power",
+                "id": "EARTH_POWER"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
+            },
+            {
+                "name": "Acid Spray",
+                "id": "ACID_SPRAY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -134927,14 +134803,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Rock Throw Fast",
+                "id": "ROCK_THROW_FAST"
+            },
+            {
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
             }
         ],
         "family": {
@@ -134977,14 +134865,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Leaf Storm",
+                "id": "LEAF_STORM"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Seed Bomb",
+                "id": "SEED_BOMB"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Leafage Fast",
+                "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Razor Leaf Fast",
+                "id": "RAZOR_LEAF_FAST"
             }
         ],
         "family": {
@@ -135029,14 +134929,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Leaf Storm",
+                "id": "LEAF_STORM"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
+            },
+            {
+                "name": "Flamethrower",
+                "id": "FLAMETHROWER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Leafage Fast",
+                "id": "LEAFAGE_FAST"
+            },
+            {
+                "name": "Fire Fang Fast",
+                "id": "FIRE_FANG_FAST"
             }
         ],
         "family": {
@@ -135083,14 +134999,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Lunge",
+                "id": "LUNGE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Struggle Bug Fast",
+                "id": "STRUGGLE_BUG_FAST"
             }
         ],
         "family": {
@@ -135135,14 +135063,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Bug Buzz",
+                "id": "BUG_BUZZ"
+            },
+            {
+                "name": "Lunge",
+                "id": "LUNGE"
+            },
+            {
+                "name": "Psybeam",
+                "id": "PSYBEAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bug Bite Fast",
+                "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
             }
         ],
         "family": {
@@ -135189,14 +135133,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Psybeam",
+                "id": "PSYBEAM"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
+            },
+            {
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
             }
         ],
         "family": {
@@ -135241,14 +135197,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Psybeam",
+                "id": "PSYBEAM"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
+            },
+            {
+                "name": "Psychic",
+                "id": "PSYCHIC"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Peck Fast",
+                "id": "PECK_FAST"
+            },
+            {
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
             }
         ],
         "family": {
@@ -135291,14 +135259,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Brutal Swing",
+                "id": "BRUTAL_SWING"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
             }
         ],
         "family": {
@@ -135347,14 +135327,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Brutal Swing",
+                "id": "BRUTAL_SWING"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
             }
         ],
         "family": {
@@ -135403,14 +135395,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            },
+            {
+                "name": "Brutal Swing",
+                "id": "BRUTAL_SWING"
+            },
+            {
+                "name": "Flash Cannon",
+                "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            },
+            {
+                "name": "Rock Smash Fast",
+                "id": "ROCK_SMASH_FAST"
             }
         ],
         "family": {
@@ -135457,14 +135465,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Liquidation",
+                "id": "LIQUIDATION"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
             }
         ],
         "family": {
@@ -135509,14 +135529,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Liquidation",
+                "id": "LIQUIDATION"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
             }
         ],
         "family": {
@@ -135560,14 +135592,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Payback",
+                "id": "PAYBACK"
+            },
+            {
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Wing Attack Fast",
+                "id": "WING_ATTACK_FAST"
+            },
+            {
+                "name": "Rock Throw Fast",
+                "id": "ROCK_THROW_FAST"
             }
         ],
         "family": {
@@ -135625,14 +135669,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -135677,14 +135733,38 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
+            },
+            {
+                "name": "Drain Punch",
+                "id": "DRAIN_PUNCH"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
+            },
+            {
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
             }
         ],
         "family": {
@@ -135736,14 +135816,38 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
+            },
+            {
+                "name": "Drain Punch",
+                "id": "DRAIN_PUNCH"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
+            },
+            {
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
             }
         ],
         "family": {
@@ -135795,14 +135899,38 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Icy Wind",
+                "id": "ICY_WIND"
+            },
+            {
+                "name": "Drain Punch",
+                "id": "DRAIN_PUNCH"
+            },
+            {
+                "name": "Acrobatics",
+                "id": "ACROBATICS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
+            },
+            {
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
             }
         ],
         "family": {
@@ -135854,14 +135982,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Acid Spray",
+                "id": "ACID_SPRAY"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Lick Fast",
+                "id": "LICK_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -135910,14 +136050,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Acid Spray",
+                "id": "ACID_SPRAY"
+            },
+            {
+                "name": "Gunk Shot",
+                "id": "GUNK_SHOT"
+            },
+            {
+                "name": "Gyro Ball",
+                "id": "GYRO_BALL"
+            },
+            {
+                "name": "Overheat",
+                "id": "OVERHEAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Lick Fast",
+                "id": "LICK_FAST"
+            },
+            {
+                "name": "Poison Jab Fast",
+                "id": "POISON_JAB_FAST"
             }
         ],
         "family": {
@@ -135962,16 +136118,14 @@
             "id": "BUDDY_MEDIUM",
             "name": "Medium"
         },
-        "cinematicMoves": [
-            {
-                "name": "Struggle",
-                "id": "STRUGGLE"
-            }
-        ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Dragon Tail Fast",
+                "id": "DRAGON_TAIL_FAST"
+            },
+            {
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
             }
         ],
         "family": {
@@ -136018,14 +136172,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Iron Tail Fast",
+                "id": "IRON_TAIL_FAST"
+            },
+            {
+                "name": "Mud Slap Fast",
+                "id": "MUD_SLAP_FAST"
             }
         ],
         "family": {
@@ -136068,14 +136234,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Rock Throw Fast",
+                "id": "ROCK_THROW_FAST"
+            },
+            {
+                "name": "Smack Down Fast",
+                "id": "SMACK_DOWN_FAST"
             }
         ],
         "family": {
@@ -136124,14 +136302,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Sludge Wave",
+                "id": "SLUDGE_WAVE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Rock Throw Fast",
+                "id": "ROCK_THROW_FAST"
+            },
+            {
+                "name": "Smack Down Fast",
+                "id": "SMACK_DOWN_FAST"
             }
         ],
         "family": {
@@ -136179,14 +136369,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Psychic Fangs",
+                "id": "PSYCHIC_FANGS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Lick Fast",
+                "id": "LICK_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -136243,14 +136445,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Shadow Ball",
+                "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Psychic Fangs",
+                "id": "PSYCHIC_FANGS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Lick Fast",
+                "id": "LICK_FAST"
+            },
+            {
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
             }
         ],
         "family": {
@@ -136304,14 +136518,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Aerial Ace",
+                "id": "AERIAL_ACE"
+            },
+            {
+                "name": "Brave Bird",
+                "id": "BRAVE_BIRD"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Wing Attack Fast",
+                "id": "WING_ATTACK_FAST"
+            },
+            {
+                "name": "Double Kick Fast",
+                "id": "DOUBLE_KICK_FAST"
             }
         ],
         "family": {
@@ -136358,14 +136584,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Ice Shard Fast",
+                "id": "ICE_SHARD_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
             }
         ],
         "family": {
@@ -136410,14 +136648,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Heavy Slam",
+                "id": "HEAVY_SLAM"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Ice Shard Fast",
+                "id": "ICE_SHARD_FAST"
+            },
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
             }
         ],
         "family": {
@@ -136460,14 +136710,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
+            },
+            {
+                "name": "Psychic Fangs",
+                "id": "PSYCHIC_FANGS"
+            },
+            {
+                "name": "Drill Run",
+                "id": "DRILL_RUN"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
             }
         ],
         "family": {
@@ -136514,14 +136780,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Liquidation",
+                "id": "LIQUIDATION"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Waterfall Fast",
+                "id": "WATERFALL_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
             }
         ],
         "family": {
@@ -136564,14 +136846,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
             }
         ],
         "family": {
@@ -136631,14 +136929,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
             }
         ],
         "family": {
@@ -136698,14 +137012,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
             }
         ],
         "family": {
@@ -136765,14 +137095,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Surf",
+                "id": "SURF"
+            },
+            {
+                "name": "Hydro Pump",
+                "id": "HYDRO_PUMP"
+            },
+            {
+                "name": "Muddy Water",
+                "id": "MUDDY_WATER"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Take Down Fast",
+                "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Water Gun Fast",
+                "id": "WATER_GUN_FAST"
             }
         ],
         "family": {
@@ -136832,14 +137178,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Low Sweep",
+                "id": "LOW_SWEEP"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
+            },
+            {
+                "name": "Ice Punch",
+                "id": "ICE_PUNCH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Low Kick Fast",
+                "id": "LOW_KICK_FAST"
+            },
+            {
+                "name": "Counter Fast",
+                "id": "COUNTER_FAST"
             }
         ],
         "family": {
@@ -136887,14 +137249,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Stone Edge",
+                "id": "STONE_EDGE"
+            },
+            {
+                "name": "Acid Spray",
+                "id": "ACID_SPRAY"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Poison Sting Fast",
+                "id": "POISON_STING_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -136952,14 +137334,34 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Psychic",
+                "id": "PSYCHIC"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Mirror Coat",
+                "id": "MIRROR_COAT"
+            },
+            {
+                "name": "Psychic Fangs",
+                "id": "PSYCHIC_FANGS"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Double Kick Fast",
+                "id": "DOUBLE_KICK_FAST"
             }
         ],
         "family": {
@@ -137006,14 +137408,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Drill Run",
+                "id": "DRILL_RUN"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
+            },
+            {
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -137065,14 +137483,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Drill Run",
+                "id": "DRILL_RUN"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
+            },
+            {
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -137124,14 +137558,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dig",
+                "id": "DIG"
+            },
+            {
+                "name": "Rock Slide",
+                "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Drill Run",
+                "id": "DRILL_RUN"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Bite Fast",
+                "id": "BITE_FAST"
+            },
+            {
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -137183,14 +137633,30 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dark Pulse",
+                "id": "DARK_PULSE"
+            },
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "X Scissor",
+                "id": "X_SCISSOR"
+            },
+            {
+                "name": "Focus Blast",
+                "id": "FOCUS_BLAST"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Snarl Fast",
+                "id": "SNARL_FAST"
+            },
+            {
+                "name": "Metal Claw Fast",
+                "id": "METAL_CLAW_FAST"
             }
         ],
         "family": {
@@ -137838,14 +138304,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Dragon Breath Fast",
+                "id": "DRAGON_BREATH_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
             }
         ],
         "family": {
@@ -137906,14 +138384,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Dragon Breath Fast",
+                "id": "DRAGON_BREATH_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
             }
         ],
         "family": {
@@ -137967,21 +138457,37 @@
         "modelHeight": 2.1,
         "kmBuddyDistance": 5,
         "weight": 210,
-        "maxCP": 4239,
+        "maxCP": 3550,
         "buddySize": {
             "id": "BUDDY_BIG",
             "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Dragon Claw",
+                "id": "DRAGON_CLAW"
+            },
+            {
+                "name": "Avalanche",
+                "id": "AVALANCHE"
+            },
+            {
+                "name": "Outrage",
+                "id": "OUTRAGE"
+            },
+            {
+                "name": "Blizzard",
+                "id": "BLIZZARD"
             }
         ],
         "quickMoves": [
             {
-                "name": "Splash Fast",
-                "id": "SPLASH_FAST"
+                "name": "Dragon Breath Fast",
+                "id": "DRAGON_BREATH_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
             }
         ],
         "family": {
@@ -137989,9 +138495,9 @@
             "name": "Frigibax"
         },
         "stats": {
-            "baseAttack": 280,
-            "baseDefense": 184,
-            "baseStamina": 251
+            "baseAttack": 254,
+            "baseDefense": 168,
+            "baseStamina": 229
         },
         "types": [
             {

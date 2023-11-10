@@ -1035,6 +1035,42 @@
         "dropTrainerLevel": 100
     },
     {
+        "id": "TICKET_CITY_SAFARI_00",
+        "name": "Ticket City Safari 00",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "TICKET_CITY_SAFARI_01",
+        "name": "Ticket City Safari 01",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "TICKET_CITY_SAFARI_02",
+        "name": "Ticket City Safari 02",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "TROY_DISK",
         "name": "Troy Disk",
         "category": {

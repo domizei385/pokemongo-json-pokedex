@@ -141,6 +141,9 @@
         "description": "Un spray qui soigne les blessures. Permet de restaurer {1} des PV d’un Pokémon."
     },
     "TEAM_CHANGE": {},
+    "TICKET_CITY_SAFARI_00": {},
+    "TICKET_CITY_SAFARI_01": {},
+    "TICKET_CITY_SAFARI_02": {},
     "TROY_DISK": {
         "name": "Module Leurre",
         "description": "Attire les Pokémon dans un PokéStop pendant 30 minutes. D’autres joueurs peuvent en profiter."

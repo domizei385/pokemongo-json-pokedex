@@ -141,6 +141,9 @@
         "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 {1} 만큼 회복한다."
     },
     "TEAM_CHANGE": {},
+    "TICKET_CITY_SAFARI_00": {},
+    "TICKET_CITY_SAFARI_01": {},
+    "TICKET_CITY_SAFARI_02": {},
     "TROY_DISK": {
         "name": "루어모듈",
         "description": "포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 줍니다."

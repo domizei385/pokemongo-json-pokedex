@@ -141,6 +141,9 @@
         "description": "噴霧式傷藥。能讓1隻寶可夢回復 {1} HP。"
     },
     "TEAM_CHANGE": {},
+    "TICKET_CITY_SAFARI_00": {},
+    "TICKET_CITY_SAFARI_01": {},
+    "TICKET_CITY_SAFARI_02": {},
     "TROY_DISK": {
         "name": "誘餌模組",
         "description": "誘餌模組會將野生寶可夢吸引至寶可補給站，效果可持續30分鐘。附近的玩家也可獲得相同效果。"

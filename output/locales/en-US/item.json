@@ -141,6 +141,9 @@
         "description": "A spray-type medicine that restores the HP of one Pokémon by {1} points."
     },
     "TEAM_CHANGE": {},
+    "TICKET_CITY_SAFARI_00": {},
+    "TICKET_CITY_SAFARI_01": {},
+    "TICKET_CITY_SAFARI_02": {},
     "TROY_DISK": {
         "name": "Lure Module",
         "description": "A module that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby."

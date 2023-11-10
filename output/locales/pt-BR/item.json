@@ -141,6 +141,9 @@
         "description": "Remédio em spray que cura machucados e que restaura os PS de um Pokémon em {1} pontos."
     },
     "TEAM_CHANGE": {},
+    "TICKET_CITY_SAFARI_00": {},
+    "TICKET_CITY_SAFARI_01": {},
+    "TICKET_CITY_SAFARI_02": {},
     "TROY_DISK": {
         "name": "Módulo Atrair",
         "description": "Atrai Pokémon a uma Poképarada por 30 minutos. Pode beneficiar outras pessoas por perto."

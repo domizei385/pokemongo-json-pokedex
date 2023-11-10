@@ -5672,5 +5672,65 @@
         },
         "name": "Oblivion Wing",
         "internalId": 389
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 60,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "triple_axel",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -33,
+        "id": 391,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ICE",
+            "name": "Ice"
+        },
+        "name": "Triple Axel",
+        "internalId": 391
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 65,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "trailblaze",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -50,
+        "id": 392,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "name": "Trailblaze",
+        "internalId": 392
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 95,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "scorching_sands",
+        "durationMs": 3200,
+        "damageWindowStartMs": 1600,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -50,
+        "id": 393,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GROUND",
+            "name": "Ground"
+        },
+        "name": "Scorching Sands",
+        "internalId": 393
     }
 ]
