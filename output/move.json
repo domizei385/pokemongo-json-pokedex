@@ -5645,13 +5645,33 @@
         "damageWindowStartMs": 1000,
         "damageWindowEndMs": 1500,
         "energyDelta": 14,
-        "id": 387,
+        "id": "GEOMANCY_FAST",
         "pokemonType": {
             "id": "POKEMON_TYPE_FAIRY",
             "name": "Fairy"
         },
         "name": "Geomancy Fast",
         "internalId": 387
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 160,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "spacial_rend",
+        "durationMs": 2500,
+        "damageWindowStartMs": 1370,
+        "damageWindowEndMs": 2950,
+        "energyDelta": -100,
+        "id": "SPACIAL_REND",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "name": "Spacial Rend",
+        "internalId": 388
     },
     {
         "accuracyChance": 1,
@@ -5665,7 +5685,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1900,
         "energyDelta": -50,
-        "id": 389,
+        "id": "OBLIVION_WING",
         "pokemonType": {
             "id": "POKEMON_TYPE_FLYING",
             "name": "Flying"
@@ -5685,7 +5705,7 @@
         "damageWindowStartMs": 1500,
         "damageWindowEndMs": 1700,
         "energyDelta": -33,
-        "id": 391,
+        "id": "TRIPLE_AXEL",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
             "name": "Ice"
@@ -5705,7 +5725,7 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1900,
         "energyDelta": -50,
-        "id": 392,
+        "id": "TRAILBLAZE",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
@@ -5725,12 +5745,112 @@
         "damageWindowStartMs": 1600,
         "damageWindowEndMs": 2500,
         "energyDelta": -50,
-        "id": 393,
+        "id": "SCORCHING_SANDS",
         "pokemonType": {
             "id": "POKEMON_TYPE_GROUND",
             "name": "Ground"
         },
         "name": "Scorching Sands",
         "internalId": 393
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 160,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "roar_of_time",
+        "durationMs": 2200,
+        "damageWindowStartMs": 1050,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -100,
+        "id": "ROAR_OF_TIME",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "name": "Roar Of Time",
+        "internalId": 394
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "bleakwind_storm",
+        "durationMs": 2300,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -100,
+        "id": "BLEAKWIND_STORM",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Bleakwind Storm",
+        "internalId": 395
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "sandsear_storm",
+        "durationMs": 2300,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -100,
+        "id": "SANDSEAR_STORM",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GROUND",
+            "name": "Ground"
+        },
+        "name": "Sandsear Storm",
+        "internalId": 396
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 140,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "wildbold_storm",
+        "durationMs": 2300,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2600,
+        "energyDelta": -100,
+        "id": "WILDBOLT_STORM",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ELECTRIC",
+            "name": "Electric"
+        },
+        "name": "Wildbolt Storm",
+        "internalId": 397
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 70,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "spirit_shackle",
+        "durationMs": 2500,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 3400,
+        "energyDelta": -33,
+        "id": "SPIRIT_SHACKLE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GHOST",
+            "name": "Ghost"
+        },
+        "name": "Spirit Shackle",
+        "internalId": 398
     }
 ]

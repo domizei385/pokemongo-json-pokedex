@@ -54,6 +54,7 @@
     "f_backpack_svcostumescarletschool_0": {},
     "f_backpack_svcostumevioletschool_0": {},
     "f_backpack_svdlc1_0": {},
+    "f_backpack_svdlc2spring_0": {},
     "f_backpack_swshdlc2costume_0": {},
     "f_backpack_swshdlccostume_0": {},
     "f_backpack_togepibackpack_0": {},
@@ -136,7 +137,9 @@
     "f_glasses_3d": {
         "name": "3D眼鏡"
     },
+    "f_glasses_cutieflysleepmask_0": {},
     "f_glasses_divingsuit_0": {},
+    "f_glasses_drpikachu_0": {},
     "f_glasses_empty": {
         "name": "不戴眼鏡"
     },
@@ -219,6 +222,7 @@
     "f_gloves_palmer_0": {},
     "f_gloves_profwillowoutfit_0": {},
     "f_gloves_stevenfirst_0": {},
+    "f_gloves_svdlc2spring_0": {},
     "f_gloves_swshdlc2costume_0": {},
     "f_gloves_swshdlccostume_0": {},
     "f_gloves_swshuniformchampion_0": {},
@@ -231,6 +235,7 @@
         "name": "火箭隊手套"
     },
     "f_gloves_teamspark_0": {},
+    "f_gloves_wintergloves2023_0": {},
     "f_hat_gofest_pikachuvisor_0": {},
     "f_hair_default_0": {},
     "f_hair_default_1": {},
@@ -265,10 +270,12 @@
     "f_hat_casket_0": {
         "name": "鴨舌帽"
     },
+    "f_hat_cetoddlehat_0": {},
     "f_hat_clay_0": {},
     "f_hat_cofagrigusitems_0": {},
     "f_hat_cosmog_0": {},
     "f_hat_cubonehat_0": {},
+    "f_hat_darumakahat_0": {},
     "f_hat_dedenneitems_0": {},
     "f_hat_default_A_0": {},
     "f_hat_default_A_1": {},
@@ -284,6 +291,7 @@
     "f_hat_diancie_0": {},
     "f_hat_dp_0": {},
     "f_hat_drifloon_0": {},
+    "f_hat_drpikachu_0": {},
     "f_hat_dusclopsmummy_0": {},
     "f_hat_eeveecap_0": {},
     "f_hat_elesa_0": {},
@@ -321,6 +329,7 @@
     "f_hat_holiday2022santacostumes_0": {},
     "f_hat_holidaybeanie_0": {},
     "f_hat_hoopaearmuffs_0": {},
+    "f_hat_ingo_0": {},
     "f_hat_kantotourcapgreen_0": {},
     "f_hat_kantotourcapred_0": {},
     "f_hat_knitted_0": {
@@ -360,6 +369,7 @@
     "f_hat_oricorioPurple_0": {},
     "f_hat_oricorioRed_0": {},
     "f_hat_oricorioYellow_0": {},
+    "f_hat_partneritemsjan2024hat_0": {},
     "f_hat_phantump_0": {},
     "f_hat_pikachucap_0": {},
     "f_hat_pikachufan_0": {
@@ -462,6 +472,7 @@
     "f_pants_default_5": {
         "name": "連身褲"
     },
+    "f_pants_denimfashionweek2023_0": {},
     "f_pants_dp_0": {},
     "f_pants_fashionWeek2022_0": {},
     "f_pants_flabebepack_0": {},
@@ -473,6 +484,7 @@
     "f_pants_genderlessskirt_0": {},
     "f_pants_giovanni_0": {},
     "f_pants_gladion_0": {},
+    "f_pants_gothitelleitems_0": {},
     "f_pants_green_0": {},
     "f_pants_greencoat_0": {},
     "f_pants_guzma_0": {},
@@ -488,6 +500,7 @@
     "f_pants_hgss_0": {
         "name": "城都連身短褲"
     },
+    "f_pants_ingo_0": {},
     "f_pants_loosepants_0": {},
     "f_pants_lunalaitems_0": {},
     "f_pants_luvdiscpack_0": {},
@@ -643,6 +656,11 @@
     "pose_54": {},
     "pose_55": {},
     "pose_56": {},
+    "pose_57": {},
+    "pose_58": {},
+    "pose_59": {},
+    "pose_60": {},
+    "pose_61": {},
     "pose_empty": {},
     "f_shirt_6thanniversary_0": {},
     "f_shirt_7thanniversary_0": {},
@@ -704,6 +722,8 @@
         "name": "經典長袖上衣"
     },
     "f_shirt_delibird_0": {},
+    "f_shirt_delibirdonesie_0": {},
+    "f_shirt_denimfashionweek2023_0": {},
     "f_shirt_denimjacket_0": {},
     "f_shirt_detectivepikachu_0": {},
     "f_shirt_diancie_0": {},
@@ -745,7 +765,9 @@
     "f_shirt_goteamrocketarlo_0": {},
     "f_shirt_goteamrocketcliff_0": {},
     "f_shirt_goteamrocketsierra_0": {},
+    "f_shirt_gothitelleitems_0": {},
     "f_shirt_gotour2023_0": {},
+    "f_shirt_gotour2024_0": {},
     "f_shirt_greedentsweater_0": {},
     "f_shirt_green_0": {},
     "f_shirt_greencoat_0": {},
@@ -772,6 +794,7 @@
     "f_shirt_holifestival2021black_0": {},
     "f_shirt_holifestival2021white_0": {},
     "f_shirt_hoopaunboundtshirt_0": {},
+    "f_shirt_ingo_0": {},
     "f_shirt_ingress_0": {},
     "f_shirt_ingress_e_0": {},
     "f_shirt_ingress_r_0": {},
@@ -809,6 +832,8 @@
     "f_shirt_pajamas2022_0": {},
     "f_shirt_pajamas2022_1": {},
     "f_shirt_palmer_0": {},
+    "f_shirt_partneritemsjan2024hoodie_0": {},
+    "f_shirt_partneritemsjan2024tshirt_0": {},
     "f_shirt_pikachufan_0": {
         "name": "皮卡丘發燒友上衣"
     },
@@ -835,6 +860,7 @@
     "f_shirt_regiicejersies_0": {},
     "f_shirt_regirockjersies_0": {},
     "f_shirt_registeeljersies_0": {},
+    "f_shirt_reuniclusitems_0": {},
     "f_shirt_ruinmaniac_0": {},
     "f_shirt_safarizone2020_0": {},
     "f_shirt_samsungsummer2020_0": {},
@@ -860,6 +886,8 @@
     "f_shirt_svcostumescarletschool_0": {},
     "f_shirt_svcostumevioletschool_0": {},
     "f_shirt_svdlc1_0": {},
+    "f_shirt_svdlc2fall_0": {},
+    "f_shirt_svdlc2spring_0": {},
     "f_shirt_sweater_30_0": {
         "name": "30紀念款"
     },
@@ -986,6 +1014,7 @@
     "f_shirt_wcs2023winnersitems_0": {},
     "f_shirt_wcsyokohama_0": {},
     "f_shirt_whitecoat_0": {},
+    "f_shirt_wintersweater2023_0": {},
     "f_shirt_zoruaonesie_0": {},
     "f_shoes_6thanniversary_0": {},
     "f_shoes_acetrainerbw_0": {},
@@ -1035,6 +1064,7 @@
     "f_shoes_geeta_0": {},
     "f_shoes_giovanni_0": {},
     "f_shoes_gladion_0": {},
+    "f_shoes_gothitelleitems_0": {},
     "f_shoes_green_0": {},
     "f_shoes_gymleader_0": {
         "name": "道館館主運動鞋"
@@ -1048,6 +1078,7 @@
     "f_shoes_hgss_0": {
         "name": "城都運動鞋"
     },
+    "f_shoes_ingo_0": {},
     "f_shoes_korrina_0": {},
     "f_shoes_legendofarceus_0": {},
     "f_shoes_loosepants_0": {},
@@ -1074,6 +1105,7 @@
     "f_shoes_regiicejersies_0": {},
     "f_shoes_regirockjersies_0": {},
     "f_shoes_registeeljersies_0": {},
+    "f_shoes_reuniclusitems_0": {},
     "f_shoes_ruinmaniac_0": {},
     "f_shoes_sandals_0": {},
     "f_shoes_sandals_1": {},
@@ -1085,6 +1117,7 @@
     "f_shoes_svcostumescarletschool_0": {},
     "f_shoes_svcostumevioletschool_0": {},
     "f_shoes_svdlc1_0": {},
+    "f_shoes_svdlc2spring_0": {},
     "f_shoes_swshdlc2costume_0": {},
     "f_shoes_swshdlccostume_0": {},
     "f_shoes_swshuniformdark_0": {},
@@ -1108,6 +1141,7 @@
     "f_shoes_veterantrainerxy_0": {},
     "f_shoes_wcs2022winnersitems_0": {},
     "f_shoes_wcs2023winnersitems_0": {},
+    "f_shoes_winterboots2023_0": {},
     "f_shoes_winterboots_0": {},
     "f_shoes_winterboots_1": {},
     "f_shoes_winterboots_2": {},
@@ -1208,6 +1242,7 @@
     "m_backpack_svcostumescarletschool_0": {},
     "m_backpack_svcostumevioletschool_0": {},
     "m_backpack_svdlc1_0": {},
+    "m_backpack_svdlc2spring_0": {},
     "m_backpack_swshdlc2costume_0": {},
     "m_backpack_swshdlccostume_0": {},
     "m_backpack_togepibackpack_0": {},
@@ -1241,7 +1276,9 @@
     "m_glasses_3d": {
         "name": "3D眼鏡"
     },
+    "m_glasses_cutieflysleepmask_0": {},
     "m_glasses_divingsuit_0": {},
+    "m_glasses_drpikachu_0": {},
     "m_glasses_empty": {
         "name": "不戴眼鏡"
     },
@@ -1325,6 +1362,7 @@
     "m_gloves_palmer_0": {},
     "m_gloves_profwillowoutfit_0": {},
     "m_gloves_stevenfirst_0": {},
+    "m_gloves_svdlc2spring_0": {},
     "m_gloves_swshdlc2costume_0": {},
     "m_gloves_swshdlccostume_0": {},
     "m_gloves_swshuniformchampion_0": {},
@@ -1337,6 +1375,7 @@
         "name": "火箭隊手套"
     },
     "m_gloves_teamspark_0": {},
+    "m_gloves_wintergloves2023_0": {},
     "m_hat_gofest_pikachuvisor_0": {},
     "m_hair_default_0": {},
     "m_hair_default_1": {},
@@ -1371,10 +1410,12 @@
     "m_hat_casket_0": {
         "name": "鴨舌帽"
     },
+    "m_hat_cetoddlehat_0": {},
     "m_hat_clay_0": {},
     "m_hat_cofagrigusitems_0": {},
     "m_hat_cosmog_0": {},
     "m_hat_cubonehat_0": {},
+    "m_hat_darumakahat_0": {},
     "m_hat_dedenneitems_0": {},
     "m_hat_default_0": {
         "name": "訓練家遮陽帽"
@@ -1400,6 +1441,7 @@
     "m_hat_diancie_0": {},
     "m_hat_dp_0": {},
     "m_hat_drifloon_0": {},
+    "m_hat_drpikachu_0": {},
     "m_hat_dusclopsmummy_0": {},
     "m_hat_eeveecap_0": {},
     "m_hat_elesa_0": {},
@@ -1440,6 +1482,7 @@
     "m_hat_holiday2022santacostumes_0": {},
     "m_hat_holidaybeanie_0": {},
     "m_hat_hoopaearmuffs_0": {},
+    "m_hat_ingo_0": {},
     "m_hat_jogger_0": {
         "name": "慢跑者遮陽帽"
     },
@@ -1475,6 +1518,7 @@
     "m_hat_oricorioPurple_0": {},
     "m_hat_oricorioRed_0": {},
     "m_hat_oricorioYellow_0": {},
+    "m_hat_partneritemsjan2024hat_0": {},
     "m_hat_phantump_0": {},
     "m_hat_pikachucap_0": {},
     "m_hat_pikachufan_0": {
@@ -1546,6 +1590,7 @@
     "m_pants_default_0": {
         "name": "訓練家短褲"
     },
+    "m_pants_denimfashionweek2023_0": {},
     "m_pants_dp_0": {},
     "m_pants_elesa_0": {},
     "m_pants_fashionWeek2022_0": {},
@@ -1561,6 +1606,7 @@
     "m_pants_genderlessskirt_0": {},
     "m_pants_giovanni_0": {},
     "m_pants_gladion_0": {},
+    "m_pants_gothitelleitems_0": {},
     "m_pants_green_0": {},
     "m_pants_greencoat_0": {},
     "m_pants_guzma_0": {},
@@ -1576,6 +1622,7 @@
     "m_pants_hgss_0": {
         "name": "城都運動褲"
     },
+    "m_pants_ingo_0": {},
     "m_pants_jogger_0": {
         "name": "慢跑者短褲"
     },
@@ -1702,6 +1749,8 @@
         "name": "經典連帽上衣"
     },
     "m_shirt_delibird_0": {},
+    "m_shirt_delibirdonesie_0": {},
+    "m_shirt_denimfashionweek2023_0": {},
     "m_shirt_denimjacket_0": {},
     "m_shirt_detectivepikachu_0": {},
     "m_shirt_diancie_0": {},
@@ -1746,7 +1795,9 @@
     "m_shirt_goteamrocketarlo_0": {},
     "m_shirt_goteamrocketcliff_0": {},
     "m_shirt_goteamrocketsierra_0": {},
+    "m_shirt_gothitelleitems_0": {},
     "m_shirt_gotour2023_0": {},
+    "m_shirt_gotour2024_0": {},
     "m_shirt_greedentsweater_0": {},
     "m_shirt_green_0": {},
     "m_shirt_greencoat_0": {},
@@ -1773,6 +1824,7 @@
     "m_shirt_holifestival2021black_0": {},
     "m_shirt_holifestival2021white_0": {},
     "m_shirt_hoopaunboundtshirt_0": {},
+    "m_shirt_ingo_0": {},
     "m_shirt_ingress_0": {},
     "m_shirt_ingress_e_0": {},
     "m_shirt_ingress_r_0": {},
@@ -1830,6 +1882,8 @@
     "m_shirt_pajamas2022_0": {},
     "m_shirt_pajamas2022_1": {},
     "m_shirt_palmer_0": {},
+    "m_shirt_partneritemsjan2024hoodie_0": {},
+    "m_shirt_partneritemsjan2024tshirt_0": {},
     "m_shirt_pikachufan_0": {
         "name": "皮卡丘發燒友T恤"
     },
@@ -1856,6 +1910,7 @@
     "m_shirt_regiicejersies_0": {},
     "m_shirt_regirockjersies_0": {},
     "m_shirt_registeeljersies_0": {},
+    "m_shirt_reuniclusitems_0": {},
     "m_shirt_ruinmaniac_0": {},
     "m_shirt_safarizone2020_0": {},
     "m_shirt_samsungsummer2020_0": {},
@@ -1881,6 +1936,8 @@
     "m_shirt_svcostumescarletschool_0": {},
     "m_shirt_svcostumevioletschool_0": {},
     "m_shirt_svdlc1_0": {},
+    "m_shirt_svdlc2fall_0": {},
+    "m_shirt_svdlc2spring_0": {},
     "m_shirt_sweatshirt_sporty_0": {
         "name": "運動連帽上衣"
     },
@@ -1986,6 +2043,7 @@
     "m_shirt_wcs2023winnersitems_0": {},
     "m_shirt_wcsyokohama_0": {},
     "m_shirt_whitecoat_0": {},
+    "m_shirt_wintersweater2023_0": {},
     "m_shirt_zoruaonesie_0": {},
     "m_shoes_6thanniversary_0": {},
     "m_shoes_acetrainerbw_0": {},
@@ -2036,6 +2094,7 @@
     "m_shoes_geeta_0": {},
     "m_shoes_giovanni_0": {},
     "m_shoes_gladion_0": {},
+    "m_shoes_gothitelleitems_0": {},
     "m_shoes_green_0": {},
     "m_shoes_gymleader_0": {
         "name": "道館館主運動鞋"
@@ -2049,6 +2108,7 @@
     "m_shoes_hgss_0": {
         "name": "城都運動鞋"
     },
+    "m_shoes_ingo_0": {},
     "m_shoes_jogger_0": {
         "name": "慢跑者鞋"
     },
@@ -2077,6 +2137,7 @@
     "m_shoes_regiicejersies_0": {},
     "m_shoes_regirockjersies_0": {},
     "m_shoes_registeeljersies_0": {},
+    "m_shoes_reuniclusitems_0": {},
     "m_shoes_ruinmaniac_0": {},
     "m_shoes_sandals_0": {},
     "m_shoes_sandals_1": {},
@@ -2088,6 +2149,7 @@
     "m_shoes_svcostumescarletschool_0": {},
     "m_shoes_svcostumevioletschool_0": {},
     "m_shoes_svdlc1_0": {},
+    "m_shoes_svdlc2spring_0": {},
     "m_shoes_swshdlc2costume_0": {},
     "m_shoes_swshdlccostume_0": {},
     "m_shoes_swshuniformdark_0": {},
@@ -2111,6 +2173,7 @@
     "m_shoes_veterantrainerxy_0": {},
     "m_shoes_wcs2022winnersitems_0": {},
     "m_shoes_wcs2023winnersitems_0": {},
+    "m_shoes_winterboots2023_0": {},
     "m_shoes_winterboots_0": {},
     "m_shoes_winterboots_1": {},
     "m_shoes_winterboots_2": {},

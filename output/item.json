@@ -67,6 +67,10 @@
             "name": "Utilites",
             "id": "UTILITES"
         },
+        "type": {
+            "name": "Breakfast",
+            "id": "BREAKFAST"
+        },
         "dropTrainerLevel": 1
     },
     {
@@ -508,19 +512,6 @@
             "id": "INCIDENT_TICKET"
         },
         "dropTrainerLevel": 8
-    },
-    {
-        "id": "LEGENDARY_RAID_TICKET",
-        "name": "Legendary Raid Ticket",
-        "category": {
-            "name": "Raid Ticket",
-            "id": "RAID_TICKET"
-        },
-        "type": {
-            "name": "Raid Ticket",
-            "id": "RAID_TICKET"
-        },
-        "dropTrainerLevel": 100
     },
     {
         "id": "LUCKY_EGG",
