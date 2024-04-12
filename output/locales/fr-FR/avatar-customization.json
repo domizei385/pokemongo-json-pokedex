@@ -31,6 +31,7 @@
     },
     "f_backpack_genesecteventitem_0": {},
     "f_backpack_gengar_0": {},
+    "f_backpack_giratinaitems_0": {},
     "f_backpack_guccibackpack_0": {},
     "f_backpack_guitarcasebackpack_0": {},
     "f_backpack_hgss_0": {
@@ -315,11 +316,14 @@
     "f_hat_genesecteventitem_0": {},
     "f_hat_gengar_0": {},
     "f_hat_gimmighoulitems_0": {},
+    "f_hat_giratinaitems_0": {},
     "f_hat_gladion_0": {},
     "f_hat_goomy_0": {},
     "f_hat_greavardwig_0": {},
     "f_hat_greencoat_0": {},
     "f_hat_growlithehelmet_0": {},
+    "f_hat_gtr2024eeveefanmask_0": {},
+    "f_hat_gtr2024pikachufanmask_0": {},
     "f_hat_guccihat_0": {},
     "f_hat_guzma_0": {},
     "f_hat_gyaradoscap_0": {},
@@ -340,6 +344,7 @@
     },
     "f_hat_korrina_0": {},
     "f_hat_laprasbandana_0": {},
+    "f_hat_lasecuritycorps_0": {},
     "f_hat_legendofarceus_0": {},
     "f_hat_litwickhat_0": {},
     "f_hat_loneearrings_0": {},
@@ -380,6 +385,7 @@
     "f_hat_pkmncap_0": {},
     "f_hat_pkmncap_1": {},
     "f_hat_pkmncap_2": {},
+    "f_hat_poipole_0": {},
     "f_hat_profwillowoutfit_0": {},
     "f_hat_regiicejersies_0": {},
     "f_hat_regirockjersies_0": {},
@@ -497,6 +503,7 @@
     "f_pants_gymleader_2": {
         "name": "Jupe de Championne d’Arène"
     },
+    "f_pants_hala_0": {},
     "f_pants_hgss_0": {
         "name": "Salopette Johto"
     },
@@ -661,6 +668,7 @@
     "pose_59": {},
     "pose_60": {},
     "pose_61": {},
+    "pose_62": {},
     "pose_empty": {},
     "f_shirt_6thanniversary_0": {},
     "f_shirt_7thanniversary_0": {},
@@ -739,6 +747,11 @@
     "f_shirt_eeveestshirt_01_0": {},
     "f_shirt_eeveestshirt_02_0": {},
     "f_shirt_eeveestshirt_03_0": {},
+    "f_shirt_eeveestshirt_04": {},
+    "f_shirt_eeveestshirt_05": {},
+    "f_shirt_eeveestshirt_06": {},
+    "f_shirt_eeveestshirt_07": {},
+    "f_shirt_eeveestshirt_08": {},
     "f_shirt_elesa_0": {},
     "f_shirt_fashionWeek2022_0": {},
     "f_shirt_festivaloflights_00_0": {},
@@ -750,14 +763,17 @@
     },
     "f_shirt_fw2022_0": {},
     "f_shirt_galarfarfetchditems_0": {},
+    "f_shirt_galaxyoutfit_0": {},
     "f_shirt_geeta_0": {},
     "f_shirt_genderlessskirt_0": {},
     "f_shirt_gengar_0": {},
     "f_shirt_gengaronesie_0": {},
     "f_shirt_giovanni_0": {},
+    "f_shirt_giratinaitems_0": {},
     "f_shirt_gladion_0": {},
     "f_shirt_gofest2022_0": {},
     "f_shirt_gofest2023_0": {},
+    "f_shirt_gofest2024gray_0": {},
     "f_shirt_gofest_2019": {},
     "f_shirt_gofest_2020_0": {},
     "f_shirt_gofest_2021_0": {},
@@ -784,6 +800,7 @@
     "f_shirt_gymleader_2": {
         "name": "Haut de Championne d’Arène"
     },
+    "f_shirt_hala_0": {},
     "f_shirt_happi_0": {},
     "f_shirt_happi_1": {},
     "f_shirt_happi_2": {},
@@ -802,6 +819,9 @@
     "f_shirt_jirachi_0": {},
     "f_shirt_keldeotshirt_0": {},
     "f_shirt_korrina_0": {},
+    "f_shirt_ladiamondoutfit_0": {},
+    "f_shirt_lapearloutfit_0": {},
+    "f_shirt_lasecuritycorps_0": {},
     "f_shirt_latias_latios_0": {
         "name": "T-shirt Latias et Latios"
     },
@@ -1075,11 +1095,14 @@
     "f_shoes_gymleader_2": {
         "name": "Chaussures de Championne d’Arène"
     },
+    "f_shoes_hala_0": {},
     "f_shoes_hgss_0": {
         "name": "Chaussures Johto"
     },
     "f_shoes_ingo_0": {},
     "f_shoes_korrina_0": {},
+    "f_shoes_ladiamondoutfit_0": {},
+    "f_shoes_lapearloutfit_0": {},
     "f_shoes_legendofarceus_0": {},
     "f_shoes_loosepants_0": {},
     "f_shoes_loosepants_1": {},
@@ -1219,6 +1242,7 @@
     },
     "m_backpack_genesecteventitem_0": {},
     "m_backpack_gengar_0": {},
+    "m_backpack_giratinaitems_0": {},
     "m_backpack_guccibackpack_0": {},
     "m_backpack_guitarcasebackpack_0": {},
     "m_backpack_hgss_0": {
@@ -1468,11 +1492,14 @@
     "m_hat_genesecteventitem_0": {},
     "m_hat_gengar_0": {},
     "m_hat_gimmighoulitems_0": {},
+    "m_hat_giratinaitems_0": {},
     "m_hat_gladion_0": {},
     "m_hat_goomy_0": {},
     "m_hat_greavardwig_0": {},
     "m_hat_greencoat_0": {},
     "m_hat_growlithehelmet_0": {},
+    "m_hat_gtr2024eeveefanmask_0": {},
+    "m_hat_gtr2024pikachufanmask_0": {},
     "m_hat_guccihat_0": {},
     "m_hat_guzma_0": {},
     "m_hat_gyaradoscap_0": {},
@@ -1490,6 +1517,7 @@
     "m_hat_kantotourcapred_0": {},
     "m_hat_korrina_0": {},
     "m_hat_laprasbandana_0": {},
+    "m_hat_lasecuritycorps_0": {},
     "m_hat_legendofarceus_0": {},
     "m_hat_litwickhat_0": {},
     "m_hat_loneearrings_0": {},
@@ -1529,6 +1557,7 @@
     "m_hat_pkmncap_0": {},
     "m_hat_pkmncap_1": {},
     "m_hat_pkmncap_2": {},
+    "m_hat_poipole_0": {},
     "m_hat_profwillowoutfit_0": {},
     "m_hat_regiicejersies_0": {},
     "m_hat_regirockjersies_0": {},
@@ -1619,6 +1648,7 @@
     "m_pants_gymleader_2": {
         "name": "Short de Champion d’Arène"
     },
+    "m_pants_hala_0": {},
     "m_pants_hgss_0": {
         "name": "Pantacourt Johto"
     },
@@ -1766,6 +1796,11 @@
     "m_shirt_eeveestshirt_01_0": {},
     "m_shirt_eeveestshirt_02_0": {},
     "m_shirt_eeveestshirt_03_0": {},
+    "m_shirt_eeveestshirt_04": {},
+    "m_shirt_eeveestshirt_05": {},
+    "m_shirt_eeveestshirt_06": {},
+    "m_shirt_eeveestshirt_07": {},
+    "m_shirt_eeveestshirt_08": {},
     "m_shirt_elesa_0": {},
     "m_shirt_fashionWeek2022_0": {},
     "m_shirt_festivaloflights_00_0": {},
@@ -1780,14 +1815,17 @@
     },
     "m_shirt_fw2022_0": {},
     "m_shirt_galarfarfetchditems_0": {},
+    "m_shirt_galaxyoutfit_0": {},
     "m_shirt_geeta_0": {},
     "m_shirt_genderlessskirt_0": {},
     "m_shirt_gengar_0": {},
     "m_shirt_gengaronesie_0": {},
     "m_shirt_giovanni_0": {},
+    "m_shirt_giratinaitems_0": {},
     "m_shirt_gladion_0": {},
     "m_shirt_gofest2022_0": {},
     "m_shirt_gofest2023_0": {},
+    "m_shirt_gofest2024gray_0": {},
     "m_shirt_gofest_2019": {},
     "m_shirt_gofest_2020_0": {},
     "m_shirt_gofest_2021_0": {},
@@ -1814,6 +1852,7 @@
     "m_shirt_gymleader_2": {
         "name": "Haut de Champion d’Arène"
     },
+    "m_shirt_hala_0": {},
     "m_shirt_happi_0": {},
     "m_shirt_happi_1": {},
     "m_shirt_happi_2": {},
@@ -1835,6 +1874,9 @@
     },
     "m_shirt_keldeotshirt_0": {},
     "m_shirt_korrina_0": {},
+    "m_shirt_ladiamondoutfit_0": {},
+    "m_shirt_lapearloutfit_0": {},
+    "m_shirt_lasecuritycorps_0": {},
     "m_shirt_latias_latios_0": {
         "name": "T-shirt Latias et Latios"
     },
@@ -2105,6 +2147,7 @@
     "m_shoes_gymleader_2": {
         "name": "Chaussures de Champion d’Arène"
     },
+    "m_shoes_hala_0": {},
     "m_shoes_hgss_0": {
         "name": "Chaussures Johto"
     },
@@ -2113,6 +2156,8 @@
         "name": "Chaussures de joggeur"
     },
     "m_shoes_korrina_0": {},
+    "m_shoes_ladiamondoutfit_0": {},
+    "m_shoes_lapearloutfit_0": {},
     "m_shoes_legendofarceus_0": {},
     "m_shoes_loosepants_0": {},
     "m_shoes_loosepants_1": {},

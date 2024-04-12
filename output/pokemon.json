@@ -3605,6 +3605,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -3829,6 +3845,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -4053,6 +4085,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -4281,6 +4329,258 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Doctor",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_SHOULDER",
+            "name": "Shoulder"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Thunder Punch",
+                "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Play Rough",
+                "id": "PLAY_ROUGH"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 29,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.16,
+            "dodgeDistance": 0.5,
+            "dodgeProbability": 0.3,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "PIKACHU_DOCTOR",
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
+            },
+            {
+                "id": "PIKACHU_ADVENTURE_HAT_2020",
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
+            },
+            {
+                "id": "PIKACHU_WINTER_2020",
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
+            },
+            {
+                "id": "PIKACHU_KARIYUSHI",
+                "name": "Pikachu Kariyushi",
+                "assetBundleSuffix": "pm0025_00_pikachu_pgo_kariyushi"
+            },
+            {
+                "id": "PIKACHU_POP_STAR",
+                "name": "Pikachu Pop Star",
+                "assetBundleSuffix": "pm0025_00_pgo_popstar"
+            },
+            {
+                "id": "PIKACHU_ROCK_STAR",
+                "name": "Pikachu Rock Star",
+                "assetBundleSuffix": "pm0025_00_pgo_rockstar"
+            },
+            {
+                "id": "PIKACHU_FLYING_5TH_ANNIV",
+                "name": "Pikachu Flying 5th Anniv",
+                "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
+            },
+            {
+                "id": "PIKACHU_WCS_2022",
+                "name": "Pikachu Wcs 2022"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_01",
+                "name": "Pikachu Tshirt 01",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_02",
+                "name": "Pikachu Tshirt 02",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_FLYING_01",
+                "name": "Pikachu Flying 01",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_FLYING_02",
+                "name": "Pikachu Flying 02",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_A",
+                "name": "Pikachu Summer 2023 A"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_B",
+                "name": "Pikachu Summer 2023 B"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_C",
+                "name": "Pikachu Summer 2023 C"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_D",
+                "name": "Pikachu Summer 2023 D"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_E",
+                "name": "Pikachu Summer 2023 E"
+            },
+            {
+                "id": "PIKACHU_JEJU",
+                "name": "Pikachu Jeju"
+            },
+            {
+                "id": "PIKACHU_FLYING_03",
+                "name": "Pikachu Flying 03"
+            },
+            {
+                "id": "PIKACHU_WCS_2023",
+                "name": "Pikachu Wcs 2023"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A",
+                "name": "Pikachu Gotour 2024 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A_02",
+                "name": "Pikachu Gotour 2024 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B",
+                "name": "Pikachu Gotour 2024 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B_02",
+                "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -4505,6 +4805,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -4733,6 +5049,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -4961,6 +5293,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -5189,6 +5537,266 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Flying 04",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.05,
+            "attackTimer": 29,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.16,
+            "dodgeDistance": 0.5,
+            "dodgeProbability": 0.3,
+            "jumpTime": 0.9,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "PIKACHU_FLYING_04",
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
+            },
+            {
+                "id": "PIKACHU_ADVENTURE_HAT_2020",
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
+            },
+            {
+                "id": "PIKACHU_WINTER_2020",
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
+            },
+            {
+                "id": "PIKACHU_KARIYUSHI",
+                "name": "Pikachu Kariyushi",
+                "assetBundleSuffix": "pm0025_00_pikachu_pgo_kariyushi"
+            },
+            {
+                "id": "PIKACHU_POP_STAR",
+                "name": "Pikachu Pop Star",
+                "assetBundleSuffix": "pm0025_00_pgo_popstar"
+            },
+            {
+                "id": "PIKACHU_ROCK_STAR",
+                "name": "Pikachu Rock Star",
+                "assetBundleSuffix": "pm0025_00_pgo_rockstar"
+            },
+            {
+                "id": "PIKACHU_FLYING_5TH_ANNIV",
+                "name": "Pikachu Flying 5th Anniv",
+                "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
+            },
+            {
+                "id": "PIKACHU_WCS_2022",
+                "name": "Pikachu Wcs 2022"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_01",
+                "name": "Pikachu Tshirt 01",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_02",
+                "name": "Pikachu Tshirt 02",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_FLYING_01",
+                "name": "Pikachu Flying 01",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_FLYING_02",
+                "name": "Pikachu Flying 02",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_A",
+                "name": "Pikachu Summer 2023 A"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_B",
+                "name": "Pikachu Summer 2023 B"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_C",
+                "name": "Pikachu Summer 2023 C"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_D",
+                "name": "Pikachu Summer 2023 D"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_E",
+                "name": "Pikachu Summer 2023 E"
+            },
+            {
+                "id": "PIKACHU_JEJU",
+                "name": "Pikachu Jeju"
+            },
+            {
+                "id": "PIKACHU_FLYING_03",
+                "name": "Pikachu Flying 03"
+            },
+            {
+                "id": "PIKACHU_WCS_2023",
+                "name": "Pikachu Wcs 2023"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A",
+                "name": "Pikachu Gotour 2024 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A_02",
+                "name": "Pikachu Gotour 2024 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B",
+                "name": "Pikachu Gotour 2024 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B_02",
+                "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -5417,6 +6025,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -5645,6 +6269,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -5869,6 +6509,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -6093,6 +6749,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -6317,6 +6989,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -6541,6 +7229,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -6765,6 +7469,262 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Horizons",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_SHOULDER",
+            "name": "Shoulder"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.16,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "PIKACHU_HORIZONS",
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
+            },
+            {
+                "id": "PIKACHU_ADVENTURE_HAT_2020",
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
+            },
+            {
+                "id": "PIKACHU_WINTER_2020",
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
+            },
+            {
+                "id": "PIKACHU_KARIYUSHI",
+                "name": "Pikachu Kariyushi",
+                "assetBundleSuffix": "pm0025_00_pikachu_pgo_kariyushi"
+            },
+            {
+                "id": "PIKACHU_POP_STAR",
+                "name": "Pikachu Pop Star",
+                "assetBundleSuffix": "pm0025_00_pgo_popstar"
+            },
+            {
+                "id": "PIKACHU_ROCK_STAR",
+                "name": "Pikachu Rock Star",
+                "assetBundleSuffix": "pm0025_00_pgo_rockstar"
+            },
+            {
+                "id": "PIKACHU_FLYING_5TH_ANNIV",
+                "name": "Pikachu Flying 5th Anniv",
+                "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
+            },
+            {
+                "id": "PIKACHU_WCS_2022",
+                "name": "Pikachu Wcs 2022"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_01",
+                "name": "Pikachu Tshirt 01",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_02",
+                "name": "Pikachu Tshirt 02",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_FLYING_01",
+                "name": "Pikachu Flying 01",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_FLYING_02",
+                "name": "Pikachu Flying 02",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_A",
+                "name": "Pikachu Summer 2023 A"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_B",
+                "name": "Pikachu Summer 2023 B"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_C",
+                "name": "Pikachu Summer 2023 C"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_D",
+                "name": "Pikachu Summer 2023 D"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_E",
+                "name": "Pikachu Summer 2023 E"
+            },
+            {
+                "id": "PIKACHU_JEJU",
+                "name": "Pikachu Jeju"
+            },
+            {
+                "id": "PIKACHU_FLYING_03",
+                "name": "Pikachu Flying 03"
+            },
+            {
+                "id": "PIKACHU_WCS_2023",
+                "name": "Pikachu Wcs 2023"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A",
+                "name": "Pikachu Gotour 2024 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A_02",
+                "name": "Pikachu Gotour 2024 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B",
+                "name": "Pikachu Gotour 2024 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B_02",
+                "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -6989,6 +7949,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -7213,6 +8189,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -7437,6 +8429,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -7661,6 +8669,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -7885,6 +8909,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -8109,6 +9149,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -8333,6 +9389,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -8557,6 +9629,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -8781,6 +9869,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -9005,6 +10109,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -9229,6 +10349,262 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Tshirt 03",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_SHOULDER",
+            "name": "Shoulder"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.16,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "PIKACHU_TSHIRT_03",
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
+            },
+            {
+                "id": "PIKACHU_ADVENTURE_HAT_2020",
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
+            },
+            {
+                "id": "PIKACHU_WINTER_2020",
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
+            },
+            {
+                "id": "PIKACHU_KARIYUSHI",
+                "name": "Pikachu Kariyushi",
+                "assetBundleSuffix": "pm0025_00_pikachu_pgo_kariyushi"
+            },
+            {
+                "id": "PIKACHU_POP_STAR",
+                "name": "Pikachu Pop Star",
+                "assetBundleSuffix": "pm0025_00_pgo_popstar"
+            },
+            {
+                "id": "PIKACHU_ROCK_STAR",
+                "name": "Pikachu Rock Star",
+                "assetBundleSuffix": "pm0025_00_pgo_rockstar"
+            },
+            {
+                "id": "PIKACHU_FLYING_5TH_ANNIV",
+                "name": "Pikachu Flying 5th Anniv",
+                "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
+            },
+            {
+                "id": "PIKACHU_WCS_2022",
+                "name": "Pikachu Wcs 2022"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_01",
+                "name": "Pikachu Tshirt 01",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_02",
+                "name": "Pikachu Tshirt 02",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_FLYING_01",
+                "name": "Pikachu Flying 01",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_FLYING_02",
+                "name": "Pikachu Flying 02",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_A",
+                "name": "Pikachu Summer 2023 A"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_B",
+                "name": "Pikachu Summer 2023 B"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_C",
+                "name": "Pikachu Summer 2023 C"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_D",
+                "name": "Pikachu Summer 2023 D"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_E",
+                "name": "Pikachu Summer 2023 E"
+            },
+            {
+                "id": "PIKACHU_JEJU",
+                "name": "Pikachu Jeju"
+            },
+            {
+                "id": "PIKACHU_FLYING_03",
+                "name": "Pikachu Flying 03"
+            },
+            {
+                "id": "PIKACHU_WCS_2023",
+                "name": "Pikachu Wcs 2023"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A",
+                "name": "Pikachu Gotour 2024 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A_02",
+                "name": "Pikachu Gotour 2024 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B",
+                "name": "Pikachu Gotour 2024 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B_02",
+                "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -9453,6 +10829,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -9677,6 +11069,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -9901,6 +11309,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -10125,6 +11549,22 @@
             {
                 "id": "PIKACHU_GOTOUR_2024_B_02",
                 "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
             }
         ]
     },
@@ -10403,6 +11843,10 @@
             {
                 "name": "Mud Shot Fast",
                 "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -10629,6 +12073,10 @@
             {
                 "name": "Mud Shot Fast",
                 "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -13424,6 +14872,10 @@
             {
                 "name": "Scratch Fast",
                 "id": "SCRATCH_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -13528,6 +14980,10 @@
             {
                 "name": "Metal Claw Fast",
                 "id": "METAL_CLAW_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -13636,6 +15092,10 @@
             {
                 "name": "Mud Slap Fast",
                 "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -13738,6 +15198,10 @@
             {
                 "name": "Mud Slap Fast",
                 "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -17137,6 +18601,10 @@
             {
                 "name": "Mud Slap Fast",
                 "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -17381,6 +18849,10 @@
             {
                 "name": "Mud Slap Fast",
                 "id": "MUD_SLAP_FAST"
+            },
+            {
+                "name": "Mud Shot Fast",
+                "id": "MUD_SHOT_FAST"
             }
         ],
         "family": {
@@ -18794,6 +20266,10 @@
             {
                 "name": "Volt Switch Fast",
                 "id": "VOLT_SWITCH_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -18911,6 +20387,10 @@
             {
                 "name": "Volt Switch Fast",
                 "id": "VOLT_SWITCH_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -23978,6 +25458,10 @@
             {
                 "name": "Ice Beam",
                 "id": "ICE_BEAM"
+            },
+            {
+                "name": "Psybeam",
+                "id": "PSYBEAM"
             }
         ],
         "quickMoves": [
@@ -24081,6 +25565,10 @@
             {
                 "name": "Magical Leaf Fast",
                 "id": "MAGICAL_LEAF_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -28976,6 +30464,10 @@
             {
                 "name": "Ice Fang Fast",
                 "id": "ICE_FANG_FAST"
+            },
+            {
+                "name": "Shadow Claw Fast",
+                "id": "SHADOW_CLAW_FAST"
             }
         ],
         "family": {
@@ -33390,6 +34882,10 @@
             {
                 "name": "Hex Fast",
                 "id": "HEX_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -35134,7 +36630,9 @@
             "diskRadius": 0.555,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "HERACROSS",
         "forms": []
     },
@@ -40946,6 +42444,10 @@
             {
                 "name": "Rock Smash Fast",
                 "id": "ROCK_SMASH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -41177,6 +42679,10 @@
             {
                 "name": "Tackle Fast",
                 "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -42986,6 +44492,10 @@
             {
                 "name": "Triple Axel",
                 "id": "TRIPLE_AXEL"
+            },
+            {
+                "name": "Draining Kiss",
+                "id": "DRAINING_KISS"
             }
         ],
         "quickMoves": [
@@ -47852,6 +49362,10 @@
             {
                 "name": "Struggle Bug Fast",
                 "id": "STRUGGLE_BUG_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -47969,6 +49483,10 @@
             {
                 "name": "Dragon Breath Fast",
                 "id": "DRAGON_BREATH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -48092,6 +49610,10 @@
             {
                 "name": "Dragon Tail Fast",
                 "id": "DRAGON_TAIL_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -48213,6 +49735,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -48325,6 +49851,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -48799,6 +50329,10 @@
             {
                 "name": "Confusion Fast",
                 "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -48888,6 +50422,10 @@
             {
                 "name": "Confusion Fast",
                 "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -49581,6 +51119,10 @@
             {
                 "name": "Infestation Fast",
                 "id": "INFESTATION_FAST"
+            },
+            {
+                "name": "Bullet Seed Fast",
+                "id": "BULLET_SEED_FAST"
             }
         ],
         "family": {
@@ -55559,6 +57101,10 @@
             {
                 "name": "Metal Claw Fast",
                 "id": "METAL_CLAW_FAST"
+            },
+            {
+                "name": "Steel Wing Fast",
+                "id": "STEEL_WING_FAST"
             }
         ],
         "family": {
@@ -55652,6 +57198,10 @@
             {
                 "name": "Quick Attack Fast",
                 "id": "QUICK_ATTACK_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -55773,6 +57323,10 @@
             {
                 "name": "Quick Attack Fast",
                 "id": "QUICK_ATTACK_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -55892,6 +57446,10 @@
             {
                 "name": "Quick Attack Fast",
                 "id": "QUICK_ATTACK_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -57983,6 +59541,10 @@
             {
                 "name": "Bug Bite Fast",
                 "id": "BUG_BITE_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -59508,6 +61070,10 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -59620,6 +61186,10 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
             }
         ],
         "quickMoves": [
@@ -60230,6 +61800,10 @@
             {
                 "name": "Magical Leaf Fast",
                 "id": "MAGICAL_LEAF_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -61038,6 +62612,10 @@
             {
                 "name": "Confusion Fast",
                 "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -62222,6 +63800,10 @@
             {
                 "name": "Bite Fast",
                 "id": "BITE_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -62343,6 +63925,10 @@
             {
                 "name": "Ice Fang Fast",
                 "id": "ICE_FANG_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -63587,6 +65173,10 @@
             {
                 "name": "Volt Switch Fast",
                 "id": "VOLT_SWITCH_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -64876,9 +66466,9 @@
         "encounter": {
             "attackProbability": 0.2,
             "attackTimer": 29,
-            "cameraDistance": 3,
+            "cameraDistance": 4,
             "collisionRadius": 0.12,
-            "dodgeDistance": 1,
+            "dodgeDistance": 0.75,
             "dodgeProbability": 0.3,
             "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
@@ -64973,6 +66563,10 @@
             {
                 "name": "Charm Fast",
                 "id": "CHARM_FAST"
+            },
+            {
+                "name": "Psycho Cut Fast",
+                "id": "PSYCHO_CUT_FAST"
             }
         ],
         "family": {
@@ -66462,10 +68056,10 @@
             0.8667,
             0
         ],
-        "height": 5.4,
+        "height": 7,
         "modelHeight": 3.75,
         "kmBuddyDistance": 20,
-        "weight": 683,
+        "weight": 850,
         "modelScale": 1.26,
         "maxCP": 4090,
         "buddySize": {
@@ -66674,10 +68268,10 @@
             0.8667,
             0
         ],
-        "height": 4.2,
+        "height": 6.3,
         "modelHeight": 3.61,
         "kmBuddyDistance": 20,
-        "weight": 336,
+        "weight": 660,
         "modelScale": 1.26,
         "maxCP": 4142,
         "buddySize": {
@@ -72460,6 +74054,10 @@
             {
                 "name": "Take Down Fast",
                 "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -72551,6 +74149,10 @@
             {
                 "name": "Take Down Fast",
                 "id": "TAKE_DOWN_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -72646,6 +74248,10 @@
             {
                 "name": "Ice Fang Fast",
                 "id": "ICE_FANG_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -75394,6 +77000,10 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -75483,6 +77093,10 @@
             {
                 "name": "Body Slam",
                 "id": "BODY_SLAM"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -77128,6 +78742,10 @@
             {
                 "name": "Outrage",
                 "id": "OUTRAGE"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -83519,6 +85137,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -83606,6 +85228,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -83697,6 +85323,10 @@
             {
                 "name": "Charge Beam Fast",
                 "id": "CHARGE_BEAM_FAST"
+            },
+            {
+                "name": "Metal Sound Fast",
+                "id": "METAL_SOUND_FAST"
             }
         ],
         "family": {
@@ -106025,6 +107655,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -106164,6 +107798,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -106303,6 +107941,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -106442,6 +108084,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -106581,6 +108227,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -106720,6 +108370,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -106859,6 +108513,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -106998,6 +108656,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -107137,6 +108799,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -107276,6 +108942,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -107415,6 +109085,10 @@
             {
                 "name": "Sucker Punch Fast",
                 "id": "SUCKER_PUNCH_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -108444,6 +110118,10 @@
             {
                 "name": "Tackle Fast",
                 "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -108538,6 +110216,10 @@
             {
                 "name": "Psycho Cut Fast",
                 "id": "PSYCHO_CUT_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -110271,6 +111953,10 @@
             {
                 "name": "Power Whip",
                 "id": "POWER_WHIP"
+            },
+            {
+                "name": "Aqua Tail",
+                "id": "AQUA_TAIL"
             }
         ],
         "quickMoves": [
@@ -114288,6 +115974,10 @@
             {
                 "name": "Blaze Kick",
                 "id": "BLAZE_KICK"
+            },
+            {
+                "name": "Darkest Lariat",
+                "id": "DARKEST_LARIAT"
             }
         ],
         "quickMoves": [
@@ -115238,6 +116928,10 @@
             {
                 "name": "Payback",
                 "id": "PAYBACK"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -115318,6 +117012,10 @@
             {
                 "name": "Ice Punch",
                 "id": "ICE_PUNCH"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -117263,6 +118961,10 @@
             {
                 "name": "Mirror Coat",
                 "id": "MIRROR_COAT"
+            },
+            {
+                "name": "Water Pulse",
+                "id": "WATER_PULSE"
             }
         ],
         "quickMoves": [
@@ -118632,6 +120334,10 @@
             {
                 "name": "Mud Shot Fast",
                 "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -118715,6 +120421,10 @@
             {
                 "name": "Mud Shot Fast",
                 "id": "MUD_SHOT_FAST"
+            },
+            {
+                "name": "Sand Attack Fast",
+                "id": "SAND_ATTACK_FAST"
             }
         ],
         "family": {
@@ -123628,6 +125338,10 @@
             {
                 "name": "Boomburst",
                 "id": "BOOMBURST"
+            },
+            {
+                "name": "Brick Break",
+                "id": "BRICK_BREAK"
             }
         ],
         "quickMoves": [
@@ -125409,7 +127123,7 @@
         "dex": 803,
         "name": "Poipole",
         "height": 0.6,
-        "modelHeight": 1,
+        "modelHeight": 0.6,
         "kmBuddyDistance": 20,
         "weight": 1.8,
         "maxCP": 1640,
@@ -125462,20 +127176,19 @@
         },
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 2.5,
+            "collisionRadius": 0.3,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
             }
         },
         "camera": {},
-        "evolution": {
-            "futureBranches": []
-        },
+        "evolution": {},
         "id": "POIPOLE",
         "forms": []
     },
@@ -125483,13 +127196,13 @@
         "dex": 804,
         "name": "Naganadel",
         "height": 3.6,
-        "modelHeight": 1,
+        "modelHeight": 3.5,
         "kmBuddyDistance": 20,
         "weight": 150,
         "maxCP": 3173,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {
@@ -125545,13 +127258,14 @@
         "encounter": {
             "attackProbability": 0.1,
             "cameraDistance": 4,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Flying",
+                "id": "MOVEMENT_FLYING"
             }
         },
         "camera": {},
@@ -135173,6 +136887,333 @@
         "forms": []
     },
     {
+        "dex": 905,
+        "name": "Enamorus",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 1.6,
+        "modelHeight": 2,
+        "kmBuddyDistance": 20,
+        "weight": 48,
+        "maxCP": 3425,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ENAMORUS",
+            "name": "Enamorus"
+        },
+        "stats": {
+            "baseAttack": 281,
+            "baseDefense": 162,
+            "baseStamina": 179
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "cameraDistance": 6,
+            "collisionRadius": 0.4,
+            "dodgeDistance": 0.7,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "ENAMORUS",
+        "forms": [
+            {
+                "id": "ENAMORUS_INCARNATE",
+                "name": "Enamorus Incarnate"
+            },
+            {
+                "id": "ENAMORUS_THERIAN",
+                "name": "Enamorus Therian"
+            }
+        ]
+    },
+    {
+        "dex": 905,
+        "name": "Enamorus Incarnate",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 1.6,
+        "modelHeight": 2,
+        "kmBuddyDistance": 20,
+        "weight": 48,
+        "maxCP": 3425,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ENAMORUS",
+            "name": "Enamorus"
+        },
+        "stats": {
+            "baseAttack": 281,
+            "baseDefense": 162,
+            "baseStamina": 179
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "cameraDistance": 6,
+            "collisionRadius": 0.4,
+            "dodgeDistance": 0.7,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "ENAMORUS_INCARNATE",
+        "forms": [
+            {
+                "id": "ENAMORUS_INCARNATE",
+                "name": "Enamorus Incarnate"
+            },
+            {
+                "id": "ENAMORUS_THERIAN",
+                "name": "Enamorus Therian"
+            }
+        ]
+    },
+    {
+        "dex": 905,
+        "name": "Enamorus Therian",
+        "animationTime": [
+            1.9,
+            0.6667,
+            1.8,
+            1.7667,
+            0,
+            2.4,
+            0.8667,
+            0
+        ],
+        "height": 1.6,
+        "modelHeight": 2,
+        "kmBuddyDistance": 20,
+        "weight": 48,
+        "maxCP": 3388,
+        "buddySize": {
+            "id": "BUDDY_MEDIUM",
+            "name": "Medium"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
+            },
+            {
+                "name": "Fly",
+                "id": "FLY"
+            },
+            {
+                "name": "Grass Knot",
+                "id": "GRASS_KNOT"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Astonish Fast",
+                "id": "ASTONISH_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Fairy Wind Fast",
+                "id": "FAIRY_WIND_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_ENAMORUS",
+            "name": "Enamorus"
+        },
+        "stats": {
+            "baseAttack": 250,
+            "baseDefense": 201,
+            "baseStamina": 179
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FAIRY",
+                "name": "Fairy"
+            },
+            {
+                "id": "POKEMON_TYPE_FLYING",
+                "name": "Flying"
+            }
+        ],
+        "pokemonClass": {
+            "id": "POKEMON_CLASS_LEGENDARY",
+            "name": "Pokemon Class Legendary"
+        },
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "cameraDistance": 6,
+            "collisionRadius": 0.4,
+            "dodgeDistance": 0.7,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
+            },
+            "gender": {
+                "malePercent": 0,
+                "femalePercent": 1
+            }
+        },
+        "camera": {
+            "diskRadius": 0.378,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "ENAMORUS_THERIAN",
+        "forms": [
+            {
+                "id": "ENAMORUS_INCARNATE",
+                "name": "Enamorus Incarnate"
+            },
+            {
+                "id": "ENAMORUS_THERIAN",
+                "name": "Enamorus Therian"
+            }
+        ]
+    },
+    {
         "dex": 906,
         "name": "Sprigatito",
         "height": 0.4,
@@ -138103,6 +140144,7 @@
         "dex": 935,
         "name": "Charcadet",
         "height": 0.6,
+        "modelHeight": 0.6,
         "kmBuddyDistance": 5,
         "weight": 10.5,
         "maxCP": 732,
@@ -138151,6 +140193,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 4,
+            "collisionRadius": 0.15,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
@@ -138175,12 +140219,13 @@
         "dex": 936,
         "name": "Armarouge",
         "height": 1.5,
+        "modelHeight": 1.5,
         "kmBuddyDistance": 5,
         "weight": 85,
         "maxCP": 3209,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -138231,6 +140276,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 5,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
@@ -138253,12 +140300,13 @@
         "dex": 937,
         "name": "Ceruledge",
         "height": 1.6,
+        "modelHeight": 1.6,
         "kmBuddyDistance": 5,
         "weight": 62,
         "maxCP": 3172,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -138309,6 +140357,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 5,
+            "collisionRadius": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
@@ -139960,6 +142010,7 @@
         "dex": 960,
         "name": "Wiglett",
         "height": 1.2,
+        "modelHeight": 1.2,
         "kmBuddyDistance": 3,
         "weight": 1.8,
         "maxCP": 574,
@@ -140008,6 +142059,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 5,
+            "collisionRadius": 0.25,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
@@ -140029,6 +142082,7 @@
         "dex": 961,
         "name": "Wugtrio",
         "height": 1.2,
+        "modelHeight": 1.1,
         "kmBuddyDistance": 3,
         "weight": 5.4,
         "maxCP": 1895,
@@ -140077,6 +142131,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 5,
+            "collisionRadius": 0.25,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,

@@ -199,6 +199,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Giratinaitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_giratinaitems_0",
+        "iconName": "f_backpack_giratinaitems_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Guccibackpack",
         "gender": "Female",
         "enabled": true,
@@ -979,7 +990,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Seasonal"
+        "category": "Glasses"
     },
     {
         "name": "Glasses Divingsuit",
@@ -997,6 +1008,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_glasses_drpikachu_0",
+        "unlockBadgeLevel": 1,
         "iconName": "f_glasses_drpikachu_00_bundle_icon",
         "slot": [
             "Glasses"
@@ -1056,7 +1068,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Glasses"
+        "category": "Seasonal"
     },
     {
         "name": "Glasses Grandoakglasses",
@@ -1645,7 +1657,7 @@
         "slot": [
             "Gloves"
         ],
-        "category": "Gloves"
+        "category": "Seasonal"
     },
     {
         "name": "Gloves Teamspark",
@@ -2236,6 +2248,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "f_hat_drpikachu_0",
+        "unlockBadgeLevel": 10,
         "iconName": "f_hat_drpikachu_00_bundle_icon",
         "slot": [
             "Hat"
@@ -2409,6 +2422,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Giratinaitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_giratinaitems_0",
+        "iconName": "f_hat_giratinaitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Gladion",
         "gender": "Female",
         "enabled": true,
@@ -2458,6 +2482,28 @@
         "enabled": true,
         "id": "f_hat_growlithehelmet_0",
         "iconName": "f_hat_growlithehelmet_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Gtr2024eeveefanmask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_gtr2024eeveefanmask_0",
+        "iconName": "f_hat_gtr2024eeveefanmask_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Gtr2024pikachufanmask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_gtr2024pikachufanmask_0",
+        "iconName": "f_hat_gtr2024pikachufanmask_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -2619,6 +2665,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Lasecuritycorps",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_lasecuritycorps_0",
+        "iconName": "f_hat_lasecuritycorps_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Legendofarceus",
         "gender": "Female",
         "enabled": true,
@@ -2738,7 +2795,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Mimikyu 0",
@@ -3011,6 +3068,17 @@
         "enabled": true,
         "id": "f_hat_pkmncap_2",
         "iconName": "f_hat_pkmncap_2_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Poipole",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_poipole_0",
+        "iconName": "f_hat_poipole_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -3311,7 +3379,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Teamrocketcap",
@@ -3322,7 +3390,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Teamskull",
@@ -3915,6 +3983,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Hala",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_pants_hala_0",
+        "iconName": "f_pants_hala_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Hgss 0",
         "gender": "Female",
         "enabled": true,
@@ -3990,7 +4069,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Miniskirt 0",
@@ -4464,7 +4543,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Teamskull",
@@ -5153,6 +5232,7 @@
         "gender": "Female",
         "enabled": true,
         "id": "pose_57",
+        "unlockBadgeLevel": 50,
         "iconName": "pose_57",
         "slot": [
             "Pose"
@@ -5198,6 +5278,17 @@
         "enabled": true,
         "id": "pose_61",
         "iconName": "pose_61",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 62",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_62",
+        "iconName": "pose_62",
         "slot": [
             "Pose"
         ],
@@ -5778,6 +5869,61 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Eeveestshirt 04",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_eeveestshirt_04",
+        "iconName": "f_shirt_eeveestshirt_04_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 05",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_eeveestshirt_05",
+        "iconName": "f_shirt_eeveestshirt_05_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 06",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_eeveestshirt_06",
+        "iconName": "f_shirt_eeveestshirt_06_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 07",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_eeveestshirt_07",
+        "iconName": "f_shirt_eeveestshirt_07_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 08",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_eeveestshirt_08",
+        "iconName": "f_shirt_eeveestshirt_08_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Elesa",
         "gender": "Female",
         "enabled": true,
@@ -5878,6 +6024,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Galaxyoutfit",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_galaxyoutfit_0",
+        "iconName": "f_shirt_galaxyoutfit_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Geeta",
         "gender": "Female",
         "enabled": true,
@@ -5934,6 +6091,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Giratinaitems",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_giratinaitems_0",
+        "iconName": "f_shirt_giratinaitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Gladion",
         "gender": "Female",
         "enabled": true,
@@ -5961,6 +6129,17 @@
         "enabled": true,
         "id": "f_shirt_gofest2023_0",
         "iconName": "f_shirt_gofest2023_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest2024gray",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gofest2024gray_0",
+        "iconName": "f_shirt_gofest2024gray_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6019,7 +6198,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Goteamrocketcliff",
@@ -6030,7 +6209,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Goteamrocketsierra",
@@ -6041,7 +6220,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Gothitelleitems",
@@ -6190,6 +6369,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Hala",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_hala_0",
+        "iconName": "f_shirt_hala_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Happi",
         "gender": "Female",
         "enabled": true,
@@ -6331,7 +6521,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Jirachi",
@@ -6361,6 +6551,39 @@
         "enabled": true,
         "id": "f_shirt_korrina_0",
         "iconName": "f_shirt_korrina_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ladiamondoutfit",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_ladiamondoutfit_0",
+        "iconName": "f_shirt_ladiamondoutfit_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Lapearloutfit",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_lapearloutfit_0",
+        "iconName": "f_shirt_lapearloutfit_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Lasecuritycorps",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_lasecuritycorps_0",
+        "iconName": "f_shirt_lasecuritycorps_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6520,7 +6743,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Misty",
@@ -6542,7 +6765,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Munnapack",
@@ -8418,6 +8641,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Hala",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_hala_0",
+        "iconName": "f_shoes_hala_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Hgss 0",
         "gender": "Female",
         "enabled": true,
@@ -8446,6 +8680,28 @@
         "enabled": true,
         "id": "f_shoes_korrina_0",
         "iconName": "f_shoes_korrina_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Ladiamondoutfit",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_ladiamondoutfit_0",
+        "iconName": "f_shoes_ladiamondoutfit_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Lapearloutfit",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_lapearloutfit_0",
+        "iconName": "f_shoes_lapearloutfit_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -8559,7 +8815,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Misty",
@@ -8967,7 +9223,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Teamrocket 1",
@@ -8978,7 +9234,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Teamskull",
@@ -9599,6 +9855,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Giratinaitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_giratinaitems_0",
+        "iconName": "m_backpack_giratinaitems_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Guccibackpack",
         "gender": "Male",
         "enabled": true,
@@ -10191,7 +10458,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Seasonal"
+        "category": "Glasses"
     },
     {
         "name": "Glasses Divingsuit",
@@ -10209,6 +10476,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_glasses_drpikachu_0",
+        "unlockBadgeLevel": 1,
         "iconName": "m_glasses_drpikachu_00_bundle_icon",
         "slot": [
             "Glasses"
@@ -10268,7 +10536,7 @@
         "slot": [
             "Glasses"
         ],
-        "category": "Glasses"
+        "category": "Seasonal"
     },
     {
         "name": "Glasses Grandoakglasses",
@@ -10869,7 +11137,7 @@
         "slot": [
             "Gloves"
         ],
-        "category": "Gloves"
+        "category": "Seasonal"
     },
     {
         "name": "Gloves Teamspark",
@@ -11438,6 +11706,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "m_hat_drpikachu_0",
+        "unlockBadgeLevel": 10,
         "iconName": "m_hat_drpikachu_00_bundle_icon",
         "slot": [
             "Hat"
@@ -11623,6 +11892,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Giratinaitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_giratinaitems_0",
+        "iconName": "m_hat_giratinaitems_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Gladion",
         "gender": "Male",
         "enabled": true,
@@ -11672,6 +11952,28 @@
         "enabled": true,
         "id": "m_hat_growlithehelmet_0",
         "iconName": "m_hat_growlithehelmet_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Gtr2024eeveefanmask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_gtr2024eeveefanmask_0",
+        "iconName": "m_hat_gtr2024eeveefanmask_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Gtr2024pikachufanmask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_gtr2024pikachufanmask_0",
+        "iconName": "m_hat_gtr2024pikachufanmask_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -11823,6 +12125,17 @@
         "category": "Hat"
     },
     {
+        "name": "Hat Lasecuritycorps",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_lasecuritycorps_0",
+        "iconName": "m_hat_lasecuritycorps_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
         "name": "Hat Legendofarceus",
         "gender": "Male",
         "enabled": true,
@@ -11931,7 +12244,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Mimikyu 0",
@@ -12204,6 +12517,17 @@
         "enabled": true,
         "id": "m_hat_pkmncap_2",
         "iconName": "m_hat_pkmncap_2_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Poipole",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_poipole_0",
+        "iconName": "m_hat_poipole_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -12515,7 +12839,7 @@
         "slot": [
             "Hat"
         ],
-        "category": "Hat"
+        "category": "Seasonal"
     },
     {
         "name": "Hat Teamskull",
@@ -13032,6 +13356,17 @@
         "category": "Pants"
     },
     {
+        "name": "Pants Hala",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_pants_hala_0",
+        "iconName": "m_pants_hala_00_bundle_icon",
+        "slot": [
+            "Pants"
+        ],
+        "category": "Pants"
+    },
+    {
         "name": "Pants Hgss 0",
         "gender": "Male",
         "enabled": true,
@@ -13130,7 +13465,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Munnapack",
@@ -13505,7 +13840,7 @@
         "slot": [
             "Pants"
         ],
-        "category": "Pants"
+        "category": "Seasonal"
     },
     {
         "name": "Pants Teamskull",
@@ -14162,6 +14497,7 @@
         "gender": "Male",
         "enabled": true,
         "id": "pose_57",
+        "unlockBadgeLevel": 50,
         "iconName": "pose_57",
         "slot": [
             "Pose"
@@ -14207,6 +14543,17 @@
         "enabled": true,
         "id": "pose_61",
         "iconName": "pose_61",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 62",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_62",
+        "iconName": "pose_62",
         "slot": [
             "Pose"
         ],
@@ -14787,6 +15134,61 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Eeveestshirt 04",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_eeveestshirt_04",
+        "iconName": "m_shirt_eeveestshirt_04_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 05",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_eeveestshirt_05",
+        "iconName": "m_shirt_eeveestshirt_05_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 06",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_eeveestshirt_06",
+        "iconName": "m_shirt_eeveestshirt_06_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 07",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_eeveestshirt_07",
+        "iconName": "m_shirt_eeveestshirt_07_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Eeveestshirt 08",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_eeveestshirt_08",
+        "iconName": "m_shirt_eeveestshirt_08_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Elesa",
         "gender": "Male",
         "enabled": true,
@@ -14899,6 +15301,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Galaxyoutfit",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_galaxyoutfit_0",
+        "iconName": "m_shirt_galaxyoutfit_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Geeta",
         "gender": "Male",
         "enabled": true,
@@ -14955,6 +15368,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Giratinaitems",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_giratinaitems_0",
+        "iconName": "m_shirt_giratinaitems_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Gladion",
         "gender": "Male",
         "enabled": true,
@@ -14982,6 +15406,17 @@
         "enabled": true,
         "id": "m_shirt_gofest2023_0",
         "iconName": "m_shirt_gofest2023_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest2024gray",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gofest2024gray_0",
+        "iconName": "m_shirt_gofest2024gray_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -15040,7 +15475,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Goteamrocketcliff",
@@ -15051,7 +15486,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Goteamrocketsierra",
@@ -15062,7 +15497,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Gothitelleitems",
@@ -15211,6 +15646,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Hala",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_hala_0",
+        "iconName": "m_shirt_hala_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Happi",
         "gender": "Male",
         "enabled": true,
@@ -15352,7 +15798,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Jirachi",
@@ -15394,6 +15840,39 @@
         "enabled": true,
         "id": "m_shirt_korrina_0",
         "iconName": "m_shirt_korrina_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Ladiamondoutfit",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_ladiamondoutfit_0",
+        "iconName": "m_shirt_ladiamondoutfit_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Lapearloutfit",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_lapearloutfit_0",
+        "iconName": "m_shirt_lapearloutfit_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Lasecuritycorps",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_lasecuritycorps_0",
+        "iconName": "m_shirt_lasecuritycorps_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -15619,7 +16098,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Movie2020jessiejames",
@@ -15630,7 +16109,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Munnapack",
@@ -16577,7 +17056,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Teamrocket 1",
@@ -16588,7 +17067,7 @@
         "slot": [
             "Shirt"
         ],
-        "category": "Shirt"
+        "category": "Seasonal"
     },
     {
         "name": "Shirt Teamskull",
@@ -17441,6 +17920,17 @@
         "category": "Shoes"
     },
     {
+        "name": "Shoes Hala",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_hala_0",
+        "iconName": "m_shoes_hala_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
         "name": "Shoes Hgss 0",
         "gender": "Male",
         "enabled": true,
@@ -17481,6 +17971,28 @@
         "enabled": true,
         "id": "m_shoes_korrina_0",
         "iconName": "m_shoes_korrina_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Ladiamondoutfit",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_ladiamondoutfit_0",
+        "iconName": "m_shoes_ladiamondoutfit_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Lapearloutfit",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_lapearloutfit_0",
+        "iconName": "m_shoes_lapearloutfit_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -17594,7 +18106,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Newyear2022",
@@ -17991,7 +18503,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Teamrocket 1",
@@ -18002,7 +18514,7 @@
         "slot": [
             "Shoes"
         ],
-        "category": "Shoes"
+        "category": "Seasonal"
     },
     {
         "name": "Shoes Teamskull",

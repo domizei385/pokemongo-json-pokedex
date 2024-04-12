@@ -87,6 +87,102 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "EVENT_TICKET_05",
+        "name": "Event Ticket 05",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_05_TO_GIFT",
+        "name": "Event Ticket 05 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_06",
+        "name": "Event Ticket 06",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_06_TO_GIFT",
+        "name": "Event Ticket 06 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_09",
+        "name": "Event Ticket 09",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_09_TO_GIFT",
+        "name": "Event Ticket 09 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_10",
+        "name": "Event Ticket 10",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_10_TO_GIFT",
+        "name": "Event Ticket 10 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "EVENT_TICKET_GRAY",
         "name": "Event Ticket Gray",
         "category": {
