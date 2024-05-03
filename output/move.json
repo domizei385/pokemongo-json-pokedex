@@ -5972,5 +5972,45 @@
         },
         "name": "Sand Attack Fast",
         "internalId": 403
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 1,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "sunsteel_strike",
+        "durationMs": 3100,
+        "damageWindowStartMs": 2300,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -45,
+        "id": 404,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
+        "name": "Sunsteel Strike",
+        "internalId": 404
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 4,
+        "power": 1,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "moongeist_beam",
+        "durationMs": 3100,
+        "damageWindowStartMs": 2300,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -100,
+        "id": 405,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GHOST",
+            "name": "Ghost"
+        },
+        "name": "Moongeist Beam",
+        "internalId": 405
     }
 ]

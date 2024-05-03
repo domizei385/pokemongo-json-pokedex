@@ -459,6 +459,32 @@
         "dropTrainerLevel": 6
     },
     {
+        "id": "INCENSE_DAY_BONUS",
+        "name": "Incense Day Bonus",
+        "category": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "type": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "dropTrainerLevel": 1
+    },
+    {
+        "id": "INCENSE_NIGHT_BONUS",
+        "name": "Incense Night Bonus",
+        "category": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "type": {
+            "name": "Incense",
+            "id": "INCENSE"
+        },
+        "dropTrainerLevel": 1
+    },
+    {
         "id": "INCENSE_ORDINARY",
         "name": "Incense Ordinary",
         "category": {

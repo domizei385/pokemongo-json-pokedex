@@ -47,6 +47,8 @@
     },
     "INCENSE_BELUGA_BOX": {},
     "INCENSE_DAILY_ADVENTURE": {},
+    "INCENSE_DAY_BONUS": {},
+    "INCENSE_NIGHT_BONUS": {},
     "INCENSE_ORDINARY": {
         "name": "Incenso",
         "description": "Incenso de fragrância misteriosa que atrai Pokémon selvagens até você por 30 minutos."

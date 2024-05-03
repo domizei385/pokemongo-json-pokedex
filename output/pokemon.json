@@ -69483,6 +69483,10 @@
             {
                 "name": "Zen Headbutt Fast",
                 "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Magical Leaf Fast",
+                "id": "MAGICAL_LEAF_FAST"
             }
         ],
         "family": {
@@ -126593,7 +126597,7 @@
         "dex": 800,
         "name": "Necrozma",
         "height": 2.4,
-        "modelHeight": 1,
+        "modelHeight": 2.59,
         "kmBuddyDistance": 20,
         "weight": 230,
         "maxCP": 3682,
@@ -126603,14 +126607,26 @@
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Psycho Cut Fast",
+                "id": "PSYCHO_CUT_FAST"
             }
         ],
         "family": {
@@ -126634,7 +126650,8 @@
         },
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 6,
+            "collisionRadius": 0.8,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "maxPokemonActionFrequency": 1.6,
@@ -126670,24 +126687,36 @@
         "dex": 800,
         "name": "Necrozma Dawn Wings",
         "height": 4.2,
-        "modelHeight": 1,
+        "modelHeight": 5.3,
         "kmBuddyDistance": 20,
         "weight": 350,
         "maxCP": 4099,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Psycho Cut Fast",
+                "id": "PSYCHO_CUT_FAST"
             }
         ],
         "family": {
@@ -126715,7 +126744,8 @@
         },
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 6,
+            "collisionRadius": 4,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "maxPokemonActionFrequency": 1.6,
@@ -126751,24 +126781,36 @@
         "dex": 800,
         "name": "Necrozma Dusk Mane",
         "height": 3.8,
-        "modelHeight": 1,
+        "modelHeight": 3.7,
         "kmBuddyDistance": 20,
         "weight": 460,
         "maxCP": 4099,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Power Gem",
+                "id": "POWER_GEM"
+            },
+            {
+                "name": "Night Slash",
+                "id": "NIGHT_SLASH"
             }
         ],
         "quickMoves": [
             {
-                "name": "Struggle",
-                "id": "STRUGGLE"
+                "name": "Confusion Fast",
+                "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Psycho Cut Fast",
+                "id": "PSYCHO_CUT_FAST"
             }
         ],
         "family": {
@@ -126796,7 +126838,8 @@
         },
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 6,
+            "collisionRadius": 3.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "maxPokemonActionFrequency": 1.6,
@@ -127277,13 +127320,13 @@
         "dex": 805,
         "name": "Stakataka",
         "height": 5.5,
-        "modelHeight": 1,
+        "modelHeight": 12,
         "kmBuddyDistance": 20,
         "weight": 820,
         "maxCP": 3294,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -127334,9 +127377,11 @@
         },
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 7,
+            "collisionRadius": 0.5,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.95,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -142082,7 +142127,7 @@
         "dex": 961,
         "name": "Wugtrio",
         "height": 1.2,
-        "modelHeight": 1.1,
+        "modelHeight": 1.7,
         "kmBuddyDistance": 3,
         "weight": 5.4,
         "maxCP": 1895,

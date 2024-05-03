@@ -47,6 +47,8 @@
     },
     "INCENSE_BELUGA_BOX": {},
     "INCENSE_DAILY_ADVENTURE": {},
+    "INCENSE_DAY_BONUS": {},
+    "INCENSE_NIGHT_BONUS": {},
     "INCENSE_ORDINARY": {
         "name": "향로",
         "description": "이상한 향기의 향로. 30분 향기를 피워 야생 포켓몬을 불러냅니다."

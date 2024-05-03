@@ -47,6 +47,8 @@
     },
     "INCENSE_BELUGA_BOX": {},
     "INCENSE_DAILY_ADVENTURE": {},
+    "INCENSE_DAY_BONUS": {},
+    "INCENSE_NIGHT_BONUS": {},
     "INCENSE_ORDINARY": {
         "name": "Encens",
         "description": "Une senteur qui attire les Pokémon vers toi pendant 30 minutes."

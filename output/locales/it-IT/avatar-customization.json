@@ -4,6 +4,8 @@
     "f_backpack_alolaitemsrowletbp_0": {},
     "f_backpack_animegou_0": {},
     "f_backpack_backpacker_0": {},
+    "f_backpack_combeebackpack_0": {},
+    "f_backpack_combeebackpack_1": {},
     "f_backpack_cute_0": {
         "name": "Zainetto con fiocco"
     },
@@ -267,6 +269,9 @@
     "f_hat_bea_0": {},
     "f_hat_bidoofhat_0": {},
     "f_hat_bounsweetitems_0": {},
+    "f_hat_burmyearrings11_0": {},
+    "f_hat_burmyearrings12_0": {},
+    "f_hat_burmyearrings13_0": {},
     "f_hat_bwn_0": {},
     "f_hat_casket_0": {
         "name": "Berretto"
@@ -275,6 +280,8 @@
     "f_hat_clay_0": {},
     "f_hat_cofagrigusitems_0": {},
     "f_hat_cosmog_0": {},
+    "f_hat_crownmoon_0": {},
+    "f_hat_crownsun_0": {},
     "f_hat_cubonehat_0": {},
     "f_hat_darumakahat_0": {},
     "f_hat_dedenneitems_0": {},
@@ -1211,6 +1218,8 @@
     "m_backpack_alolaitemsrowletbp_0": {},
     "m_backpack_animegou_0": {},
     "m_backpack_backpacker_0": {},
+    "m_backpack_combeebackpack_0": {},
+    "m_backpack_combeebackpack_1": {},
     "m_backpack_dedenneitems_0": {},
     "m_backpack_default_0": {
         "name": "Zainetto Allenatore"
@@ -1430,6 +1439,9 @@
     "m_hat_bea_0": {},
     "m_hat_bidoofhat_0": {},
     "m_hat_bounsweetitems_0": {},
+    "m_hat_burmyearrings11_0": {},
+    "m_hat_burmyearrings12_0": {},
+    "m_hat_burmyearrings13_0": {},
     "m_hat_bwn_0": {},
     "m_hat_casket_0": {
         "name": "Berretto"
@@ -1438,6 +1450,8 @@
     "m_hat_clay_0": {},
     "m_hat_cofagrigusitems_0": {},
     "m_hat_cosmog_0": {},
+    "m_hat_crownmoon_0": {},
+    "m_hat_crownsun_0": {},
     "m_hat_cubonehat_0": {},
     "m_hat_darumakahat_0": {},
     "m_hat_dedenneitems_0": {},
