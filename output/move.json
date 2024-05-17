@@ -5976,7 +5976,7 @@
     {
         "accuracyChance": 1,
         "animationId": 4,
-        "power": 1,
+        "power": 230,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -5984,8 +5984,8 @@
         "durationMs": 3100,
         "damageWindowStartMs": 2300,
         "damageWindowEndMs": 3100,
-        "energyDelta": -45,
-        "id": 404,
+        "energyDelta": -100,
+        "id": "SUNSTEEL_STRIKE",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
             "name": "Steel"
@@ -5996,7 +5996,7 @@
     {
         "accuracyChance": 1,
         "animationId": 4,
-        "power": 1,
+        "power": 230,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -6005,12 +6005,32 @@
         "damageWindowStartMs": 2300,
         "damageWindowEndMs": 3100,
         "energyDelta": -100,
-        "id": 405,
+        "id": "MOONGEIST_BEAM",
         "pokemonType": {
             "id": "POKEMON_TYPE_GHOST",
             "name": "Ghost"
         },
         "name": "Moongeist Beam",
         "internalId": 405
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 90,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "high_jump_kick",
+        "durationMs": 1500,
+        "damageWindowStartMs": 450,
+        "damageWindowEndMs": 800,
+        "energyDelta": -100,
+        "id": "HIGH_JUMP_KICK",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIGHTING",
+            "name": "Fighting"
+        },
+        "name": "High Jump Kick",
+        "internalId": 408
     }
 ]
