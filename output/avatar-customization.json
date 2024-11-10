@@ -288,6 +288,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Komala",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_komala_0",
+        "iconName": "f_backpack_komala_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Longchampbp",
         "gender": "Female",
         "enabled": true,
@@ -337,6 +348,17 @@
         "enabled": true,
         "id": "f_backpack_movie2020_0",
         "iconName": "f_backpack_movie2020_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Naganadelawings",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_naganadelawings_0",
+        "iconName": "f_backpack_naganadelawings_00_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -1365,6 +1387,17 @@
         "enabled": true,
         "id": "f_gloves_delibird_0",
         "iconName": "f_gloves_delibird_0_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Dynamaxswsh",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_gloves_dynamaxswsh_0",
+        "iconName": "f_gloves_dynamaxswsh_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -2725,6 +2758,17 @@
         "enabled": true,
         "id": "f_hat_korrina_0",
         "iconName": "f_hat_korrina_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Lana",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_hat_lana_0",
+        "iconName": "f_hat_lana_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -5372,6 +5416,28 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 63",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_63",
+        "iconName": "pose_63",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 64",
+        "gender": "Female",
+        "enabled": true,
+        "id": "pose_64",
+        "iconName": "pose_64",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Female",
         "enabled": true,
@@ -6212,11 +6278,33 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Gofest2024darkgray",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gofest2024darkgray_0",
+        "iconName": "f_shirt_gofest2024darkgray_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Gofest2024gray",
         "gender": "Female",
         "enabled": true,
         "id": "f_shirt_gofest2024gray_0",
         "iconName": "f_shirt_gofest2024gray_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest2024purple",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_gofest2024purple_0",
+        "iconName": "f_shirt_gofest2024purple_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -6645,6 +6733,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Lana",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_lana_0",
+        "iconName": "f_shirt_lana_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Lapearloutfit",
         "gender": "Female",
         "enabled": true,
@@ -6729,6 +6828,17 @@
         "enabled": true,
         "id": "f_shirt_lysandre_0",
         "iconName": "f_shirt_lysandre_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Marshadowtshirt",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_marshadowtshirt_0",
+        "iconName": "f_shirt_marshadowtshirt_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -8302,6 +8412,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Wcs2024",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2024_0",
+        "iconName": "f_shirt_wcs2024_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2024championshipshirt-blue",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2024championshipshirt-blue_0",
+        "iconName": "f_shirt_wcs2024championshipshirt-blue_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2024championshipshirt-white",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shirt_wcs2024championshipshirt-white_0",
+        "iconName": "f_shirt_wcs2024championshipshirt-white_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Wcsyokohama",
         "gender": "Female",
         "enabled": true,
@@ -8768,6 +8911,17 @@
         "enabled": true,
         "id": "f_shoes_ladiamondoutfit_0",
         "iconName": "f_shoes_ladiamondoutfit_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Lana",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_shoes_lana_0",
+        "iconName": "f_shoes_lana_00_bundle_icon",
         "slot": [
             "Shoes"
         ],
@@ -10021,6 +10175,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Komala",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_komala_0",
+        "iconName": "m_backpack_komala_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Longchampbp",
         "gender": "Male",
         "enabled": true,
@@ -10070,6 +10235,17 @@
         "enabled": true,
         "id": "m_backpack_movie2020_0",
         "iconName": "m_backpack_movie2020_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
+        "name": "Backpack Naganadelawings",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_naganadelawings_0",
+        "iconName": "m_backpack_naganadelawings_00_bundle_icon",
         "slot": [
             "Backpack"
         ],
@@ -10910,6 +11086,17 @@
         "enabled": true,
         "id": "m_gloves_delibird_0",
         "iconName": "m_gloves_delibird_0_bundle_icon",
+        "slot": [
+            "Gloves"
+        ],
+        "category": "Gloves"
+    },
+    {
+        "name": "Gloves Dynamaxswsh",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_gloves_dynamaxswsh_0",
+        "iconName": "m_gloves_dynamaxswsh_00_bundle_icon",
         "slot": [
             "Gloves"
         ],
@@ -12262,6 +12449,17 @@
         "enabled": true,
         "id": "m_hat_korrina_0",
         "iconName": "m_hat_korrina_00_bundle_icon",
+        "slot": [
+            "Hat"
+        ],
+        "category": "Hat"
+    },
+    {
+        "name": "Hat Lana",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_hat_lana_0",
+        "iconName": "m_hat_lana_00_bundle_icon",
         "slot": [
             "Hat"
         ],
@@ -14714,6 +14912,28 @@
         "category": "Poses"
     },
     {
+        "name": "Pose 63",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_63",
+        "iconName": "pose_63",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
+        "name": "Pose 64",
+        "gender": "Male",
+        "enabled": true,
+        "id": "pose_64",
+        "iconName": "pose_64",
+        "slot": [
+            "Pose"
+        ],
+        "category": "Poses"
+    },
+    {
         "name": "Pose Empty",
         "gender": "Male",
         "enabled": true,
@@ -15566,11 +15786,33 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Gofest2024darkgray",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gofest2024darkgray_0",
+        "iconName": "m_shirt_gofest2024darkgray_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Gofest2024gray",
         "gender": "Male",
         "enabled": true,
         "id": "m_shirt_gofest2024gray_0",
         "iconName": "m_shirt_gofest2024gray_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Gofest2024purple",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_gofest2024purple_0",
+        "iconName": "m_shirt_gofest2024purple_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -16011,6 +16253,17 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Lana",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_lana_0",
+        "iconName": "m_shirt_lana_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Lapearloutfit",
         "gender": "Male",
         "enabled": true,
@@ -16161,6 +16414,17 @@
         "enabled": true,
         "id": "m_shirt_lysandre_0",
         "iconName": "m_shirt_lysandre_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Marshadowtshirt",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_marshadowtshirt_0",
+        "iconName": "m_shirt_marshadowtshirt_00_bundle_icon",
         "slot": [
             "Shirt"
         ],
@@ -17647,6 +17911,39 @@
         "category": "Shirt"
     },
     {
+        "name": "Shirt Wcs2024",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2024_0",
+        "iconName": "m_shirt_wcs2024_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2024championshipshirt-blue",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2024championshipshirt-blue_0",
+        "iconName": "m_shirt_wcs2024championshipshirt-blue_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
+        "name": "Shirt Wcs2024championshipshirt-white",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shirt_wcs2024championshipshirt-white_0",
+        "iconName": "m_shirt_wcs2024championshipshirt-white_00_bundle_icon",
+        "slot": [
+            "Shirt"
+        ],
+        "category": "Shirt"
+    },
+    {
         "name": "Shirt Wcsyokohama",
         "gender": "Male",
         "enabled": true,
@@ -18136,6 +18433,17 @@
         "enabled": true,
         "id": "m_shoes_ladiamondoutfit_0",
         "iconName": "m_shoes_ladiamondoutfit_00_bundle_icon",
+        "slot": [
+            "Shoes"
+        ],
+        "category": "Shoes"
+    },
+    {
+        "name": "Shoes Lana",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_shoes_lana_0",
+        "iconName": "m_shoes_lana_00_bundle_icon",
         "slot": [
             "Shoes"
         ],

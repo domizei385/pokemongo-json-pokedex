@@ -87,6 +87,30 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "EVENT_TICKET_04",
+        "name": "Event Ticket 04",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_04_TO_GIFT",
+        "name": "Event Ticket 04 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "EVENT_TICKET_05",
         "name": "Event Ticket 05",
         "category": {
@@ -125,6 +149,54 @@
     {
         "id": "EVENT_TICKET_06_TO_GIFT",
         "name": "Event Ticket 06 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_07",
+        "name": "Event Ticket 07",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_07_TO_GIFT",
+        "name": "Event Ticket 07 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_08",
+        "name": "Event Ticket 08",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_08_TO_GIFT",
+        "name": "Event Ticket 08 To Gift",
         "category": {
             "name": "Global Event Ticket",
             "id": "GLOBAL_EVENT_TICKET"
@@ -253,6 +325,14 @@
             "name": "Global Event Ticket",
             "id": "GLOBAL_EVENT_TICKET"
         }
+    },
+    {
+        "id": "EXPIRATION_ITEM_WILD_BALL",
+        "name": "Expiration Item Wild Ball"
+    },
+    {
+        "id": "EXPIRATION_ITEM_WILD_BALL_PREMIER",
+        "name": "Expiration Item Wild Ball Premier"
     },
     {
         "id": "FREE_RAID_TICKET",
@@ -773,6 +853,32 @@
             "id": "MOVE_REROLL"
         },
         "dropTrainerLevel": 25
+    },
+    {
+        "id": "MP",
+        "name": "Mp",
+        "category": {
+            "name": "Mp",
+            "id": "MP"
+        },
+        "type": {
+            "name": "Mp",
+            "id": "MP"
+        },
+        "dropTrainerLevel": 1
+    },
+    {
+        "id": "MP_REPLENISH",
+        "name": "Mp Replenish",
+        "category": {
+            "name": "Bread",
+            "id": "BREAD"
+        },
+        "type": {
+            "name": "Mp Replenish",
+            "id": "MP_REPLENISH"
+        },
+        "dropTrainerLevel": 1
     },
     {
         "id": "NANAB_BERRY",
@@ -1309,6 +1415,32 @@
             ],
             "growthPercent": 0.1
         }
+    },
+    {
+        "id": "WILD_BALL",
+        "name": "Wild Ball",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "type": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 1
+    },
+    {
+        "id": "WILD_BALL_PREMIER",
+        "name": "Wild Ball Premier",
+        "category": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "type": {
+            "name": "Pokeball",
+            "id": "POKEBALL"
+        },
+        "dropTrainerLevel": 1
     },
     {
         "id": "XL_RARE_CANDY",

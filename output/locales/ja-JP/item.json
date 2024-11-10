@@ -11,10 +11,16 @@
         "name": "りゅうのウロコ",
         "description": "ある特定のポケモンを進化させるウロコ。固くて丈夫。"
     },
+    "EVENT_TICKET_04": {},
+    "EVENT_TICKET_04_TO_GIFT": {},
     "EVENT_TICKET_05": {},
     "EVENT_TICKET_05_TO_GIFT": {},
     "EVENT_TICKET_06": {},
     "EVENT_TICKET_06_TO_GIFT": {},
+    "EVENT_TICKET_07": {},
+    "EVENT_TICKET_07_TO_GIFT": {},
+    "EVENT_TICKET_08": {},
+    "EVENT_TICKET_08_TO_GIFT": {},
     "EVENT_TICKET_09": {},
     "EVENT_TICKET_09_TO_GIFT": {},
     "EVENT_TICKET_10": {},
@@ -25,6 +31,8 @@
     "EVENT_TICKET_PINK_TO_GIFT": {},
     "EVERGREEN_TICKET": {},
     "EVERGREEN_TICKET_TO_GIFT": {},
+    "EXPIRATION_ITEM_WILD_BALL": {},
+    "EXPIRATION_ITEM_WILD_BALL_PREMIER": {},
     "FREE_RAID_TICKET": {},
     "FRIEND_GIFT_BOX": {},
     "GEN4_EVOLUTION_STONE": {},
@@ -96,6 +104,8 @@
     "MOVE_REROLL_FAST_ATTACK": {},
     "MOVE_REROLL_OTHER_SPECIAL_ATTACK_A": {},
     "MOVE_REROLL_SPECIAL_ATTACK": {},
+    "MP": {},
+    "MP_REPLENISH": {},
     "NANAB_BERRY": {
         "name": "ナナのみ",
         "description": "ポケモンに与えるとポケモンが落ち着くきのみ。"
@@ -174,6 +184,8 @@
         "name": "セシナのみ",
         "description": "不明"
     },
+    "WILD_BALL": {},
+    "WILD_BALL_PREMIER": {},
     "XL_RARE_CANDY": {},
     "X_ATTACK": {
         "name": "プラスパワー",
