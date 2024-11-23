@@ -87,6 +87,7 @@
         "name": "마스터볼",
         "description": "야생 포켓몬을 반드시 잡을 수 있는 최고 성능의 볼."
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "풀회복약",
         "description": "스프레이식의 상처약. 포켓몬 1마리의 HP를 모두 회복한다."
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "루어모듈",
         "description": "포켓스톱에 사용하면 30분 동안 포켓몬을 불러냅니다. 주변 사람에게도 영향을 줍니다."

@@ -87,6 +87,7 @@
         "name": "大師球",
         "description": "性能最優良的頂級精靈球。一定能捉到寶可夢，絕不失手。"
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "全滿藥",
         "description": "噴霧式傷藥。能讓1隻寶可夢的HP完全回復。"
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "誘餌模組",
         "description": "誘餌模組會將野生寶可夢吸引至寶可補給站，效果可持續30分鐘。附近的玩家也可獲得相同效果。"

@@ -87,6 +87,7 @@
         "name": "Master Ball",
         "description": "The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail."
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "Max Potion",
         "description": "A spray-type medicine that completely restores all HP of a single Pokémon."
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "Lure Module",
         "description": "A module that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby."

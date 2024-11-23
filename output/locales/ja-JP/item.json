@@ -87,6 +87,7 @@
         "name": "マスターボール",
         "description": "野生のポケモンを必ず捕まえることができる最高性能のボール。"
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "まんたんのくすり",
         "description": "スプレー式のキズぐすり。ポケモン1匹のHPをすべて回復する。"
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "ルアーモジュール",
         "description": "ポケストップへ使うと、30分間ポケモンを引き寄せる。周りの人たちも効果を受けられる。"

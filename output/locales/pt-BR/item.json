@@ -87,6 +87,7 @@
         "name": "Bola Mestra",
         "description": "A Poké Bola com melhor desempenho. Pega qualquer Pokémon selvagem sem falha."
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "Poção Máxima",
         "description": "Remédio em spray que cura machucados e que restaura todos os PS de um Pokémon."
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "Módulo Atrair",
         "description": "Atrai Pokémon a uma Poképarada por 30 minutos. Pode beneficiar outras pessoas por perto."

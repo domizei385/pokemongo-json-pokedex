@@ -746,6 +746,19 @@
         "dropTrainerLevel": 1
     },
     {
+        "id": "MAX_BOOST",
+        "name": "Max Boost",
+        "category": {
+            "name": "Boost",
+            "id": "BOOST"
+        },
+        "type": {
+            "name": "Battle",
+            "id": "BATTLE"
+        },
+        "dropTrainerLevel": 99
+    },
+    {
         "id": "MAX_POTION",
         "name": "Max Potion",
         "category": {
@@ -1280,6 +1293,18 @@
     {
         "id": "TICKET_CITY_SAFARI_02",
         "name": "Ticket City Safari 02",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "TICKET_CITY_SAFARI_04",
+        "name": "Ticket City Safari 04",
         "category": {
             "name": "Global Event Ticket",
             "id": "GLOBAL_EVENT_TICKET"

@@ -87,6 +87,7 @@
         "name": "Meisterball",
         "description": "Der beste Ball! Damit fängst du garantiert jedes wilde Pokémon."
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "Top-Trank",
         "description": "Hilft bei Wunden. Füllt die KP eines Pokémon wieder vollständig auf."
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "Lockmodul",
         "description": "Es lockt 30 Minuten lang Pokémon zu einem PokéStop. Spieler in der Nähe profitieren auch."

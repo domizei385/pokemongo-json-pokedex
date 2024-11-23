@@ -143320,7 +143320,7 @@
                     "name": "Polteageist Antique",
                     "id": "POLTEAGEIST_ANTIQUE",
                     "costToEvolve": {
-                        "candyCost": 50
+                        "candyCost": 400
                     }
                 }
             ]
@@ -143579,7 +143579,7 @@
                 "id": "SINISTEA_ANTIQUE"
             },
             "costToEvolve": {
-                "candyCost": 50
+                "candyCost": 400
             }
         },
         "id": "POLTEAGEIST_ANTIQUE",

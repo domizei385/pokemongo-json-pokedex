@@ -87,6 +87,7 @@
         "name": "Master Ball",
         "description": "La Poké Ball definitiva. Atrapa cualquier Pokémon salvaje y no falla nunca."
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "Poción Máxima",
         "description": "Medicina en espray que cura heridas y restaura todos los PS de un Pokémon."
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "Módulo Cebo",
         "description": "Atrae Pokémon a una Poképarada durante 30 min. Otra gente que esté cerca puede beneficiarse."

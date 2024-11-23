@@ -87,6 +87,7 @@
         "name": "Master Ball",
         "description": "La balle la plus performante. Elle permet de capturer à coup sûr un Pokémon sauvage."
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "Potion Max",
         "description": "Un spray qui soigne les blessures. Restaure tous les PV d’un seul Pokémon."
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "Module Leurre",
         "description": "Attire les Pokémon dans un PokéStop pendant 30 minutes. D’autres joueurs peuvent en profiter."

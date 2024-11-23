@@ -87,6 +87,7 @@
         "name": "Master Ball",
         "description": "La Poké Ball dalle prestazioni migliori: cattura qualsiasi Pokémon selvatico senza mai fallire."
     },
+    "MAX_BOOST": {},
     "MAX_POTION": {
         "name": "Pozione Max",
         "description": "Rimedio spray per le ferite. Restituisce tutti i PS a un Pokémon."
@@ -163,6 +164,7 @@
     "TICKET_CITY_SAFARI_00": {},
     "TICKET_CITY_SAFARI_01": {},
     "TICKET_CITY_SAFARI_02": {},
+    "TICKET_CITY_SAFARI_04": {},
     "TROY_DISK": {
         "name": "Modulo esca",
         "description": "Attira i Pokémon per 30 minuti verso un Pokéstop. Ha effetto anche su tutti i giocatori nei dintorni."
