@@ -87,6 +87,54 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "EVENT_TICKET_02",
+        "name": "Event Ticket 02",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_02_TO_GIFT",
+        "name": "Event Ticket 02 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_03",
+        "name": "Event Ticket 03",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
+        "id": "EVENT_TICKET_03_TO_GIFT",
+        "name": "Event Ticket 03 To Gift",
+        "category": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        },
+        "type": {
+            "name": "Global Event Ticket",
+            "id": "GLOBAL_EVENT_TICKET"
+        }
+    },
+    {
         "id": "EVENT_TICKET_04",
         "name": "Event Ticket 04",
         "category": {
@@ -604,7 +652,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 1,
+            "distanceMultiplier": 0.5,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -624,7 +672,7 @@
         },
         "dropTrainerLevel": 100,
         "eggIncubinator": {
-            "distanceMultiplier": 1,
+            "distanceMultiplier": 0.5,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -645,7 +693,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.6666667,
+            "distanceMultiplier": 0.33333334,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -756,7 +804,7 @@
             "name": "Battle",
             "id": "BATTLE"
         },
-        "dropTrainerLevel": 99
+        "dropTrainerLevel": 12
     },
     {
         "id": "MAX_POTION",

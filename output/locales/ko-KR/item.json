@@ -11,6 +11,10 @@
         "name": "용의비늘",
         "description": "어느 특정 포켓몬을 진화시키는 비늘. 단단하고 튼튼하다."
     },
+    "EVENT_TICKET_02": {},
+    "EVENT_TICKET_02_TO_GIFT": {},
+    "EVENT_TICKET_03": {},
+    "EVENT_TICKET_03_TO_GIFT": {},
     "EVENT_TICKET_04": {},
     "EVENT_TICKET_04_TO_GIFT": {},
     "EVENT_TICKET_05": {},

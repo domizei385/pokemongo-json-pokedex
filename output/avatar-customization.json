@@ -143,6 +143,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Egg-incubator",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_backpack_egg-incubator_0",
+        "iconName": "f_backpack_egg-incubator_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Eggbackpack 0",
         "gender": "Female",
         "enabled": true,
@@ -998,6 +1009,17 @@
         "enabled": true,
         "id": "f_face_teamskull_0",
         "iconName": "f_face_teamskull_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Toxelmask",
+        "gender": "Female",
+        "enabled": true,
+        "id": "f_face_toxelmask_0",
+        "iconName": "f_face_toxelmask_00_bundle_icon",
         "slot": [
             "Face"
         ],
@@ -10030,6 +10052,17 @@
         "category": "Backpack"
     },
     {
+        "name": "Backpack Egg-incubator",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_backpack_egg-incubator_0",
+        "iconName": "m_backpack_egg-incubator_00_bundle_icon",
+        "slot": [
+            "Backpack"
+        ],
+        "category": "Backpack"
+    },
+    {
         "name": "Backpack Eggbackpack 0",
         "gender": "Male",
         "enabled": true,
@@ -10697,6 +10730,17 @@
         "enabled": true,
         "id": "m_face_teamskull_0",
         "iconName": "m_face_teamskull_00_bundle_icon",
+        "slot": [
+            "Face"
+        ],
+        "category": "Face"
+    },
+    {
+        "name": "Face Toxelmask",
+        "gender": "Male",
+        "enabled": true,
+        "id": "m_face_toxelmask_0",
+        "iconName": "m_face_toxelmask_00_bundle_icon",
         "slot": [
             "Face"
         ],

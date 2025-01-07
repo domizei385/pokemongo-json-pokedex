@@ -22,6 +22,7 @@
     "f_backpack_default_3": {
         "name": "Sac urbain"
     },
+    "f_backpack_egg-incubator_0": {},
     "f_backpack_eggbackpack_0": {},
     "f_backpack_eggbackpack_1": {},
     "f_backpack_eggbackpack_2": {},
@@ -138,6 +139,7 @@
     "f_face_pikachumask_0": {},
     "f_face_sableyemask_0": {},
     "f_face_teamskull_0": {},
+    "f_face_toxelmask_0": {},
     "f_face_verizon2020mask_0": {},
     "f_glasses_3d": {
         "name": "Lunettes 3D"
@@ -1254,6 +1256,7 @@
         "name": "Sac à dos de Dresseur"
     },
     "m_backpack_bd_0": {},
+    "m_backpack_egg-incubator_0": {},
     "m_backpack_eggbackpack_0": {},
     "m_backpack_eggbackpack_1": {},
     "m_backpack_eggbackpack_2": {},
@@ -1321,6 +1324,7 @@
     "m_face_pikachumask_0": {},
     "m_face_sableyemask_0": {},
     "m_face_teamskull_0": {},
+    "m_face_toxelmask_0": {},
     "m_face_verizon2020mask_0": {},
     "m_glasses_3d": {
         "name": "Lunettes 3D"

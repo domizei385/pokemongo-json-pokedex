@@ -6131,5 +6131,25 @@
         },
         "name": "Rage Fist",
         "internalId": 464
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 75,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "flower_trick",
+        "durationMs": 2700,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2700,
+        "energyDelta": -33,
+        "id": 465,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "name": "Flower Trick",
+        "internalId": 465
     }
 ]
