@@ -11,6 +11,7 @@
         "name": "용의비늘",
         "description": "어느 특정 포켓몬을 진화시키는 비늘. 단단하고 튼튼하다."
     },
+    "EVENT_PASS_POINT_GO_TOUR_01": {},
     "EVENT_TICKET_02": {},
     "EVENT_TICKET_02_TO_GIFT": {},
     "EVENT_TICKET_03": {},
@@ -35,6 +36,8 @@
     "EVENT_TICKET_PINK_TO_GIFT": {},
     "EVERGREEN_TICKET": {},
     "EVERGREEN_TICKET_TO_GIFT": {},
+    "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_01": {},
+    "EXPIRATION_ITEM_LUCKY_FRIEND_APPLICATOR": {},
     "EXPIRATION_ITEM_WILD_BALL": {},
     "EXPIRATION_ITEM_WILD_BALL_PREMIER": {},
     "FREE_RAID_TICKET": {},
@@ -87,6 +90,7 @@
         "name": "행복의알",
         "description": "행복이 가득한 알. 사용하면 30분 동안 받는 XP가 2배가 됩니다."
     },
+    "LUCKY_FRIEND_APPLICATOR": {},
     "MASTER_BALL": {
         "name": "마스터볼",
         "description": "야생 포켓몬을 반드시 잡을 수 있는 최고 성능의 볼."

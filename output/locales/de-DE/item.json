@@ -11,6 +11,7 @@
         "name": "Drachenhaut",
         "description": "Diese Haut löst bei bestimmten Pokémon-Arten die Entwicklung aus. Sie ist sehr dick und stark."
     },
+    "EVENT_PASS_POINT_GO_TOUR_01": {},
     "EVENT_TICKET_02": {},
     "EVENT_TICKET_02_TO_GIFT": {},
     "EVENT_TICKET_03": {},
@@ -35,6 +36,8 @@
     "EVENT_TICKET_PINK_TO_GIFT": {},
     "EVERGREEN_TICKET": {},
     "EVERGREEN_TICKET_TO_GIFT": {},
+    "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_01": {},
+    "EXPIRATION_ITEM_LUCKY_FRIEND_APPLICATOR": {},
     "EXPIRATION_ITEM_WILD_BALL": {},
     "EXPIRATION_ITEM_WILD_BALL_PREMIER": {},
     "FREE_RAID_TICKET": {},
@@ -87,6 +90,7 @@
         "name": "Glücks-Ei",
         "description": "Ein Ei, das mit Glück gefüllt ist. Der Spieler erhält 30 Minuten lang doppelt so viele EP."
     },
+    "LUCKY_FRIEND_APPLICATOR": {},
     "MASTER_BALL": {
         "name": "Meisterball",
         "description": "Der beste Ball! Damit fängst du garantiert jedes wilde Pokémon."

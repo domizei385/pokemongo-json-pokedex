@@ -87,6 +87,18 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "EVENT_PASS_POINT_GO_TOUR_01",
+        "name": "Event Pass Point Go Tour 01",
+        "category": {
+            "name": "Event Pass Point",
+            "id": "EVENT_PASS_POINT"
+        },
+        "type": {
+            "name": "Event Pass Point",
+            "id": "EVENT_PASS_POINT"
+        }
+    },
+    {
         "id": "EVENT_TICKET_02",
         "name": "Event Ticket 02",
         "category": {
@@ -375,6 +387,14 @@
         }
     },
     {
+        "id": "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_01",
+        "name": "Expiration Item Event Pass Point Go Tour 01"
+    },
+    {
+        "id": "EXPIRATION_ITEM_LUCKY_FRIEND_APPLICATOR",
+        "name": "Expiration Item Lucky Friend Applicator"
+    },
+    {
         "id": "EXPIRATION_ITEM_WILD_BALL",
         "name": "Expiration Item Wild Ball"
     },
@@ -652,7 +672,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.5,
+            "distanceMultiplier": 1,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -672,7 +692,7 @@
         },
         "dropTrainerLevel": 100,
         "eggIncubinator": {
-            "distanceMultiplier": 0.5,
+            "distanceMultiplier": 1,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -693,7 +713,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.33333334,
+            "distanceMultiplier": 0.6666667,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -778,6 +798,18 @@
         "xpBoost": {
             "boostDurationMs": 1800000,
             "xpMultiplier": 2
+        }
+    },
+    {
+        "id": "LUCKY_FRIEND_APPLICATOR",
+        "name": "Lucky Friend Applicator",
+        "category": {
+            "name": "Xp Boost",
+            "id": "XP_BOOST"
+        },
+        "type": {
+            "name": "Friend Boost",
+            "id": "FRIEND_BOOST"
         }
     },
     {

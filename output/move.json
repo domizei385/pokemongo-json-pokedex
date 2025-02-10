@@ -6144,12 +6144,52 @@
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2700,
         "energyDelta": -33,
-        "id": 465,
+        "id": "FLOWER_TRICK",
         "pokemonType": {
             "id": "POKEMON_TYPE_GRASS",
             "name": "Grass"
         },
         "name": "Flower Trick",
         "internalId": 465
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 1,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "freeze_shock",
+        "durationMs": 1500,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1400,
+        "energyDelta": -100,
+        "id": "FREEZE_SHOCK",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ICE",
+            "name": "Ice"
+        },
+        "name": "Freeze Shock",
+        "internalId": 466
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 1,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "ice_burn",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1800,
+        "damageWindowEndMs": 2200,
+        "energyDelta": -100,
+        "id": "ICE_BURN",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ICE",
+            "name": "Ice"
+        },
+        "name": "Ice Burn",
+        "internalId": 467
     }
 ]

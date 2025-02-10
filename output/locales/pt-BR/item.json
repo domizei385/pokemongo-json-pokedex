@@ -11,6 +11,7 @@
         "name": "Escama de Dragão",
         "description": "Escama que faz com que certas espécies de Pokémon evoluam. É robusta e resistente."
     },
+    "EVENT_PASS_POINT_GO_TOUR_01": {},
     "EVENT_TICKET_02": {},
     "EVENT_TICKET_02_TO_GIFT": {},
     "EVENT_TICKET_03": {},
@@ -35,6 +36,8 @@
     "EVENT_TICKET_PINK_TO_GIFT": {},
     "EVERGREEN_TICKET": {},
     "EVERGREEN_TICKET_TO_GIFT": {},
+    "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_01": {},
+    "EXPIRATION_ITEM_LUCKY_FRIEND_APPLICATOR": {},
     "EXPIRATION_ITEM_WILD_BALL": {},
     "EXPIRATION_ITEM_WILD_BALL_PREMIER": {},
     "FREE_RAID_TICKET": {},
@@ -87,6 +90,7 @@
         "name": "Ovo da Sorte",
         "description": "Um ovo cheio de felicidade e que faz você ganhar o dobro de PE por 30 minutos."
     },
+    "LUCKY_FRIEND_APPLICATOR": {},
     "MASTER_BALL": {
         "name": "Bola Mestra",
         "description": "A Poké Bola com melhor desempenho. Pega qualquer Pokémon selvagem sem falha."
