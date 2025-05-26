@@ -1494,6 +1494,10 @@
             {
                 "name": "Bite Fast",
                 "id": "BITE_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -1613,6 +1617,10 @@
             {
                 "name": "Bite Fast",
                 "id": "BITE_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -3641,6 +3649,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -3897,6 +3925,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -4153,6 +4201,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -4413,6 +4481,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -4669,6 +4757,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -4921,6 +5029,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -5177,6 +5305,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -5437,6 +5585,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -5697,6 +5865,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -5957,6 +6145,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -6217,6 +6425,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -6477,6 +6705,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -6737,6 +6985,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -6993,6 +7261,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -7249,6 +7537,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -7505,6 +7813,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -7761,6 +8089,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -8017,6 +8365,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -8273,6 +8641,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -8529,6 +8917,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -8785,6 +9193,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -9041,6 +9469,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -9297,6 +9745,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -9553,6 +10021,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -9809,6 +10297,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -10065,6 +10573,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -10321,6 +10849,302 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
+            }
+        ]
+    },
+    {
+        "dex": 25,
+        "name": "Pikachu Kurta",
+        "animationTime": [
+            1.8333,
+            0.6667,
+            1.6,
+            1.5667,
+            0,
+            1.8,
+            1.1333,
+            1.066667
+        ],
+        "height": 0.4,
+        "modelHeight": 0.4,
+        "kmBuddyDistance": 1,
+        "weight": 6,
+        "modelScale": 1.48,
+        "maxCP": 938,
+        "buddySize": {
+            "id": "BUDDY_SHOULDER",
+            "name": "Shoulder"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Discharge",
+                "id": "DISCHARGE"
+            },
+            {
+                "name": "Thunderbolt",
+                "id": "THUNDERBOLT"
+            },
+            {
+                "name": "Wild Charge",
+                "id": "WILD_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Thunder Shock Fast",
+                "id": "THUNDER_SHOCK_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_PIKACHU",
+            "name": "Pikachu"
+        },
+        "stats": {
+            "baseAttack": 112,
+            "baseDefense": 96,
+            "baseStamina": 111
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_ELECTRIC",
+                "name": "Electric"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 29,
+            "cameraDistance": 2.775,
+            "collisionRadius": 0.16,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 0.5,
+                "femalePercent": 0.5
+            }
+        },
+        "camera": {
+            "diskRadius": 0.555,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "PIKACHU_KURTA",
+        "forms": [
+            {
+                "id": "PIKACHU",
+                "name": "Pikachu"
+            },
+            {
+                "id": "PIKACHU_FALL_2019",
+                "name": "Pikachu Fall 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_fall2019"
+            },
+            {
+                "id": "PIKACHU_COPY_2019",
+                "name": "Pikachu Copy 2019",
+                "assetBundleSuffix": "pm0025_00_pgo_copy2019"
+            },
+            {
+                "id": "PIKACHU_VS_2019",
+                "name": "Pikachu Vs 2019",
+                "assetBundleValue": 16
+            },
+            {
+                "id": "PIKACHU_COSTUME_2020",
+                "name": "Pikachu Costume 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_4thanniversary"
+            },
+            {
+                "id": "PIKACHU_ADVENTURE_HAT_2020",
+                "name": "Pikachu Adventure Hat 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_movie2020"
+            },
+            {
+                "id": "PIKACHU_WINTER_2020",
+                "name": "Pikachu Winter 2020",
+                "assetBundleSuffix": "pm0025_00_pgo_winter2020"
+            },
+            {
+                "id": "PIKACHU_KARIYUSHI",
+                "name": "Pikachu Kariyushi",
+                "assetBundleSuffix": "pm0025_00_pikachu_pgo_kariyushi"
+            },
+            {
+                "id": "PIKACHU_POP_STAR",
+                "name": "Pikachu Pop Star",
+                "assetBundleSuffix": "pm0025_00_pgo_popstar"
+            },
+            {
+                "id": "PIKACHU_ROCK_STAR",
+                "name": "Pikachu Rock Star",
+                "assetBundleSuffix": "pm0025_00_pgo_rockstar"
+            },
+            {
+                "id": "PIKACHU_FLYING_5TH_ANNIV",
+                "name": "Pikachu Flying 5th Anniv",
+                "assetBundleSuffix": "pm0025_00_pgo_5thanniversary"
+            },
+            {
+                "id": "PIKACHU_FLYING_OKINAWA",
+                "name": "Pikachu Flying Okinawa"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2022",
+                "name": "Pikachu Gofest 2022"
+            },
+            {
+                "id": "PIKACHU_WCS_2022",
+                "name": "Pikachu Wcs 2022"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_01",
+                "name": "Pikachu Tshirt 01",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_02",
+                "name": "Pikachu Tshirt 02",
+                "assetBundleSuffix": "pm0025_00_pgo_tshirt"
+            },
+            {
+                "id": "PIKACHU_FLYING_01",
+                "name": "Pikachu Flying 01",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_FLYING_02",
+                "name": "Pikachu Flying 02",
+                "assetBundleSuffix": "pm0025_00_pgo_flying"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_A",
+                "name": "Pikachu Summer 2023 A"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_B",
+                "name": "Pikachu Summer 2023 B"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_C",
+                "name": "Pikachu Summer 2023 C"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_D",
+                "name": "Pikachu Summer 2023 D"
+            },
+            {
+                "id": "PIKACHU_SUMMER_2023_E",
+                "name": "Pikachu Summer 2023 E"
+            },
+            {
+                "id": "PIKACHU_JEJU",
+                "name": "Pikachu Jeju"
+            },
+            {
+                "id": "PIKACHU_FLYING_03",
+                "name": "Pikachu Flying 03"
+            },
+            {
+                "id": "PIKACHU_WCS_2023",
+                "name": "Pikachu Wcs 2023"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A",
+                "name": "Pikachu Gotour 2024 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_A_02",
+                "name": "Pikachu Gotour 2024 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B",
+                "name": "Pikachu Gotour 2024 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2024_B_02",
+                "name": "Pikachu Gotour 2024 B 02"
+            },
+            {
+                "id": "PIKACHU_TSHIRT_03",
+                "name": "Pikachu Tshirt 03"
+            },
+            {
+                "id": "PIKACHU_FLYING_04",
+                "name": "Pikachu Flying 04"
+            },
+            {
+                "id": "PIKACHU_HORIZONS",
+                "name": "Pikachu Horizons"
+            },
+            {
+                "id": "PIKACHU_DOCTOR",
+                "name": "Pikachu Doctor"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2024_STIARA",
+                "name": "Pikachu Gofest 2024 Stiara"
+            },
+            {
+                "id": "PIKACHU_GOFEST_2024_MTIARA",
+                "name": "Pikachu Gofest 2024 Mtiara"
+            },
+            {
+                "id": "PIKACHU_WCS_2024",
+                "name": "Pikachu Wcs 2024"
+            },
+            {
+                "id": "PIKACHU_DIWALI_2024",
+                "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -10577,6 +11401,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -10833,6 +11677,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -11089,6 +11953,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -11345,6 +12229,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -11601,6 +12505,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -11857,6 +12781,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -12113,6 +13057,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -12369,6 +13333,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -12625,6 +13609,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -12881,6 +13885,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -13137,6 +14161,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -13393,6 +14437,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -13649,6 +14713,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -13905,6 +14989,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -14161,6 +15265,26 @@
             {
                 "id": "PIKACHU_DIWALI_2024",
                 "name": "Pikachu Diwali 2024"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A",
+                "name": "Pikachu Gotour 2025 A"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_A_02",
+                "name": "Pikachu Gotour 2025 A 02"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B",
+                "name": "Pikachu Gotour 2025 B"
+            },
+            {
+                "id": "PIKACHU_GOTOUR_2025_B_02",
+                "name": "Pikachu Gotour 2025 B 02"
+            },
+            {
+                "id": "PIKACHU_KURTA",
+                "name": "Pikachu Kurta"
             }
         ]
     },
@@ -17382,6 +18506,10 @@
             {
                 "name": "Confusion Fast",
                 "id": "CONFUSION_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -26820,6 +27948,10 @@
             {
                 "name": "Infestation Fast",
                 "id": "INFESTATION_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -29001,7 +30133,374 @@
         },
         "evolution": {},
         "id": "TAUROS",
-        "forms": []
+        "forms": [
+            {
+                "id": "TAUROS",
+                "name": "Tauros"
+            },
+            {
+                "id": "TAUROS_PALDEA_COMBAT",
+                "name": "Tauros Paldea Combat"
+            },
+            {
+                "id": "TAUROS_PALDEA_BLAZE",
+                "name": "Tauros Paldea Blaze"
+            },
+            {
+                "id": "TAUROS_PALDEA_AQUA",
+                "name": "Tauros Paldea Aqua"
+            }
+        ]
+    },
+    {
+        "dex": 128,
+        "name": "Tauros Paldea Aqua",
+        "animationTime": [
+            2.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            1.6667,
+            1.6,
+            0
+        ],
+        "height": 1.4,
+        "modelHeight": 1.4,
+        "kmBuddyDistance": 3,
+        "weight": 110,
+        "modelScale": 0.87,
+        "maxCP": 2837,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
+            },
+            {
+                "name": "Aqua Jet",
+                "id": "AQUA_JET"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Double Kick Fast",
+                "id": "DOUBLE_KICK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_TAUROS",
+            "name": "Tauros"
+        },
+        "stats": {
+            "baseAttack": 210,
+            "baseDefense": 193,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIGHTING",
+                "name": "Fighting"
+            },
+            {
+                "id": "POKEMON_TYPE_WATER",
+                "name": "Water"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 11,
+            "cameraDistance": 4.4859376,
+            "collisionRadius": 0.435,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
+            }
+        },
+        "camera": {
+            "diskRadius": 0.8613,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "TAUROS_PALDEA_AQUA",
+        "forms": [
+            {
+                "id": "TAUROS",
+                "name": "Tauros"
+            },
+            {
+                "id": "TAUROS_PALDEA_COMBAT",
+                "name": "Tauros Paldea Combat"
+            },
+            {
+                "id": "TAUROS_PALDEA_BLAZE",
+                "name": "Tauros Paldea Blaze"
+            },
+            {
+                "id": "TAUROS_PALDEA_AQUA",
+                "name": "Tauros Paldea Aqua"
+            }
+        ]
+    },
+    {
+        "dex": 128,
+        "name": "Tauros Paldea Blaze",
+        "animationTime": [
+            2.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            1.6667,
+            1.6,
+            0
+        ],
+        "height": 1.4,
+        "modelHeight": 1.4,
+        "kmBuddyDistance": 3,
+        "weight": 85,
+        "modelScale": 0.87,
+        "maxCP": 2837,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
+            },
+            {
+                "name": "Flame Charge",
+                "id": "FLAME_CHARGE"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Double Kick Fast",
+                "id": "DOUBLE_KICK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_TAUROS",
+            "name": "Tauros"
+        },
+        "stats": {
+            "baseAttack": 210,
+            "baseDefense": 193,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIGHTING",
+                "name": "Fighting"
+            },
+            {
+                "id": "POKEMON_TYPE_FIRE",
+                "name": "Fire"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 11,
+            "cameraDistance": 4.4859376,
+            "collisionRadius": 0.435,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
+            }
+        },
+        "camera": {
+            "diskRadius": 0.8613,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "TAUROS_PALDEA_BLAZE",
+        "forms": [
+            {
+                "id": "TAUROS",
+                "name": "Tauros"
+            },
+            {
+                "id": "TAUROS_PALDEA_COMBAT",
+                "name": "Tauros Paldea Combat"
+            },
+            {
+                "id": "TAUROS_PALDEA_BLAZE",
+                "name": "Tauros Paldea Blaze"
+            },
+            {
+                "id": "TAUROS_PALDEA_AQUA",
+                "name": "Tauros Paldea Aqua"
+            }
+        ]
+    },
+    {
+        "dex": 128,
+        "name": "Tauros Paldea Combat",
+        "animationTime": [
+            2.3333,
+            0.6667,
+            1.6667,
+            2,
+            0,
+            1.6667,
+            1.6,
+            0
+        ],
+        "height": 1.4,
+        "modelHeight": 1.4,
+        "kmBuddyDistance": 3,
+        "weight": 115,
+        "modelScale": 0.87,
+        "maxCP": 2837,
+        "buddySize": {
+            "id": "BUDDY_BIG",
+            "name": "Big"
+        },
+        "cinematicMoves": [
+            {
+                "name": "Iron Head",
+                "id": "IRON_HEAD"
+            },
+            {
+                "name": "Earthquake",
+                "id": "EARTHQUAKE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
+            },
+            {
+                "name": "Close Combat",
+                "id": "CLOSE_COMBAT"
+            }
+        ],
+        "quickMoves": [
+            {
+                "name": "Tackle Fast",
+                "id": "TACKLE_FAST"
+            },
+            {
+                "name": "Zen Headbutt Fast",
+                "id": "ZEN_HEADBUTT_FAST"
+            },
+            {
+                "name": "Double Kick Fast",
+                "id": "DOUBLE_KICK_FAST"
+            }
+        ],
+        "family": {
+            "id": "FAMILY_TAUROS",
+            "name": "Tauros"
+        },
+        "stats": {
+            "baseAttack": 210,
+            "baseDefense": 193,
+            "baseStamina": 181
+        },
+        "types": [
+            {
+                "id": "POKEMON_TYPE_FIGHTING",
+                "name": "Fighting"
+            }
+        ],
+        "encounter": {
+            "attackProbability": 0.1,
+            "attackTimer": 11,
+            "cameraDistance": 4.4859376,
+            "collisionRadius": 0.435,
+            "dodgeDistance": 1,
+            "dodgeProbability": 0.15,
+            "jumpTime": 1.2,
+            "maxPokemonActionFrequency": 1.6,
+            "minPokemonActionFrequency": 0.2,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
+            "gender": {
+                "malePercent": 1,
+                "femalePercent": 0
+            }
+        },
+        "camera": {
+            "diskRadius": 0.8613,
+            "shoulderModeScale": 0.5
+        },
+        "evolution": {},
+        "id": "TAUROS_PALDEA_COMBAT",
+        "forms": [
+            {
+                "id": "TAUROS",
+                "name": "Tauros"
+            },
+            {
+                "id": "TAUROS_PALDEA_COMBAT",
+                "name": "Tauros Paldea Combat"
+            },
+            {
+                "id": "TAUROS_PALDEA_BLAZE",
+                "name": "Tauros Paldea Blaze"
+            },
+            {
+                "id": "TAUROS_PALDEA_AQUA",
+                "name": "Tauros Paldea Aqua"
+            }
+        ]
     },
     {
         "dex": 129,
@@ -29247,6 +30746,10 @@
             {
                 "name": "Skull Bash",
                 "id": "SKULL_BASH"
+            },
+            {
+                "name": "Sparkling Aria",
+                "id": "SPARKLING_ARIA"
             }
         ],
         "quickMoves": [
@@ -29257,6 +30760,10 @@
             {
                 "name": "Water Gun Fast",
                 "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -29353,6 +30860,10 @@
             {
                 "name": "Skull Bash",
                 "id": "SKULL_BASH"
+            },
+            {
+                "name": "Sparkling Aria",
+                "id": "SPARKLING_ARIA"
             }
         ],
         "quickMoves": [
@@ -29363,6 +30874,10 @@
             {
                 "name": "Water Gun Fast",
                 "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -33606,6 +35121,14 @@
             {
                 "name": "Hyper Beam",
                 "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
             }
         ],
         "quickMoves": [
@@ -34972,6 +36495,10 @@
             {
                 "name": "Draining Kiss",
                 "id": "DRAINING_KISS"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -45765,6 +47292,10 @@
             {
                 "name": "Rock Blast",
                 "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Upper Hand",
+                "id": "UPPER_HAND"
             }
         ],
         "quickMoves": [
@@ -46629,6 +48160,10 @@
             {
                 "name": "High Horsepower",
                 "id": "HIGH_HORSEPOWER"
+            },
+            {
+                "name": "Icicle Spear",
+                "id": "ICICLE_SPEAR"
             }
         ],
         "quickMoves": [
@@ -51417,6 +52952,10 @@
             {
                 "name": "Muddy Water",
                 "id": "MUDDY_WATER"
+            },
+            {
+                "name": "Sludge",
+                "id": "SLUDGE"
             }
         ],
         "quickMoves": [
@@ -51653,6 +53192,10 @@
             {
                 "name": "Ice Fang Fast",
                 "id": "ICE_FANG_FAST"
+            },
+            {
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
             }
         ],
         "family": {
@@ -51980,6 +53523,10 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -55280,6 +56827,10 @@
             {
                 "name": "Cross Chop",
                 "id": "CROSS_CHOP"
+            },
+            {
+                "name": "Upper Hand",
+                "id": "UPPER_HAND"
             }
         ],
         "quickMoves": [
@@ -55388,6 +56939,10 @@
             {
                 "name": "Super Power",
                 "id": "SUPER_POWER"
+            },
+            {
+                "name": "Upper Hand",
+                "id": "UPPER_HAND"
             }
         ],
         "quickMoves": [
@@ -55869,6 +57424,10 @@
             {
                 "name": "Shadow Sneak",
                 "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -55974,6 +57533,10 @@
             {
                 "name": "Shadow Sneak",
                 "id": "SHADOW_SNEAK"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -57531,6 +59094,10 @@
             {
                 "name": "Acid Spray",
                 "id": "ACID_SPRAY"
+            },
+            {
+                "name": "Sludge",
+                "id": "SLUDGE"
             }
         ],
         "quickMoves": [
@@ -57852,6 +59419,10 @@
             {
                 "name": "Water Gun Fast",
                 "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -57947,6 +59518,10 @@
             {
                 "name": "Water Gun Fast",
                 "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -58392,6 +59967,10 @@
             {
                 "name": "Mirror Coat",
                 "id": "MIRROR_COAT"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
             }
         ],
         "quickMoves": [
@@ -58402,6 +59981,10 @@
             {
                 "name": "Extrasensory Fast",
                 "id": "EXTRASENSORY_FAST"
+            },
+            {
+                "name": "Psywave Fast",
+                "id": "PSYWAVE_FAST"
             }
         ],
         "family": {
@@ -64345,6 +65928,10 @@
             {
                 "name": "Rock Slide",
                 "id": "ROCK_SLIDE"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
@@ -66293,6 +67880,10 @@
             {
                 "name": "Frost Breath Fast",
                 "id": "FROST_BREATH_FAST"
+            },
+            {
+                "name": "Rollout Fast",
+                "id": "ROLLOUT_FAST"
             }
         ],
         "family": {
@@ -71458,6 +73049,10 @@
             {
                 "name": "Magical Leaf Fast",
                 "id": "MAGICAL_LEAF_FAST"
+            },
+            {
+                "name": "Poison Sting Fast",
+                "id": "POISON_STING_FAST"
             }
         ],
         "family": {
@@ -78982,6 +80577,10 @@
             {
                 "name": "Flamethrower",
                 "id": "FLAMETHROWER"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -79472,6 +81071,10 @@
             {
                 "name": "High Horsepower",
                 "id": "HIGH_HORSEPOWER"
+            },
+            {
+                "name": "Icicle Spear",
+                "id": "ICICLE_SPEAR"
             }
         ],
         "quickMoves": [
@@ -79943,6 +81546,10 @@
             {
                 "name": "Shadow Punch",
                 "id": "SHADOW_PUNCH"
+            },
+            {
+                "name": "Dynamic Punch",
+                "id": "DYNAMIC_PUNCH"
             }
         ],
         "quickMoves": [
@@ -89535,6 +91142,10 @@
             {
                 "name": "Hyper Beam",
                 "id": "HYPER_BEAM"
+            },
+            {
+                "name": "Body Slam",
+                "id": "BODY_SLAM"
             }
         ],
         "quickMoves": [
@@ -89585,7 +91196,9 @@
             "diskRadius": 0.378,
             "shoulderModeScale": 0.5
         },
-        "evolution": {},
+        "evolution": {
+            "futureBranches": []
+        },
         "id": "AUDINO",
         "forms": []
     },
@@ -93109,6 +94722,10 @@
             {
                 "name": "Thunder Punch",
                 "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Upper Hand",
+                "id": "UPPER_HAND"
             }
         ],
         "quickMoves": [
@@ -93208,6 +94825,10 @@
             {
                 "name": "Thunder Punch",
                 "id": "THUNDER_PUNCH"
+            },
+            {
+                "name": "Upper Hand",
+                "id": "UPPER_HAND"
             }
         ],
         "quickMoves": [
@@ -95099,6 +96720,10 @@
             {
                 "name": "Thunder",
                 "id": "THUNDER"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -104033,7 +105658,7 @@
             0.8667,
             0
         ],
-        "height": 3,
+        "height": 3.3,
         "modelHeight": 3.6,
         "kmBuddyDistance": 20,
         "weight": 325,
@@ -104059,6 +105684,10 @@
             {
                 "name": "Outrage",
                 "id": "OUTRAGE"
+            },
+            {
+                "name": "Fusion Bolt",
+                "id": "FUSION_BOLT"
             }
         ],
         "quickMoves": [
@@ -104146,7 +105775,7 @@
             0.8667,
             0
         ],
-        "height": 3,
+        "height": 3.6,
         "modelHeight": 3,
         "kmBuddyDistance": 20,
         "weight": 325,
@@ -104172,6 +105801,10 @@
             {
                 "name": "Focus Blast",
                 "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Fusion Flare",
+                "id": "FUSION_FLARE"
             }
         ],
         "quickMoves": [
@@ -104182,6 +105815,10 @@
             {
                 "name": "Steel Wing Fast",
                 "id": "STEEL_WING_FAST"
+            },
+            {
+                "name": "Ice Fang Fast",
+                "id": "ICE_FANG_FAST"
             }
         ],
         "family": {
@@ -119729,6 +121366,10 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
             }
         ],
         "quickMoves": [
@@ -119846,6 +121487,10 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
             }
         ],
         "quickMoves": [
@@ -119978,6 +121623,10 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
             }
         ],
         "quickMoves": [
@@ -120110,6 +121759,10 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
             }
         ],
         "quickMoves": [
@@ -120235,6 +121888,10 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
             }
         ],
         "quickMoves": [
@@ -120367,6 +122024,10 @@
             {
                 "name": "Disarming Voice",
                 "id": "DISARMING_VOICE"
+            },
+            {
+                "name": "Trailblaze",
+                "id": "TRAILBLAZE"
             }
         ],
         "quickMoves": [
@@ -123797,6 +125458,10 @@
             {
                 "name": "Focus Blast",
                 "id": "FOCUS_BLAST"
+            },
+            {
+                "name": "Sludge Bomb",
+                "id": "SLUDGE_BOMB"
             }
         ],
         "quickMoves": [
@@ -127660,8 +129325,8 @@
         "weight": 305,
         "maxCP": 3410,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -127900,8 +129565,8 @@
         "weight": 305,
         "maxCP": 3410,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_BIG",
+            "name": "Big"
         },
         "cinematicMoves": [
             {
@@ -130877,6 +132542,10 @@
             {
                 "name": "Struggle Bug Fast",
                 "id": "STRUGGLE_BUG_FAST"
+            },
+            {
+                "name": "Charm Fast",
+                "id": "CHARM_FAST"
             }
         ],
         "family": {
@@ -131937,7 +133606,7 @@
         "dex": 749,
         "name": "Mudbray",
         "height": 1,
-        "modelHeight": 1,
+        "modelHeight": 1.22,
         "kmBuddyDistance": 3,
         "weight": 110,
         "maxCP": 1892,
@@ -131987,8 +133656,10 @@
         "encounter": {
             "attackProbability": 0.1,
             "cameraDistance": 4,
+            "collisionRadius": 0.8,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -132011,7 +133682,7 @@
         "dex": 750,
         "name": "Mudsdale",
         "height": 2.5,
-        "modelHeight": 1,
+        "modelHeight": 2.8,
         "kmBuddyDistance": 3,
         "weight": 920,
         "maxCP": 3046,
@@ -132065,8 +133736,10 @@
         "encounter": {
             "attackProbability": 0.1,
             "cameraDistance": 4,
+            "collisionRadius": 1.4,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -138180,6 +139853,10 @@
             {
                 "name": "Crunch",
                 "id": "CRUNCH"
+            },
+            {
+                "name": "Psyshock",
+                "id": "PSYSHOCK"
             }
         ],
         "quickMoves": [
@@ -138262,6 +139939,10 @@
             {
                 "name": "Fly",
                 "id": "FLY"
+            },
+            {
+                "name": "Swift",
+                "id": "SWIFT"
             }
         ],
         "quickMoves": [
@@ -138374,15 +140055,15 @@
         "encounter": {
             "attackProbability": 0.1,
             "cameraDistance": 4,
-            "collisionRadius": 0.375,
+            "collisionRadius": 1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "jumpTime": 1.25,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
-                "name": "Movement Jump",
-                "id": "MOVEMENT_JUMP"
+                "name": "Movement Hovering",
+                "id": "MOVEMENT_HOVERING"
             }
         },
         "camera": {},
@@ -142252,7 +143933,7 @@
         "dex": 827,
         "name": "Nickit",
         "height": 0.6,
-        "modelHeight": 1,
+        "modelHeight": 0.6,
         "kmBuddyDistance": 1,
         "weight": 8.9,
         "maxCP": 714,
@@ -142272,12 +143953,16 @@
         ],
         "quickMoves": [
             {
-                "name": "Quick Attack Fast",
-                "id": "QUICK_ATTACK_FAST"
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
             },
             {
                 "name": "Snarl Fast",
                 "id": "SNARL_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
             }
         ],
         "family": {
@@ -142298,8 +143983,10 @@
         "encounter": {
             "attackProbability": 0.4,
             "cameraDistance": 4,
+            "collisionRadius": 0.37,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.2,
+            "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -142322,7 +144009,7 @@
         "dex": 828,
         "name": "Thievul",
         "height": 1.2,
-        "modelHeight": 1,
+        "modelHeight": 1.37,
         "kmBuddyDistance": 1,
         "weight": 19.9,
         "maxCP": 2136,
@@ -142342,12 +144029,16 @@
         ],
         "quickMoves": [
             {
-                "name": "Quick Attack Fast",
-                "id": "QUICK_ATTACK_FAST"
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
             },
             {
                 "name": "Snarl Fast",
                 "id": "SNARL_FAST"
+            },
+            {
+                "name": "Quick Attack Fast",
+                "id": "QUICK_ATTACK_FAST"
             }
         ],
         "family": {
@@ -142368,8 +144059,10 @@
         "encounter": {
             "attackProbability": 0.4,
             "cameraDistance": 4,
+            "collisionRadius": 0.9,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.2,
+            "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": {
@@ -142390,7 +144083,7 @@
         "dex": 829,
         "name": "Gossifleur",
         "height": 0.4,
-        "modelHeight": 1,
+        "modelHeight": 0.4,
         "kmBuddyDistance": 3,
         "weight": 2.2,
         "maxCP": 672,
@@ -142435,9 +144128,11 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 3,
+            "collisionRadius": 0.1,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.95,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": null,
@@ -142457,7 +144152,7 @@
         "dex": 830,
         "name": "Eldegoss",
         "height": 0.5,
-        "modelHeight": 1,
+        "modelHeight": 0.48,
         "kmBuddyDistance": 3,
         "weight": 2.5,
         "maxCP": 1995,
@@ -142502,9 +144197,11 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 3,
+            "collisionRadius": 0.15,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.95,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": null,
@@ -142757,6 +144454,10 @@
             {
                 "name": "Rock Blast",
                 "id": "ROCK_BLAST"
+            },
+            {
+                "name": "Crunch",
+                "id": "CRUNCH"
             }
         ],
         "quickMoves": [
@@ -143163,7 +144864,7 @@
         "dex": 840,
         "name": "Applin",
         "height": 0.2,
-        "modelHeight": 1,
+        "modelHeight": 0.2,
         "kmBuddyDistance": 5,
         "weight": 0.5,
         "maxCP": 714,
@@ -143204,9 +144905,11 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
-            "cameraDistance": 4,
+            "cameraDistance": 3,
+            "collisionRadius": 0.18,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
+            "jumpTime": 0.85,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
             "movementType": null,
@@ -143226,13 +144929,13 @@
         "dex": 841,
         "name": "Flapple",
         "height": 0.3,
-        "modelHeight": 1,
+        "modelHeight": 0.3,
         "kmBuddyDistance": 5,
         "weight": 1,
         "maxCP": 2466,
         "buddySize": {
-            "id": "BUDDY_MEDIUM",
-            "name": "Medium"
+            "id": "BUDDY_FLYING",
+            "name": "Flying"
         },
         "cinematicMoves": [
             {
@@ -143282,15 +144985,17 @@
             }
         ],
         "encounter": {
-            "attackProbability": 0.2,
-            "cameraDistance": 4,
-            "dodgeDistance": 0.5,
-            "dodgeProbability": 0.3,
+            "attackProbability": 0.3,
+            "cameraDistance": 3,
+            "collisionRadius": 0.1,
+            "dodgeDistance": 0.7,
+            "dodgeProbability": 0.35,
+            "jumpTime": 0.9,
             "maxPokemonActionFrequency": 1.6,
-            "minPokemonActionFrequency": 0.2,
+            "minPokemonActionFrequency": 0.9,
             "movementType": {
-                "name": "Movement Flying",
-                "id": "MOVEMENT_FLYING"
+                "name": "Movement Electric",
+                "id": "MOVEMENT_ELECTRIC"
             },
             "gender": {
                 "malePercent": 0.5,
@@ -143306,7 +145011,7 @@
         "dex": 842,
         "name": "Appletun",
         "height": 0.4,
-        "modelHeight": 1,
+        "modelHeight": 0.4,
         "kmBuddyDistance": 5,
         "weight": 13,
         "maxCP": 2452,
@@ -143362,13 +145067,18 @@
             }
         ],
         "encounter": {
-            "attackProbability": 0.2,
-            "cameraDistance": 4,
-            "dodgeDistance": 0.5,
+            "attackProbability": 0.1,
+            "cameraDistance": 3.15,
+            "collisionRadius": 0.252,
+            "dodgeDistance": 1,
             "dodgeProbability": 0.15,
+            "jumpTime": 1.35,
             "maxPokemonActionFrequency": 1.6,
             "minPokemonActionFrequency": 0.2,
-            "movementType": null,
+            "movementType": {
+                "name": "Movement Jump",
+                "id": "MOVEMENT_JUMP"
+            },
             "gender": {
                 "malePercent": 0.5,
                 "femalePercent": 0.5
@@ -143403,6 +145113,10 @@
             {
                 "name": "Earth Power",
                 "id": "EARTH_POWER"
+            },
+            {
+                "name": "Wrap",
+                "id": "WRAP"
             }
         ],
         "quickMoves": [
@@ -143474,6 +145188,10 @@
             {
                 "name": "Earth Power",
                 "id": "EARTH_POWER"
+            },
+            {
+                "name": "Wrap",
+                "id": "WRAP"
             }
         ],
         "quickMoves": [
@@ -144118,7 +145836,7 @@
         "dex": 850,
         "name": "Sizzlipede",
         "height": 0.7,
-        "modelHeight": 1,
+        "modelHeight": 1.19,
         "kmBuddyDistance": 5,
         "weight": 1,
         "maxCP": 1049,
@@ -144172,6 +145890,7 @@
         "encounter": {
             "attackProbability": 0.1,
             "cameraDistance": 4,
+            "collisionRadius": 0.25,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "maxPokemonActionFrequency": 1.6,
@@ -144193,7 +145912,7 @@
         "dex": 851,
         "name": "Centiskorch",
         "height": 3,
-        "modelHeight": 1,
+        "modelHeight": 0.94,
         "kmBuddyDistance": 5,
         "weight": 120,
         "maxCP": 2990,
@@ -144251,6 +145970,7 @@
         "encounter": {
             "attackProbability": 0.1,
             "cameraDistance": 4,
+            "collisionRadius": 0.9,
             "dodgeDistance": 0.5,
             "dodgeProbability": 0.15,
             "maxPokemonActionFrequency": 1.6,
@@ -148075,16 +149795,12 @@
                 "id": "PLAY_ROUGH"
             },
             {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Wild Charge",
-                "id": "WILD_CHARGE"
-            },
-            {
                 "name": "Close Combat",
                 "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Giga Impact",
+                "id": "GIGA_IMPACT"
             }
         ],
         "quickMoves": [
@@ -148093,16 +149809,8 @@
                 "id": "METAL_CLAW_FAST"
             },
             {
-                "name": "Snarl Fast",
-                "id": "SNARL_FAST"
-            },
-            {
-                "name": "Quick Attack Fast",
-                "id": "QUICK_ATTACK_FAST"
-            },
-            {
-                "name": "Fire Fang Fast",
-                "id": "FIRE_FANG_FAST"
+                "name": "Air Slash Fast",
+                "id": "AIR_SLASH_FAST"
             }
         ],
         "family": {
@@ -148368,30 +150076,18 @@
                 "id": "MOONBLAST"
             },
             {
-                "name": "Iron Head",
-                "id": "IRON_HEAD"
-            },
-            {
-                "name": "Crunch",
-                "id": "CRUNCH"
-            },
-            {
                 "name": "Close Combat",
                 "id": "CLOSE_COMBAT"
+            },
+            {
+                "name": "Giga Impact",
+                "id": "GIGA_IMPACT"
             }
         ],
         "quickMoves": [
             {
                 "name": "Metal Claw Fast",
                 "id": "METAL_CLAW_FAST"
-            },
-            {
-                "name": "Snarl Fast",
-                "id": "SNARL_FAST"
-            },
-            {
-                "name": "Quick Attack Fast",
-                "id": "QUICK_ATTACK_FAST"
             },
             {
                 "name": "Ice Fang Fast",
@@ -148792,24 +150488,7 @@
             }
         },
         "camera": {},
-        "evolution": {
-            "futureBranches": [
-                {
-                    "name": "Urshifu Single Strike",
-                    "id": "URSHIFU_SINGLE_STRIKE",
-                    "costToEvolve": {
-                        "candyCost": 200
-                    }
-                },
-                {
-                    "name": "Urshifu Rapid Strike",
-                    "id": "URSHIFU_RAPID_STRIKE",
-                    "costToEvolve": {
-                        "candyCost": 200
-                    }
-                }
-            ]
-        },
+        "evolution": {},
         "id": "KUBFU",
         "forms": []
     },
@@ -148984,15 +150663,7 @@
             }
         },
         "camera": {},
-        "evolution": {
-            "pastBranch": {
-                "name": "Kubfu",
-                "id": "KUBFU"
-            },
-            "costToEvolve": {
-                "candyCost": 200
-            }
-        },
+        "evolution": {},
         "id": "URSHIFU_RAPID_STRIKE",
         "forms": [
             {
@@ -149091,15 +150762,7 @@
             }
         },
         "camera": {},
-        "evolution": {
-            "pastBranch": {
-                "name": "Kubfu",
-                "id": "KUBFU"
-            },
-            "costToEvolve": {
-                "candyCost": 200
-            }
-        },
+        "evolution": {},
         "id": "URSHIFU_SINGLE_STRIKE",
         "forms": [
             {
@@ -151006,6 +152669,10 @@
             {
                 "name": "Shadow Ball",
                 "id": "SHADOW_BALL"
+            },
+            {
+                "name": "Torch Song",
+                "id": "TORCH_SONG"
             }
         ],
         "quickMoves": [
@@ -153496,8 +155163,8 @@
         },
         "cinematicMoves": [
             {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
+                "name": "Rock Blast",
+                "id": "ROCK_BLAST"
             },
             {
                 "name": "Rock Tomb",
@@ -153899,6 +155566,10 @@
             {
                 "name": "Water Gun Fast",
                 "id": "WATER_GUN_FAST"
+            },
+            {
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
             }
         ],
         "family": {
@@ -154633,6 +156304,10 @@
                 "id": "SEED_BOMB"
             },
             {
+                "name": "Wrap",
+                "id": "WRAP"
+            },
+            {
                 "name": "Acid Spray",
                 "id": "ACID_SPRAY"
             }
@@ -155148,6 +156823,10 @@
             {
                 "name": "Psychic",
                 "id": "PSYCHIC"
+            },
+            {
+                "name": "Dazzling Gleam",
+                "id": "DAZZLING_GLEAM"
             }
         ],
         "quickMoves": [
@@ -155199,6 +156878,7 @@
         "dex": 957,
         "name": "Tinkatink",
         "height": 0.4,
+        "modelHeight": 0.44,
         "kmBuddyDistance": 3,
         "weight": 8.9,
         "maxCP": 860,
@@ -155210,10 +156890,6 @@
             {
                 "name": "Play Rough",
                 "id": "PLAY_ROUGH"
-            },
-            {
-                "name": "Brutal Swing",
-                "id": "BRUTAL_SWING"
             },
             {
                 "name": "Flash Cannon",
@@ -155251,6 +156927,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 3,
+            "collisionRadius": 0.2,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
@@ -155275,6 +156953,7 @@
         "dex": 958,
         "name": "Tinkatuff",
         "height": 0.7,
+        "modelHeight": 0.7,
         "kmBuddyDistance": 3,
         "weight": 59.1,
         "maxCP": 1307,
@@ -155286,10 +156965,6 @@
             {
                 "name": "Play Rough",
                 "id": "PLAY_ROUGH"
-            },
-            {
-                "name": "Brutal Swing",
-                "id": "BRUTAL_SWING"
             },
             {
                 "name": "Flash Cannon",
@@ -155327,6 +157002,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 4,
+            "collisionRadius": 0.25,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
@@ -155351,6 +157028,7 @@
         "dex": 959,
         "name": "Tinkaton",
         "height": 0.7,
+        "modelHeight": 0.7,
         "kmBuddyDistance": 3,
         "weight": 112.8,
         "maxCP": 2250,
@@ -155364,12 +157042,12 @@
                 "id": "PLAY_ROUGH"
             },
             {
-                "name": "Brutal Swing",
-                "id": "BRUTAL_SWING"
-            },
-            {
                 "name": "Flash Cannon",
                 "id": "FLASH_CANNON"
+            },
+            {
+                "name": "Bulldoze",
+                "id": "BULLDOZE"
             },
             {
                 "name": "Heavy Slam",
@@ -155407,6 +157085,8 @@
         ],
         "encounter": {
             "attackProbability": 0.1,
+            "cameraDistance": 6.1,
+            "collisionRadius": 0.2,
             "dodgeProbability": 0.15,
             "jumpTime": 1,
             "maxPokemonActionFrequency": 1.6,
@@ -155591,6 +157271,10 @@
             {
                 "name": "Fly",
                 "id": "FLY"
+            },
+            {
+                "name": "Rock Tomb",
+                "id": "ROCK_TOMB"
             }
         ],
         "quickMoves": [
@@ -155601,6 +157285,10 @@
             {
                 "name": "Rock Throw Fast",
                 "id": "ROCK_THROW_FAST"
+            },
+            {
+                "name": "Sucker Punch Fast",
+                "id": "SUCKER_PUNCH_FAST"
             }
         ],
         "family": {
@@ -156298,8 +157986,8 @@
                 "id": "DAZZLING_GLEAM"
             },
             {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
             },
             {
                 "name": "Sludge Wave",
@@ -156374,8 +158062,8 @@
                 "id": "DAZZLING_GLEAM"
             },
             {
-                "name": "Rock Slide",
-                "id": "ROCK_SLIDE"
+                "name": "Power Gem",
+                "id": "POWER_GEM"
             },
             {
                 "name": "Sludge Wave",

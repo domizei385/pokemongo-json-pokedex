@@ -6155,7 +6155,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 1,
+        "power": 160,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -6175,7 +6175,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 1,
+        "power": 90,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -6183,7 +6183,7 @@
         "durationMs": 2000,
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2200,
-        "energyDelta": -100,
+        "energyDelta": -50,
         "id": "ICE_BURN",
         "pokemonType": {
             "id": "POKEMON_TYPE_ICE",
@@ -6191,5 +6191,85 @@
         },
         "name": "Ice Burn",
         "internalId": 467
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 100,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "torch_song",
+        "durationMs": 3500,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -50,
+        "id": "TORCH_SONG",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Torch Song",
+        "internalId": 468
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 1,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "behemoth_blade",
+        "durationMs": 3500,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 3500,
+        "energyDelta": -1,
+        "id": "BEHEMOTH_BLADE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
+        "name": "Behemoth Blade",
+        "internalId": 469
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 1,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "behemoth_bash",
+        "durationMs": 1500,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1400,
+        "energyDelta": -1,
+        "id": "BEHEMOTH_BASH",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
+        "name": "Behemoth Bash",
+        "internalId": 470
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 50,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "upper_hand",
+        "durationMs": 2000,
+        "damageWindowStartMs": 2300,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -33,
+        "id": "UPPER_HAND",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIGHTING",
+            "name": "Fighting"
+        },
+        "name": "Upper Hand",
+        "internalId": 471
     }
 ]

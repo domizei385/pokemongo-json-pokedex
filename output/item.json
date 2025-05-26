@@ -99,6 +99,30 @@
         }
     },
     {
+        "id": "EVENT_PASS_POINT_GO_TOUR_02",
+        "name": "Event Pass Point Go Tour 02",
+        "category": {
+            "name": "Event Pass Point",
+            "id": "EVENT_PASS_POINT"
+        },
+        "type": {
+            "name": "Event Pass Point",
+            "id": "EVENT_PASS_POINT"
+        }
+    },
+    {
+        "id": "EVENT_PASS_POINT_LIVE_OPS_02",
+        "name": "Event Pass Point Live Ops 02",
+        "category": {
+            "name": "Event Pass Point",
+            "id": "EVENT_PASS_POINT"
+        },
+        "type": {
+            "name": "Event Pass Point",
+            "id": "EVENT_PASS_POINT"
+        }
+    },
+    {
         "id": "EVENT_TICKET_02",
         "name": "Event Ticket 02",
         "category": {
@@ -391,6 +415,14 @@
         "name": "Expiration Item Event Pass Point Go Tour 01"
     },
     {
+        "id": "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_02",
+        "name": "Expiration Item Event Pass Point Go Tour 02"
+    },
+    {
+        "id": "EXPIRATION_ITEM_EVENT_PASS_POINT_LIVE_OPS_02",
+        "name": "Expiration Item Event Pass Point Live Ops 02"
+    },
+    {
         "id": "EXPIRATION_ITEM_LUCKY_FRIEND_APPLICATOR",
         "name": "Expiration Item Lucky Friend Applicator"
     },
@@ -672,7 +704,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 1,
+            "distanceMultiplier": 0.5,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -692,7 +724,7 @@
         },
         "dropTrainerLevel": 100,
         "eggIncubinator": {
-            "distanceMultiplier": 1,
+            "distanceMultiplier": 0.5,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -713,7 +745,7 @@
         "dropTrainerLevel": 1,
         "eggIncubinator": {
             "uses": 3,
-            "distanceMultiplier": 0.6666667,
+            "distanceMultiplier": 0.33333334,
             "type": {
                 "name": "Distance",
                 "id": "DISTANCE"
@@ -1012,6 +1044,32 @@
         "dropTrainerLevel": 10
     },
     {
+        "id": "OTHER_EVOLUTION_STONE_MAPLE_A",
+        "name": "Other Evolution Stone Maple A",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
+    },
+    {
+        "id": "OTHER_EVOLUTION_STONE_MAPLE_B",
+        "name": "Other Evolution Stone Maple B",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 10
+    },
+    {
         "id": "PAID_RAID_TICKET",
         "name": "Paid Raid Ticket",
         "category": {
@@ -1209,6 +1267,32 @@
             "id": "RAID_TICKET"
         },
         "dropTrainerLevel": 5
+    },
+    {
+        "id": "RESOURCE_CROWNED_ZACIAN",
+        "name": "Resource Crowned Zacian",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 1
+    },
+    {
+        "id": "RESOURCE_CROWNED_ZAMAZENTA",
+        "name": "Resource Crowned Zamazenta",
+        "category": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "type": {
+            "name": "Evolution Requirement",
+            "id": "EVOLUTION_REQUIREMENT"
+        },
+        "dropTrainerLevel": 1
     },
     {
         "id": "REVIVE",

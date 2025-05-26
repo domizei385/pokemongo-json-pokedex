@@ -12,6 +12,8 @@
         "description": "又硬又堅固的鱗片，可讓特定寶可夢進化。"
     },
     "EVENT_PASS_POINT_GO_TOUR_01": {},
+    "EVENT_PASS_POINT_GO_TOUR_02": {},
+    "EVENT_PASS_POINT_LIVE_OPS_02": {},
     "EVENT_TICKET_02": {},
     "EVENT_TICKET_02_TO_GIFT": {},
     "EVENT_TICKET_03": {},
@@ -37,6 +39,8 @@
     "EVERGREEN_TICKET": {},
     "EVERGREEN_TICKET_TO_GIFT": {},
     "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_01": {},
+    "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_02": {},
+    "EXPIRATION_ITEM_EVENT_PASS_POINT_LIVE_OPS_02": {},
     "EXPIRATION_ITEM_LUCKY_FRIEND_APPLICATOR": {},
     "EXPIRATION_ITEM_WILD_BALL": {},
     "EXPIRATION_ITEM_WILD_BALL_PREMIER": {},
@@ -120,6 +124,8 @@
         "description": "寶可夢吃下這種樹果後，會冷靜下來。"
     },
     "OTHER_EVOLUTION_STONE_A": {},
+    "OTHER_EVOLUTION_STONE_MAPLE_A": {},
+    "OTHER_EVOLUTION_STONE_MAPLE_B": {},
     "PAID_RAID_TICKET": {},
     "PINAP_BERRY": {
         "name": "凰梨果",
@@ -144,6 +150,8 @@
         "description": "寶可夢吃下這種樹果後，會變得比較容易捕捉。"
     },
     "REMOTE_RAID_TICKET": {},
+    "RESOURCE_CROWNED_ZACIAN": {},
+    "RESOURCE_CROWNED_ZAMAZENTA": {},
     "REVIVE": {
         "name": "活力碎片",
         "description": "讓瀕死的寶可夢重獲生機，並回復一半HP。"

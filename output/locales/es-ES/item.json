@@ -12,6 +12,8 @@
         "description": "Escama que hace evolucionar a determinadas especies de Pokémon. Es gruesa y resistente."
     },
     "EVENT_PASS_POINT_GO_TOUR_01": {},
+    "EVENT_PASS_POINT_GO_TOUR_02": {},
+    "EVENT_PASS_POINT_LIVE_OPS_02": {},
     "EVENT_TICKET_02": {},
     "EVENT_TICKET_02_TO_GIFT": {},
     "EVENT_TICKET_03": {},
@@ -37,6 +39,8 @@
     "EVERGREEN_TICKET": {},
     "EVERGREEN_TICKET_TO_GIFT": {},
     "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_01": {},
+    "EXPIRATION_ITEM_EVENT_PASS_POINT_GO_TOUR_02": {},
+    "EXPIRATION_ITEM_EVENT_PASS_POINT_LIVE_OPS_02": {},
     "EXPIRATION_ITEM_LUCKY_FRIEND_APPLICATOR": {},
     "EXPIRATION_ITEM_WILD_BALL": {},
     "EXPIRATION_ITEM_WILD_BALL_PREMIER": {},
@@ -120,6 +124,8 @@
         "description": "Al usarla con un Pokémon, este se calma, haciéndose menos errático."
     },
     "OTHER_EVOLUTION_STONE_A": {},
+    "OTHER_EVOLUTION_STONE_MAPLE_A": {},
+    "OTHER_EVOLUTION_STONE_MAPLE_B": {},
     "PAID_RAID_TICKET": {},
     "PINAP_BERRY": {
         "name": "Baya Pinia",
@@ -144,6 +150,8 @@
         "description": "Al usarla con un Pokémon, se captura con más facilidad en tu próximo lanzamiento."
     },
     "REMOTE_RAID_TICKET": {},
+    "RESOURCE_CROWNED_ZACIAN": {},
+    "RESOURCE_CROWNED_ZAMAZENTA": {},
     "REVIVE": {
         "name": "Revivir",
         "description": "Medicina que revive a un Pokémon debilitado y le devuelve la mitad de sus PS."
