@@ -6215,7 +6215,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 1,
+        "power": 200,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -6223,7 +6223,7 @@
         "durationMs": 3500,
         "damageWindowStartMs": 2500,
         "damageWindowEndMs": 3500,
-        "energyDelta": -1,
+        "energyDelta": -100,
         "id": "BEHEMOTH_BLADE",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
@@ -6235,7 +6235,7 @@
     {
         "accuracyChance": 1,
         "animationId": 5,
-        "power": 1,
+        "power": 125,
         "staminaLossScalar": 0.01,
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
@@ -6243,7 +6243,7 @@
         "durationMs": 1500,
         "damageWindowStartMs": 900,
         "damageWindowEndMs": 1400,
-        "energyDelta": -1,
+        "energyDelta": -50,
         "id": "BEHEMOTH_BASH",
         "pokemonType": {
             "id": "POKEMON_TYPE_STEEL",
@@ -6271,5 +6271,125 @@
         },
         "name": "Upper Hand",
         "internalId": 471
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 220,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "thunder_cage",
+        "durationMs": 3300,
+        "damageWindowStartMs": 1880,
+        "damageWindowEndMs": 3200,
+        "energyDelta": -100,
+        "id": "THUNDER_CAGE",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ELECTRIC",
+            "name": "Electric"
+        },
+        "name": "Thunder Cage",
+        "internalId": 472
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 215,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "dynamax_cannon",
+        "durationMs": 1500,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1400,
+        "energyDelta": -100,
+        "id": 482,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "name": "Dynamax Cannon",
+        "internalId": 482
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 120,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "clanging_scales",
+        "durationMs": 3300,
+        "damageWindowStartMs": 1880,
+        "damageWindowEndMs": 3200,
+        "energyDelta": -100,
+        "id": "CLANGING_SCALES",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "name": "Clanging Scales",
+        "internalId": 484
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 210,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "crush_grip",
+        "durationMs": 1800,
+        "damageWindowStartMs": 700,
+        "damageWindowEndMs": 1700,
+        "energyDelta": -100,
+        "id": "CRUSH_GRIP",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Crush Grip",
+        "internalId": 485
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 155,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "dragon_energy",
+        "durationMs": 3300,
+        "damageWindowStartMs": 1880,
+        "damageWindowEndMs": 3200,
+        "energyDelta": -50,
+        "id": "DRAGON_ENERGY",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "name": "Dragon Energy",
+        "internalId": 486
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 55,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "aqua_step",
+        "durationMs": 3500,
+        "damageWindowStartMs": 2050,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -33,
+        "id": 487,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Aqua Step",
+        "internalId": 487
     }
 ]
