@@ -8,9 +8,11 @@ import { Util } from '@util';
 })
 export class Family implements IComponent {
   Process(pokemon: Pokemon, rawPokemon: Data): Pokemon {
+    const familyId = "" + rawPokemon.pokemonSettings.familyId;
+    //console.log("familyId: " + familyId);
     pokemon.family = {
-      id: rawPokemon.pokemonSettings.familyId,
-      name: Util.SnakeCase2HumanReadable(rawPokemon.pokemonSettings.familyId.replace('FAMILY_', ''))
+      id: familyId,
+      name: Util.SnakeCase2HumanReadable(familyId.replace('FAMILY_', ''))
     };
     return pokemon;
   }
