@@ -6391,5 +6391,45 @@
         },
         "name": "Aqua Step",
         "internalId": 487
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 65,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "chilling_water",
+        "durationMs": 3500,
+        "damageWindowStartMs": 2050,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -33,
+        "id": 488,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Chilling Water",
+        "internalId": 488
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 120,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "secret_sword",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1200,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -50,
+        "id": 489,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIGHTING",
+            "name": "Fighting"
+        },
+        "name": "Secret Sword",
+        "internalId": 489
     }
 ]
