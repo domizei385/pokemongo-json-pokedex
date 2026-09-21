@@ -6020,10 +6020,10 @@
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
         "vfxName": "aura_wheel_electric",
-        "durationMs": 2700,
+        "durationMs": 2500,
         "damageWindowStartMs": 2100,
         "damageWindowEndMs": 2500,
-        "energyDelta": -45,
+        "energyDelta": -50,
         "id": 406,
         "pokemonType": {
             "id": "POKEMON_TYPE_ELECTRIC",
@@ -6040,10 +6040,10 @@
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
         "vfxName": "aura_wheel_electric",
-        "durationMs": 2700,
+        "durationMs": 2500,
         "damageWindowStartMs": 2100,
         "damageWindowEndMs": 2500,
-        "energyDelta": -45,
+        "energyDelta": -50,
         "id": 407,
         "pokemonType": {
             "id": "POKEMON_TYPE_DARK",
@@ -6140,7 +6140,7 @@
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
         "vfxName": "flower_trick",
-        "durationMs": 2700,
+        "durationMs": 3000,
         "damageWindowStartMs": 1800,
         "damageWindowEndMs": 2700,
         "energyDelta": -33,
@@ -6280,7 +6280,7 @@
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
         "vfxName": "thunder_cage",
-        "durationMs": 3300,
+        "durationMs": 3500,
         "damageWindowStartMs": 1880,
         "damageWindowEndMs": 3200,
         "energyDelta": -100,
@@ -6320,7 +6320,7 @@
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
         "vfxName": "clanging_scales",
-        "durationMs": 3300,
+        "durationMs": 3500,
         "damageWindowStartMs": 1880,
         "damageWindowEndMs": 3200,
         "energyDelta": -100,
@@ -6340,7 +6340,7 @@
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
         "vfxName": "crush_grip",
-        "durationMs": 1800,
+        "durationMs": 2000,
         "damageWindowStartMs": 700,
         "damageWindowEndMs": 1700,
         "energyDelta": -100,
@@ -6360,7 +6360,7 @@
         "trainerLevelMin": 1,
         "trainerLevelMax": 100,
         "vfxName": "dragon_energy",
-        "durationMs": 3300,
+        "durationMs": 3500,
         "damageWindowStartMs": 1880,
         "damageWindowEndMs": 3200,
         "energyDelta": -50,
@@ -6384,7 +6384,7 @@
         "damageWindowStartMs": 2050,
         "damageWindowEndMs": 3100,
         "energyDelta": -33,
-        "id": 487,
+        "id": "AQUA_STEP",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -6404,7 +6404,7 @@
         "damageWindowStartMs": 2050,
         "damageWindowEndMs": 3100,
         "energyDelta": -33,
-        "id": 488,
+        "id": "CHILLING_WATER",
         "pokemonType": {
             "id": "POKEMON_TYPE_WATER",
             "name": "Water"
@@ -6424,12 +6424,213 @@
         "damageWindowStartMs": 1200,
         "damageWindowEndMs": 1600,
         "energyDelta": -50,
-        "id": 489,
+        "id": "SECRET_SWORD",
         "pokemonType": {
             "id": "POKEMON_TYPE_FIGHTING",
             "name": "Fighting"
         },
         "name": "Secret Sword",
         "internalId": 489
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 125,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "beak_blast",
+        "durationMs": 2500,
+        "damageWindowStartMs": 1500,
+        "damageWindowEndMs": 2500,
+        "energyDelta": -50,
+        "id": "BEAK_BLAST",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FLYING",
+            "name": "Flying"
+        },
+        "name": "Beak Blast",
+        "internalId": 490
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 130,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "mind_blown",
+        "durationMs": 4000,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 4000,
+        "energyDelta": -33,
+        "id": "MIND_BLOWN",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Mind Blown",
+        "internalId": 491
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 115,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "drum_beating",
+        "durationMs": 4500,
+        "damageWindowStartMs": 3000,
+        "damageWindowEndMs": 4000,
+        "energyDelta": -33,
+        "id": "DRUM_BEATING",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_GRASS",
+            "name": "Grass"
+        },
+        "name": "Drum Beating",
+        "internalId": 492
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 150,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "pyroball",
+        "durationMs": 2000,
+        "damageWindowStartMs": 900,
+        "damageWindowEndMs": 1600,
+        "energyDelta": -100,
+        "id": "PYROBALL",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_FIRE",
+            "name": "Fire"
+        },
+        "name": "Pyroball",
+        "internalId": 493
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 300,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "gigaton_hammer",
+        "durationMs": 3000,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 3100,
+        "energyDelta": -100,
+        "id": "GIGATON_HAMMER",
+        "pokemonType": {
+            "id": "POKEMON_TYPE_STEEL",
+            "name": "Steel"
+        },
+        "name": "Gigaton Hammer",
+        "internalId": 494
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 135,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "plasma_fists",
+        "durationMs": 3500,
+        "damageWindowStartMs": 2500,
+        "damageWindowEndMs": 3000,
+        "energyDelta": -50,
+        "id": 497,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_ELECTRIC",
+            "name": "Electric"
+        },
+        "name": "Plasma Fists",
+        "internalId": 497
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 105,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "glaive_rush",
+        "durationMs": 2000,
+        "damageWindowStartMs": 1700,
+        "damageWindowEndMs": 1900,
+        "energyDelta": -50,
+        "id": 590,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_DRAGON",
+            "name": "Dragon"
+        },
+        "name": "Glaive Rush",
+        "internalId": 590
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 100,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMin": 1,
+        "trainerLevelMax": 100,
+        "vfxName": "snipe_shot",
+        "durationMs": 3500,
+        "damageWindowStartMs": 2000,
+        "damageWindowEndMs": 2900,
+        "energyDelta": -33,
+        "id": 592,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Snipe Shot",
+        "internalId": 592
+    },
+    {
+        "accuracyChance": 1,
+        "animationId": 5,
+        "power": 70,
+        "staminaLossScalar": 0.01,
+        "trainerLevelMax": 100,
+        "vfxName": "dive",
+        "durationMs": 3300,
+        "energyDelta": -33,
+        "id": 593,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_WATER",
+            "name": "Water"
+        },
+        "name": "Dive",
+        "internalId": 593
+    },
+    {
+        "animationId": 5,
+        "vfxName": "gulp_missile_gulping",
+        "durationMs": 2500,
+        "id": 594,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Gulp Missile Gulping",
+        "internalId": 594
+    },
+    {
+        "animationId": 5,
+        "vfxName": "gulp_missile_gorging",
+        "durationMs": 2500,
+        "id": 595,
+        "pokemonType": {
+            "id": "POKEMON_TYPE_NORMAL",
+            "name": "Normal"
+        },
+        "name": "Gulp Missile Gorging",
+        "internalId": 595
     }
 ]
